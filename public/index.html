@@ -66,13 +66,17 @@
           <option value="">All topics</option>
         </select>
       </div>
+      <label class="toggle">
+        <input id="show-topics" type="checkbox" checked>
+        Show topics
+      </label>
       <button id="reset" type="button" class="reset" title="Clear every filter and show all challenges" hidden>Reset</button>
     </form>
 
     <p id="error" class="notice error" role="alert" hidden></p>
 
     <div class="table-wrap">
-      <table>
+      <table id="table">
         <thead>
           <tr>
             <th scope="col">Date</th>
@@ -81,7 +85,7 @@
             <th scope="col">Title</th>
             <th scope="col">Difficulty</th>
             <th scope="col">Access</th>
-            <th scope="col">Topics</th>
+            <th scope="col" class="topics">Topics</th>
           </tr>
         </thead>
         <tbody id="rows"></tbody>

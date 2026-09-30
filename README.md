@@ -5,7 +5,7 @@ An archive of LeetCode's Daily Coding Challenge (Problem of the Day) from April 
 - Browse by month on GitHub: [archive/README.md](archive/README.md)
 - Search and filter on the site: <https://jollysleeper.github.io/leetcode-potd-archive/>
 
-The site is static. It loads one file, `public/challenges.json`, and filters it in the browser. It opens on the latest month; Reset shows every challenge, and the filters are kept in the URL so a view can be shared.
+The site is static. It loads one file, `public/challenges.json`, and filters it in the browser. It opens on the latest month; Reset shows every challenge, and the filters are kept in the URL so a view can be shared. "Show topics" hides the Topics column; the browser remembers that choice, and it stays out of the URL.
 
 ## How the data is organized
 

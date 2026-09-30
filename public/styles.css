@@ -117,6 +117,23 @@ button {
   cursor: pointer;
 }
 
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.35rem;
+  font-size: 0.95rem;
+  color: var(--fg);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.toggle input {
+  margin: 0;
+  padding: 0;
+  accent-color: var(--accent);
+}
+
 input:focus-visible,
 select:focus-visible,
 button:focus-visible,
@@ -179,6 +196,10 @@ td.topics {
   white-space: normal;
   color: var(--muted);
   font-size: 0.85rem;
+}
+
+table.hide-topics .topics {
+  display: none;
 }
 
 td.easy {

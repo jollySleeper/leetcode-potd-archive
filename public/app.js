@@ -15,6 +15,7 @@
   // A bare URL opens on the latest month, so the unfiltered view needs a query string of its own.
   // readQuery ignores "all" like any other unknown year, which leaves Year at "All years".
   const SHOW_ALL_QUERY = "year=all";
+  const SHOW_TOPICS_KEY = "showTopics";
   const numbers = new Intl.NumberFormat("en-US");
 
   const els = {
@@ -22,6 +23,7 @@
     counts: document.getElementById("counts"),
     hint: document.getElementById("hint"),
     error: document.getElementById("error"),
+    table: document.getElementById("table"),
     rows: document.getElementById("rows"),
     form: document.getElementById("filters"),
     search: document.getElementById("search"),
@@ -31,6 +33,7 @@
     difficulty: document.getElementById("difficulty"),
     topic: document.getElementById("topic"),
     reset: document.getElementById("reset"),
+    showTopics: document.getElementById("show-topics"),
   };
   const selectsByParam = {
     year: els.year, month: els.month, type: els.type, difficulty: els.difficulty, topic: els.topic,
@@ -268,6 +271,24 @@
     change();
   }
 
+  function applyTopicsVisibility() {
+    els.table.classList.toggle("hide-topics", !els.showTopics.checked);
+  }
+
+  // Storage throws when the browser blocks it; the choice then lasts only for this page view.
+  function setUpTopicsToggle() {
+    try {
+      els.showTopics.checked = localStorage.getItem(SHOW_TOPICS_KEY) !== "false";
+    } catch {}
+    applyTopicsVisibility();
+    els.showTopics.addEventListener("change", () => {
+      applyTopicsVisibility();
+      try {
+        localStorage.setItem(SHOW_TOPICS_KEY, String(els.showTopics.checked));
+      } catch {}
+    });
+  }
+
   function bindControls() {
     els.form.addEventListener("submit", (event) => event.preventDefault());
     els.search.addEventListener("input", change);
@@ -301,6 +322,7 @@
   }
 
   async function load() {
+    setUpTopicsToggle();
     let data;
     try {
       const response = await fetch(DATA_URL);
