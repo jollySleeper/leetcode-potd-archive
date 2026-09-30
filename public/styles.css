@@ -166,6 +166,7 @@ td.title {
 }
 
 td.topics {
+  width: 30%;
   min-width: 14rem;
   white-space: normal;
   color: var(--muted);
@@ -202,5 +203,9 @@ td.empty {
 
   td.title {
     min-width: 12rem;
+  }
+
+  td.topics {
+    width: 14rem;
   }
 }
