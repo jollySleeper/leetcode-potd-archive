@@ -100,6 +100,11 @@ CHALLENGE_TABLE_HEAD = (
     "| Date | # | Title | Difficulty | Premium |",
     "| :--- | ---: | :--- | :--- | :---: |",
 )
+INDEX_INTRO = (
+    "Each month page lists that month’s daily challenges and any weekly challenges "
+    "whose date falls in that month."
+)
+MONTH_PAGE_NAME_RE = re.compile(r"(\d{4})-(\d{2})\.md", re.ASCII)
 
 
 class ArchiveError(Exception):
@@ -634,6 +639,35 @@ def render_month_page(month: tuple[int, int], rows: list[dict], months: list[tup
     return ("\n".join(lines) + "\n").encode("utf-8")
 
 
+def render_index(months: list[tuple[int, int]], grouped: dict[tuple[int, int], list[dict]]) -> bytes:
+    """archive/README.md: years newest first, months January to December."""
+    lines = [GENERATED_HEADER, "", "# Problem of the Day archive", "", INDEX_INTRO]
+    for year in sorted({y for y, _ in months}, reverse=True):
+        lines += ["", f"## {year}", "", "| Month | Daily | Weekly |", "| :--- | ---: | ---: |"]
+        for month in sorted(m for m in months if m[0] == year):
+            rows = grouped.get(month, [])
+            daily = sum(1 for row in rows if row["type"] == "daily")
+            weekly = len(rows) - daily
+            link = f"{year:04d}/{month_key(*month)}.md"
+            lines.append(f"| [{month_label(*month)}]({link}) | {daily} | {weekly} |")
+    return ("\n".join(lines) + "\n").encode("utf-8")
+
+
+def stale_month_pages(root: Path, months: list[tuple[int, int]]) -> list[Path]:
+    """Generated archive/YYYY/YYYY-MM.md pages whose month has no snapshot."""
+    stale = []
+    for path in sorted((root / ARCHIVE_DIR).glob("*/*.md")):
+        match = MONTH_PAGE_NAME_RE.fullmatch(path.name)
+        if not match or path.parent.name != match.group(1):
+            continue
+        if (int(match.group(1)), int(match.group(2))) in months:
+            continue
+        with path.open("rb") as handle:
+            if handle.read(len(GENERATED_HEADER.encode("utf-8"))) == GENERATED_HEADER.encode("utf-8"):
+                stale.append(path)
+    return stale
+
+
 # ---------------------------------------------------------------------------
 # Build
 # ---------------------------------------------------------------------------
@@ -657,4 +691,9 @@ def build(root: Path) -> dict[str, list[str]]:
     grouped = rows_by_month(rows)
     for month in months:
         emit(month_page_path(*month), render_month_page(month, grouped.get(month, []), months))
-    return {"written": written, "removed": []}
+    emit(INDEX_PATH, render_index(months, grouped))
+    removed = []
+    for path in stale_month_pages(root, months):
+        path.unlink()
+        removed.append(relative(root, path))
+    return {"written": written, "removed": removed}
