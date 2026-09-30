@@ -378,7 +378,7 @@ class SpilloverTests(ArchiveTestCase):
 
     def test_site_json_holds_spilled_weekly_once(self):
         up.build(self.root)
-        site = read_json(self.root / "docs" / "challenges.json")
+        site = read_json(self.root / "public" / "challenges.json")
         matches = [r for r in site["challenges"] if r["slug"] == "confusing-number-ii"]
         self.assertEqual(len(matches), 1)
         self.assertEqual(matches[0]["date"], "2026-06-05")
@@ -419,7 +419,7 @@ class HoldBackTests(ArchiveTestCase):
 
     def test_site_json_excludes_held_back_weekly(self):
         up.build(self.root)
-        site = read_json(self.root / "docs" / "challenges.json")
+        site = read_json(self.root / "public" / "challenges.json")
         self.assertEqual(site["to"], "2026-08-31")
         self.assertNotIn("counting-elements", [r["slug"] for r in site["challenges"]])
         self.assertNotIn("2026-09-05", [r["date"] for r in site["challenges"]])
@@ -440,7 +440,7 @@ class HoldBackTests(ArchiveTestCase):
         self.assertEqual(len(september), 6)
         self.assertEqual([r["date"] for r in september].count("2026-09-05"), 1)
         up.build(self.root)
-        site = read_json(self.root / "docs" / "challenges.json")
+        site = read_json(self.root / "public" / "challenges.json")
         self.assertEqual([r["date"] for r in weekly_rows(site["challenges"])].count("2026-09-05"), 1)
 
 
@@ -456,7 +456,7 @@ class SiteJsonTests(ArchiveTestCase):
             (2020, 8): [api_item("2020-08-01", "5", slug="weekly-five", paid=True),
                         api_item("2020-08-08", "10", slug="weekly-ten", paid=False)],
         })
-        self.site_path = self.root / "docs" / "challenges.json"
+        self.site_path = self.root / "public" / "challenges.json"
 
     def test_shape_and_counts(self):
         up.build(self.root)
@@ -484,7 +484,7 @@ class SiteJsonTests(ArchiveTestCase):
 
     def test_site_json_is_byte_stable(self):
         first = up.build(self.root)
-        self.assertIn("docs/challenges.json", first["written"])
+        self.assertIn("public/challenges.json", first["written"])
         data = self.site_path.read_bytes()
         mtime = self.site_path.stat().st_mtime_ns
         second = up.build(self.root)
@@ -668,7 +668,7 @@ class StableOutputAndPruneTests(ArchiveTestCase):
             api_item("2020-09-05", "77", slug="spilled", paid=True)]})
 
     def generated(self) -> dict[str, bytes]:
-        paths = [self.root / "docs" / "challenges.json", *sorted((self.root / "archive").rglob("*"))]
+        paths = [self.root / "public" / "challenges.json", *sorted((self.root / "archive").rglob("*"))]
         return {p.relative_to(self.root).as_posix(): p.read_bytes() for p in paths if p.is_file()}
 
     def test_second_build_writes_nothing(self):
@@ -688,7 +688,7 @@ class StableOutputAndPruneTests(ArchiveTestCase):
         write_archive(self.root, (2020, 10), start=(2020, 10))
         result = up.build(self.root)
         self.assertEqual(sorted(result["written"]), [
-            "archive/2020/2020-09.md", "archive/2020/2020-10.md", "archive/README.md", "docs/challenges.json",
+            "archive/2020/2020-09.md", "archive/2020/2020-10.md", "archive/README.md", "public/challenges.json",
         ])
         self.assertEqual((self.root / "archive/2020/2020-08.md").read_text(encoding="utf-8"), august_before)
         september_after = (self.root / "archive/2020/2020-09.md").read_text(encoding="utf-8")
@@ -719,9 +719,9 @@ class StableOutputAndPruneTests(ArchiveTestCase):
     def test_build_leaves_hand_written_files_alone(self):
         hand_written = {
             "README.md": b"# Hand-written\n",
-            "docs/index.html": b"<!doctype html>\n",
-            "docs/styles.css": b"body {}\n",
-            "docs/app.js": b"// app\n",
+            "public/index.html": b"<!doctype html>\n",
+            "public/styles.css": b"body {}\n",
+            "public/app.js": b"// app\n",
         }
         for name, data in hand_written.items():
             (self.root / name).parent.mkdir(parents=True, exist_ok=True)
@@ -847,7 +847,7 @@ class BackfillTests(CommandTestCase):
         self.assertFalse(self.snap(2026, 9).exists())
         self.assertFalse((self.root / "archive/2026/2026-09.md").exists())
         self.assertTrue((self.root / "archive/2026/2026-08.md").is_file())
-        self.assertEqual(read_json(self.root / "docs/challenges.json")["to"], "2026-08-31")
+        self.assertEqual(read_json(self.root / "public/challenges.json")["to"], "2026-08-31")
         self.assertIn("2026-09: partial", out)
 
     def test_unavailable_current_month_stops_quietly(self):

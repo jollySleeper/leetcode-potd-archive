@@ -3,7 +3,7 @@
 
 Canonical data lives in archive/YYYY/YYYY-MM.json. The build step turns those
 snapshots into monthly Markdown pages, archive/README.md, and
-docs/challenges.json for the static site.
+public/challenges.json for the static site.
 """
 
 from __future__ import annotations
@@ -24,7 +24,7 @@ FIRST_MONTH = (2020, 4)
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE_DIR = Path("archive")
 INDEX_PATH = ARCHIVE_DIR / "README.md"
-SITE_JSON_PATH = Path("docs") / "challenges.json"
+SITE_JSON_PATH = Path("public") / "challenges.json"
 
 MONTH_NAMES = (
     "January",
@@ -789,7 +789,7 @@ def main(argv=None, *, now: datetime | None = None, root: Path | None = None,
     fetch = commands.add_parser("fetch", help="re-fetch one month")
     fetch.add_argument("--year", required=True, help="four-digit year")
     fetch.add_argument("--month", required=True, help="month number, 1-12")
-    commands.add_parser("build", help="regenerate Markdown and docs/challenges.json without the network")
+    commands.add_parser("build", help="regenerate Markdown and public/challenges.json without the network")
     args = parser.parse_args(argv)
 
     now = now or datetime.now(timezone.utc)

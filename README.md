@@ -5,7 +5,7 @@ An archive of LeetCode's Daily Coding Challenge (Problem of the Day) from April 
 - Browse by month on GitHub: [archive/README.md](archive/README.md)
 - Search and filter on the site: <https://jollysleeper.github.io/leetcode-potd-archive/>
 
-The site is static. It loads one file, `docs/challenges.json`, and filters it in the browser.
+The site is static. It loads one file, `public/challenges.json`, and filters it in the browser.
 
 ## How the data is organized
 
@@ -15,7 +15,7 @@ The site is static. It loads one file, `docs/challenges.json`, and filters it in
 
 - `archive/YYYY/YYYY-MM.md`, one calendar page per month
 - `archive/README.md`, the month index
-- `docs/challenges.json`, the single file the site fetches
+- `public/challenges.json`, the single file the site fetches
 
 Do not edit the generated files by hand. Change a snapshot (normally by re-fetching it) and run `build`.
 
@@ -27,7 +27,7 @@ Python 3.11 or newer is enough. There are no packages to install.
 python3 scripts/update_potd.py backfill                       # every month from 2020-04 through the current UTC month
 python3 scripts/update_potd.py previous-month                 # the month before the current UTC month
 python3 scripts/update_potd.py fetch --year 2026 --month 9    # re-fetch one month
-python3 scripts/update_potd.py build                          # regenerate Markdown and docs/challenges.json, no network
+python3 scripts/update_potd.py build                          # regenerate Markdown and public/challenges.json, no network
 ```
 
 Every fetch runs `build` afterwards. A month is saved only when LeetCode returns every day of it.
@@ -38,10 +38,10 @@ Run the tests (they never touch the network):
 python3 -m unittest discover -s scripts -p "test_*.py" -v
 ```
 
-To preview the site, serve `docs/` and open <http://localhost:8000/>:
+To preview the site, serve `public/` and open <http://localhost:8000/>:
 
 ```text
-python3 -m http.server --directory docs
+python3 -m http.server --directory public
 ```
 
 ## Automatic updates

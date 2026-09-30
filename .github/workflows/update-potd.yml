@@ -62,7 +62,7 @@ jobs:
       - name: Commit and push
         id: commit
         run: |
-          git add archive docs/challenges.json
+          git add archive public/challenges.json
           if git diff --cached --quiet; then
             echo "No archive changes."
             echo "changed=false" >> "$GITHUB_OUTPUT"
