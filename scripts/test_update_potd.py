@@ -51,6 +51,26 @@ def api_payload(year: int, month: int, days=None, weeklies=None) -> dict:
     }
 
 
+def own_weeklies(year: int, month: int) -> list[dict]:
+    """Weekly items on days 1, 8, 15, 22, 29 that exist in the month."""
+    return [
+        api_item(f"{year:04d}-{month:02d}-{d:02d}", f"9{year}{month:02d}{d:02d}",
+                 slug=f"weekly-{year}-{month:02d}-{d:02d}", paid=True)
+        for d in (1, 8, 15, 22, 29)
+        if d <= up.days_in_month(year, month)
+    ]
+
+
+def confusing_number_ii(day: str = "2026-06-05") -> dict:
+    return api_item(day, "1088", title="Confusing Number II", slug="confusing-number-ii",
+                    difficulty="Hard", paid=True)
+
+
+def counting_elements(day: str = "2026-09-05") -> dict:
+    return api_item(day, "1426", title="Counting Elements", slug="counting-elements",
+                    difficulty="Easy", paid=True)
+
+
 def write_archive(root: Path, through: tuple[int, int], weeklies=None, start=up.FIRST_MONTH) -> None:
     """Save complete snapshots from `start` through `through`.
 
@@ -318,6 +338,102 @@ class SnapshotLoadingTests(ArchiveTestCase):
         write_json(self.snap(2020, 3), up.normalize_response(api_payload(2020, 3), 2020, 3))
         with self.assertRaisesRegex(up.ArchiveError, "2020-03"):
             up.load_snapshots(self.root)
+
+
+def weekly_rows(rows, prefix=""):
+    return [r for r in rows if r["type"] == "weekly" and r["date"].startswith(prefix)]
+
+
+class SpilloverTests(ArchiveTestCase):
+    def setUp(self):
+        super().setUp()
+        write_archive(self.root, (2026, 6), weeklies={
+            (2026, 5): own_weeklies(2026, 5) + [confusing_number_ii()],
+            (2026, 6): own_weeklies(2026, 6),
+        })
+
+    def test_spilled_weekly_is_grouped_by_its_own_date(self):
+        rows = up.merge_snapshots(up.load_snapshots(self.root))
+        june = weekly_rows(rows, "2026-06")
+        self.assertEqual(len(june), 6)
+        self.assertEqual([r["slug"] for r in june].count("confusing-number-ii"), 1)
+        self.assertEqual(len(weekly_rows(rows, "2026-05")), 5)
+        self.assertEqual([r["date"] for r in june][:2], ["2026-06-01", "2026-06-05"])
+
+
+class HoldBackTests(ArchiveTestCase):
+    def setUp(self):
+        super().setUp()
+        self.weeklies = {
+            (2026, 8): own_weeklies(2026, 8) + [counting_elements()],
+            (2026, 9): own_weeklies(2026, 9),
+        }
+        write_archive(self.root, (2026, 8), weeklies=self.weeklies)
+
+    def test_weekly_after_latest_snapshot_is_held_back(self):
+        rows = up.merge_snapshots(up.load_snapshots(self.root))
+        self.assertEqual(weekly_rows(rows, "2026-09"), [])
+        self.assertTrue(all(r["date"] <= "2026-08-31" for r in rows))
+
+    def test_held_back_weekly_appears_once_september_is_saved(self):
+        write_archive(self.root, (2026, 9), weeklies=self.weeklies, start=(2026, 9))
+        rows = up.merge_snapshots(up.load_snapshots(self.root))
+        september = weekly_rows(rows, "2026-09")
+        self.assertEqual(len(september), 6)
+        self.assertEqual([r["date"] for r in september].count("2026-09-05"), 1)
+
+
+class ConflictTests(ArchiveTestCase):
+    def merge(self):
+        return up.merge_snapshots(up.load_snapshots(self.root))
+
+    def test_same_weekly_with_two_titles_fails_naming_both_files(self):
+        renamed = confusing_number_ii("2026-06-08")
+        renamed["question"]["title"] = "Confusing Number 2"
+        write_archive(self.root, (2026, 6), weeklies={
+            (2026, 5): [confusing_number_ii("2026-06-08")],
+            (2026, 6): [renamed],
+        })
+        with self.assertRaises(up.ArchiveError) as ctx:
+            self.merge()
+        self.assertIn("archive/2026/2026-05.json", str(ctx.exception))
+        self.assertIn("archive/2026/2026-06.json", str(ctx.exception))
+
+    def test_identical_weekly_in_two_snapshots_is_kept_once(self):
+        write_archive(self.root, (2026, 6), weeklies={
+            (2026, 5): [confusing_number_ii("2026-06-08")],
+            (2026, 6): [confusing_number_ii("2026-06-08")],
+        })
+        self.assertEqual(len(weekly_rows(self.merge(), "2026-06-08")), 1)
+
+    def test_two_slugs_on_one_weekly_date_fail(self):
+        write_archive(self.root, (2026, 6), weeklies={
+            (2026, 5): [confusing_number_ii("2026-06-08")],
+            (2026, 6): [counting_elements("2026-06-08")],
+        })
+        with self.assertRaisesRegex(up.ArchiveError, "two weeklies on 2026-06-08"):
+            self.merge()
+
+    def test_two_dailies_on_one_date_fail(self):
+        write_archive(self.root, (2020, 5))
+        snapshots = up.load_snapshots(self.root)
+        name, data = snapshots[(2020, 5)]
+        data["challenges"].append(dict(data["challenges"][0], id="1", slug="another"))
+        with self.assertRaisesRegex(up.ArchiveError, "two dailies on 2020-05-01"):
+            up.merge_snapshots(snapshots)
+
+    def test_duplicate_daily_in_stored_snapshot_fails_the_build(self):
+        write_archive(self.root, (2020, 5))
+        data = read_json(self.snap(2020, 5))
+        data["challenges"][1]["date"] = data["challenges"][0]["date"]
+        write_json(self.snap(2020, 5), data)
+        with self.assertRaisesRegex(up.ArchiveError, "invalid"):
+            self.merge()
+
+    def test_weekly_before_first_snapshot_month_fails(self):
+        write_archive(self.root, (2020, 5), weeklies={(2020, 4): [confusing_number_ii("2020-03-29")]})
+        with self.assertRaisesRegex(up.ArchiveError, "before the first snapshot month"):
+            self.merge()
 
 
 class FakeTransport:

@@ -446,3 +446,97 @@ def load_snapshots(root: Path) -> dict[tuple[int, int], tuple[str, dict]]:
     if missing:
         raise ArchiveError(f"missing snapshots for {', '.join(missing)}")
     return {m: (relative(root, found[m]), load_snapshot(root, found[m], *m)) for m in months}
+
+
+# ---------------------------------------------------------------------------
+# Merge
+# ---------------------------------------------------------------------------
+
+
+def problem_url(slug: str) -> str:
+    return f"https://leetcode.com/problems/{slug}/"
+
+
+def challenge_row(item: dict, kind: str) -> dict:
+    return {
+        "date": item["date"],
+        "type": kind,
+        "id": item["id"],
+        "title": item["title"],
+        "slug": item["slug"],
+        "difficulty": item["difficulty"],
+        "isPaidOnly": item["isPaidOnly"],
+        "url": problem_url(item["slug"]),
+    }
+
+
+def row_sort_key(row: dict) -> tuple:
+    return (row["date"], 0 if row["type"] == "daily" else 1, int(row["id"]))
+
+
+def item_month(item: dict) -> tuple[int, int]:
+    parsed = parse_date(item["date"])
+    return parsed.year, parsed.month
+
+
+def merge_snapshots(snapshots: dict[tuple[int, int], tuple[str, dict]]) -> list[dict]:
+    """Assemble every challenge once, grouped by its own date, sorted ascending.
+
+    Dailies come only from their own month's snapshot. Weeklies are collected from
+    every snapshot, deduplicated on (date, slug), and held back when dated after
+    the latest snapshot month.
+    """
+    months = sorted(snapshots)
+    first, latest = months[0], months[-1]
+    rows = []
+
+    daily_sources: dict[str, str] = {}
+    for month in months:
+        name, data = snapshots[month]
+        for item in data["challenges"]:
+            if item_month(item) != month:
+                raise ArchiveError(f"{name}: daily {item['date']} is outside {month_key(*month)}")
+            if item["date"] in daily_sources:
+                raise ArchiveError(
+                    f"two dailies on {item['date']}: {daily_sources[item['date']]} and {name}"
+                )
+            daily_sources[item["date"]] = name
+            rows.append(challenge_row(item, "daily"))
+
+    weekly_by_key: dict[tuple[str, str], tuple[str, dict]] = {}
+    weekly_by_date: dict[str, tuple[str, str]] = {}
+    for month in months:
+        name, data = snapshots[month]
+        for item in data["weeklyChallenges"]:
+            dated = item_month(item)
+            if dated not in (month_before(month), month, month_after(month)):
+                raise ArchiveError(
+                    f"{name}: weekly {item['date']} is more than one month from {month_key(*month)}"
+                )
+            if dated < first:
+                raise ArchiveError(
+                    f"{name}: weekly {item['date']} is before the first snapshot month {month_key(*first)}"
+                )
+            key = (item["date"], item["slug"])
+            if key in weekly_by_key:
+                other_name, other = weekly_by_key[key]
+                differing = [f for f in ("id", "title", "difficulty", "isPaidOnly") if other[f] != item[f]]
+                if differing:
+                    raise ArchiveError(
+                        f"weekly {item['date']} {item['slug']} differs ({', '.join(differing)}) between "
+                        f"{other_name} and {name}; re-fetch both months"
+                    )
+                continue
+            if item["date"] in weekly_by_date:
+                other_slug, other_name = weekly_by_date[item["date"]]
+                raise ArchiveError(
+                    f"two weeklies on {item['date']}: {other_slug} ({other_name}) and {item['slug']} ({name})"
+                )
+            weekly_by_key[key] = (name, item)
+            weekly_by_date[item["date"]] = (item["slug"], name)
+            if dated > latest:
+                continue
+            rows.append(challenge_row(item, "weekly"))
+
+    rows.sort(key=row_sort_key)
+    return rows
