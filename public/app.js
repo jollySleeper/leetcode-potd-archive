@@ -11,7 +11,7 @@
   const ID_QUERY = /^#?(\d+)$/;
   const URL_PREFIX = "https://leetcode.com/problems/";
   const EMPTY_MESSAGE = "No challenges match the current filters.";
-  const COLUMN_COUNT = 7;
+  const COLUMN_COUNT = 8;
   const numbers = new Intl.NumberFormat("en-US");
 
   const els = {
@@ -25,14 +25,18 @@
     month: document.getElementById("month"),
     type: document.getElementById("type"),
     difficulty: document.getElementById("difficulty"),
+    topic: document.getElementById("topic"),
     reset: document.getElementById("reset"),
   };
-  const selectsByParam = { year: els.year, month: els.month, type: els.type, difficulty: els.difficulty };
+  const selectsByParam = {
+    year: els.year, month: els.month, type: els.type, difficulty: els.difficulty, topic: els.topic,
+  };
   const selects = Object.values(selectsByParam);
 
   let challenges = [];
   let years = [];
   let months = [];
+  let topics = [];
   const rowCache = new Map();
 
   // Split the ISO string instead of using Date, which would shift the day west of UTC.
@@ -61,6 +65,7 @@
       && typeof item.slug === "string"
       && typeof item.difficulty === "string"
       && typeof item.isPaidOnly === "boolean"
+      && Array.isArray(item.topics) && item.topics.every((topic) => typeof topic === "string")
       && typeof item.url === "string" && item.url.startsWith(URL_PREFIX);
   }
 
@@ -103,6 +108,7 @@
       title,
       cell(challenge.difficulty),
       cell(challenge.isPaidOnly ? "Premium" : "Free"),
+      cell(challenge.topics.join(", "), "topics"),
       link,
     );
     return tr;
@@ -180,10 +186,12 @@
     const month = els.month.value;
     const type = els.type.value;
     const difficulty = els.difficulty.value;
+    const topic = els.topic.value;
     return challenges.filter((c) => (!year || c.date.startsWith(`${year}-`))
       && (!month || c.date.startsWith(`${month}-`))
       && (!type || c.type === type)
       && (!difficulty || c.difficulty.toLowerCase() === difficulty)
+      && (!topic || c.topics.includes(topic))
       && matchesSearch(c));
   }
 
@@ -204,6 +212,8 @@
     if (type === "daily" || type === "weekly") els.type.value = type;
     const difficulty = params.get("difficulty");
     if (["easy", "medium", "hard"].includes(difficulty)) els.difficulty.value = difficulty;
+    const topic = params.get("topic");
+    if (topics.includes(topic)) els.topic.value = topic;
   }
 
   function writeQuery() {
@@ -245,7 +255,7 @@
       populateMonths();
       change();
     });
-    for (const select of [els.month, els.type, els.difficulty]) select.addEventListener("change", change);
+    for (const select of [els.month, els.type, els.difficulty, els.topic]) select.addEventListener("change", change);
     els.reset.addEventListener("click", reset);
   }
 
@@ -260,8 +270,10 @@
     challenges = data.challenges.slice().sort(compareNewestFirst);
     months = [...new Set(challenges.map((c) => c.date.slice(0, 7)))].sort().reverse();
     years = [...new Set(months.map((key) => key.slice(0, 4)))];
+    topics = [...new Set(challenges.flatMap((c) => c.topics))].sort();
     els.range.textContent = `${formatDate(data.from)} – ${formatDate(data.to)}`;
     fillSelect(els.year, "All years", years.map((year) => [year, year]));
+    fillSelect(els.topic, "All topics", topics.map((topic) => [topic, topic]));
     readQuery();
     bindControls();
     update();
