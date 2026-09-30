@@ -246,6 +246,18 @@ class FieldRuleTests(unittest.TestCase):
         self.daily["question"]["topicTags"] = []
         self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
 
+    def test_rule_10_title_with_newline(self):
+        self.weekly["question"]["title"] = "Two\nLines"
+        self.assertInvalid()
+
+    def test_rule_10_blank_title(self):
+        self.daily["question"]["title"] = "   "
+        self.assertInvalid()
+
+    def test_rule_10_allows_surrounding_spaces(self):
+        self.daily["question"]["title"] = " Padded Title "
+        self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
 
 class NormalizationTests(unittest.TestCase):
     def setUp(self):
@@ -492,6 +504,7 @@ class SiteJsonTests(ArchiveTestCase):
         record["challenges"][0] = api_item("2020-04-01", "1000", title="N × 3", slug="n-times-3", topics=[
             {"name": "Math", "slug": "math"}, {"name": "Hash Table", "slug": "hash-table"}])
         record["challenges"][1] = api_item("2020-04-02", "999", slug="nine-nine-nine", paid=True)
+        record["challenges"][2] = api_item("2020-04-03", "998", title="  Padded Title ", slug="padded-title")
         up.save_snapshot(self.root, up.normalize_response(april, 2020, 4))
         write_archive(self.root, (2020, 8), start=(2020, 5), weeklies={
             (2020, 8): [api_item("2020-08-01", "5", slug="weekly-five", paid=True),
@@ -516,6 +529,15 @@ class SiteJsonTests(ArchiveTestCase):
         self.assertEqual(first["url"], "https://leetcode.com/problems/n-times-3/")
         self.assertIs(site["challenges"][1]["isPaidOnly"], True)
         self.assertIn("N × 3", self.site_path.read_text(encoding="utf-8"))
+
+    def test_titles_are_trimmed_in_outputs_but_not_in_snapshots(self):
+        up.build(self.root)
+        padded = [r for r in read_json(self.site_path)["challenges"] if r["slug"] == "padded-title"]
+        self.assertEqual(padded[0]["title"], "Padded Title")
+        page = (self.root / "archive" / "2020" / "2020-04.md").read_text(encoding="utf-8")
+        self.assertIn("| 2020-04-03 | 998 | [Padded Title](", page)
+        snapshot = read_json(self.root / "archive" / "2020" / "data" / "2020-04.json")
+        self.assertEqual(snapshot["challenges"][2]["title"], "  Padded Title ")
 
     def test_sorted_by_date_then_daily_first_then_numeric_id(self):
         up.build(self.root)

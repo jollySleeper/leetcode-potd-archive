@@ -99,6 +99,7 @@ INVALID = "invalid"
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}", re.ASCII)
 ID_RE = re.compile(r"\d+", re.ASCII)
 SLUG_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
+CONTROL_CHAR_RE = re.compile(r"[\x00-\x1f\x7f]")
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 
 SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link", "topics")
@@ -296,7 +297,7 @@ def classify_items(dailies: list, weeklies: list, year: int, month: int) -> tupl
 
 
 def field_errors(dailies: list, weeklies: list, year: int, month: int) -> list[str]:
-    """Apply field rules 1-9 to every daily and weekly item."""
+    """Apply field rules 1-10 to every daily and weekly item."""
     nearby = {month_before((year, month)), (year, month), month_after((year, month))}
     problems = []
     for kind, items in (("daily", dailies), ("weekly", weeklies)):
@@ -313,6 +314,8 @@ def field_errors(dailies: list, weeklies: list, year: int, month: int) -> list[s
             if missing:
                 problems.append(f"{where}: missing or empty {', '.join(missing)}")
                 continue
+            if CONTROL_CHAR_RE.search(item["title"]) or not item["title"].strip():
+                problems.append(f"{where}: title {item['title']!r} is blank or contains a control character")
             parsed = parse_date(item["date"])
             if parsed is None:
                 problems.append(f"{where}: date {item['date']!r} is not a real YYYY-MM-DD date")
@@ -503,7 +506,7 @@ def challenge_row(item: dict, kind: str) -> dict:
         "date": item["date"],
         "type": kind,
         "id": item["id"],
-        "title": item["title"],
+        "title": item["title"].strip(),
         "slug": item["slug"],
         "difficulty": item["difficulty"],
         "isPaidOnly": item["isPaidOnly"],
