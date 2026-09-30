@@ -17,6 +17,8 @@ The site is static. It loads one file, `public/challenges.json`, and filters it 
 - `archive/README.md`, the month index
 - `public/challenges.json`, the single file the site fetches
 
+The Markdown is committed so it can be browsed on GitHub. `public/challenges.json` is not committed: the **Deploy site** workflow runs `build` and publishes the file with the site.
+
 Do not edit the generated files by hand. Change a snapshot (normally by re-fetching it) and run `build`.
 
 ## Regenerating locally
@@ -38,9 +40,10 @@ Run the tests (they never touch the network):
 python3 -m unittest discover -s scripts -p "test_*.py" -v
 ```
 
-To preview the site, serve `public/` and open <http://localhost:8000/>:
+To preview the site, build `public/challenges.json`, serve `public/`, and open <http://localhost:8000/>:
 
 ```text
+python3 scripts/update_potd.py build
 python3 -m http.server --directory public
 ```
 

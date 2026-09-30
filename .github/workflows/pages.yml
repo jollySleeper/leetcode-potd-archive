@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - "public/**"
+      - "archive/**"
+      - "scripts/update_potd.py"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
   workflow_call:
@@ -34,6 +36,11 @@ jobs:
         with:
           ref: ${{ inputs.ref || github.sha }}
           persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - name: Build challenges.json
+        run: python3 scripts/update_potd.py build
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
