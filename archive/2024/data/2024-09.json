@@ -9,7 +9,21 @@
       "slug": "convert-1d-array-into-2d-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/convert-1d-array-into-2d-array/"
+      "link": "/problems/convert-1d-array-into-2d-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-09-02",
@@ -18,7 +32,25 @@
       "slug": "find-the-student-that-will-replace-the-chalk",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-student-that-will-replace-the-chalk/"
+      "link": "/problems/find-the-student-that-will-replace-the-chalk/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2024-09-03",
@@ -27,7 +59,17 @@
       "slug": "sum-of-digits-of-string-after-convert",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-digits-of-string-after-convert/"
+      "link": "/problems/sum-of-digits-of-string-after-convert/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-09-04",
@@ -36,7 +78,21 @@
       "slug": "walking-robot-simulation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/walking-robot-simulation/"
+      "link": "/problems/walking-robot-simulation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-09-05",
@@ -45,7 +101,21 @@
       "slug": "find-missing-observations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-missing-observations/"
+      "link": "/problems/find-missing-observations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-09-06",
@@ -54,7 +124,21 @@
       "slug": "delete-nodes-from-linked-list-present-in-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/delete-nodes-from-linked-list-present-in-array/"
+      "link": "/problems/delete-nodes-from-linked-list-present-in-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2024-09-07",
@@ -63,7 +147,25 @@
       "slug": "linked-list-in-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/linked-list-in-binary-tree/"
+      "link": "/problems/linked-list-in-binary-tree/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2024-09-08",
@@ -72,7 +174,13 @@
       "slug": "split-linked-list-in-parts",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/split-linked-list-in-parts/"
+      "link": "/problems/split-linked-list-in-parts/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2024-09-09",
@@ -81,7 +189,25 @@
       "slug": "spiral-matrix-iv",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/spiral-matrix-iv/"
+      "link": "/problems/spiral-matrix-iv/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-09-10",
@@ -90,7 +216,21 @@
       "slug": "insert-greatest-common-divisors-in-linked-list",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/insert-greatest-common-divisors-in-linked-list/"
+      "link": "/problems/insert-greatest-common-divisors-in-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2024-09-11",
@@ -99,7 +239,13 @@
       "slug": "minimum-bit-flips-to-convert-number",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-bit-flips-to-convert-number/"
+      "link": "/problems/minimum-bit-flips-to-convert-number/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2024-09-12",
@@ -108,7 +254,29 @@
       "slug": "count-the-number-of-consistent-strings",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-consistent-strings/"
+      "link": "/problems/count-the-number-of-consistent-strings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2024-09-13",
@@ -117,7 +285,21 @@
       "slug": "xor-queries-of-a-subarray",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/xor-queries-of-a-subarray/"
+      "link": "/problems/xor-queries-of-a-subarray/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2024-09-14",
@@ -126,7 +308,21 @@
       "slug": "longest-subarray-with-maximum-bitwise-and",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-subarray-with-maximum-bitwise-and/"
+      "link": "/problems/longest-subarray-with-maximum-bitwise-and/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        }
+      ]
     },
     {
       "date": "2024-09-15",
@@ -135,7 +331,25 @@
       "slug": "find-the-longest-substring-containing-vowels-in-even-counts",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-longest-substring-containing-vowels-in-even-counts/"
+      "link": "/problems/find-the-longest-substring-containing-vowels-in-even-counts/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2024-09-16",
@@ -144,7 +358,25 @@
       "slug": "minimum-time-difference",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-time-difference/"
+      "link": "/problems/minimum-time-difference/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-09-17",
@@ -153,7 +385,21 @@
       "slug": "uncommon-words-from-two-sentences",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/uncommon-words-from-two-sentences/"
+      "link": "/problems/uncommon-words-from-two-sentences/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2024-09-18",
@@ -162,7 +408,25 @@
       "slug": "largest-number",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/largest-number/"
+      "link": "/problems/largest-number/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-09-19",
@@ -171,7 +435,33 @@
       "slug": "different-ways-to-add-parentheses",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/different-ways-to-add-parentheses/"
+      "link": "/problems/different-ways-to-add-parentheses/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2024-09-20",
@@ -180,7 +470,37 @@
       "slug": "shortest-palindrome",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/shortest-palindrome/"
+      "link": "/problems/shortest-palindrome/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        },
+        {
+          "name": "Manacher",
+          "slug": "manacher"
+        },
+        {
+          "name": "Z Algorithm",
+          "slug": "z-algorithm"
+        },
+        {
+          "name": "Knuth–Morris–Pratt Algorithm",
+          "slug": "knuth-morris-pratt-algorithm"
+        }
+      ]
     },
     {
       "date": "2024-09-21",
@@ -189,7 +509,17 @@
       "slug": "lexicographical-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/lexicographical-numbers/"
+      "link": "/problems/lexicographical-numbers/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2024-09-22",
@@ -198,7 +528,13 @@
       "slug": "k-th-smallest-in-lexicographical-order",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/k-th-smallest-in-lexicographical-order/"
+      "link": "/problems/k-th-smallest-in-lexicographical-order/",
+      "topics": [
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2024-09-23",
@@ -207,7 +543,29 @@
       "slug": "extra-characters-in-a-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/extra-characters-in-a-string/"
+      "link": "/problems/extra-characters-in-a-string/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2024-09-24",
@@ -216,7 +574,25 @@
       "slug": "find-the-length-of-the-longest-common-prefix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-length-of-the-longest-common-prefix/"
+      "link": "/problems/find-the-length-of-the-longest-common-prefix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2024-09-25",
@@ -225,7 +601,25 @@
       "slug": "sum-of-prefix-scores-of-strings",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-prefix-scores-of-strings/"
+      "link": "/problems/sum-of-prefix-scores-of-strings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2024-09-26",
@@ -234,7 +628,29 @@
       "slug": "my-calendar-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/my-calendar-i/"
+      "link": "/problems/my-calendar-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2024-09-27",
@@ -243,7 +659,33 @@
       "slug": "my-calendar-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/my-calendar-ii/"
+      "link": "/problems/my-calendar-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2024-09-28",
@@ -252,7 +694,25 @@
       "slug": "design-circular-deque",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-circular-deque/"
+      "link": "/problems/design-circular-deque/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        }
+      ]
     },
     {
       "date": "2024-09-29",
@@ -261,7 +721,25 @@
       "slug": "all-oone-data-structure",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/all-oone-data-structure/"
+      "link": "/problems/all-oone-data-structure/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "slug": "doubly-linked-list"
+        }
+      ]
     },
     {
       "date": "2024-09-30",
@@ -270,7 +748,21 @@
       "slug": "design-a-stack-with-increment-operation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-a-stack-with-increment-operation/"
+      "link": "/problems/design-a-stack-with-increment-operation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +773,21 @@
       "slug": "add-two-polynomials-represented-as-linked-lists",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/add-two-polynomials-represented-as-linked-lists/"
+      "link": "/problems/add-two-polynomials-represented-as-linked-lists/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ]
     },
     {
       "date": "2024-09-08",
@@ -290,7 +796,21 @@
       "slug": "meeting-scheduler",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/meeting-scheduler/"
+      "link": "/problems/meeting-scheduler/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-09-15",
@@ -299,7 +819,41 @@
       "slug": "smallest-common-region",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/smallest-common-region/"
+      "link": "/problems/smallest-common-region/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        }
+      ]
     },
     {
       "date": "2024-09-22",
@@ -308,7 +862,25 @@
       "slug": "longest-word-with-all-prefixes",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/longest-word-with-all-prefixes/"
+      "link": "/problems/longest-word-with-all-prefixes/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2024-09-29",
@@ -317,7 +889,25 @@
       "slug": "implement-trie-ii-prefix-tree",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/implement-trie-ii-prefix-tree/"
+      "link": "/problems/implement-trie-ii-prefix-tree/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,17 @@
       "slug": "determine-if-string-halves-are-alike",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/determine-if-string-halves-are-alike/"
+      "link": "/problems/determine-if-string-halves-are-alike/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2022-12-02",
@@ -18,7 +28,25 @@
       "slug": "determine-if-two-strings-are-close",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/determine-if-two-strings-are-close/"
+      "link": "/problems/determine-if-two-strings-are-close/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2022-12-03",
@@ -27,7 +55,33 @@
       "slug": "sort-characters-by-frequency",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sort-characters-by-frequency/"
+      "link": "/problems/sort-characters-by-frequency/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Bucket Sort",
+          "slug": "bucket-sort"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2022-12-04",
@@ -36,7 +90,17 @@
       "slug": "minimum-average-difference",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-average-difference/"
+      "link": "/problems/minimum-average-difference/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-12-05",
@@ -45,7 +109,17 @@
       "slug": "middle-of-the-linked-list",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/middle-of-the-linked-list/"
+      "link": "/problems/middle-of-the-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ]
     },
     {
       "date": "2022-12-06",
@@ -54,7 +128,13 @@
       "slug": "odd-even-linked-list",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/odd-even-linked-list/"
+      "link": "/problems/odd-even-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2022-12-07",
@@ -63,7 +143,25 @@
       "slug": "range-sum-of-bst",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/range-sum-of-bst/"
+      "link": "/problems/range-sum-of-bst/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2022-12-08",
@@ -72,7 +170,21 @@
       "slug": "leaf-similar-trees",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/leaf-similar-trees/"
+      "link": "/problems/leaf-similar-trees/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2022-12-09",
@@ -81,7 +193,21 @@
       "slug": "maximum-difference-between-node-and-ancestor",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-difference-between-node-and-ancestor/"
+      "link": "/problems/maximum-difference-between-node-and-ancestor/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2022-12-10",
@@ -90,7 +216,21 @@
       "slug": "maximum-product-of-splitted-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-product-of-splitted-binary-tree/"
+      "link": "/problems/maximum-product-of-splitted-binary-tree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2022-12-11",
@@ -99,7 +239,29 @@
       "slug": "binary-tree-maximum-path-sum",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/binary-tree-maximum-path-sum/"
+      "link": "/problems/binary-tree-maximum-path-sum/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2022-12-12",
@@ -108,7 +270,21 @@
       "slug": "climbing-stairs",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/climbing-stairs/"
+      "link": "/problems/climbing-stairs/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        }
+      ]
     },
     {
       "date": "2022-12-13",
@@ -117,7 +293,21 @@
       "slug": "minimum-falling-path-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-falling-path-sum/"
+      "link": "/problems/minimum-falling-path-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2022-12-14",
@@ -126,7 +316,17 @@
       "slug": "house-robber",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/house-robber/"
+      "link": "/problems/house-robber/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2022-12-15",
@@ -135,7 +335,21 @@
       "slug": "longest-common-subsequence",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-common-subsequence/"
+      "link": "/problems/longest-common-subsequence/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence"
+        }
+      ]
     },
     {
       "date": "2022-12-16",
@@ -144,7 +358,21 @@
       "slug": "implement-queue-using-stacks",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/implement-queue-using-stacks/"
+      "link": "/problems/implement-queue-using-stacks/",
+      "topics": [
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        }
+      ]
     },
     {
       "date": "2022-12-17",
@@ -153,7 +381,21 @@
       "slug": "evaluate-reverse-polish-notation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/evaluate-reverse-polish-notation/"
+      "link": "/problems/evaluate-reverse-polish-notation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2022-12-18",
@@ -162,7 +404,21 @@
       "slug": "daily-temperatures",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/daily-temperatures/"
+      "link": "/problems/daily-temperatures/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2022-12-19",
@@ -171,7 +427,25 @@
       "slug": "find-if-path-exists-in-graph",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-if-path-exists-in-graph/"
+      "link": "/problems/find-if-path-exists-in-graph/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2022-12-20",
@@ -180,7 +454,21 @@
       "slug": "keys-and-rooms",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/keys-and-rooms/"
+      "link": "/problems/keys-and-rooms/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2022-12-21",
@@ -189,7 +477,33 @@
       "slug": "possible-bipartition",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/possible-bipartition/"
+      "link": "/problems/possible-bipartition/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Graph Coloring",
+          "slug": "graph-coloring"
+        },
+        {
+          "name": "Bipartite Graph",
+          "slug": "bipartite-graph"
+        }
+      ]
     },
     {
       "date": "2022-12-22",
@@ -198,7 +512,29 @@
       "slug": "sum-of-distances-in-tree",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-distances-in-tree/"
+      "link": "/problems/sum-of-distances-in-tree/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2022-12-23",
@@ -207,7 +543,17 @@
       "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+      "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2022-12-24",
@@ -216,7 +562,13 @@
       "slug": "domino-and-tromino-tiling",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/domino-and-tromino-tiling/"
+      "link": "/problems/domino-and-tromino-tiling/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2022-12-25",
@@ -225,7 +577,29 @@
       "slug": "longest-subsequence-with-limited-sum",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/longest-subsequence-with-limited-sum/"
+      "link": "/problems/longest-subsequence-with-limited-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-12-26",
@@ -234,7 +608,21 @@
       "slug": "jump-game",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/jump-game/"
+      "link": "/problems/jump-game/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2022-12-27",
@@ -243,7 +631,21 @@
       "slug": "maximum-bags-with-full-capacity-of-rocks",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-bags-with-full-capacity-of-rocks/"
+      "link": "/problems/maximum-bags-with-full-capacity-of-rocks/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-12-28",
@@ -252,7 +654,21 @@
       "slug": "remove-stones-to-minimize-the-total",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/remove-stones-to-minimize-the-total/"
+      "link": "/problems/remove-stones-to-minimize-the-total/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-12-29",
@@ -261,7 +677,21 @@
       "slug": "single-threaded-cpu",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/single-threaded-cpu/"
+      "link": "/problems/single-threaded-cpu/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-12-30",
@@ -270,7 +700,29 @@
       "slug": "all-paths-from-source-to-target",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/all-paths-from-source-to-target/"
+      "link": "/problems/all-paths-from-source-to-target/",
+      "topics": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Directed Acyclic Graph",
+          "slug": "directed-acyclic-graph"
+        }
+      ]
     },
     {
       "date": "2022-12-31",
@@ -279,7 +731,29 @@
       "slug": "unique-paths-iii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/unique-paths-iii/"
+      "link": "/problems/unique-paths-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Hamiltonian Path",
+          "slug": "hamiltonian-path"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +764,17 @@
       "slug": "single-row-keyboard",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/single-row-keyboard/"
+      "link": "/problems/single-row-keyboard/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2022-12-08",
@@ -299,7 +783,25 @@
       "slug": "number-of-connected-components-in-an-undirected-graph",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-connected-components-in-an-undirected-graph/"
+      "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2022-12-15",
@@ -308,7 +810,53 @@
       "slug": "campus-bikes-ii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/campus-bikes-ii/"
+      "link": "/problems/campus-bikes-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        },
+        {
+          "name": "Hungarian Algorithm",
+          "slug": "hungarian-algorithm"
+        },
+        {
+          "name": "Bipartite Graph",
+          "slug": "bipartite-graph"
+        },
+        {
+          "name": "Successive Shortest Path Algorithm",
+          "slug": "successive-shortest-path-algorithm"
+        },
+        {
+          "name": "Matching (Graph)",
+          "slug": "matching-graph"
+        },
+        {
+          "name": "Minimum-Cost Flow",
+          "slug": "minimum-cost-flow"
+        },
+        {
+          "name": "Flow Network",
+          "slug": "flow-network"
+        }
+      ]
     },
     {
       "date": "2022-12-22",
@@ -317,7 +865,21 @@
       "slug": "minimum-cost-to-connect-sticks",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/minimum-cost-to-connect-sticks/"
+      "link": "/problems/minimum-cost-to-connect-sticks/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-12-29",
@@ -326,7 +888,25 @@
       "slug": "leftmost-column-with-at-least-a-one",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/leftmost-column-with-at-least-a-one/"
+      "link": "/problems/leftmost-column-with-at-least-a-one/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ]
     }
   ]
 }

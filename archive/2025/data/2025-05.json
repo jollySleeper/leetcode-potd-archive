@@ -9,7 +9,37 @@
       "slug": "maximum-number-of-tasks-you-can-assign",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-tasks-you-can-assign/"
+      "link": "/problems/maximum-number-of-tasks-you-can-assign/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Monotonic Queue",
+          "slug": "monotonic-queue"
+        }
+      ]
     },
     {
       "date": "2025-05-02",
@@ -18,7 +48,21 @@
       "slug": "push-dominoes",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/push-dominoes/"
+      "link": "/problems/push-dominoes/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-05-03",
@@ -27,7 +71,17 @@
       "slug": "minimum-domino-rotations-for-equal-row",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-domino-rotations-for-equal-row/"
+      "link": "/problems/minimum-domino-rotations-for-equal-row/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-05-04",
@@ -36,7 +90,21 @@
       "slug": "number-of-equivalent-domino-pairs",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/number-of-equivalent-domino-pairs/"
+      "link": "/problems/number-of-equivalent-domino-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-05-05",
@@ -45,7 +113,13 @@
       "slug": "domino-and-tromino-tiling",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/domino-and-tromino-tiling/"
+      "link": "/problems/domino-and-tromino-tiling/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-05-06",
@@ -54,7 +128,17 @@
       "slug": "build-array-from-permutation",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/build-array-from-permutation/"
+      "link": "/problems/build-array-from-permutation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-05-07",
@@ -63,7 +147,29 @@
       "slug": "find-minimum-time-to-reach-last-room-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-minimum-time-to-reach-last-room-i/"
+      "link": "/problems/find-minimum-time-to-reach-last-room-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2025-05-08",
@@ -72,7 +178,29 @@
       "slug": "find-minimum-time-to-reach-last-room-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-minimum-time-to-reach-last-room-ii/"
+      "link": "/problems/find-minimum-time-to-reach-last-room-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2025-05-09",
@@ -81,7 +209,25 @@
       "slug": "count-number-of-balanced-permutations",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-number-of-balanced-permutations/"
+      "link": "/problems/count-number-of-balanced-permutations/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        }
+      ]
     },
     {
       "date": "2025-05-10",
@@ -90,7 +236,17 @@
       "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/"
+      "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-05-11",
@@ -99,7 +255,13 @@
       "slug": "three-consecutive-odds",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/three-consecutive-odds/"
+      "link": "/problems/three-consecutive-odds/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-05-12",
@@ -108,7 +270,29 @@
       "slug": "finding-3-digit-even-numbers",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/finding-3-digit-even-numbers/"
+      "link": "/problems/finding-3-digit-even-numbers/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-05-13",
@@ -117,7 +301,29 @@
       "slug": "total-characters-in-string-after-transformations-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/total-characters-in-string-after-transformations-i/"
+      "link": "/problems/total-characters-in-string-after-transformations-i/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-05-14",
@@ -126,7 +332,29 @@
       "slug": "total-characters-in-string-after-transformations-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/total-characters-in-string-after-transformations-ii/"
+      "link": "/problems/total-characters-in-string-after-transformations-ii/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-05-15",
@@ -135,7 +363,25 @@
       "slug": "longest-unequal-adjacent-groups-subsequence-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/longest-unequal-adjacent-groups-subsequence-i/"
+      "link": "/problems/longest-unequal-adjacent-groups-subsequence-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-05-16",
@@ -144,7 +390,21 @@
       "slug": "longest-unequal-adjacent-groups-subsequence-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-unequal-adjacent-groups-subsequence-ii/"
+      "link": "/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-05-17",
@@ -153,7 +413,29 @@
       "slug": "sort-colors",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sort-colors/"
+      "link": "/problems/sort-colors/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Quicksort",
+          "slug": "quicksort"
+        },
+        {
+          "name": "Bubble Sort",
+          "slug": "bubble-sort"
+        }
+      ]
     },
     {
       "date": "2025-05-18",
@@ -162,7 +444,17 @@
       "slug": "painting-a-grid-with-three-different-colors",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/painting-a-grid-with-three-different-colors/"
+      "link": "/problems/painting-a-grid-with-three-different-colors/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Coloring",
+          "slug": "graph-coloring"
+        }
+      ]
     },
     {
       "date": "2025-05-19",
@@ -171,7 +463,25 @@
       "slug": "type-of-triangle",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/type-of-triangle/"
+      "link": "/problems/type-of-triangle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Polygons",
+          "slug": "polygons"
+        }
+      ]
     },
     {
       "date": "2025-05-20",
@@ -180,7 +490,17 @@
       "slug": "zero-array-transformation-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/zero-array-transformation-i/"
+      "link": "/problems/zero-array-transformation-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-05-21",
@@ -189,7 +509,21 @@
       "slug": "set-matrix-zeroes",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/set-matrix-zeroes/"
+      "link": "/problems/set-matrix-zeroes/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-05-22",
@@ -198,7 +532,33 @@
       "slug": "zero-array-transformation-iii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/zero-array-transformation-iii/"
+      "link": "/problems/zero-array-transformation-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-05-23",
@@ -207,7 +567,33 @@
       "slug": "find-the-maximum-sum-of-node-values",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-maximum-sum-of-node-values/"
+      "link": "/problems/find-the-maximum-sum-of-node-values/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-05-24",
@@ -216,7 +602,17 @@
       "slug": "find-words-containing-character",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-words-containing-character/"
+      "link": "/problems/find-words-containing-character/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-05-25",
@@ -225,7 +621,29 @@
       "slug": "longest-palindrome-by-concatenating-two-letter-words",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-palindrome-by-concatenating-two-letter-words/"
+      "link": "/problems/longest-palindrome-by-concatenating-two-letter-words/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-05-26",
@@ -234,7 +652,41 @@
       "slug": "largest-color-value-in-a-directed-graph",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/largest-color-value-in-a-directed-graph/"
+      "link": "/problems/largest-color-value-in-a-directed-graph/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Directed Acyclic Graph",
+          "slug": "directed-acyclic-graph"
+        }
+      ]
     },
     {
       "date": "2025-05-27",
@@ -243,7 +695,13 @@
       "slug": "divisible-and-non-divisible-sums-difference",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/divisible-and-non-divisible-sums-difference/"
+      "link": "/problems/divisible-and-non-divisible-sums-difference/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-05-28",
@@ -252,7 +710,21 @@
       "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/"
+      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2025-05-29",
@@ -261,7 +733,21 @@
       "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/"
+      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2025-05-30",
@@ -270,7 +756,17 @@
       "slug": "find-closest-node-to-given-two-nodes",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-closest-node-to-given-two-nodes/"
+      "link": "/problems/find-closest-node-to-given-two-nodes/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2025-05-31",
@@ -279,7 +775,21 @@
       "slug": "snakes-and-ladders",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/snakes-and-ladders/"
+      "link": "/problems/snakes-and-ladders/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +800,29 @@
       "slug": "design-snake-game",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-snake-game/"
+      "link": "/problems/design-snake-game/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-05-08",
@@ -299,7 +831,21 @@
       "slug": "logger-rate-limiter",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/logger-rate-limiter/"
+      "link": "/problems/logger-rate-limiter/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ]
     },
     {
       "date": "2025-05-15",
@@ -308,7 +854,21 @@
       "slug": "bomb-enemy",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/bomb-enemy/"
+      "link": "/problems/bomb-enemy/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-05-22",
@@ -317,7 +877,29 @@
       "slug": "first-unique-number",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/first-unique-number/"
+      "link": "/problems/first-unique-number/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ]
     },
     {
       "date": "2025-05-29",
@@ -326,7 +908,13 @@
       "slug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/"
+      "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,13 @@
       "slug": "special-array-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/special-array-i/"
+      "link": "/problems/special-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-02-02",
@@ -18,7 +24,13 @@
       "slug": "check-if-array-is-sorted-and-rotated",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-array-is-sorted-and-rotated/"
+      "link": "/problems/check-if-array-is-sorted-and-rotated/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-02-03",
@@ -27,7 +39,13 @@
       "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/"
+      "link": "/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-02-04",
@@ -36,7 +54,13 @@
       "slug": "maximum-ascending-subarray-sum",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-ascending-subarray-sum/"
+      "link": "/problems/maximum-ascending-subarray-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-02-05",
@@ -45,7 +69,21 @@
       "slug": "check-if-one-string-swap-can-make-strings-equal",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-one-string-swap-can-make-strings-equal/"
+      "link": "/problems/check-if-one-string-swap-can-make-strings-equal/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-02-06",
@@ -54,7 +92,21 @@
       "slug": "tuple-with-same-product",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/tuple-with-same-product/"
+      "link": "/problems/tuple-with-same-product/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-02-07",
@@ -63,7 +115,21 @@
       "slug": "find-the-number-of-distinct-colors-among-the-balls",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-number-of-distinct-colors-among-the-balls/"
+      "link": "/problems/find-the-number-of-distinct-colors-among-the-balls/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-02-08",
@@ -72,7 +138,25 @@
       "slug": "design-a-number-container-system",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-a-number-container-system/"
+      "link": "/problems/design-a-number-container-system/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-02-09",
@@ -81,7 +165,25 @@
       "slug": "count-number-of-bad-pairs",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-number-of-bad-pairs/"
+      "link": "/problems/count-number-of-bad-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-02-10",
@@ -90,7 +192,21 @@
       "slug": "clear-digits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/clear-digits/"
+      "link": "/problems/clear-digits/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-02-11",
@@ -99,7 +215,21 @@
       "slug": "remove-all-occurrences-of-a-substring",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/remove-all-occurrences-of-a-substring/"
+      "link": "/problems/remove-all-occurrences-of-a-substring/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-02-12",
@@ -108,7 +238,25 @@
       "slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/max-sum-of-a-pair-with-equal-sum-of-digits/"
+      "link": "/problems/max-sum-of-a-pair-with-equal-sum-of-digits/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-02-13",
@@ -117,7 +265,21 @@
       "slug": "minimum-operations-to-exceed-threshold-value-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-exceed-threshold-value-ii/"
+      "link": "/problems/minimum-operations-to-exceed-threshold-value-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-02-14",
@@ -126,7 +288,29 @@
       "slug": "product-of-the-last-k-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/product-of-the-last-k-numbers/"
+      "link": "/problems/product-of-the-last-k-numbers/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-02-15",
@@ -135,7 +319,17 @@
       "slug": "find-the-punishment-number-of-an-integer",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-punishment-number-of-an-integer/"
+      "link": "/problems/find-the-punishment-number-of-an-integer/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2025-02-16",
@@ -144,7 +338,17 @@
       "slug": "construct-the-lexicographically-largest-valid-sequence",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-the-lexicographically-largest-valid-sequence/"
+      "link": "/problems/construct-the-lexicographically-largest-valid-sequence/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2025-02-17",
@@ -153,7 +357,25 @@
       "slug": "letter-tile-possibilities",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/letter-tile-possibilities/"
+      "link": "/problems/letter-tile-possibilities/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-02-18",
@@ -162,7 +384,25 @@
       "slug": "construct-smallest-number-from-di-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-smallest-number-from-di-string/"
+      "link": "/problems/construct-smallest-number-from-di-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-02-19",
@@ -171,7 +411,17 @@
       "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/"
+      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2025-02-20",
@@ -180,7 +430,25 @@
       "slug": "find-unique-binary-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-unique-binary-string/"
+      "link": "/problems/find-unique-binary-string/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2025-02-21",
@@ -189,7 +457,33 @@
       "slug": "find-elements-in-a-contaminated-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-elements-in-a-contaminated-binary-tree/"
+      "link": "/problems/find-elements-in-a-contaminated-binary-tree/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2025-02-22",
@@ -198,7 +492,25 @@
       "slug": "recover-a-tree-from-preorder-traversal",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/recover-a-tree-from-preorder-traversal/"
+      "link": "/problems/recover-a-tree-from-preorder-traversal/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2025-02-23",
@@ -207,7 +519,29 @@
       "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-binary-tree-from-preorder-and-postorder-traversal/"
+      "link": "/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2025-02-24",
@@ -216,7 +550,29 @@
       "slug": "most-profitable-path-in-a-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/most-profitable-path-in-a-tree/"
+      "link": "/problems/most-profitable-path-in-a-tree/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2025-02-25",
@@ -225,7 +581,25 @@
       "slug": "number-of-sub-arrays-with-odd-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-sub-arrays-with-odd-sum/"
+      "link": "/problems/number-of-sub-arrays-with-odd-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-02-26",
@@ -234,7 +608,17 @@
       "slug": "maximum-absolute-sum-of-any-subarray",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-absolute-sum-of-any-subarray/"
+      "link": "/problems/maximum-absolute-sum-of-any-subarray/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-02-27",
@@ -243,7 +627,21 @@
       "slug": "length-of-longest-fibonacci-subsequence",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/length-of-longest-fibonacci-subsequence/"
+      "link": "/problems/length-of-longest-fibonacci-subsequence/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-02-28",
@@ -252,7 +650,21 @@
       "slug": "shortest-common-supersequence",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/shortest-common-supersequence/"
+      "link": "/problems/shortest-common-supersequence/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -263,7 +675,21 @@
       "slug": "distinct-numbers-in-each-subarray",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/distinct-numbers-in-each-subarray/"
+      "link": "/problems/distinct-numbers-in-each-subarray/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-02-08",
@@ -272,7 +698,21 @@
       "slug": "make-the-prefix-sum-non-negative",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/make-the-prefix-sum-non-negative/"
+      "link": "/problems/make-the-prefix-sum-non-negative/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-02-15",
@@ -281,7 +721,45 @@
       "slug": "design-most-recently-used-queue",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-most-recently-used-queue/"
+      "link": "/problems/design-most-recently-used-queue/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "slug": "doubly-linked-list"
+        },
+        {
+          "name": "Sqrt Decomposition",
+          "slug": "sqrt-decomposition"
+        },
+        {
+          "name": "Treap",
+          "slug": "treap"
+        },
+        {
+          "name": "Splay Tree",
+          "slug": "splay-tree"
+        }
+      ]
     },
     {
       "date": "2025-02-22",
@@ -290,7 +768,21 @@
       "slug": "max-consecutive-ones-ii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/max-consecutive-ones-ii/"
+      "link": "/problems/max-consecutive-ones-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     }
   ]
 }

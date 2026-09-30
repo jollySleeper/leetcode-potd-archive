@@ -55,6 +55,10 @@ QUERY = """query dailyCodingQuestionRecords($year: Int!, $month: Int!) {
         titleSlug
         difficulty
         isPaidOnly
+        topicTags {
+          name
+          slug
+        }
       }
     }
     weeklyChallenges {
@@ -66,6 +70,10 @@ QUERY = """query dailyCodingQuestionRecords($year: Int!, $month: Int!) {
         titleSlug
         difficulty
         isPaidOnly
+        topicTags {
+          name
+          slug
+        }
       }
     }
   }
@@ -93,7 +101,7 @@ ID_RE = re.compile(r"\d+", re.ASCII)
 SLUG_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 
-SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link")
+SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link", "topics")
 SNAPSHOT_NAME_RE = re.compile(r"(\d{4})-(\d{2})\.json", re.ASCII)
 SITE_SOURCE = "https://leetcode.com/graphql/ dailyCodingChallengeV2"
 
@@ -261,6 +269,7 @@ def api_item_fields(item: object) -> dict:
         "difficulty": question.get("difficulty"),
         "isPaidOnly": question.get("isPaidOnly"),
         "link": item.get("link"),
+        "topics": question.get("topicTags"),
     }
 
 
@@ -287,7 +296,7 @@ def classify_items(dailies: list, weeklies: list, year: int, month: int) -> tupl
 
 
 def field_errors(dailies: list, weeklies: list, year: int, month: int) -> list[str]:
-    """Apply field rules 1-8 to every daily and weekly item."""
+    """Apply field rules 1-9 to every daily and weekly item."""
     nearby = {month_before((year, month)), (year, month), month_after((year, month))}
     problems = []
     for kind, items in (("daily", dailies), ("weekly", weeklies)):
@@ -320,7 +329,16 @@ def field_errors(dailies: list, weeklies: list, year: int, month: int) -> list[s
             link = item.get("link")
             if not isinstance(link, str) or not link.startswith(f"/problems/{item['slug']}/"):
                 problems.append(f"{where}: link {link!r} does not start with /problems/{item['slug']}/")
+            if not is_topic_list(item.get("topics")):
+                problems.append(f"{where}: topics must be a list of tags with a non-empty name and slug")
     return problems
+
+
+def is_topic_list(value: object) -> bool:
+    return isinstance(value, list) and all(
+        isinstance(tag, dict) and all(isinstance(tag.get(key), str) and tag[key] for key in ("name", "slug"))
+        for tag in value
+    )
 
 
 def classify_response(payload: object, year: int, month: int) -> tuple[str, str]:
@@ -372,6 +390,7 @@ def normalize_response(payload: object, year: int, month: int) -> dict:
 
 def snapshot_item(item: dict) -> dict:
     fields = api_item_fields(item)
+    fields["topics"] = [{"name": tag["name"], "slug": tag["slug"]} for tag in fields["topics"]]
     return {name: fields[name] for name in SNAPSHOT_FIELDS}
 
 
@@ -488,6 +507,7 @@ def challenge_row(item: dict, kind: str) -> dict:
         "slug": item["slug"],
         "difficulty": item["difficulty"],
         "isPaidOnly": item["isPaidOnly"],
+        "topics": [tag["name"] for tag in item["topics"]],
         "url": problem_url(item["slug"]),
     }
 

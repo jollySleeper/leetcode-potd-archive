@@ -9,7 +9,17 @@
       "slug": "solving-questions-with-brainpower",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/solving-questions-with-brainpower/"
+      "link": "/problems/solving-questions-with-brainpower/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-04-02",
@@ -18,7 +28,17 @@
       "slug": "maximum-value-of-an-ordered-triplet-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-value-of-an-ordered-triplet-i/"
+      "link": "/problems/maximum-value-of-an-ordered-triplet-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-03",
@@ -27,7 +47,17 @@
       "slug": "maximum-value-of-an-ordered-triplet-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-value-of-an-ordered-triplet-ii/"
+      "link": "/problems/maximum-value-of-an-ordered-triplet-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-04",
@@ -36,7 +66,41 @@
       "slug": "lowest-common-ancestor-of-deepest-leaves",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/lowest-common-ancestor-of-deepest-leaves/"
+      "link": "/problems/lowest-common-ancestor-of-deepest-leaves/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2025-04-05",
@@ -45,7 +109,33 @@
       "slug": "sum-of-all-subset-xor-totals",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-all-subset-xor-totals/"
+      "link": "/problems/sum-of-all-subset-xor-totals/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-04-06",
@@ -54,7 +144,25 @@
       "slug": "largest-divisible-subset",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/largest-divisible-subset/"
+      "link": "/problems/largest-divisible-subset/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-04-07",
@@ -63,7 +171,25 @@
       "slug": "partition-equal-subset-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/partition-equal-subset-sum/"
+      "link": "/problems/partition-equal-subset-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Knapsack Problem",
+          "slug": "knapsack-problem"
+        },
+        {
+          "name": "0-1 Knapsack",
+          "slug": "0-1-knapsack"
+        }
+      ]
     },
     {
       "date": "2025-04-08",
@@ -72,7 +198,17 @@
       "slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/"
+      "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2025-04-09",
@@ -81,7 +217,17 @@
       "slug": "minimum-operations-to-make-array-values-equal-to-k",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/"
+      "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2025-04-10",
@@ -90,7 +236,21 @@
       "slug": "count-the-number-of-powerful-integers",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-powerful-integers/"
+      "link": "/problems/count-the-number-of-powerful-integers/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-04-11",
@@ -99,7 +259,17 @@
       "slug": "count-symmetric-integers",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-symmetric-integers/"
+      "link": "/problems/count-symmetric-integers/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-04-12",
@@ -108,7 +278,25 @@
       "slug": "find-the-count-of-good-integers",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-count-of-good-integers/"
+      "link": "/problems/find-the-count-of-good-integers/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-04-13",
@@ -117,7 +305,17 @@
       "slug": "count-good-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-good-numbers/"
+      "link": "/problems/count-good-numbers/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ]
     },
     {
       "date": "2025-04-14",
@@ -126,7 +324,17 @@
       "slug": "count-good-triplets",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-good-triplets/"
+      "link": "/problems/count-good-triplets/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-04-15",
@@ -135,7 +343,37 @@
       "slug": "count-good-triplets-in-an-array",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-good-triplets-in-an-array/"
+      "link": "/problems/count-good-triplets-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Merge Sort",
+          "slug": "merge-sort"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-04-16",
@@ -144,7 +382,21 @@
       "slug": "count-the-number-of-good-subarrays",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-good-subarrays/"
+      "link": "/problems/count-the-number-of-good-subarrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-04-17",
@@ -153,7 +405,13 @@
       "slug": "count-equal-and-divisible-pairs-in-an-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-equal-and-divisible-pairs-in-an-array/"
+      "link": "/problems/count-equal-and-divisible-pairs-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-04-18",
@@ -162,7 +420,13 @@
       "slug": "count-and-say",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-and-say/"
+      "link": "/problems/count-and-say/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-04-19",
@@ -171,7 +435,25 @@
       "slug": "count-the-number-of-fair-pairs",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-fair-pairs/"
+      "link": "/problems/count-the-number-of-fair-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-04-20",
@@ -180,7 +462,25 @@
       "slug": "rabbits-in-forest",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rabbits-in-forest/"
+      "link": "/problems/rabbits-in-forest/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-04-21",
@@ -189,7 +489,17 @@
       "slug": "count-the-hidden-sequences",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-hidden-sequences/"
+      "link": "/problems/count-the-hidden-sequences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-22",
@@ -198,7 +508,33 @@
       "slug": "count-the-number-of-ideal-arrays",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-ideal-arrays/"
+      "link": "/problems/count-the-number-of-ideal-arrays/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        },
+        {
+          "name": "Prime Factorization",
+          "slug": "prime-factorization"
+        },
+        {
+          "name": "Fermat's Little Theorem",
+          "slug": "fermats-little-theorem"
+        }
+      ]
     },
     {
       "date": "2025-04-23",
@@ -207,7 +543,21 @@
       "slug": "count-largest-group",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-largest-group/"
+      "link": "/problems/count-largest-group/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-04-24",
@@ -216,7 +566,21 @@
       "slug": "count-complete-subarrays-in-an-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-complete-subarrays-in-an-array/"
+      "link": "/problems/count-complete-subarrays-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-04-25",
@@ -225,7 +589,21 @@
       "slug": "count-of-interesting-subarrays",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-of-interesting-subarrays/"
+      "link": "/problems/count-of-interesting-subarrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-26",
@@ -234,7 +612,25 @@
       "slug": "count-subarrays-with-fixed-bounds",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-with-fixed-bounds/"
+      "link": "/problems/count-subarrays-with-fixed-bounds/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Monotonic Queue",
+          "slug": "monotonic-queue"
+        }
+      ]
     },
     {
       "date": "2025-04-27",
@@ -243,7 +639,13 @@
       "slug": "count-subarrays-of-length-three-with-a-condition",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-of-length-three-with-a-condition/"
+      "link": "/problems/count-subarrays-of-length-three-with-a-condition/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-04-28",
@@ -252,7 +654,25 @@
       "slug": "count-subarrays-with-score-less-than-k",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-with-score-less-than-k/"
+      "link": "/problems/count-subarrays-with-score-less-than-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-29",
@@ -261,7 +681,17 @@
       "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/"
+      "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-04-30",
@@ -270,7 +700,17 @@
       "slug": "find-numbers-with-even-number-of-digits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-numbers-with-even-number-of-digits/"
+      "link": "/problems/find-numbers-with-even-number-of-digits/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +721,21 @@
       "slug": "shortest-distance-from-all-buildings",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/shortest-distance-from-all-buildings/"
+      "link": "/problems/shortest-distance-from-all-buildings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-04-08",
@@ -290,7 +744,25 @@
       "slug": "number-of-connected-components-in-an-undirected-graph",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-connected-components-in-an-undirected-graph/"
+      "link": "/problems/number-of-connected-components-in-an-undirected-graph/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2025-04-15",
@@ -299,7 +771,21 @@
       "slug": "maximum-size-subarray-sum-equals-k",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/maximum-size-subarray-sum-equals-k/"
+      "link": "/problems/maximum-size-subarray-sum-equals-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-04-22",
@@ -308,7 +794,29 @@
       "slug": "smallest-rectangle-enclosing-black-pixels",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/smallest-rectangle-enclosing-black-pixels/"
+      "link": "/problems/smallest-rectangle-enclosing-black-pixels/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-04-29",
@@ -317,7 +825,25 @@
       "slug": "sparse-matrix-multiplication",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/sparse-matrix-multiplication/"
+      "link": "/problems/sparse-matrix-multiplication/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Linear Algebra",
+          "slug": "linear-algebra"
+        }
+      ]
     }
   ]
 }

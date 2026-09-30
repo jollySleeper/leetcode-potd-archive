@@ -9,7 +9,21 @@
       "slug": "delete-nodes-from-linked-list-present-in-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/delete-nodes-from-linked-list-present-in-array/"
+      "link": "/problems/delete-nodes-from-linked-list-present-in-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2025-11-02",
@@ -18,7 +32,21 @@
       "slug": "count-unguarded-cells-in-the-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-unguarded-cells-in-the-grid/"
+      "link": "/problems/count-unguarded-cells-in-the-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-11-03",
@@ -27,7 +55,25 @@
       "slug": "minimum-time-to-make-rope-colorful",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-time-to-make-rope-colorful/"
+      "link": "/problems/minimum-time-to-make-rope-colorful/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-11-04",
@@ -36,7 +82,25 @@
       "slug": "find-x-sum-of-all-k-long-subarrays-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-x-sum-of-all-k-long-subarrays-i/"
+      "link": "/problems/find-x-sum-of-all-k-long-subarrays-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-11-05",
@@ -45,7 +109,25 @@
       "slug": "find-x-sum-of-all-k-long-subarrays-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-x-sum-of-all-k-long-subarrays-ii/"
+      "link": "/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-11-06",
@@ -54,7 +136,41 @@
       "slug": "power-grid-maintenance",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/power-grid-maintenance/"
+      "link": "/problems/power-grid-maintenance/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-11-07",
@@ -63,7 +179,33 @@
       "slug": "maximize-the-minimum-powered-city",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-the-minimum-powered-city/"
+      "link": "/problems/maximize-the-minimum-powered-city/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-11-08",
@@ -72,7 +214,29 @@
       "slug": "minimum-one-bit-operations-to-make-integers-zero",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/"
+      "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        }
+      ]
     },
     {
       "date": "2025-11-09",
@@ -81,7 +245,17 @@
       "slug": "count-operations-to-obtain-zero",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-operations-to-obtain-zero/"
+      "link": "/problems/count-operations-to-obtain-zero/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-11-10",
@@ -90,7 +264,29 @@
       "slug": "minimum-operations-to-convert-all-elements-to-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-convert-all-elements-to-zero/"
+      "link": "/problems/minimum-operations-to-convert-all-elements-to-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2025-11-11",
@@ -99,7 +295,29 @@
       "slug": "ones-and-zeroes",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/ones-and-zeroes/"
+      "link": "/problems/ones-and-zeroes/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Knapsack Problem",
+          "slug": "knapsack-problem"
+        },
+        {
+          "name": "0-1 Knapsack",
+          "slug": "0-1-knapsack"
+        }
+      ]
     },
     {
       "date": "2025-11-12",
@@ -108,7 +326,29 @@
       "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/"
+      "link": "/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        },
+        {
+          "name": "Euclidean Algorithm",
+          "slug": "euclidean-algorithm"
+        },
+        {
+          "name": "Greatest Common Divisor",
+          "slug": "greatest-common-divisor"
+        }
+      ]
     },
     {
       "date": "2025-11-13",
@@ -117,7 +357,21 @@
       "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-operations-to-move-ones-to-the-end/"
+      "link": "/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-11-14",
@@ -126,7 +380,21 @@
       "slug": "increment-submatrices-by-one",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/increment-submatrices-by-one/"
+      "link": "/problems/increment-submatrices-by-one/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-11-15",
@@ -135,7 +403,17 @@
       "slug": "count-the-number-of-substrings-with-dominant-ones",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-substrings-with-dominant-ones/"
+      "link": "/problems/count-the-number-of-substrings-with-dominant-ones/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-11-16",
@@ -144,7 +422,17 @@
       "slug": "number-of-substrings-with-only-1s",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-substrings-with-only-1s/"
+      "link": "/problems/number-of-substrings-with-only-1s/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-11-17",
@@ -153,7 +441,13 @@
       "slug": "check-if-all-1s-are-at-least-length-k-places-away",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-all-1s-are-at-least-length-k-places-away/"
+      "link": "/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-11-18",
@@ -162,7 +456,13 @@
       "slug": "1-bit-and-2-bit-characters",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/1-bit-and-2-bit-characters/"
+      "link": "/problems/1-bit-and-2-bit-characters/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-11-19",
@@ -171,7 +471,25 @@
       "slug": "keep-multiplying-found-values-by-two",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/keep-multiplying-found-values-by-two/"
+      "link": "/problems/keep-multiplying-found-values-by-two/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-11-20",
@@ -180,7 +498,21 @@
       "slug": "set-intersection-size-at-least-two",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/set-intersection-size-at-least-two/"
+      "link": "/problems/set-intersection-size-at-least-two/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-11-21",
@@ -189,7 +521,25 @@
       "slug": "unique-length-3-palindromic-subsequences",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/unique-length-3-palindromic-subsequences/"
+      "link": "/problems/unique-length-3-palindromic-subsequences/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-11-22",
@@ -198,7 +548,17 @@
       "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/"
+      "link": "/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-11-23",
@@ -207,7 +567,25 @@
       "slug": "greatest-sum-divisible-by-three",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/greatest-sum-divisible-by-three/"
+      "link": "/problems/greatest-sum-divisible-by-three/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-11-24",
@@ -216,7 +594,17 @@
       "slug": "binary-prefix-divisible-by-5",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/binary-prefix-divisible-by-5/"
+      "link": "/problems/binary-prefix-divisible-by-5/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-11-25",
@@ -225,7 +613,21 @@
       "slug": "smallest-integer-divisible-by-k",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-integer-divisible-by-k/"
+      "link": "/problems/smallest-integer-divisible-by-k/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Pigeonhole Principle",
+          "slug": "pigeonhole-principle"
+        }
+      ]
     },
     {
       "date": "2025-11-26",
@@ -234,7 +636,21 @@
       "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/paths-in-matrix-whose-sum-is-divisible-by-k/"
+      "link": "/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-11-27",
@@ -243,7 +659,21 @@
       "slug": "maximum-subarray-sum-with-length-divisible-by-k",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-subarray-sum-with-length-divisible-by-k/"
+      "link": "/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-11-28",
@@ -252,7 +682,17 @@
       "slug": "maximum-number-of-k-divisible-components",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-k-divisible-components/"
+      "link": "/problems/maximum-number-of-k-divisible-components/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ]
     },
     {
       "date": "2025-11-29",
@@ -261,7 +701,17 @@
       "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-make-array-sum-divisible-by-k/"
+      "link": "/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-11-30",
@@ -270,7 +720,21 @@
       "slug": "make-sum-divisible-by-p",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/make-sum-divisible-by-p/"
+      "link": "/problems/make-sum-divisible-by-p/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +745,25 @@
       "slug": "maximum-number-of-ones",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/maximum-number-of-ones/"
+      "link": "/problems/maximum-number-of-ones/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-11-08",
@@ -290,7 +772,29 @@
       "slug": "two-sum-iii-data-structure-design",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/two-sum-iii-data-structure-design/"
+      "link": "/problems/two-sum-iii-data-structure-design/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ]
     },
     {
       "date": "2025-11-15",
@@ -299,7 +803,25 @@
       "slug": "3sum-smaller",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/3sum-smaller/"
+      "link": "/problems/3sum-smaller/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-11-22",
@@ -308,7 +830,21 @@
       "slug": "nested-list-weight-sum-ii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/nested-list-weight-sum-ii/"
+      "link": "/problems/nested-list-weight-sum-ii/",
+      "topics": [
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2025-11-29",
@@ -317,7 +853,17 @@
       "slug": "range-addition",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/range-addition/"
+      "link": "/problems/range-addition/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-12-06",
@@ -326,7 +872,25 @@
       "slug": "two-sum-less-than-k",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/two-sum-less-than-k/"
+      "link": "/problems/two-sum-less-than-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,13 @@
       "slug": "find-the-original-typed-string-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-the-original-typed-string-i/"
+      "link": "/problems/find-the-original-typed-string-i/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-07-02",
@@ -18,7 +24,21 @@
       "slug": "find-the-original-typed-string-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-original-typed-string-ii/"
+      "link": "/problems/find-the-original-typed-string-ii/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-07-03",
@@ -27,7 +47,25 @@
       "slug": "find-the-k-th-character-in-string-game-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-the-k-th-character-in-string-game-i/"
+      "link": "/problems/find-the-k-th-character-in-string-game-i/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-07-04",
@@ -36,7 +74,21 @@
       "slug": "find-the-k-th-character-in-string-game-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-k-th-character-in-string-game-ii/"
+      "link": "/problems/find-the-k-th-character-in-string-game-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        }
+      ]
     },
     {
       "date": "2025-07-05",
@@ -45,7 +97,21 @@
       "slug": "find-lucky-integer-in-an-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-lucky-integer-in-an-array/"
+      "link": "/problems/find-lucky-integer-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-07-06",
@@ -54,7 +120,21 @@
       "slug": "finding-pairs-with-a-certain-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/finding-pairs-with-a-certain-sum/"
+      "link": "/problems/finding-pairs-with-a-certain-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        }
+      ]
     },
     {
       "date": "2025-07-07",
@@ -63,7 +143,25 @@
       "slug": "maximum-number-of-events-that-can-be-attended",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-events-that-can-be-attended/"
+      "link": "/problems/maximum-number-of-events-that-can-be-attended/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-07-08",
@@ -72,7 +170,25 @@
       "slug": "maximum-number-of-events-that-can-be-attended-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/"
+      "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-07-09",
@@ -81,7 +197,21 @@
       "slug": "reschedule-meetings-for-maximum-free-time-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/reschedule-meetings-for-maximum-free-time-i/"
+      "link": "/problems/reschedule-meetings-for-maximum-free-time-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-07-10",
@@ -90,7 +220,21 @@
       "slug": "reschedule-meetings-for-maximum-free-time-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/reschedule-meetings-for-maximum-free-time-ii/"
+      "link": "/problems/reschedule-meetings-for-maximum-free-time-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-07-11",
@@ -99,7 +243,29 @@
       "slug": "meeting-rooms-iii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/meeting-rooms-iii/"
+      "link": "/problems/meeting-rooms-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-07-12",
@@ -108,7 +274,17 @@
       "slug": "the-earliest-and-latest-rounds-where-players-compete",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/the-earliest-and-latest-rounds-where-players-compete/"
+      "link": "/problems/the-earliest-and-latest-rounds-where-players-compete/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        }
+      ]
     },
     {
       "date": "2025-07-13",
@@ -117,7 +293,25 @@
       "slug": "maximum-matching-of-players-with-trainers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-matching-of-players-with-trainers/"
+      "link": "/problems/maximum-matching-of-players-with-trainers/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-07-14",
@@ -126,7 +320,17 @@
       "slug": "convert-binary-number-in-a-linked-list-to-integer",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/"
+      "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-07-15",
@@ -135,7 +339,13 @@
       "slug": "valid-word",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/valid-word/"
+      "link": "/problems/valid-word/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-07-16",
@@ -144,7 +354,17 @@
       "slug": "find-the-maximum-length-of-valid-subsequence-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-maximum-length-of-valid-subsequence-i/"
+      "link": "/problems/find-the-maximum-length-of-valid-subsequence-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-07-17",
@@ -153,7 +373,17 @@
       "slug": "find-the-maximum-length-of-valid-subsequence-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-maximum-length-of-valid-subsequence-ii/"
+      "link": "/problems/find-the-maximum-length-of-valid-subsequence-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-07-18",
@@ -162,7 +392,21 @@
       "slug": "minimum-difference-in-sums-after-removal-of-elements",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-difference-in-sums-after-removal-of-elements/"
+      "link": "/problems/minimum-difference-in-sums-after-removal-of-elements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-07-19",
@@ -171,7 +415,25 @@
       "slug": "remove-sub-folders-from-the-filesystem",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/remove-sub-folders-from-the-filesystem/"
+      "link": "/problems/remove-sub-folders-from-the-filesystem/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2025-07-20",
@@ -180,7 +442,37 @@
       "slug": "delete-duplicate-folders-in-system",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/delete-duplicate-folders-in-system/"
+      "link": "/problems/delete-duplicate-folders-in-system/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ]
     },
     {
       "date": "2025-07-21",
@@ -189,7 +481,13 @@
       "slug": "delete-characters-to-make-fancy-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/delete-characters-to-make-fancy-string/"
+      "link": "/problems/delete-characters-to-make-fancy-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-07-22",
@@ -198,7 +496,21 @@
       "slug": "maximum-erasure-value",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-erasure-value/"
+      "link": "/problems/maximum-erasure-value/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-07-23",
@@ -207,7 +519,21 @@
       "slug": "maximum-score-from-removing-substrings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-score-from-removing-substrings/"
+      "link": "/problems/maximum-score-from-removing-substrings/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-07-24",
@@ -216,7 +542,25 @@
       "slug": "minimum-score-after-removals-on-a-tree",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-score-after-removals-on-a-tree/"
+      "link": "/problems/minimum-score-after-removals-on-a-tree/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ]
     },
     {
       "date": "2025-07-25",
@@ -225,7 +569,21 @@
       "slug": "maximum-unique-subarray-sum-after-deletion",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-unique-subarray-sum-after-deletion/"
+      "link": "/problems/maximum-unique-subarray-sum-after-deletion/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-07-26",
@@ -234,7 +592,25 @@
       "slug": "maximize-subarrays-after-removing-one-conflicting-pair",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-subarrays-after-removing-one-conflicting-pair/"
+      "link": "/problems/maximize-subarrays-after-removing-one-conflicting-pair/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-07-27",
@@ -243,7 +619,13 @@
       "slug": "count-hills-and-valleys-in-an-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-hills-and-valleys-in-an-array/"
+      "link": "/problems/count-hills-and-valleys-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-07-28",
@@ -252,7 +634,25 @@
       "slug": "count-number-of-maximum-bitwise-or-subsets",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-number-of-maximum-bitwise-or-subsets/"
+      "link": "/problems/count-number-of-maximum-bitwise-or-subsets/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-07-29",
@@ -261,7 +661,25 @@
       "slug": "smallest-subarrays-with-maximum-bitwise-or",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-subarrays-with-maximum-bitwise-or/"
+      "link": "/problems/smallest-subarrays-with-maximum-bitwise-or/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2025-07-30",
@@ -270,7 +688,21 @@
       "slug": "longest-subarray-with-maximum-bitwise-and",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-subarray-with-maximum-bitwise-and/"
+      "link": "/problems/longest-subarray-with-maximum-bitwise-and/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        }
+      ]
     },
     {
       "date": "2025-07-31",
@@ -279,7 +711,21 @@
       "slug": "bitwise-ors-of-subarrays",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/bitwise-ors-of-subarrays/"
+      "link": "/problems/bitwise-ors-of-subarrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +736,33 @@
       "slug": "largest-bst-subtree",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/largest-bst-subtree/"
+      "link": "/problems/largest-bst-subtree/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2025-07-08",
@@ -299,7 +771,25 @@
       "slug": "inorder-successor-in-bst",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/inorder-successor-in-bst/"
+      "link": "/problems/inorder-successor-in-bst/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2025-07-15",
@@ -308,7 +798,25 @@
       "slug": "word-squares",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/word-squares/"
+      "link": "/problems/word-squares/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2025-07-22",
@@ -317,7 +825,29 @@
       "slug": "word-abbreviation",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/word-abbreviation/"
+      "link": "/problems/word-abbreviation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-07-29",
@@ -326,7 +856,37 @@
       "slug": "closest-binary-search-tree-value-ii",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/closest-binary-search-tree-value-ii/"
+      "link": "/problems/closest-binary-search-tree-value-ii/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     }
   ]
 }

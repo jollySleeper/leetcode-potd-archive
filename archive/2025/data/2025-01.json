@@ -9,7 +9,17 @@
       "slug": "maximum-score-after-splitting-a-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-score-after-splitting-a-string/"
+      "link": "/problems/maximum-score-after-splitting-a-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-02",
@@ -18,7 +28,21 @@
       "slug": "count-vowel-strings-in-ranges",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-vowel-strings-in-ranges/"
+      "link": "/problems/count-vowel-strings-in-ranges/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-03",
@@ -27,7 +51,17 @@
       "slug": "number-of-ways-to-split-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-ways-to-split-array/"
+      "link": "/problems/number-of-ways-to-split-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-04",
@@ -36,7 +70,25 @@
       "slug": "unique-length-3-palindromic-subsequences",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/unique-length-3-palindromic-subsequences/"
+      "link": "/problems/unique-length-3-palindromic-subsequences/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-05",
@@ -45,7 +97,21 @@
       "slug": "shifting-letters-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/shifting-letters-ii/"
+      "link": "/problems/shifting-letters-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-06",
@@ -54,7 +120,21 @@
       "slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/"
+      "link": "/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-07",
@@ -63,7 +143,21 @@
       "slug": "string-matching-in-an-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/string-matching-in-an-array/"
+      "link": "/problems/string-matching-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ]
     },
     {
       "date": "2025-01-08",
@@ -72,7 +166,33 @@
       "slug": "count-prefix-and-suffix-pairs-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-prefix-and-suffix-pairs-i/"
+      "link": "/problems/count-prefix-and-suffix-pairs-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ]
     },
     {
       "date": "2025-01-09",
@@ -81,7 +201,21 @@
       "slug": "counting-words-with-a-given-prefix",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/counting-words-with-a-given-prefix/"
+      "link": "/problems/counting-words-with-a-given-prefix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ]
     },
     {
       "date": "2025-01-10",
@@ -90,7 +224,21 @@
       "slug": "word-subsets",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/word-subsets/"
+      "link": "/problems/word-subsets/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-01-11",
@@ -99,7 +247,25 @@
       "slug": "construct-k-palindrome-strings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-k-palindrome-strings/"
+      "link": "/problems/construct-k-palindrome-strings/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-01-12",
@@ -108,7 +274,25 @@
       "slug": "check-if-a-parentheses-string-can-be-valid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/check-if-a-parentheses-string-can-be-valid/"
+      "link": "/problems/check-if-a-parentheses-string-can-be-valid/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2025-01-13",
@@ -117,7 +301,21 @@
       "slug": "minimum-length-of-string-after-operations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-length-of-string-after-operations/"
+      "link": "/problems/minimum-length-of-string-after-operations/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-01-14",
@@ -126,7 +324,21 @@
       "slug": "find-the-prefix-common-array-of-two-arrays",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-prefix-common-array-of-two-arrays/"
+      "link": "/problems/find-the-prefix-common-array-of-two-arrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-01-15",
@@ -135,7 +347,17 @@
       "slug": "minimize-xor",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimize-xor/"
+      "link": "/problems/minimize-xor/",
+      "topics": [
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-01-16",
@@ -144,7 +366,21 @@
       "slug": "bitwise-xor-of-all-pairings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/bitwise-xor-of-all-pairings/"
+      "link": "/problems/bitwise-xor-of-all-pairings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        }
+      ]
     },
     {
       "date": "2025-01-17",
@@ -153,7 +389,17 @@
       "slug": "neighboring-bitwise-xor",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/neighboring-bitwise-xor/"
+      "link": "/problems/neighboring-bitwise-xor/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-01-18",
@@ -162,7 +408,41 @@
       "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
+      "link": "/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "0-1 BFS",
+          "slug": "0-1-bfs"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        }
+      ]
     },
     {
       "date": "2025-01-19",
@@ -171,7 +451,25 @@
       "slug": "trapping-rain-water-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/trapping-rain-water-ii/"
+      "link": "/problems/trapping-rain-water-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-20",
@@ -180,7 +478,21 @@
       "slug": "first-completely-painted-row-or-column",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/first-completely-painted-row-or-column/"
+      "link": "/problems/first-completely-painted-row-or-column/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-21",
@@ -189,7 +501,21 @@
       "slug": "grid-game",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/grid-game/"
+      "link": "/problems/grid-game/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-01-22",
@@ -198,7 +524,21 @@
       "slug": "map-of-highest-peak",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/map-of-highest-peak/"
+      "link": "/problems/map-of-highest-peak/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-23",
@@ -207,7 +547,33 @@
       "slug": "count-servers-that-communicate",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-servers-that-communicate/"
+      "link": "/problems/count-servers-that-communicate/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-01-24",
@@ -216,7 +582,33 @@
       "slug": "find-eventual-safe-states",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-eventual-safe-states/"
+      "link": "/problems/find-eventual-safe-states/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Kosaraju's Algorithm",
+          "slug": "kosarajus-algorithm"
+        },
+        {
+          "name": "Tarjan's SCC Algorithm",
+          "slug": "tarjans-scc-algorithm"
+        }
+      ]
     },
     {
       "date": "2025-01-25",
@@ -225,7 +617,21 @@
       "slug": "make-lexicographically-smallest-array-by-swapping-elements",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/"
+      "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-01-26",
@@ -234,7 +640,37 @@
       "slug": "maximum-employees-to-be-invited-to-a-meeting",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-employees-to-be-invited-to-a-meeting/"
+      "link": "/problems/maximum-employees-to-be-invited-to-a-meeting/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Kosaraju's Algorithm",
+          "slug": "kosarajus-algorithm"
+        },
+        {
+          "name": "Tarjan's SCC Algorithm",
+          "slug": "tarjans-scc-algorithm"
+        }
+      ]
     },
     {
       "date": "2025-01-27",
@@ -243,7 +679,25 @@
       "slug": "course-schedule-iv",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/course-schedule-iv/"
+      "link": "/problems/course-schedule-iv/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        }
+      ]
     },
     {
       "date": "2025-01-28",
@@ -252,7 +706,29 @@
       "slug": "maximum-number-of-fish-in-a-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-fish-in-a-grid/"
+      "link": "/problems/maximum-number-of-fish-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-29",
@@ -261,7 +737,25 @@
       "slug": "redundant-connection",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/redundant-connection/"
+      "link": "/problems/redundant-connection/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2025-01-30",
@@ -270,7 +764,25 @@
       "slug": "divide-nodes-into-the-maximum-number-of-groups",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/divide-nodes-into-the-maximum-number-of-groups/"
+      "link": "/problems/divide-nodes-into-the-maximum-number-of-groups/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2025-01-31",
@@ -279,7 +791,29 @@
       "slug": "making-a-large-island",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/making-a-large-island/"
+      "link": "/problems/making-a-large-island/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +824,21 @@
       "slug": "perform-string-shifts",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/perform-string-shifts/"
+      "link": "/problems/perform-string-shifts/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-01-08",
@@ -299,7 +847,29 @@
       "slug": "unique-substrings-with-equal-digit-frequency",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/unique-substrings-with-equal-digit-frequency/"
+      "link": "/problems/unique-substrings-with-equal-digit-frequency/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        }
+      ]
     },
     {
       "date": "2025-01-15",
@@ -308,7 +878,21 @@
       "slug": "shortest-path-to-get-food",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/shortest-path-to-get-food/"
+      "link": "/problems/shortest-path-to-get-food/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-22",
@@ -317,7 +901,33 @@
       "slug": "sum-of-remoteness-of-all-cells",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/sum-of-remoteness-of-all-cells/"
+      "link": "/problems/sum-of-remoteness-of-all-cells/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-01-29",
@@ -326,7 +936,25 @@
       "slug": "graph-valid-tree",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/graph-valid-tree/"
+      "link": "/problems/graph-valid-tree/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,37 @@
       "slug": "predict-the-winner",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/predict-the-winner/"
+      "link": "/problems/predict-the-winner/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-02",
@@ -18,7 +48,33 @@
       "slug": "stone-game",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/stone-game/"
+      "link": "/problems/stone-game/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-03",
@@ -27,7 +83,33 @@
       "slug": "stone-game-iii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-iii/"
+      "link": "/problems/stone-game-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-04",
@@ -36,7 +118,21 @@
       "slug": "find-missing-elements",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-missing-elements/"
+      "link": "/problems/find-missing-elements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-08-05",
@@ -45,7 +141,21 @@
       "slug": "remove-methods-from-project",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/remove-methods-from-project/"
+      "link": "/problems/remove-methods-from-project/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2026-08-06",
@@ -54,7 +164,17 @@
       "slug": "smallest-divisible-digit-product-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-divisible-digit-product-i/"
+      "link": "/problems/smallest-divisible-digit-product-i/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-08-07",
@@ -63,7 +183,29 @@
       "slug": "smallest-divisible-digit-product-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/smallest-divisible-digit-product-ii/"
+      "link": "/problems/smallest-divisible-digit-product-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2026-08-08",
@@ -72,7 +214,25 @@
       "slug": "find-the-lexicographically-smallest-valid-sequence",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-lexicographically-smallest-valid-sequence/"
+      "link": "/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-08-09",
@@ -81,7 +241,37 @@
       "slug": "stone-game-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-ii/"
+      "link": "/problems/stone-game-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-10",
@@ -90,7 +280,37 @@
       "slug": "stone-game-iv",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-iv/"
+      "link": "/problems/stone-game-iv/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Nim Game",
+          "slug": "nim-game"
+        },
+        {
+          "name": "Sprague–Grundy Theorem",
+          "slug": "sprague-grundy-theorem"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-11",
@@ -99,7 +319,21 @@
       "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/"
+      "link": "/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-08-12",
@@ -108,7 +342,21 @@
       "slug": "length-of-longest-subarray-with-at-most-k-frequency",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/length-of-longest-subarray-with-at-most-k-frequency/"
+      "link": "/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-08-13",
@@ -117,7 +365,25 @@
       "slug": "longest-substring-of-one-repeating-character",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/longest-substring-of-one-repeating-character/"
+      "link": "/problems/longest-substring-of-one-repeating-character/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-08-14",
@@ -126,7 +392,21 @@
       "slug": "maximum-length-substring-with-two-occurrences",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-length-substring-with-two-occurrences/"
+      "link": "/problems/maximum-length-substring-with-two-occurrences/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-08-15",
@@ -135,7 +415,17 @@
       "slug": "longest-subsequence-with-non-zero-bitwise-xor",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-subsequence-with-non-zero-bitwise-xor/"
+      "link": "/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-08-16",
@@ -144,7 +434,41 @@
       "slug": "stone-game-ix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-ix/"
+      "link": "/problems/stone-game-ix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Nim Game",
+          "slug": "nim-game"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-17",
@@ -153,7 +477,25 @@
       "slug": "stone-game-v",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-v/"
+      "link": "/problems/stone-game-v/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ]
     },
     {
       "date": "2026-08-18",
@@ -162,7 +504,17 @@
       "slug": "find-the-largest-almost-missing-integer",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-the-largest-almost-missing-integer/"
+      "link": "/problems/find-the-largest-almost-missing-integer/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2026-08-19",
@@ -171,7 +523,25 @@
       "slug": "cinema-seat-allocation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/cinema-seat-allocation/"
+      "link": "/problems/cinema-seat-allocation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-08-20",
@@ -180,7 +550,21 @@
       "slug": "distribute-elements-into-two-arrays-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/distribute-elements-into-two-arrays-i/"
+      "link": "/problems/distribute-elements-into-two-arrays-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-08-21",
@@ -189,7 +573,33 @@
       "slug": "kth-smallest-amount-with-single-denomination-combination",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/kth-smallest-amount-with-single-denomination-combination/"
+      "link": "/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2026-08-22",
@@ -198,7 +608,13 @@
       "slug": "check-divisibility-by-digit-sum-and-product",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-divisibility-by-digit-sum-and-product/"
+      "link": "/problems/check-divisibility-by-digit-sum-and-product/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-08-23",
@@ -207,7 +623,25 @@
       "slug": "sum-game",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sum-game/"
+      "link": "/problems/sum-game/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ]
     },
     {
       "date": "2026-08-24",
@@ -216,7 +650,37 @@
       "slug": "stone-game-viii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/stone-game-viii/"
+      "link": "/problems/stone-game-viii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        },
+        {
+          "name": "Zero-Sum Game",
+          "slug": "zero-sum-game"
+        }
+      ]
     },
     {
       "date": "2026-08-25",
@@ -225,7 +689,17 @@
       "slug": "smallest-missing-multiple-of-k",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-missing-multiple-of-k/"
+      "link": "/problems/smallest-missing-multiple-of-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2026-08-26",
@@ -234,7 +708,17 @@
       "slug": "shortest-and-lexicographically-smallest-beautiful-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/shortest-and-lexicographically-smallest-beautiful-string/"
+      "link": "/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-08-27",
@@ -243,7 +727,29 @@
       "slug": "lexicographically-smallest-permutation-greater-than-target",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/lexicographically-smallest-permutation-greater-than-target/"
+      "link": "/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-08-28",
@@ -252,7 +758,21 @@
       "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/"
+      "link": "/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-08-29",
@@ -261,7 +781,21 @@
       "slug": "make-lexicographically-smallest-array-by-swapping-elements",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/"
+      "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-08-30",
@@ -270,7 +804,17 @@
       "slug": "removing-minimum-and-maximum-from-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/removing-minimum-and-maximum-from-array/"
+      "link": "/problems/removing-minimum-and-maximum-from-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-08-31",
@@ -279,7 +823,13 @@
       "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+      "link": "/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +840,25 @@
       "slug": "minimum-time-to-build-blocks",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/minimum-time-to-build-blocks/"
+      "link": "/problems/minimum-time-to-build-blocks/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-08-08",
@@ -299,7 +867,41 @@
       "slug": "smallest-common-region",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/smallest-common-region/"
+      "link": "/problems/smallest-common-region/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        }
+      ]
     },
     {
       "date": "2026-08-15",
@@ -308,7 +910,33 @@
       "slug": "range-sum-query-2d-mutable",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/range-sum-query-2d-mutable/"
+      "link": "/problems/range-sum-query-2d-mutable/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Sqrt Decomposition",
+          "slug": "sqrt-decomposition"
+        }
+      ]
     },
     {
       "date": "2026-08-22",
@@ -317,7 +945,25 @@
       "slug": "android-unlock-patterns",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/android-unlock-patterns/"
+      "link": "/problems/android-unlock-patterns/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ]
     },
     {
       "date": "2026-08-29",
@@ -326,7 +972,21 @@
       "slug": "similar-rgb-color",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/similar-rgb-color/"
+      "link": "/problems/similar-rgb-color/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-09-05",
@@ -335,7 +995,17 @@
       "slug": "counting-elements",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/counting-elements/"
+      "link": "/problems/counting-elements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     }
   ]
 }

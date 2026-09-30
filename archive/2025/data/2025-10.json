@@ -9,7 +9,17 @@
       "slug": "water-bottles",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/water-bottles/"
+      "link": "/problems/water-bottles/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-10-02",
@@ -18,7 +28,17 @@
       "slug": "water-bottles-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/water-bottles-ii/"
+      "link": "/problems/water-bottles-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-10-03",
@@ -27,7 +47,25 @@
       "slug": "trapping-rain-water-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/trapping-rain-water-ii/"
+      "link": "/problems/trapping-rain-water-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-10-04",
@@ -36,7 +74,21 @@
       "slug": "container-with-most-water",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/container-with-most-water/"
+      "link": "/problems/container-with-most-water/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-10-05",
@@ -45,7 +97,25 @@
       "slug": "pacific-atlantic-water-flow",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/pacific-atlantic-water-flow/"
+      "link": "/problems/pacific-atlantic-water-flow/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-10-06",
@@ -54,7 +124,45 @@
       "slug": "swim-in-rising-water",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/swim-in-rising-water/"
+      "link": "/problems/swim-in-rising-water/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Minimax",
+          "slug": "minimax-algorithm"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        }
+      ]
     },
     {
       "date": "2025-10-07",
@@ -63,7 +171,29 @@
       "slug": "avoid-flood-in-the-city",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/avoid-flood-in-the-city/"
+      "link": "/problems/avoid-flood-in-the-city/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-10-08",
@@ -72,7 +202,25 @@
       "slug": "successful-pairs-of-spells-and-potions",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/successful-pairs-of-spells-and-potions/"
+      "link": "/problems/successful-pairs-of-spells-and-potions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-10-09",
@@ -81,7 +229,21 @@
       "slug": "find-the-minimum-amount-of-time-to-brew-potions",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-minimum-amount-of-time-to-brew-potions/"
+      "link": "/problems/find-the-minimum-amount-of-time-to-brew-potions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-10-10",
@@ -90,7 +252,21 @@
       "slug": "taking-maximum-energy-from-the-mystic-dungeon",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/taking-maximum-energy-from-the-mystic-dungeon/"
+      "link": "/problems/taking-maximum-energy-from-the-mystic-dungeon/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-10-11",
@@ -99,7 +275,37 @@
       "slug": "maximum-total-damage-with-spell-casting",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-total-damage-with-spell-casting/"
+      "link": "/problems/maximum-total-damage-with-spell-casting/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-10-12",
@@ -108,7 +314,33 @@
       "slug": "find-sum-of-array-product-of-magical-sequences",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-sum-of-array-product-of-magical-sequences/"
+      "link": "/problems/find-sum-of-array-product-of-magical-sequences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ]
     },
     {
       "date": "2025-10-13",
@@ -117,7 +349,25 @@
       "slug": "find-resultant-array-after-removing-anagrams",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-resultant-array-after-removing-anagrams/"
+      "link": "/problems/find-resultant-array-after-removing-anagrams/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-10-14",
@@ -126,7 +376,13 @@
       "slug": "adjacent-increasing-subarrays-detection-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/adjacent-increasing-subarrays-detection-i/"
+      "link": "/problems/adjacent-increasing-subarrays-detection-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2025-10-15",
@@ -135,7 +391,17 @@
       "slug": "adjacent-increasing-subarrays-detection-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/adjacent-increasing-subarrays-detection-ii/"
+      "link": "/problems/adjacent-increasing-subarrays-detection-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2025-10-16",
@@ -144,7 +410,25 @@
       "slug": "smallest-missing-non-negative-integer-after-operations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-missing-non-negative-integer-after-operations/"
+      "link": "/problems/smallest-missing-non-negative-integer-after-operations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-10-17",
@@ -153,7 +437,25 @@
       "slug": "maximize-the-number-of-partitions-after-operations",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-the-number-of-partitions-after-operations/"
+      "link": "/problems/maximize-the-number-of-partitions-after-operations/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        }
+      ]
     },
     {
       "date": "2025-10-18",
@@ -162,7 +464,21 @@
       "slug": "maximum-number-of-distinct-elements-after-operations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-distinct-elements-after-operations/"
+      "link": "/problems/maximum-number-of-distinct-elements-after-operations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-10-19",
@@ -171,7 +487,25 @@
       "slug": "lexicographically-smallest-string-after-applying-operations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/lexicographically-smallest-string-after-applying-operations/"
+      "link": "/problems/lexicographically-smallest-string-after-applying-operations/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-10-20",
@@ -180,7 +514,21 @@
       "slug": "final-value-of-variable-after-performing-operations",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/final-value-of-variable-after-performing-operations/"
+      "link": "/problems/final-value-of-variable-after-performing-operations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-10-21",
@@ -189,7 +537,29 @@
       "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-i/"
+      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-10-22",
@@ -198,7 +568,29 @@
       "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-ii/"
+      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-10-23",
@@ -207,7 +599,29 @@
       "slug": "check-if-digits-are-equal-in-string-after-operations-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-digits-are-equal-in-string-after-operations-i/"
+      "link": "/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2025-10-24",
@@ -216,7 +630,29 @@
       "slug": "next-greater-numerically-balanced-number",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/next-greater-numerically-balanced-number/"
+      "link": "/problems/next-greater-numerically-balanced-number/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-10-25",
@@ -225,7 +661,13 @@
       "slug": "calculate-money-in-leetcode-bank",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/calculate-money-in-leetcode-bank/"
+      "link": "/problems/calculate-money-in-leetcode-bank/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-10-26",
@@ -234,7 +676,25 @@
       "slug": "simple-bank-system",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/simple-bank-system/"
+      "link": "/problems/simple-bank-system/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-10-27",
@@ -243,7 +703,25 @@
       "slug": "number-of-laser-beams-in-a-bank",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-laser-beams-in-a-bank/"
+      "link": "/problems/number-of-laser-beams-in-a-bank/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-10-28",
@@ -252,7 +730,21 @@
       "slug": "make-array-elements-equal-to-zero",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/make-array-elements-equal-to-zero/"
+      "link": "/problems/make-array-elements-equal-to-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2025-10-29",
@@ -261,7 +753,17 @@
       "slug": "smallest-number-with-all-set-bits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-number-with-all-set-bits/"
+      "link": "/problems/smallest-number-with-all-set-bits/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-10-30",
@@ -270,7 +772,29 @@
       "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/"
+      "link": "/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2025-10-31",
@@ -279,7 +803,21 @@
       "slug": "the-two-sneaky-numbers-of-digitville",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/the-two-sneaky-numbers-of-digitville/"
+      "link": "/problems/the-two-sneaky-numbers-of-digitville/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +828,25 @@
       "slug": "connecting-cities-with-minimum-cost",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/connecting-cities-with-minimum-cost/"
+      "link": "/problems/connecting-cities-with-minimum-cost/",
+      "topics": [
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Minimum Spanning Tree",
+          "slug": "minimum-spanning-tree"
+        }
+      ]
     },
     {
       "date": "2025-10-08",
@@ -299,7 +855,17 @@
       "slug": "minimize-max-distance-to-gas-station",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/minimize-max-distance-to-gas-station/"
+      "link": "/problems/minimize-max-distance-to-gas-station/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2025-10-15",
@@ -308,7 +874,17 @@
       "slug": "coin-path",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/coin-path/"
+      "link": "/problems/coin-path/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-10-22",
@@ -317,7 +893,29 @@
       "slug": "dot-product-of-two-sparse-vectors",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/dot-product-of-two-sparse-vectors/"
+      "link": "/problems/dot-product-of-two-sparse-vectors/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Linear Algebra",
+          "slug": "linear-algebra"
+        }
+      ]
     },
     {
       "date": "2025-10-29",
@@ -326,7 +924,25 @@
       "slug": "minimum-subarrays-in-a-valid-split",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/minimum-subarrays-in-a-valid-split/"
+      "link": "/problems/minimum-subarrays-in-a-valid-split/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     }
   ]
 }

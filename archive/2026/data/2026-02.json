@@ -9,7 +9,21 @@
       "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-i/"
+      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-02-02",
@@ -18,7 +32,25 @@
       "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/"
+      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-02-03",
@@ -27,7 +59,13 @@
       "slug": "trionic-array-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/trionic-array-i/"
+      "link": "/problems/trionic-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2026-02-04",
@@ -36,7 +74,17 @@
       "slug": "trionic-array-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/trionic-array-ii/"
+      "link": "/problems/trionic-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-02-05",
@@ -45,7 +93,17 @@
       "slug": "transformed-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/transformed-array/"
+      "link": "/problems/transformed-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-02-06",
@@ -54,7 +112,25 @@
       "slug": "minimum-removals-to-balance-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-removals-to-balance-array/"
+      "link": "/problems/minimum-removals-to-balance-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-02-07",
@@ -63,7 +139,21 @@
       "slug": "minimum-deletions-to-make-string-balanced",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-deletions-to-make-string-balanced/"
+      "link": "/problems/minimum-deletions-to-make-string-balanced/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2026-02-08",
@@ -72,7 +162,21 @@
       "slug": "balanced-binary-tree",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/balanced-binary-tree/"
+      "link": "/problems/balanced-binary-tree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-02-09",
@@ -81,7 +185,33 @@
       "slug": "balance-a-binary-search-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/balance-a-binary-search-tree/"
+      "link": "/problems/balance-a-binary-search-tree/",
+      "topics": [
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Search Tree",
+          "slug": "binary-search-tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-02-10",
@@ -90,7 +220,29 @@
       "slug": "longest-balanced-subarray-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-balanced-subarray-i/"
+      "link": "/problems/longest-balanced-subarray-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-02-11",
@@ -99,7 +251,29 @@
       "slug": "longest-balanced-subarray-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/longest-balanced-subarray-ii/"
+      "link": "/problems/longest-balanced-subarray-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-02-12",
@@ -108,7 +282,25 @@
       "slug": "longest-balanced-substring-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-balanced-substring-i/"
+      "link": "/problems/longest-balanced-substring-i/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-02-13",
@@ -117,7 +309,21 @@
       "slug": "longest-balanced-substring-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-balanced-substring-ii/"
+      "link": "/problems/longest-balanced-substring-ii/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-02-14",
@@ -126,7 +332,13 @@
       "slug": "champagne-tower",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/champagne-tower/"
+      "link": "/problems/champagne-tower/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-02-15",
@@ -135,7 +347,25 @@
       "slug": "add-binary",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/add-binary/"
+      "link": "/problems/add-binary/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-02-16",
@@ -144,7 +374,17 @@
       "slug": "reverse-bits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/reverse-bits/"
+      "link": "/problems/reverse-bits/",
+      "topics": [
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-02-17",
@@ -153,7 +393,17 @@
       "slug": "binary-watch",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/binary-watch/"
+      "link": "/problems/binary-watch/",
+      "topics": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-02-18",
@@ -162,7 +412,13 @@
       "slug": "binary-number-with-alternating-bits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/binary-number-with-alternating-bits/"
+      "link": "/problems/binary-number-with-alternating-bits/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-02-19",
@@ -171,7 +427,17 @@
       "slug": "count-binary-substrings",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-binary-substrings/"
+      "link": "/problems/count-binary-substrings/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-02-20",
@@ -180,7 +446,21 @@
       "slug": "special-binary-string",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/special-binary-string/"
+      "link": "/problems/special-binary-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-02-21",
@@ -189,7 +469,21 @@
       "slug": "prime-number-of-set-bits-in-binary-representation",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/prime-number-of-set-bits-in-binary-representation/"
+      "link": "/problems/prime-number-of-set-bits-in-binary-representation/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Primality Test",
+          "slug": "primality-test"
+        }
+      ]
     },
     {
       "date": "2026-02-22",
@@ -198,7 +492,13 @@
       "slug": "binary-gap",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/binary-gap/"
+      "link": "/problems/binary-gap/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-02-23",
@@ -207,7 +507,33 @@
       "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/"
+      "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Rolling Hash",
+          "slug": "rolling-hash"
+        },
+        {
+          "name": "Hash Function",
+          "slug": "hash-function"
+        },
+        {
+          "name": "Directed Acyclic Graph",
+          "slug": "directed-acyclic-graph"
+        }
+      ]
     },
     {
       "date": "2026-02-24",
@@ -216,7 +542,21 @@
       "slug": "sum-of-root-to-leaf-binary-numbers",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-root-to-leaf-binary-numbers/"
+      "link": "/problems/sum-of-root-to-leaf-binary-numbers/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-02-25",
@@ -225,7 +565,25 @@
       "slug": "sort-integers-by-the-number-of-1-bits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sort-integers-by-the-number-of-1-bits/"
+      "link": "/problems/sort-integers-by-the-number-of-1-bits/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2026-02-26",
@@ -234,7 +592,21 @@
       "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
+      "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-02-27",
@@ -243,7 +615,29 @@
       "slug": "minimum-operations-to-equalize-binary-string",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-equalize-binary-string/"
+      "link": "/problems/minimum-operations-to-equalize-binary-string/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-02-28",
@@ -252,7 +646,21 @@
       "slug": "concatenation-of-consecutive-binary-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/concatenation-of-consecutive-binary-numbers/"
+      "link": "/problems/concatenation-of-consecutive-binary-numbers/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -263,7 +671,29 @@
       "slug": "design-hit-counter",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-hit-counter/"
+      "link": "/problems/design-hit-counter/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ]
     },
     {
       "date": "2026-02-08",
@@ -272,7 +702,17 @@
       "slug": "4-keys-keyboard",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/4-keys-keyboard/"
+      "link": "/problems/4-keys-keyboard/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-02-15",
@@ -281,7 +721,17 @@
       "slug": "valid-word-square",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/valid-word-square/"
+      "link": "/problems/valid-word-square/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-02-22",
@@ -290,7 +740,33 @@
       "slug": "rearrange-string-k-distance-apart",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/rearrange-string-k-distance-apart/"
+      "link": "/problems/rearrange-string-k-distance-apart/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     }
   ]
 }

@@ -9,7 +9,29 @@
       "slug": "minimum-moves-to-clean-the-classroom",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-moves-to-clean-the-classroom/"
+      "link": "/problems/minimum-moves-to-clean-the-classroom/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-09-02",
@@ -18,7 +40,17 @@
       "slug": "construct-uniform-parity-array-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/construct-uniform-parity-array-i/"
+      "link": "/problems/construct-uniform-parity-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-09-03",
@@ -27,7 +59,17 @@
       "slug": "construct-uniform-parity-array-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-uniform-parity-array-ii/"
+      "link": "/problems/construct-uniform-parity-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-09-04",
@@ -36,7 +78,17 @@
       "slug": "smallest-stable-index-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-stable-index-i/"
+      "link": "/problems/smallest-stable-index-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-09-05",
@@ -45,7 +97,17 @@
       "slug": "smallest-stable-index-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-stable-index-ii/"
+      "link": "/problems/smallest-stable-index-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-09-06",
@@ -54,7 +116,17 @@
       "slug": "distinct-subsequences",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/distinct-subsequences/"
+      "link": "/problems/distinct-subsequences/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-09-07",
@@ -63,7 +135,17 @@
       "slug": "distinct-subsequences-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/distinct-subsequences-ii/"
+      "link": "/problems/distinct-subsequences-ii/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-09-08",
@@ -72,7 +154,13 @@
       "slug": "count-commas-in-range",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-commas-in-range/"
+      "link": "/problems/count-commas-in-range/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-09-09",
@@ -81,7 +169,13 @@
       "slug": "count-commas-in-range-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-commas-in-range-ii/"
+      "link": "/problems/count-commas-in-range-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-09-10",
@@ -90,7 +184,21 @@
       "slug": "count-nodes-equal-to-average-of-subtree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-nodes-equal-to-average-of-subtree/"
+      "link": "/problems/count-nodes-equal-to-average-of-subtree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-09-11",
@@ -99,7 +207,25 @@
       "slug": "unique-3-digit-even-numbers",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/unique-3-digit-even-numbers/"
+      "link": "/problems/unique-3-digit-even-numbers/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-09-12",
@@ -108,7 +234,25 @@
       "slug": "maximum-score-of-non-overlapping-intervals",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-score-of-non-overlapping-intervals/"
+      "link": "/problems/maximum-score-of-non-overlapping-intervals/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-09-13",
@@ -117,7 +261,17 @@
       "slug": "image-overlap",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/image-overlap/"
+      "link": "/problems/image-overlap/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-09-14",
@@ -126,7 +280,17 @@
       "slug": "rectangle-overlap",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/rectangle-overlap/"
+      "link": "/problems/rectangle-overlap/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ]
     },
     {
       "date": "2026-09-15",
@@ -135,7 +299,25 @@
       "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+      "link": "/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-09-16",
@@ -144,7 +326,25 @@
       "slug": "number-of-sets-of-k-non-overlapping-line-segments",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-sets-of-k-non-overlapping-line-segments/"
+      "link": "/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-09-17",
@@ -153,7 +353,29 @@
       "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/"
+      "link": "/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-09-18",
@@ -162,7 +384,25 @@
       "slug": "maximum-number-of-non-overlapping-substrings",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-non-overlapping-substrings/"
+      "link": "/problems/maximum-number-of-non-overlapping-substrings/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-09-19",
@@ -171,7 +411,17 @@
       "slug": "circle-and-rectangle-overlapping",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/circle-and-rectangle-overlapping/"
+      "link": "/problems/circle-and-rectangle-overlapping/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ]
     },
     {
       "date": "2026-09-20",
@@ -180,7 +430,17 @@
       "slug": "reverse-degree-of-a-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/reverse-degree-of-a-string/"
+      "link": "/problems/reverse-degree-of-a-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-09-21",
@@ -189,7 +449,21 @@
       "slug": "find-x-value-of-array-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-x-value-of-array-i/"
+      "link": "/problems/find-x-value-of-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-09-22",
@@ -198,7 +472,21 @@
       "slug": "find-x-value-of-array-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-x-value-of-array-ii/"
+      "link": "/problems/find-x-value-of-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        }
+      ]
     },
     {
       "date": "2026-09-23",
@@ -207,7 +495,29 @@
       "slug": "minimum-operations-to-reduce-x-to-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-reduce-x-to-zero/"
+      "link": "/problems/minimum-operations-to-reduce-x-to-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-09-24",
@@ -216,7 +526,17 @@
       "slug": "smallest-index-with-digit-sum-equal-to-index",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/smallest-index-with-digit-sum-equal-to-index/"
+      "link": "/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-09-25",
@@ -225,7 +545,33 @@
       "slug": "brace-expansion-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/brace-expansion-ii/"
+      "link": "/problems/brace-expansion-ii/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-09-26",
@@ -234,7 +580,21 @@
       "slug": "evaluate-the-bracket-pairs-of-a-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/evaluate-the-bracket-pairs-of-a-string/"
+      "link": "/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-09-27",
@@ -243,7 +603,21 @@
       "slug": "reverse-substrings-between-each-pair-of-parentheses",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/"
+      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2026-09-28",
@@ -252,7 +626,21 @@
       "slug": "maximum-nesting-depth-of-the-parentheses",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-nesting-depth-of-the-parentheses/"
+      "link": "/problems/maximum-nesting-depth-of-the-parentheses/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2026-09-29",
@@ -261,7 +649,25 @@
       "slug": "check-if-there-is-a-valid-parentheses-string-path",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/check-if-there-is-a-valid-parentheses-string-path/"
+      "link": "/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2026-09-30",
@@ -270,7 +676,21 @@
       "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/"
+      "link": "/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +701,25 @@
       "slug": "maximum-number-of-books-you-can-take",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/maximum-number-of-books-you-can-take/"
+      "link": "/problems/maximum-number-of-books-you-can-take/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2026-09-08",
@@ -290,7 +728,25 @@
       "slug": "high-five",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/high-five/"
+      "link": "/problems/high-five/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-09-15",
@@ -299,7 +755,21 @@
       "slug": "buildings-with-an-ocean-view",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/buildings-with-an-ocean-view/"
+      "link": "/problems/buildings-with-an-ocean-view/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2026-09-22",
@@ -308,7 +778,17 @@
       "slug": "ip-to-cidr",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/ip-to-cidr/"
+      "link": "/problems/ip-to-cidr/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-09-29",
@@ -317,7 +797,25 @@
       "slug": "web-crawler",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/web-crawler/"
+      "link": "/problems/web-crawler/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ]
     }
   ]
 }

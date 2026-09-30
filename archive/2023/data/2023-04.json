@@ -9,7 +9,17 @@
       "slug": "binary-search",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/binary-search/"
+      "link": "/problems/binary-search/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2023-04-02",
@@ -18,7 +28,25 @@
       "slug": "successful-pairs-of-spells-and-potions",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/successful-pairs-of-spells-and-potions/"
+      "link": "/problems/successful-pairs-of-spells-and-potions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2023-04-03",
@@ -27,7 +55,29 @@
       "slug": "boats-to-save-people",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/boats-to-save-people/"
+      "link": "/problems/boats-to-save-people/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Timsort",
+          "slug": "timsort"
+        }
+      ]
     },
     {
       "date": "2023-04-04",
@@ -36,7 +86,21 @@
       "slug": "optimal-partition-of-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/optimal-partition-of-string/"
+      "link": "/problems/optimal-partition-of-string/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2023-04-05",
@@ -45,7 +109,29 @@
       "slug": "minimize-maximum-of-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimize-maximum-of-array/"
+      "link": "/problems/minimize-maximum-of-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2023-04-06",
@@ -54,7 +140,29 @@
       "slug": "number-of-closed-islands",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-closed-islands/"
+      "link": "/problems/number-of-closed-islands/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2023-04-07",
@@ -63,7 +171,29 @@
       "slug": "number-of-enclaves",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-enclaves/"
+      "link": "/problems/number-of-enclaves/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2023-04-08",
@@ -72,7 +202,25 @@
       "slug": "clone-graph",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/clone-graph/"
+      "link": "/problems/clone-graph/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2023-04-09",
@@ -81,7 +229,41 @@
       "slug": "largest-color-value-in-a-directed-graph",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/largest-color-value-in-a-directed-graph/"
+      "link": "/problems/largest-color-value-in-a-directed-graph/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Directed Acyclic Graph",
+          "slug": "directed-acyclic-graph"
+        }
+      ]
     },
     {
       "date": "2023-04-10",
@@ -90,7 +272,21 @@
       "slug": "valid-parentheses",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/valid-parentheses/"
+      "link": "/problems/valid-parentheses/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2023-04-11",
@@ -99,7 +295,21 @@
       "slug": "removing-stars-from-a-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/removing-stars-from-a-string/"
+      "link": "/problems/removing-stars-from-a-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2023-04-12",
@@ -108,7 +318,17 @@
       "slug": "simplify-path",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/simplify-path/"
+      "link": "/problems/simplify-path/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2023-04-13",
@@ -117,7 +337,21 @@
       "slug": "validate-stack-sequences",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/validate-stack-sequences/"
+      "link": "/problems/validate-stack-sequences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2023-04-14",
@@ -126,7 +360,17 @@
       "slug": "longest-palindromic-subsequence",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-palindromic-subsequence/"
+      "link": "/problems/longest-palindromic-subsequence/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2023-04-15",
@@ -135,7 +379,21 @@
       "slug": "maximum-value-of-k-coins-from-piles",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-value-of-k-coins-from-piles/"
+      "link": "/problems/maximum-value-of-k-coins-from-piles/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2023-04-16",
@@ -144,7 +402,21 @@
       "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/"
+      "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2023-04-17",
@@ -153,7 +425,13 @@
       "slug": "kids-with-the-greatest-number-of-candies",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/kids-with-the-greatest-number-of-candies/"
+      "link": "/problems/kids-with-the-greatest-number-of-candies/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2023-04-18",
@@ -162,7 +440,17 @@
       "slug": "merge-strings-alternately",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/merge-strings-alternately/"
+      "link": "/problems/merge-strings-alternately/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2023-04-19",
@@ -171,7 +459,29 @@
       "slug": "longest-zigzag-path-in-a-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-zigzag-path-in-a-binary-tree/"
+      "link": "/problems/longest-zigzag-path-in-a-binary-tree/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2023-04-20",
@@ -180,7 +490,25 @@
       "slug": "maximum-width-of-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-width-of-binary-tree/"
+      "link": "/problems/maximum-width-of-binary-tree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2023-04-21",
@@ -189,7 +517,25 @@
       "slug": "profitable-schemes",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/profitable-schemes/"
+      "link": "/problems/profitable-schemes/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Knapsack Problem",
+          "slug": "knapsack-problem"
+        },
+        {
+          "name": "0-1 Knapsack",
+          "slug": "0-1-knapsack"
+        }
+      ]
     },
     {
       "date": "2023-04-22",
@@ -198,7 +544,17 @@
       "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+      "link": "/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2023-04-23",
@@ -207,7 +563,17 @@
       "slug": "restore-the-array",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/restore-the-array/"
+      "link": "/problems/restore-the-array/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2023-04-24",
@@ -216,7 +582,17 @@
       "slug": "last-stone-weight",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/last-stone-weight/"
+      "link": "/problems/last-stone-weight/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2023-04-25",
@@ -225,7 +601,25 @@
       "slug": "smallest-number-in-infinite-set",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-number-in-infinite-set/"
+      "link": "/problems/smallest-number-in-infinite-set/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2023-04-26",
@@ -234,7 +628,21 @@
       "slug": "add-digits",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/add-digits/"
+      "link": "/problems/add-digits/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2023-04-27",
@@ -243,7 +651,17 @@
       "slug": "bulb-switcher",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/bulb-switcher/"
+      "link": "/problems/bulb-switcher/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        }
+      ]
     },
     {
       "date": "2023-04-28",
@@ -252,7 +670,33 @@
       "slug": "similar-string-groups",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/similar-string-groups/"
+      "link": "/problems/similar-string-groups/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        }
+      ]
     },
     {
       "date": "2023-04-29",
@@ -261,7 +705,29 @@
       "slug": "checking-existence-of-edge-length-limited-paths",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/checking-existence-of-edge-length-limited-paths/"
+      "link": "/problems/checking-existence-of-edge-length-limited-paths/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2023-04-30",
@@ -270,7 +736,17 @@
       "slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/"
+      "link": "/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/",
+      "topics": [
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +757,17 @@
       "slug": "shortest-word-distance-iii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/shortest-word-distance-iii/"
+      "link": "/problems/shortest-word-distance-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2023-04-08",
@@ -290,7 +776,17 @@
       "slug": "find-anagram-mappings",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/find-anagram-mappings/"
+      "link": "/problems/find-anagram-mappings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2023-04-15",
@@ -299,7 +795,25 @@
       "slug": "the-most-similar-path-in-a-graph",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/the-most-similar-path-in-a-graph/"
+      "link": "/problems/the-most-similar-path-in-a-graph/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2023-04-22",
@@ -308,7 +822,21 @@
       "slug": "minimum-window-subsequence",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/minimum-window-subsequence/"
+      "link": "/problems/minimum-window-subsequence/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2023-04-29",
@@ -317,7 +845,25 @@
       "slug": "guess-the-majority-in-a-hidden-array",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/guess-the-majority-in-a-hidden-array/"
+      "link": "/problems/guess-the-majority-in-a-hidden-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        },
+        {
+          "name": "Boyer–Moore Majority Vote Algorithm",
+          "slug": "boyer-moore-majority-vote-algorithm"
+        }
+      ]
     }
   ]
 }

@@ -20,9 +20,11 @@ def utc(year: int, month: int, day: int, hour: int = 0, minute: int = 0) -> date
 
 
 def api_item(day: str, qid: str, title: str | None = None, slug: str | None = None,
-             difficulty: str = "Medium", paid: bool = False) -> dict:
+             difficulty: str = "Medium", paid: bool = False, topics=None) -> dict:
     """One API list item, shaped like the LeetCode response."""
     slug = slug or f"problem-{qid}"
+    if topics is None:
+        topics = [{"name": "Array", "slug": "array"}]
     return {
         "date": day,
         "link": f"/problems/{slug}/",
@@ -32,6 +34,7 @@ def api_item(day: str, qid: str, title: str | None = None, slug: str | None = No
             "titleSlug": slug,
             "difficulty": difficulty,
             "isPaidOnly": paid,
+            "topicTags": topics,
         },
     }
 
@@ -231,6 +234,18 @@ class FieldRuleTests(unittest.TestCase):
         self.payload["data"]["dailyCodingChallengeV2"]["weeklyChallenges"][0]["date"] = "2025-12-29"
         self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
 
+    def test_rule_9_topic_tags_missing(self):
+        del self.daily["question"]["topicTags"]
+        self.assertInvalid()
+
+    def test_rule_9_topic_tag_without_slug(self):
+        self.weekly["question"]["topicTags"] = [{"name": "Array"}]
+        self.assertInvalid()
+
+    def test_rule_9_allows_no_topic_tags(self):
+        self.daily["question"]["topicTags"] = []
+        self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
 
 class NormalizationTests(unittest.TestCase):
     def setUp(self):
@@ -238,7 +253,10 @@ class NormalizationTests(unittest.TestCase):
                              difficulty="Hard", paid=True)]
         payload = api_payload(2026, 5, weeklies=weeklies)
         record = payload["data"]["dailyCodingChallengeV2"]
-        record["challenges"][0] = api_item("2026-05-01", "396", title="N × 3", slug="n-x-3", paid=True)
+        record["challenges"][0] = api_item("2026-05-01", "396", title="N × 3", slug="n-x-3", paid=True, topics=[
+            {"slug": "math", "name": "Math", "id": "dropped"},
+            {"name": "Dynamic Programming", "slug": "dynamic-programming"},
+        ])
         record["challenges"][0]["userStatus"] = "NotStart"
         record["challenges"][0]["question"]["extra"] = "dropped"
         self.snapshot = up.normalize_response(payload, 2026, 5)
@@ -246,7 +264,7 @@ class NormalizationTests(unittest.TestCase):
     def test_key_order(self):
         self.assertEqual(list(self.snapshot), ["year", "month", "challenges", "weeklyChallenges"])
         for item in self.snapshot["challenges"] + self.snapshot["weeklyChallenges"]:
-            self.assertEqual(list(item), ["date", "id", "title", "slug", "difficulty", "isPaidOnly", "link"])
+            self.assertEqual(list(item), ["date", "id", "title", "slug", "difficulty", "isPaidOnly", "link", "topics"])
 
     def test_values(self):
         first = self.snapshot["challenges"][0]
@@ -255,6 +273,13 @@ class NormalizationTests(unittest.TestCase):
         self.assertIs(self.snapshot["challenges"][1]["isPaidOnly"], False)
         self.assertEqual(first["link"], "/problems/n-x-3/")
         self.assertEqual(self.snapshot["weeklyChallenges"][0]["slug"], "confusing-number-ii")
+
+    def test_topics_keep_api_order_with_name_then_slug(self):
+        self.assertEqual(self.snapshot["challenges"][0]["topics"], [
+            {"name": "Math", "slug": "math"},
+            {"name": "Dynamic Programming", "slug": "dynamic-programming"},
+        ])
+        self.assertEqual([list(tag) for tag in self.snapshot["challenges"][0]["topics"]], [["name", "slug"]] * 2)
 
     def test_rendered_json(self):
         text = up.render_json(self.snapshot).decode("utf-8")
@@ -341,6 +366,14 @@ class SnapshotLoadingTests(ArchiveTestCase):
         data["challenges"][3]["difficulty"] = "Unknown"
         write_json(self.snap(2020, 4), data)
         with self.assertRaisesRegex(up.ArchiveError, "invalid"):
+            up.load_snapshots(self.root)
+
+    def test_snapshot_without_topics_fails(self):
+        write_archive(self.root, (2020, 4))
+        data = read_json(self.snap(2020, 4))
+        del data["challenges"][0]["topics"]
+        write_json(self.snap(2020, 4), data)
+        with self.assertRaisesRegex(up.ArchiveError, "topics"):
             up.load_snapshots(self.root)
 
     def test_snapshot_before_first_month_fails(self):
@@ -456,7 +489,8 @@ class SiteJsonTests(ArchiveTestCase):
         super().setUp()
         april = api_payload(2020, 4)
         record = april["data"]["dailyCodingChallengeV2"]
-        record["challenges"][0] = api_item("2020-04-01", "1000", title="N × 3", slug="n-times-3")
+        record["challenges"][0] = api_item("2020-04-01", "1000", title="N × 3", slug="n-times-3", topics=[
+            {"name": "Math", "slug": "math"}, {"name": "Hash Table", "slug": "hash-table"}])
         record["challenges"][1] = api_item("2020-04-02", "999", slug="nine-nine-nine", paid=True)
         up.save_snapshot(self.root, up.normalize_response(april, 2020, 4))
         write_archive(self.root, (2020, 8), start=(2020, 5), weeklies={
@@ -476,8 +510,9 @@ class SiteJsonTests(ArchiveTestCase):
         self.assertEqual(site["weeklyCount"], 2)
         self.assertEqual(len(site["challenges"]), site["dailyCount"] + site["weeklyCount"])
         first = site["challenges"][0]
-        self.assertEqual(list(first), ["date", "type", "id", "title", "slug", "difficulty", "isPaidOnly", "url"])
+        self.assertEqual(list(first), ["date", "type", "id", "title", "slug", "difficulty", "isPaidOnly", "topics", "url"])
         self.assertEqual(first["title"], "N × 3")
+        self.assertEqual(first["topics"], ["Math", "Hash Table"])
         self.assertEqual(first["url"], "https://leetcode.com/problems/n-times-3/")
         self.assertIs(site["challenges"][1]["isPaidOnly"], True)
         self.assertIn("N × 3", self.site_path.read_text(encoding="utf-8"))

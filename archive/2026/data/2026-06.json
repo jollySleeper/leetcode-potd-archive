@@ -9,7 +9,21 @@
       "slug": "minimum-cost-of-buying-candies-with-discount",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-of-buying-candies-with-discount/"
+      "link": "/problems/minimum-cost-of-buying-candies-with-discount/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-06-02",
@@ -18,7 +32,29 @@
       "slug": "earliest-finish-time-for-land-and-water-rides-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/earliest-finish-time-for-land-and-water-rides-i/"
+      "link": "/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-06-03",
@@ -27,7 +63,29 @@
       "slug": "earliest-finish-time-for-land-and-water-rides-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/earliest-finish-time-for-land-and-water-rides-ii/"
+      "link": "/problems/earliest-finish-time-for-land-and-water-rides-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-06-04",
@@ -36,7 +94,21 @@
       "slug": "total-waviness-of-numbers-in-range-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/total-waviness-of-numbers-in-range-i/"
+      "link": "/problems/total-waviness-of-numbers-in-range-i/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-06-05",
@@ -45,7 +117,17 @@
       "slug": "total-waviness-of-numbers-in-range-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/total-waviness-of-numbers-in-range-ii/"
+      "link": "/problems/total-waviness-of-numbers-in-range-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-06-06",
@@ -54,7 +136,17 @@
       "slug": "left-and-right-sum-differences",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/left-and-right-sum-differences/"
+      "link": "/problems/left-and-right-sum-differences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-06-07",
@@ -63,7 +155,25 @@
       "slug": "create-binary-tree-from-descriptions",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/create-binary-tree-from-descriptions/"
+      "link": "/problems/create-binary-tree-from-descriptions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-06-08",
@@ -72,7 +182,21 @@
       "slug": "partition-array-according-to-given-pivot",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/partition-array-according-to-given-pivot/"
+      "link": "/problems/partition-array-according-to-given-pivot/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-06-09",
@@ -81,7 +205,17 @@
       "slug": "maximum-total-subarray-value-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-total-subarray-value-i/"
+      "link": "/problems/maximum-total-subarray-value-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-06-10",
@@ -90,7 +224,25 @@
       "slug": "maximum-total-subarray-value-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-total-subarray-value-ii/"
+      "link": "/problems/maximum-total-subarray-value-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-06-11",
@@ -99,7 +251,21 @@
       "slug": "number-of-ways-to-assign-edge-weights-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-ways-to-assign-edge-weights-i/"
+      "link": "/problems/number-of-ways-to-assign-edge-weights-i/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ]
     },
     {
       "date": "2026-06-12",
@@ -108,7 +274,33 @@
       "slug": "number-of-ways-to-assign-edge-weights-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-ways-to-assign-edge-weights-ii/"
+      "link": "/problems/number-of-ways-to-assign-edge-weights-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        }
+      ]
     },
     {
       "date": "2026-06-13",
@@ -117,7 +309,21 @@
       "slug": "weighted-word-mapping",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/weighted-word-mapping/"
+      "link": "/problems/weighted-word-mapping/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-06-14",
@@ -126,7 +332,21 @@
       "slug": "maximum-twin-sum-of-a-linked-list",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-twin-sum-of-a-linked-list/"
+      "link": "/problems/maximum-twin-sum-of-a-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2026-06-15",
@@ -135,7 +355,17 @@
       "slug": "delete-the-middle-node-of-a-linked-list",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/delete-the-middle-node-of-a-linked-list/"
+      "link": "/problems/delete-the-middle-node-of-a-linked-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ]
     },
     {
       "date": "2026-06-16",
@@ -144,7 +374,17 @@
       "slug": "process-string-with-special-operations-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/process-string-with-special-operations-i/"
+      "link": "/problems/process-string-with-special-operations-i/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-06-17",
@@ -153,7 +393,17 @@
       "slug": "process-string-with-special-operations-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/process-string-with-special-operations-ii/"
+      "link": "/problems/process-string-with-special-operations-ii/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-06-18",
@@ -162,7 +412,13 @@
       "slug": "angle-between-hands-of-a-clock",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/angle-between-hands-of-a-clock/"
+      "link": "/problems/angle-between-hands-of-a-clock/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-06-19",
@@ -171,7 +427,17 @@
       "slug": "find-the-highest-altitude",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-the-highest-altitude/"
+      "link": "/problems/find-the-highest-altitude/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-06-20",
@@ -180,7 +446,21 @@
       "slug": "maximum-building-height",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-building-height/"
+      "link": "/problems/maximum-building-height/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-06-21",
@@ -189,7 +469,25 @@
       "slug": "maximum-ice-cream-bars",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-ice-cream-bars/"
+      "link": "/problems/maximum-ice-cream-bars/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Counting Sort",
+          "slug": "counting-sort"
+        }
+      ]
     },
     {
       "date": "2026-06-22",
@@ -198,7 +496,21 @@
       "slug": "maximum-number-of-balloons",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-balloons/"
+      "link": "/problems/maximum-number-of-balloons/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2026-06-23",
@@ -207,7 +519,17 @@
       "slug": "number-of-zigzag-arrays-i",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-zigzag-arrays-i/"
+      "link": "/problems/number-of-zigzag-arrays-i/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-06-24",
@@ -216,7 +538,17 @@
       "slug": "number-of-zigzag-arrays-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-zigzag-arrays-ii/"
+      "link": "/problems/number-of-zigzag-arrays-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-06-25",
@@ -225,7 +557,37 @@
       "slug": "count-subarrays-with-majority-element-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-with-majority-element-i/"
+      "link": "/problems/count-subarrays-with-majority-element-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Merge Sort",
+          "slug": "merge-sort"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-06-26",
@@ -234,7 +596,33 @@
       "slug": "count-subarrays-with-majority-element-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/count-subarrays-with-majority-element-ii/"
+      "link": "/problems/count-subarrays-with-majority-element-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Merge Sort",
+          "slug": "merge-sort"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-06-27",
@@ -243,7 +631,21 @@
       "slug": "find-the-maximum-number-of-elements-in-subset",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-maximum-number-of-elements-in-subset/"
+      "link": "/problems/find-the-maximum-number-of-elements-in-subset/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-06-28",
@@ -252,7 +654,21 @@
       "slug": "maximum-element-after-decreasing-and-rearranging",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-element-after-decreasing-and-rearranging/"
+      "link": "/problems/maximum-element-after-decreasing-and-rearranging/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-06-29",
@@ -261,7 +677,17 @@
       "slug": "number-of-strings-that-appear-as-substrings-in-word",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/number-of-strings-that-appear-as-substrings-in-word/"
+      "link": "/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-06-30",
@@ -270,7 +696,21 @@
       "slug": "number-of-substrings-containing-all-three-characters",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-substrings-containing-all-three-characters/"
+      "link": "/problems/number-of-substrings-containing-all-three-characters/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +721,25 @@
       "slug": "candy-crush",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/candy-crush/"
+      "link": "/problems/candy-crush/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-06-08",
@@ -290,7 +748,21 @@
       "slug": "number-of-unique-flavors-after-sharing-k-candies",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/"
+      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-06-15",
@@ -299,7 +771,17 @@
       "slug": "handshakes-that-dont-cross",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/handshakes-that-dont-cross/"
+      "link": "/problems/handshakes-that-dont-cross/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-06-22",
@@ -308,7 +790,29 @@
       "slug": "clone-binary-tree-with-random-pointer",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/clone-binary-tree-with-random-pointer/"
+      "link": "/problems/clone-binary-tree-with-random-pointer/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-06-29",
@@ -317,7 +821,25 @@
       "slug": "clone-n-ary-tree",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/clone-n-ary-tree/"
+      "link": "/problems/clone-n-ary-tree/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     }
   ]
 }

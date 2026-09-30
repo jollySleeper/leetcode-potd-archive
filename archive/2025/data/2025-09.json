@@ -9,7 +9,21 @@
       "slug": "maximum-average-pass-ratio",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-average-pass-ratio/"
+      "link": "/problems/maximum-average-pass-ratio/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2025-09-02",
@@ -18,7 +32,29 @@
       "slug": "find-the-number-of-ways-to-place-people-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-number-of-ways-to-place-people-i/"
+      "link": "/problems/find-the-number-of-ways-to-place-people-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-09-03",
@@ -27,7 +63,29 @@
       "slug": "find-the-number-of-ways-to-place-people-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-number-of-ways-to-place-people-ii/"
+      "link": "/problems/find-the-number-of-ways-to-place-people-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-09-04",
@@ -36,7 +94,13 @@
       "slug": "find-closest-person",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-closest-person/"
+      "link": "/problems/find-closest-person/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-09-05",
@@ -45,7 +109,21 @@
       "slug": "minimum-operations-to-make-the-integer-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-make-the-integer-zero/"
+      "link": "/problems/minimum-operations-to-make-the-integer-zero/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2025-09-06",
@@ -54,7 +132,21 @@
       "slug": "minimum-operations-to-make-array-elements-zero",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-make-array-elements-zero/"
+      "link": "/problems/minimum-operations-to-make-array-elements-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2025-09-07",
@@ -63,7 +155,17 @@
       "slug": "find-n-unique-integers-sum-up-to-zero",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-n-unique-integers-sum-up-to-zero/"
+      "link": "/problems/find-n-unique-integers-sum-up-to-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-09-08",
@@ -72,7 +174,13 @@
       "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/convert-integer-to-the-sum-of-two-no-zero-integers/"
+      "link": "/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2025-09-09",
@@ -81,7 +189,21 @@
       "slug": "number-of-people-aware-of-a-secret",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-people-aware-of-a-secret/"
+      "link": "/problems/number-of-people-aware-of-a-secret/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2025-09-10",
@@ -90,7 +212,21 @@
       "slug": "minimum-number-of-people-to-teach",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-people-to-teach/"
+      "link": "/problems/minimum-number-of-people-to-teach/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2025-09-11",
@@ -99,7 +235,17 @@
       "slug": "sort-vowels-in-a-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sort-vowels-in-a-string/"
+      "link": "/problems/sort-vowels-in-a-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-09-12",
@@ -108,7 +254,25 @@
       "slug": "vowels-game-in-a-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/vowels-game-in-a-string/"
+      "link": "/problems/vowels-game-in-a-string/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Brainteaser",
+          "slug": "brainteaser"
+        },
+        {
+          "name": "Game Theory",
+          "slug": "game-theory"
+        }
+      ]
     },
     {
       "date": "2025-09-13",
@@ -117,7 +281,21 @@
       "slug": "find-most-frequent-vowel-and-consonant",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-most-frequent-vowel-and-consonant/"
+      "link": "/problems/find-most-frequent-vowel-and-consonant/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-09-14",
@@ -126,7 +304,21 @@
       "slug": "vowel-spellchecker",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/vowel-spellchecker/"
+      "link": "/problems/vowel-spellchecker/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-09-15",
@@ -135,7 +327,17 @@
       "slug": "maximum-number-of-words-you-can-type",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-words-you-can-type/"
+      "link": "/problems/maximum-number-of-words-you-can-type/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-09-16",
@@ -144,7 +346,33 @@
       "slug": "replace-non-coprime-numbers-in-array",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/replace-non-coprime-numbers-in-array/"
+      "link": "/problems/replace-non-coprime-numbers-in-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        },
+        {
+          "name": "Least Common Multiple",
+          "slug": "least-common-multiple"
+        },
+        {
+          "name": "Greatest Common Divisor",
+          "slug": "greatest-common-divisor"
+        }
+      ]
     },
     {
       "date": "2025-09-17",
@@ -153,7 +381,33 @@
       "slug": "design-a-food-rating-system",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-a-food-rating-system/"
+      "link": "/problems/design-a-food-rating-system/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-09-18",
@@ -162,7 +416,25 @@
       "slug": "design-task-manager",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-task-manager/"
+      "link": "/problems/design-task-manager/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-09-19",
@@ -171,7 +443,29 @@
       "slug": "design-spreadsheet",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/design-spreadsheet/"
+      "link": "/problems/design-spreadsheet/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2025-09-20",
@@ -180,7 +474,33 @@
       "slug": "implement-router",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/implement-router/"
+      "link": "/problems/implement-router/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-09-21",
@@ -189,7 +509,29 @@
       "slug": "design-movie-rental-system",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/design-movie-rental-system/"
+      "link": "/problems/design-movie-rental-system/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2025-09-22",
@@ -198,7 +540,21 @@
       "slug": "count-elements-with-maximum-frequency",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-elements-with-maximum-frequency/"
+      "link": "/problems/count-elements-with-maximum-frequency/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2025-09-23",
@@ -207,7 +563,17 @@
       "slug": "compare-version-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/compare-version-numbers/"
+      "link": "/problems/compare-version-numbers/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-09-24",
@@ -216,7 +582,21 @@
       "slug": "fraction-to-recurring-decimal",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/fraction-to-recurring-decimal/"
+      "link": "/problems/fraction-to-recurring-decimal/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2025-09-25",
@@ -225,7 +605,17 @@
       "slug": "triangle",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/triangle/"
+      "link": "/problems/triangle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2025-09-26",
@@ -234,7 +624,29 @@
       "slug": "valid-triangle-number",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/valid-triangle-number/"
+      "link": "/problems/valid-triangle-number/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-09-27",
@@ -243,7 +655,25 @@
       "slug": "largest-triangle-area",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/largest-triangle-area/"
+      "link": "/problems/largest-triangle-area/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Polygons",
+          "slug": "polygons"
+        }
+      ]
     },
     {
       "date": "2025-09-28",
@@ -252,7 +682,33 @@
       "slug": "largest-perimeter-triangle",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/largest-perimeter-triangle/"
+      "link": "/problems/largest-perimeter-triangle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Quicksort",
+          "slug": "quicksort"
+        },
+        {
+          "name": "Polygons",
+          "slug": "polygons"
+        }
+      ]
     },
     {
       "date": "2025-09-29",
@@ -261,7 +717,25 @@
       "slug": "minimum-score-triangulation-of-polygon",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-score-triangulation-of-polygon/"
+      "link": "/problems/minimum-score-triangulation-of-polygon/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Triangulation",
+          "slug": "triangulation"
+        },
+        {
+          "name": "Polygons",
+          "slug": "polygons"
+        }
+      ]
     },
     {
       "date": "2025-09-30",
@@ -270,7 +744,29 @@
       "slug": "find-triangular-sum-of-an-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-triangular-sum-of-an-array/"
+      "link": "/problems/find-triangular-sum-of-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Combinatorics",
+          "slug": "combinatorics"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +777,53 @@
       "slug": "campus-bikes-ii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/campus-bikes-ii/"
+      "link": "/problems/campus-bikes-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Bitmask",
+          "slug": "bitmask"
+        },
+        {
+          "name": "Hungarian Algorithm",
+          "slug": "hungarian-algorithm"
+        },
+        {
+          "name": "Bipartite Graph",
+          "slug": "bipartite-graph"
+        },
+        {
+          "name": "Successive Shortest Path Algorithm",
+          "slug": "successive-shortest-path-algorithm"
+        },
+        {
+          "name": "Matching (Graph)",
+          "slug": "matching-graph"
+        },
+        {
+          "name": "Minimum-Cost Flow",
+          "slug": "minimum-cost-flow"
+        },
+        {
+          "name": "Flow Network",
+          "slug": "flow-network"
+        }
+      ]
     },
     {
       "date": "2025-09-08",
@@ -290,7 +832,21 @@
       "slug": "largest-unique-number",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/largest-unique-number/"
+      "link": "/problems/largest-unique-number/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-09-15",
@@ -299,7 +855,17 @@
       "slug": "check-if-a-number-is-majority-element-in-a-sorted-array",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/"
+      "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2025-09-22",
@@ -308,7 +874,25 @@
       "slug": "analyze-user-website-visit-pattern",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/analyze-user-website-visit-pattern/"
+      "link": "/problems/analyze-user-website-visit-pattern/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2025-09-29",
@@ -317,7 +901,17 @@
       "slug": "divide-array-into-increasing-sequences",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/divide-array-into-increasing-sequences/"
+      "link": "/problems/divide-array-into-increasing-sequences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     }
   ]
 }

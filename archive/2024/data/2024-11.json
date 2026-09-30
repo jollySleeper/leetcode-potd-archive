@@ -9,7 +9,13 @@
       "slug": "delete-characters-to-make-fancy-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/delete-characters-to-make-fancy-string/"
+      "link": "/problems/delete-characters-to-make-fancy-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2024-11-02",
@@ -18,7 +24,13 @@
       "slug": "circular-sentence",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/circular-sentence/"
+      "link": "/problems/circular-sentence/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2024-11-03",
@@ -27,7 +39,17 @@
       "slug": "rotate-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/rotate-string/"
+      "link": "/problems/rotate-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ]
     },
     {
       "date": "2024-11-04",
@@ -36,7 +58,13 @@
       "slug": "string-compression-iii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/string-compression-iii/"
+      "link": "/problems/string-compression-iii/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2024-11-05",
@@ -45,7 +73,13 @@
       "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-changes-to-make-binary-string-beautiful/"
+      "link": "/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2024-11-06",
@@ -54,7 +88,21 @@
       "slug": "find-if-array-can-be-sorted",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-if-array-can-be-sorted/"
+      "link": "/problems/find-if-array-can-be-sorted/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-11-07",
@@ -63,7 +111,25 @@
       "slug": "largest-combination-with-bitwise-and-greater-than-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/largest-combination-with-bitwise-and-greater-than-zero/"
+      "link": "/problems/largest-combination-with-bitwise-and-greater-than-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2024-11-08",
@@ -72,7 +138,21 @@
       "slug": "maximum-xor-for-each-query",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-xor-for-each-query/"
+      "link": "/problems/maximum-xor-for-each-query/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2024-11-09",
@@ -81,7 +161,13 @@
       "slug": "minimum-array-end",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-array-end/"
+      "link": "/problems/minimum-array-end/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2024-11-10",
@@ -90,7 +176,21 @@
       "slug": "shortest-subarray-with-or-at-least-k-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/shortest-subarray-with-or-at-least-k-ii/"
+      "link": "/problems/shortest-subarray-with-or-at-least-k-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-11",
@@ -99,7 +199,29 @@
       "slug": "prime-subtraction-operation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/prime-subtraction-operation/"
+      "link": "/problems/prime-subtraction-operation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2024-11-12",
@@ -108,7 +230,21 @@
       "slug": "most-beautiful-item-for-each-query",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/most-beautiful-item-for-each-query/"
+      "link": "/problems/most-beautiful-item-for-each-query/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-11-13",
@@ -117,7 +253,25 @@
       "slug": "count-the-number-of-fair-pairs",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-fair-pairs/"
+      "link": "/problems/count-the-number-of-fair-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-11-14",
@@ -126,7 +280,21 @@
       "slug": "minimized-maximum-of-products-distributed-to-any-store",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimized-maximum-of-products-distributed-to-any-store/"
+      "link": "/problems/minimized-maximum-of-products-distributed-to-any-store/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2024-11-15",
@@ -135,7 +303,29 @@
       "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/shortest-subarray-to-be-removed-to-make-array-sorted/"
+      "link": "/problems/shortest-subarray-to-be-removed-to-make-array-sorted/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2024-11-16",
@@ -144,7 +334,17 @@
       "slug": "find-the-power-of-k-size-subarrays-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-power-of-k-size-subarrays-i/"
+      "link": "/problems/find-the-power-of-k-size-subarrays-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-17",
@@ -153,7 +353,37 @@
       "slug": "shortest-subarray-with-sum-at-least-k",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/shortest-subarray-with-sum-at-least-k/"
+      "link": "/problems/shortest-subarray-with-sum-at-least-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        },
+        {
+          "name": "Monotonic Queue",
+          "slug": "monotonic-queue"
+        }
+      ]
     },
     {
       "date": "2024-11-18",
@@ -162,7 +392,17 @@
       "slug": "defuse-the-bomb",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/defuse-the-bomb/"
+      "link": "/problems/defuse-the-bomb/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-19",
@@ -171,7 +411,21 @@
       "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-sum-of-distinct-subarrays-with-length-k/"
+      "link": "/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-20",
@@ -180,7 +434,21 @@
       "slug": "take-k-of-each-character-from-left-and-right",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/take-k-of-each-character-from-left-and-right/"
+      "link": "/problems/take-k-of-each-character-from-left-and-right/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-21",
@@ -189,7 +457,21 @@
       "slug": "count-unguarded-cells-in-the-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-unguarded-cells-in-the-grid/"
+      "link": "/problems/count-unguarded-cells-in-the-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-11-22",
@@ -198,7 +480,21 @@
       "slug": "flip-columns-for-maximum-number-of-equal-rows",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/flip-columns-for-maximum-number-of-equal-rows/"
+      "link": "/problems/flip-columns-for-maximum-number-of-equal-rows/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2024-11-23",
@@ -207,7 +503,21 @@
       "slug": "rotating-the-box",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotating-the-box/"
+      "link": "/problems/rotating-the-box/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2024-11-24",
@@ -216,7 +526,21 @@
       "slug": "maximum-matrix-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-matrix-sum/"
+      "link": "/problems/maximum-matrix-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2024-11-25",
@@ -225,7 +549,45 @@
       "slug": "sliding-puzzle",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/sliding-puzzle/"
+      "link": "/problems/sliding-puzzle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Memoization",
+          "slug": "memoization"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Heuristic Search",
+          "slug": "heuristic-search"
+        },
+        {
+          "name": "Bidirectional Search",
+          "slug": "bidirectional-search"
+        },
+        {
+          "name": "A* Search",
+          "slug": "a-search"
+        }
+      ]
     },
     {
       "date": "2024-11-26",
@@ -234,7 +596,13 @@
       "slug": "find-champion-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-champion-ii/"
+      "link": "/problems/find-champion-ii/",
+      "topics": [
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2024-11-27",
@@ -243,7 +611,21 @@
       "slug": "shortest-distance-after-road-addition-queries-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/shortest-distance-after-road-addition-queries-i/"
+      "link": "/problems/shortest-distance-after-road-addition-queries-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        }
+      ]
     },
     {
       "date": "2024-11-28",
@@ -252,7 +634,41 @@
       "slug": "minimum-obstacle-removal-to-reach-corner",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-obstacle-removal-to-reach-corner/"
+      "link": "/problems/minimum-obstacle-removal-to-reach-corner/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "0-1 BFS",
+          "slug": "0-1-bfs"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        }
+      ]
     },
     {
       "date": "2024-11-29",
@@ -261,7 +677,33 @@
       "slug": "minimum-time-to-visit-a-cell-in-a-grid",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-time-to-visit-a-cell-in-a-grid/"
+      "link": "/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2024-11-30",
@@ -270,7 +712,33 @@
       "slug": "valid-arrangement-of-pairs",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/valid-arrangement-of-pairs/"
+      "link": "/problems/valid-arrangement-of-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Eulerian Circuit",
+          "slug": "eulerian-circuit"
+        },
+        {
+          "name": "Eulerian Path",
+          "slug": "eulerian-path"
+        },
+        {
+          "name": "Semi-Eulerian Graph",
+          "slug": "semi-eulerian-graph"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +749,29 @@
       "slug": "number-of-same-end-substrings",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-same-end-substrings/"
+      "link": "/problems/number-of-same-end-substrings/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2024-11-08",
@@ -290,7 +780,25 @@
       "slug": "intersection-of-three-sorted-arrays",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/intersection-of-three-sorted-arrays/"
+      "link": "/problems/intersection-of-three-sorted-arrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2024-11-15",
@@ -299,7 +807,21 @@
       "slug": "number-of-unique-flavors-after-sharing-k-candies",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/"
+      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2024-11-22",
@@ -308,7 +830,33 @@
       "slug": "minimize-maximum-value-in-a-grid",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/minimize-maximum-value-in-a-grid/"
+      "link": "/problems/minimize-maximum-value-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2024-11-29",
@@ -317,7 +865,25 @@
       "slug": "distance-to-a-cycle-in-undirected-graph",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/distance-to-a-cycle-in-undirected-graph/"
+      "link": "/problems/distance-to-a-cycle-in-undirected-graph/",
+      "topics": [
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        }
+      ]
     }
   ]
 }

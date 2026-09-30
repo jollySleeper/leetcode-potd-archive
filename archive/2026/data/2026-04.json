@@ -9,7 +9,25 @@
       "slug": "robot-collisions",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/robot-collisions/"
+      "link": "/problems/robot-collisions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-02",
@@ -18,7 +36,21 @@
       "slug": "maximum-amount-of-money-robot-can-earn",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-amount-of-money-robot-can-earn/"
+      "link": "/problems/maximum-amount-of-money-robot-can-earn/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-04-03",
@@ -27,7 +59,25 @@
       "slug": "maximum-walls-destroyed-by-robots",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-walls-destroyed-by-robots/"
+      "link": "/problems/maximum-walls-destroyed-by-robots/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-04-04",
@@ -36,7 +86,17 @@
       "slug": "decode-the-slanted-ciphertext",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/decode-the-slanted-ciphertext/"
+      "link": "/problems/decode-the-slanted-ciphertext/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-05",
@@ -45,7 +105,17 @@
       "slug": "robot-return-to-origin",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/robot-return-to-origin/"
+      "link": "/problems/robot-return-to-origin/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-06",
@@ -54,7 +124,21 @@
       "slug": "walking-robot-simulation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/walking-robot-simulation/"
+      "link": "/problems/walking-robot-simulation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-07",
@@ -63,7 +147,17 @@
       "slug": "walking-robot-simulation-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/walking-robot-simulation-ii/"
+      "link": "/problems/walking-robot-simulation-ii/",
+      "topics": [
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-08",
@@ -72,7 +166,25 @@
       "slug": "xor-after-range-multiplication-queries-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/xor-after-range-multiplication-queries-i/"
+      "link": "/problems/xor-after-range-multiplication-queries-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-04-09",
@@ -81,7 +193,21 @@
       "slug": "xor-after-range-multiplication-queries-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/xor-after-range-multiplication-queries-ii/"
+      "link": "/problems/xor-after-range-multiplication-queries-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-04-10",
@@ -90,7 +216,17 @@
       "slug": "minimum-distance-between-three-equal-elements-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-distance-between-three-equal-elements-i/"
+      "link": "/problems/minimum-distance-between-three-equal-elements-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2026-04-11",
@@ -99,7 +235,17 @@
       "slug": "minimum-distance-between-three-equal-elements-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-distance-between-three-equal-elements-ii/"
+      "link": "/problems/minimum-distance-between-three-equal-elements-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        }
+      ]
     },
     {
       "date": "2026-04-12",
@@ -108,7 +254,17 @@
       "slug": "minimum-distance-to-type-a-word-using-two-fingers",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-distance-to-type-a-word-using-two-fingers/"
+      "link": "/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-04-13",
@@ -117,7 +273,13 @@
       "slug": "minimum-distance-to-the-target-element",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-distance-to-the-target-element/"
+      "link": "/problems/minimum-distance-to-the-target-element/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2026-04-14",
@@ -126,7 +288,21 @@
       "slug": "minimum-total-distance-traveled",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-total-distance-traveled/"
+      "link": "/problems/minimum-total-distance-traveled/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-04-15",
@@ -135,7 +311,17 @@
       "slug": "shortest-distance-to-target-string-in-a-circular-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/shortest-distance-to-target-string-in-a-circular-array/"
+      "link": "/problems/shortest-distance-to-target-string-in-a-circular-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-04-16",
@@ -144,7 +330,21 @@
       "slug": "closest-equal-element-queries",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/closest-equal-element-queries/"
+      "link": "/problems/closest-equal-element-queries/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-04-17",
@@ -153,7 +353,21 @@
       "slug": "minimum-absolute-distance-between-mirror-pairs",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-absolute-distance-between-mirror-pairs/"
+      "link": "/problems/minimum-absolute-distance-between-mirror-pairs/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-04-18",
@@ -162,7 +376,13 @@
       "slug": "mirror-distance-of-an-integer",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/mirror-distance-of-an-integer/"
+      "link": "/problems/mirror-distance-of-an-integer/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-04-19",
@@ -171,7 +391,21 @@
       "slug": "maximum-distance-between-a-pair-of-values",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-distance-between-a-pair-of-values/"
+      "link": "/problems/maximum-distance-between-a-pair-of-values/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-04-20",
@@ -180,7 +414,17 @@
       "slug": "two-furthest-houses-with-different-colors",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/two-furthest-houses-with-different-colors/"
+      "link": "/problems/two-furthest-houses-with-different-colors/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-04-21",
@@ -189,7 +433,21 @@
       "slug": "minimize-hamming-distance-after-swap-operations",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimize-hamming-distance-after-swap-operations/"
+      "link": "/problems/minimize-hamming-distance-after-swap-operations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        }
+      ]
     },
     {
       "date": "2026-04-22",
@@ -198,7 +456,21 @@
       "slug": "words-within-two-edits-of-dictionary",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/words-within-two-edits-of-dictionary/"
+      "link": "/problems/words-within-two-edits-of-dictionary/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2026-04-23",
@@ -207,7 +479,21 @@
       "slug": "sum-of-distances",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sum-of-distances/"
+      "link": "/problems/sum-of-distances/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-04-24",
@@ -216,7 +502,17 @@
       "slug": "furthest-point-from-origin",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/furthest-point-from-origin/"
+      "link": "/problems/furthest-point-from-origin/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Counting",
+          "slug": "counting"
+        }
+      ]
     },
     {
       "date": "2026-04-25",
@@ -225,7 +521,29 @@
       "slug": "maximize-the-distance-between-points-on-a-square",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-the-distance-between-points-on-a-square/"
+      "link": "/problems/maximize-the-distance-between-points-on-a-square/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-04-26",
@@ -234,7 +552,29 @@
       "slug": "detect-cycles-in-2d-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/detect-cycles-in-2d-grid/"
+      "link": "/problems/detect-cycles-in-2d-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-04-27",
@@ -243,7 +583,29 @@
       "slug": "check-if-there-is-a-valid-path-in-a-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/check-if-there-is-a-valid-path-in-a-grid/"
+      "link": "/problems/check-if-there-is-a-valid-path-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-04-28",
@@ -252,7 +614,25 @@
       "slug": "minimum-operations-to-make-a-uni-value-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-make-a-uni-value-grid/"
+      "link": "/problems/minimum-operations-to-make-a-uni-value-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-04-29",
@@ -261,7 +641,25 @@
       "slug": "maximum-score-from-grid-operations",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximum-score-from-grid-operations/"
+      "link": "/problems/maximum-score-from-grid-operations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-04-30",
@@ -270,7 +668,21 @@
       "slug": "maximum-path-score-in-a-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-path-score-in-a-grid/"
+      "link": "/problems/maximum-path-score-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +693,29 @@
       "slug": "kill-process",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/kill-process/"
+      "link": "/problems/kill-process/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2026-04-08",
@@ -290,7 +724,17 @@
       "slug": "pour-water",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/pour-water/"
+      "link": "/problems/pour-water/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-04-15",
@@ -299,7 +743,13 @@
       "slug": "missing-ranges",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/missing-ranges/"
+      "link": "/problems/missing-ranges/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2026-04-22",
@@ -308,7 +758,25 @@
       "slug": "zigzag-iterator",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/zigzag-iterator/"
+      "link": "/problems/zigzag-iterator/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Iterator",
+          "slug": "iterator"
+        }
+      ]
     },
     {
       "date": "2026-04-29",
@@ -317,7 +785,25 @@
       "slug": "all-paths-from-source-lead-to-destination",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/all-paths-from-source-lead-to-destination/"
+      "link": "/problems/all-paths-from-source-lead-to-destination/",
+      "topics": [
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Kosaraju's Algorithm",
+          "slug": "kosarajus-algorithm"
+        },
+        {
+          "name": "Tarjan's SCC Algorithm",
+          "slug": "tarjans-scc-algorithm"
+        }
+      ]
     }
   ]
 }

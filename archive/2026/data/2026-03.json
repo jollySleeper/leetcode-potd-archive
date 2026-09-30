@@ -9,7 +9,17 @@
       "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/"
+      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2026-03-02",
@@ -18,7 +28,21 @@
       "slug": "minimum-swaps-to-arrange-a-binary-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-swaps-to-arrange-a-binary-grid/"
+      "link": "/problems/minimum-swaps-to-arrange-a-binary-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-03",
@@ -27,7 +51,21 @@
       "slug": "find-kth-bit-in-nth-binary-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-kth-bit-in-nth-binary-string/"
+      "link": "/problems/find-kth-bit-in-nth-binary-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-03-04",
@@ -36,7 +74,17 @@
       "slug": "special-positions-in-a-binary-matrix",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/special-positions-in-a-binary-matrix/"
+      "link": "/problems/special-positions-in-a-binary-matrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-05",
@@ -45,7 +93,13 @@
       "slug": "minimum-changes-to-make-alternating-binary-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-changes-to-make-alternating-binary-string/"
+      "link": "/problems/minimum-changes-to-make-alternating-binary-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-03-06",
@@ -54,7 +108,13 @@
       "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-binary-string-has-at-most-one-segment-of-ones/"
+      "link": "/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-03-07",
@@ -63,7 +123,21 @@
       "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/"
+      "link": "/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2026-03-08",
@@ -72,7 +146,25 @@
       "slug": "find-unique-binary-string",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-unique-binary-string/"
+      "link": "/problems/find-unique-binary-string/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2026-03-09",
@@ -81,7 +173,17 @@
       "slug": "find-all-possible-stable-binary-arrays-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-all-possible-stable-binary-arrays-i/"
+      "link": "/problems/find-all-possible-stable-binary-arrays-i/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-10",
@@ -90,7 +192,17 @@
       "slug": "find-all-possible-stable-binary-arrays-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-all-possible-stable-binary-arrays-ii/"
+      "link": "/problems/find-all-possible-stable-binary-arrays-ii/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-11",
@@ -99,7 +211,13 @@
       "slug": "complement-of-base-10-integer",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/complement-of-base-10-integer/"
+      "link": "/problems/complement-of-base-10-integer/",
+      "topics": [
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-03-12",
@@ -108,7 +226,29 @@
       "slug": "maximize-spanning-tree-stability-with-upgrades",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximize-spanning-tree-stability-with-upgrades/"
+      "link": "/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "topics": [
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Minimum Spanning Tree",
+          "slug": "minimum-spanning-tree"
+        }
+      ]
     },
     {
       "date": "2026-03-13",
@@ -117,7 +257,29 @@
       "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-number-of-seconds-to-make-mountain-height-zero/"
+      "link": "/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-03-14",
@@ -126,7 +288,17 @@
       "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/"
+      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     },
     {
       "date": "2026-03-15",
@@ -135,7 +307,29 @@
       "slug": "fancy-sequence",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/fancy-sequence/"
+      "link": "/problems/fancy-sequence/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        },
+        {
+          "name": "Fermat's Little Theorem",
+          "slug": "fermats-little-theorem"
+        }
+      ]
     },
     {
       "date": "2026-03-16",
@@ -144,7 +338,33 @@
       "slug": "get-biggest-three-rhombus-sums-in-a-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/get-biggest-three-rhombus-sums-in-a-grid/"
+      "link": "/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-17",
@@ -153,7 +373,25 @@
       "slug": "largest-submatrix-with-rearrangements",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/largest-submatrix-with-rearrangements/"
+      "link": "/problems/largest-submatrix-with-rearrangements/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-18",
@@ -162,7 +400,21 @@
       "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/"
+      "link": "/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-19",
@@ -171,7 +423,21 @@
       "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-submatrices-with-equal-frequency-of-x-and-y/"
+      "link": "/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-20",
@@ -180,7 +446,21 @@
       "slug": "minimum-absolute-difference-in-sliding-submatrix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-absolute-difference-in-sliding-submatrix/"
+      "link": "/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-21",
@@ -189,7 +469,21 @@
       "slug": "flip-square-submatrix-vertically",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/flip-square-submatrix-vertically/"
+      "link": "/problems/flip-square-submatrix-vertically/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-22",
@@ -198,7 +492,17 @@
       "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/determine-whether-matrix-can-be-obtained-by-rotation/"
+      "link": "/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-23",
@@ -207,7 +511,21 @@
       "slug": "maximum-non-negative-product-in-a-matrix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-non-negative-product-in-a-matrix/"
+      "link": "/problems/maximum-non-negative-product-in-a-matrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-24",
@@ -216,7 +534,21 @@
       "slug": "construct-product-matrix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-product-matrix/"
+      "link": "/problems/construct-product-matrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-25",
@@ -225,7 +557,25 @@
       "slug": "equal-sum-grid-partition-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/equal-sum-grid-partition-i/"
+      "link": "/problems/equal-sum-grid-partition-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-26",
@@ -234,7 +584,29 @@
       "slug": "equal-sum-grid-partition-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/equal-sum-grid-partition-ii/"
+      "link": "/problems/equal-sum-grid-partition-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-03-27",
@@ -243,7 +615,25 @@
       "slug": "matrix-similarity-after-cyclic-shifts",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/matrix-similarity-after-cyclic-shifts/"
+      "link": "/problems/matrix-similarity-after-cyclic-shifts/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-03-28",
@@ -252,7 +642,33 @@
       "slug": "find-the-string-with-lcp",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-the-string-with-lcp/"
+      "link": "/problems/find-the-string-with-lcp/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-29",
@@ -261,7 +677,13 @@
       "slug": "check-if-strings-can-be-made-equal-with-operations-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-i/"
+      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-i/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-03-30",
@@ -270,7 +692,21 @@
       "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-ii/"
+      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-03-31",
@@ -279,7 +715,21 @@
       "slug": "lexicographically-smallest-generated-string",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/lexicographically-smallest-generated-string/"
+      "link": "/problems/lexicographically-smallest-generated-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +740,37 @@
       "slug": "design-excel-sum-formula",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/design-excel-sum-formula/"
+      "link": "/problems/design-excel-sum-formula/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-03-08",
@@ -299,7 +779,25 @@
       "slug": "design-log-storage-system",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-log-storage-system/"
+      "link": "/problems/design-log-storage-system/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-03-15",
@@ -308,7 +806,37 @@
       "slug": "design-search-autocomplete-system",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/design-search-autocomplete-system/"
+      "link": "/problems/design-search-autocomplete-system/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Data Stream",
+          "slug": "data-stream"
+        }
+      ]
     },
     {
       "date": "2026-03-22",
@@ -317,7 +845,45 @@
       "slug": "design-most-recently-used-queue",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-most-recently-used-queue/"
+      "link": "/problems/design-most-recently-used-queue/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "slug": "doubly-linked-list"
+        },
+        {
+          "name": "Sqrt Decomposition",
+          "slug": "sqrt-decomposition"
+        },
+        {
+          "name": "Treap",
+          "slug": "treap"
+        },
+        {
+          "name": "Splay Tree",
+          "slug": "splay-tree"
+        }
+      ]
     },
     {
       "date": "2026-03-29",
@@ -326,7 +892,29 @@
       "slug": "design-phone-directory",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-phone-directory/"
+      "link": "/problems/design-phone-directory/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        }
+      ]
     }
   ]
 }

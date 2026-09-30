@@ -9,7 +9,17 @@
       "slug": "running-sum-of-1d-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/running-sum-of-1d-array/"
+      "link": "/problems/running-sum-of-1d-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-06-02",
@@ -18,7 +28,21 @@
       "slug": "transpose-matrix",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/transpose-matrix/"
+      "link": "/problems/transpose-matrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2022-06-03",
@@ -27,7 +51,25 @@
       "slug": "range-sum-query-2d-immutable",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/range-sum-query-2d-immutable/"
+      "link": "/problems/range-sum-query-2d-immutable/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-06-04",
@@ -36,7 +78,21 @@
       "slug": "n-queens",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/n-queens/"
+      "link": "/problems/n-queens/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Algorithm X",
+          "slug": "algorithm-x"
+        }
+      ]
     },
     {
       "date": "2022-06-05",
@@ -45,7 +101,17 @@
       "slug": "n-queens-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/n-queens-ii/"
+      "link": "/problems/n-queens-ii/",
+      "topics": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Algorithm X",
+          "slug": "algorithm-x"
+        }
+      ]
     },
     {
       "date": "2022-06-06",
@@ -54,7 +120,21 @@
       "slug": "intersection-of-two-linked-lists",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/intersection-of-two-linked-lists/"
+      "link": "/problems/intersection-of-two-linked-lists/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ]
     },
     {
       "date": "2022-06-07",
@@ -63,7 +143,21 @@
       "slug": "merge-sorted-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/merge-sorted-array/"
+      "link": "/problems/merge-sorted-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-08",
@@ -72,7 +166,17 @@
       "slug": "remove-palindromic-subsequences",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/remove-palindromic-subsequences/"
+      "link": "/problems/remove-palindromic-subsequences/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2022-06-09",
@@ -81,7 +185,21 @@
       "slug": "two-sum-ii-input-array-is-sorted",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/two-sum-ii-input-array-is-sorted/"
+      "link": "/problems/two-sum-ii-input-array-is-sorted/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2022-06-10",
@@ -90,7 +208,21 @@
       "slug": "longest-substring-without-repeating-characters",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-substring-without-repeating-characters/"
+      "link": "/problems/longest-substring-without-repeating-characters/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2022-06-11",
@@ -99,7 +231,29 @@
       "slug": "minimum-operations-to-reduce-x-to-zero",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-operations-to-reduce-x-to-zero/"
+      "link": "/problems/minimum-operations-to-reduce-x-to-zero/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-06-12",
@@ -108,7 +262,21 @@
       "slug": "maximum-erasure-value",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-erasure-value/"
+      "link": "/problems/maximum-erasure-value/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2022-06-13",
@@ -117,7 +285,17 @@
       "slug": "triangle",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/triangle/"
+      "link": "/problems/triangle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2022-06-14",
@@ -126,7 +304,21 @@
       "slug": "delete-operation-for-two-strings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/delete-operation-for-two-strings/"
+      "link": "/problems/delete-operation-for-two-strings/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence"
+        }
+      ]
     },
     {
       "date": "2022-06-15",
@@ -135,7 +327,33 @@
       "slug": "longest-string-chain",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-string-chain/"
+      "link": "/problems/longest-string-chain/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-16",
@@ -144,7 +362,25 @@
       "slug": "longest-palindromic-substring",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/longest-palindromic-substring/"
+      "link": "/problems/longest-palindromic-substring/",
+      "topics": [
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Manacher",
+          "slug": "manacher"
+        }
+      ]
     },
     {
       "date": "2022-06-17",
@@ -153,7 +389,29 @@
       "slug": "binary-tree-cameras",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/binary-tree-cameras/"
+      "link": "/problems/binary-tree-cameras/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2022-06-18",
@@ -162,7 +420,29 @@
       "slug": "prefix-and-suffix-search",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/prefix-and-suffix-search/"
+      "link": "/problems/prefix-and-suffix-search/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2022-06-19",
@@ -171,7 +451,33 @@
       "slug": "search-suggestions-system",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/search-suggestions-system/"
+      "link": "/problems/search-suggestions-system/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-06-20",
@@ -180,7 +486,25 @@
       "slug": "short-encoding-of-words",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/short-encoding-of-words/"
+      "link": "/problems/short-encoding-of-words/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2022-06-21",
@@ -189,7 +513,21 @@
       "slug": "furthest-building-you-can-reach",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/furthest-building-you-can-reach/"
+      "link": "/problems/furthest-building-you-can-reach/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-06-22",
@@ -198,7 +536,29 @@
       "slug": "kth-largest-element-in-an-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/kth-largest-element-in-an-array/"
+      "link": "/problems/kth-largest-element-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Quickselect",
+          "slug": "quickselect"
+        }
+      ]
     },
     {
       "date": "2022-06-23",
@@ -207,7 +567,25 @@
       "slug": "course-schedule-iii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/course-schedule-iii/"
+      "link": "/problems/course-schedule-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-06-24",
@@ -216,7 +594,17 @@
       "slug": "construct-target-array-with-multiple-sums",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/construct-target-array-with-multiple-sums/"
+      "link": "/problems/construct-target-array-with-multiple-sums/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2022-06-25",
@@ -225,7 +613,13 @@
       "slug": "non-decreasing-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/non-decreasing-array/"
+      "link": "/problems/non-decreasing-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2022-06-26",
@@ -234,7 +628,21 @@
       "slug": "maximum-points-you-can-obtain-from-cards",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-points-you-can-obtain-from-cards/"
+      "link": "/problems/maximum-points-you-can-obtain-from-cards/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2022-06-27",
@@ -243,7 +651,17 @@
       "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/"
+      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2022-06-28",
@@ -252,7 +670,25 @@
       "slug": "minimum-deletions-to-make-character-frequencies-unique",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-deletions-to-make-character-frequencies-unique/"
+      "link": "/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-29",
@@ -261,7 +697,25 @@
       "slug": "queue-reconstruction-by-height",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/queue-reconstruction-by-height/"
+      "link": "/problems/queue-reconstruction-by-height/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-30",
@@ -270,7 +724,21 @@
       "slug": "minimum-moves-to-equal-array-elements-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-moves-to-equal-array-elements-ii/"
+      "link": "/problems/minimum-moves-to-equal-array-elements-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -281,7 +749,25 @@
       "slug": "minimum-knight-moves",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/minimum-knight-moves/"
+      "link": "/problems/minimum-knight-moves/",
+      "topics": [
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Heuristic Search",
+          "slug": "heuristic-search"
+        },
+        {
+          "name": "Bidirectional Search",
+          "slug": "bidirectional-search"
+        },
+        {
+          "name": "A* Search",
+          "slug": "a-search"
+        }
+      ]
     },
     {
       "date": "2022-06-08",
@@ -290,7 +776,17 @@
       "slug": "minimum-swaps-to-group-all-1s-together",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/minimum-swaps-to-group-all-1s-together/"
+      "link": "/problems/minimum-swaps-to-group-all-1s-together/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        }
+      ]
     },
     {
       "date": "2022-06-15",
@@ -299,7 +795,29 @@
       "slug": "word-abbreviation",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/word-abbreviation/"
+      "link": "/problems/word-abbreviation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-22",
@@ -308,7 +826,21 @@
       "slug": "meeting-scheduler",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/meeting-scheduler/"
+      "link": "/problems/meeting-scheduler/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2022-06-29",
@@ -317,7 +849,21 @@
       "slug": "put-boxes-into-the-warehouse-i",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/put-boxes-into-the-warehouse-i/"
+      "link": "/problems/put-boxes-into-the-warehouse-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     }
   ]
 }

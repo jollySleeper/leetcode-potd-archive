@@ -9,7 +9,17 @@
       "slug": "plus-one",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/plus-one/"
+      "link": "/problems/plus-one/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-01-02",
@@ -18,7 +28,21 @@
       "slug": "n-repeated-element-in-size-2n-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/n-repeated-element-in-size-2n-array/"
+      "link": "/problems/n-repeated-element-in-size-2n-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Pigeonhole Principle",
+          "slug": "pigeonhole-principle"
+        }
+      ]
     },
     {
       "date": "2026-01-03",
@@ -27,7 +51,17 @@
       "slug": "number-of-ways-to-paint-n-3-grid",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-ways-to-paint-n-3-grid/"
+      "link": "/problems/number-of-ways-to-paint-n-3-grid/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Coloring",
+          "slug": "graph-coloring"
+        }
+      ]
     },
     {
       "date": "2026-01-04",
@@ -36,7 +70,25 @@
       "slug": "four-divisors",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/four-divisors/"
+      "link": "/problems/four-divisors/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Prime Factorization",
+          "slug": "prime-factorization"
+        },
+        {
+          "name": "Sieve Theory",
+          "slug": "sieve-theory"
+        }
+      ]
     },
     {
       "date": "2026-01-05",
@@ -45,7 +97,21 @@
       "slug": "maximum-matrix-sum",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-matrix-sum/"
+      "link": "/problems/maximum-matrix-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-01-06",
@@ -54,7 +120,25 @@
       "slug": "maximum-level-sum-of-a-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-level-sum-of-a-binary-tree/"
+      "link": "/problems/maximum-level-sum-of-a-binary-tree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-01-07",
@@ -63,7 +147,21 @@
       "slug": "maximum-product-of-splitted-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-product-of-splitted-binary-tree/"
+      "link": "/problems/maximum-product-of-splitted-binary-tree/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2026-01-08",
@@ -72,7 +170,21 @@
       "slug": "max-dot-product-of-two-subsequences",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/max-dot-product-of-two-subsequences/"
+      "link": "/problems/max-dot-product-of-two-subsequences/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence"
+        }
+      ]
     },
     {
       "date": "2026-01-09",
@@ -81,7 +193,41 @@
       "slug": "smallest-subtree-with-all-the-deepest-nodes",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/smallest-subtree-with-all-the-deepest-nodes/"
+      "link": "/problems/smallest-subtree-with-all-the-deepest-nodes/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2026-01-10",
@@ -90,7 +236,21 @@
       "slug": "minimum-ascii-delete-sum-for-two-strings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-ascii-delete-sum-for-two-strings/"
+      "link": "/problems/minimum-ascii-delete-sum-for-two-strings/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence"
+        }
+      ]
     },
     {
       "date": "2026-01-11",
@@ -99,7 +259,29 @@
       "slug": "maximal-rectangle",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/maximal-rectangle/"
+      "link": "/problems/maximal-rectangle/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Monotonic Stack",
+          "slug": "monotonic-stack"
+        }
+      ]
     },
     {
       "date": "2026-01-12",
@@ -108,7 +290,21 @@
       "slug": "minimum-time-visiting-all-points",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-time-visiting-all-points/"
+      "link": "/problems/minimum-time-visiting-all-points/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ]
     },
     {
       "date": "2026-01-13",
@@ -117,7 +313,17 @@
       "slug": "separate-squares-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/separate-squares-i/"
+      "link": "/problems/separate-squares-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-01-14",
@@ -126,7 +332,25 @@
       "slug": "separate-squares-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/separate-squares-ii/"
+      "link": "/problems/separate-squares-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Sweep Line",
+          "slug": "sweep-line"
+        }
+      ]
     },
     {
       "date": "2026-01-15",
@@ -135,7 +359,17 @@
       "slug": "maximize-area-of-square-hole-in-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximize-area-of-square-hole-in-grid/"
+      "link": "/problems/maximize-area-of-square-hole-in-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-01-16",
@@ -144,7 +378,21 @@
       "slug": "maximum-square-area-by-removing-fences-from-a-field",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-square-area-by-removing-fences-from-a-field/"
+      "link": "/problems/maximum-square-area-by-removing-fences-from-a-field/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Enumeration",
+          "slug": "enumeration"
+        }
+      ]
     },
     {
       "date": "2026-01-17",
@@ -153,7 +401,21 @@
       "slug": "find-the-largest-area-of-square-inside-two-rectangles",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-largest-area-of-square-inside-two-rectangles/"
+      "link": "/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Geometry",
+          "slug": "geometry"
+        }
+      ]
     },
     {
       "date": "2026-01-18",
@@ -162,7 +424,21 @@
       "slug": "largest-magic-square",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/largest-magic-square/"
+      "link": "/problems/largest-magic-square/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-01-19",
@@ -171,7 +447,25 @@
       "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/"
+      "link": "/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-01-20",
@@ -180,7 +474,17 @@
       "slug": "construct-the-minimum-bitwise-array-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/construct-the-minimum-bitwise-array-i/"
+      "link": "/problems/construct-the-minimum-bitwise-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-01-21",
@@ -189,7 +493,17 @@
       "slug": "construct-the-minimum-bitwise-array-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/construct-the-minimum-bitwise-array-ii/"
+      "link": "/problems/construct-the-minimum-bitwise-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-01-22",
@@ -198,7 +512,37 @@
       "slug": "minimum-pair-removal-to-sort-array-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-pair-removal-to-sort-array-i/"
+      "link": "/problems/minimum-pair-removal-to-sort-array-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "slug": "doubly-linked-list"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-01-23",
@@ -207,7 +551,37 @@
       "slug": "minimum-pair-removal-to-sort-array-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-pair-removal-to-sort-array-ii/"
+      "link": "/problems/minimum-pair-removal-to-sort-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        },
+        {
+          "name": "Doubly-Linked List",
+          "slug": "doubly-linked-list"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-01-24",
@@ -216,7 +590,25 @@
       "slug": "minimize-maximum-pair-sum-in-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimize-maximum-pair-sum-in-array/"
+      "link": "/problems/minimize-maximum-pair-sum-in-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-01-25",
@@ -225,7 +617,21 @@
       "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-difference-between-highest-and-lowest-of-k-scores/"
+      "link": "/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-01-26",
@@ -234,7 +640,17 @@
       "slug": "minimum-absolute-difference",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-absolute-difference/"
+      "link": "/problems/minimum-absolute-difference/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-01-27",
@@ -243,7 +659,21 @@
       "slug": "minimum-cost-path-with-edge-reversals",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-path-with-edge-reversals/"
+      "link": "/problems/minimum-cost-path-with-edge-reversals/",
+      "topics": [
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2026-01-28",
@@ -252,7 +682,21 @@
       "slug": "minimum-cost-path-with-teleportations",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-path-with-teleportations/"
+      "link": "/problems/minimum-cost-path-with-teleportations/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-01-29",
@@ -261,7 +705,25 @@
       "slug": "minimum-cost-to-convert-string-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-to-convert-string-i/"
+      "link": "/problems/minimum-cost-to-convert-string-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2026-01-30",
@@ -270,7 +732,33 @@
       "slug": "minimum-cost-to-convert-string-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-to-convert-string-ii/"
+      "link": "/problems/minimum-cost-to-convert-string-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2026-01-31",
@@ -279,7 +767,17 @@
       "slug": "find-smallest-letter-greater-than-target",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/find-smallest-letter-greater-than-target/"
+      "link": "/problems/find-smallest-letter-greater-than-target/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +788,21 @@
       "slug": "design-a-leaderboard",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/design-a-leaderboard/"
+      "link": "/problems/design-a-leaderboard/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Design",
+          "slug": "design"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-01-08",
@@ -299,7 +811,25 @@
       "slug": "the-maze",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/the-maze/"
+      "link": "/problems/the-maze/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-01-15",
@@ -308,7 +838,49 @@
       "slug": "the-maze-ii",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/the-maze-ii/"
+      "link": "/problems/the-maze-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        },
+        {
+          "name": "Heuristic Search",
+          "slug": "heuristic-search"
+        },
+        {
+          "name": "A* Search",
+          "slug": "a-search"
+        }
+      ]
     },
     {
       "date": "2026-01-22",
@@ -317,7 +889,53 @@
       "slug": "the-maze-iii",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/the-maze-iii/"
+      "link": "/problems/the-maze-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        },
+        {
+          "name": "Heuristic Search",
+          "slug": "heuristic-search"
+        },
+        {
+          "name": "A* Search",
+          "slug": "a-search"
+        }
+      ]
     },
     {
       "date": "2026-01-29",
@@ -326,7 +944,21 @@
       "slug": "walls-and-gates",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/walls-and-gates/"
+      "link": "/problems/walls-and-gates/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     }
   ]
 }

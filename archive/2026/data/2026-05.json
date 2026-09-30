@@ -9,7 +9,21 @@
       "slug": "rotate-function",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotate-function/"
+      "link": "/problems/rotate-function/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-05-02",
@@ -18,7 +32,17 @@
       "slug": "rotated-digits",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotated-digits/"
+      "link": "/problems/rotated-digits/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-05-03",
@@ -27,7 +51,17 @@
       "slug": "rotate-string",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/rotate-string/"
+      "link": "/problems/rotate-string/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "String Matching",
+          "slug": "string-matching"
+        }
+      ]
     },
     {
       "date": "2026-05-04",
@@ -36,7 +70,21 @@
       "slug": "rotate-image",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotate-image/"
+      "link": "/problems/rotate-image/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-05-05",
@@ -45,7 +93,17 @@
       "slug": "rotate-list",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotate-list/"
+      "link": "/problems/rotate-list/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        }
+      ]
     },
     {
       "date": "2026-05-06",
@@ -54,7 +112,21 @@
       "slug": "rotating-the-box",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/rotating-the-box/"
+      "link": "/problems/rotating-the-box/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2026-05-07",
@@ -63,7 +135,17 @@
       "slug": "jump-game-ix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/jump-game-ix/"
+      "link": "/problems/jump-game-ix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-05-08",
@@ -72,7 +154,29 @@
       "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-jumps-to-reach-end-via-prime-teleportation/"
+      "link": "/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Number Theory",
+          "slug": "number-theory"
+        }
+      ]
     },
     {
       "date": "2026-05-09",
@@ -81,7 +185,21 @@
       "slug": "cyclically-rotating-a-grid",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/cyclically-rotating-a-grid/"
+      "link": "/problems/cyclically-rotating-a-grid/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-05-10",
@@ -90,7 +208,17 @@
       "slug": "maximum-number-of-jumps-to-reach-the-last-index",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-number-of-jumps-to-reach-the-last-index/"
+      "link": "/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     },
     {
       "date": "2026-05-11",
@@ -99,7 +227,17 @@
       "slug": "separate-the-digits-in-an-array",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/separate-the-digits-in-an-array/"
+      "link": "/problems/separate-the-digits-in-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-05-12",
@@ -108,7 +246,21 @@
       "slug": "minimum-initial-energy-to-finish-tasks",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/minimum-initial-energy-to-finish-tasks/"
+      "link": "/problems/minimum-initial-energy-to-finish-tasks/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-05-13",
@@ -117,7 +269,21 @@
       "slug": "minimum-moves-to-make-array-complementary",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-moves-to-make-array-complementary/"
+      "link": "/problems/minimum-moves-to-make-array-complementary/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-05-14",
@@ -126,7 +292,21 @@
       "slug": "check-if-array-is-good",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-array-is-good/"
+      "link": "/problems/check-if-array-is-good/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-05-15",
@@ -135,7 +315,17 @@
       "slug": "find-minimum-in-rotated-sorted-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-minimum-in-rotated-sorted-array/"
+      "link": "/problems/find-minimum-in-rotated-sorted-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-05-16",
@@ -144,7 +334,17 @@
       "slug": "find-minimum-in-rotated-sorted-array-ii",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/find-minimum-in-rotated-sorted-array-ii/"
+      "link": "/problems/find-minimum-in-rotated-sorted-array-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-05-17",
@@ -153,7 +353,21 @@
       "slug": "jump-game-iii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/jump-game-iii/"
+      "link": "/problems/jump-game-iii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2026-05-18",
@@ -162,7 +376,21 @@
       "slug": "jump-game-iv",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/jump-game-iv/"
+      "link": "/problems/jump-game-iv/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        }
+      ]
     },
     {
       "date": "2026-05-19",
@@ -171,7 +399,25 @@
       "slug": "minimum-common-value",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-common-value/"
+      "link": "/problems/minimum-common-value/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-05-20",
@@ -180,7 +426,21 @@
       "slug": "find-the-prefix-common-array-of-two-arrays",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-prefix-common-array-of-two-arrays/"
+      "link": "/problems/find-the-prefix-common-array-of-two-arrays/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Bit Manipulation",
+          "slug": "bit-manipulation"
+        }
+      ]
     },
     {
       "date": "2026-05-21",
@@ -189,7 +449,25 @@
       "slug": "find-the-length-of-the-longest-common-prefix",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-length-of-the-longest-common-prefix/"
+      "link": "/problems/find-the-length-of-the-longest-common-prefix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2026-05-22",
@@ -198,7 +476,17 @@
       "slug": "search-in-rotated-sorted-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/search-in-rotated-sorted-array/"
+      "link": "/problems/search-in-rotated-sorted-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-05-23",
@@ -207,7 +495,13 @@
       "slug": "check-if-array-is-sorted-and-rotated",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/check-if-array-is-sorted-and-rotated/"
+      "link": "/problems/check-if-array-is-sorted-and-rotated/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2026-05-24",
@@ -216,7 +510,21 @@
       "slug": "jump-game-v",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/jump-game-v/"
+      "link": "/problems/jump-game-v/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2026-05-25",
@@ -225,7 +533,25 @@
       "slug": "jump-game-vii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/jump-game-vii/"
+      "link": "/problems/jump-game-vii/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Sliding Window",
+          "slug": "sliding-window"
+        },
+        {
+          "name": "Prefix Sum",
+          "slug": "prefix-sum"
+        }
+      ]
     },
     {
       "date": "2026-05-26",
@@ -234,7 +560,17 @@
       "slug": "count-the-number-of-special-characters-i",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-special-characters-i/"
+      "link": "/problems/count-the-number-of-special-characters-i/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-05-27",
@@ -243,7 +579,17 @@
       "slug": "count-the-number-of-special-characters-ii",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-the-number-of-special-characters-ii/"
+      "link": "/problems/count-the-number-of-special-characters-ii/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        }
+      ]
     },
     {
       "date": "2026-05-28",
@@ -252,7 +598,21 @@
       "slug": "longest-common-suffix-queries",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/longest-common-suffix-queries/"
+      "link": "/problems/longest-common-suffix-queries/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Trie",
+          "slug": "trie"
+        }
+      ]
     },
     {
       "date": "2026-05-29",
@@ -261,7 +621,17 @@
       "slug": "minimum-element-after-replacement-with-digit-sum",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/minimum-element-after-replacement-with-digit-sum/"
+      "link": "/problems/minimum-element-after-replacement-with-digit-sum/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-05-30",
@@ -270,7 +640,29 @@
       "slug": "block-placement-queries",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/block-placement-queries/"
+      "link": "/problems/block-placement-queries/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        },
+        {
+          "name": "Ordered Set",
+          "slug": "ordered-set"
+        }
+      ]
     },
     {
       "date": "2026-05-31",
@@ -279,7 +671,21 @@
       "slug": "destroying-asteroids",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/destroying-asteroids/"
+      "link": "/problems/destroying-asteroids/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +696,25 @@
       "slug": "employee-free-time",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/employee-free-time/"
+      "link": "/problems/employee-free-time/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sweep Line",
+          "slug": "sweep-line"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        }
+      ]
     },
     {
       "date": "2026-05-08",
@@ -299,7 +723,17 @@
       "slug": "robot-room-cleaner",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/robot-room-cleaner/"
+      "link": "/problems/robot-room-cleaner/",
+      "topics": [
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        },
+        {
+          "name": "Interactive",
+          "slug": "interactive"
+        }
+      ]
     },
     {
       "date": "2026-05-15",
@@ -308,7 +742,21 @@
       "slug": "number-of-spaces-cleaning-robot-cleaned",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/number-of-spaces-cleaning-robot-cleaned/"
+      "link": "/problems/number-of-spaces-cleaning-robot-cleaned/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2026-05-22",
@@ -317,7 +765,17 @@
       "slug": "fixed-point",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/fixed-point/"
+      "link": "/problems/fixed-point/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        }
+      ]
     },
     {
       "date": "2026-05-29",
@@ -326,7 +784,13 @@
       "slug": "confusing-number",
       "difficulty": "Easy",
       "isPaidOnly": true,
-      "link": "/problems/confusing-number/"
+      "link": "/problems/confusing-number/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        }
+      ]
     },
     {
       "date": "2026-06-05",
@@ -335,7 +799,17 @@
       "slug": "confusing-number-ii",
       "difficulty": "Hard",
       "isPaidOnly": true,
-      "link": "/problems/confusing-number-ii/"
+      "link": "/problems/confusing-number-ii/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Backtracking",
+          "slug": "backtracking"
+        }
+      ]
     }
   ]
 }

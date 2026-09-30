@@ -9,7 +9,13 @@
       "slug": "three-consecutive-odds",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/three-consecutive-odds/"
+      "link": "/problems/three-consecutive-odds/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        }
+      ]
     },
     {
       "date": "2024-07-02",
@@ -18,7 +24,29 @@
       "slug": "intersection-of-two-arrays-ii",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/intersection-of-two-arrays-ii/"
+      "link": "/problems/intersection-of-two-arrays-ii/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Two Pointers",
+          "slug": "two-pointers"
+        },
+        {
+          "name": "Binary Search",
+          "slug": "binary-search"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-03",
@@ -27,7 +55,21 @@
       "slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/"
+      "link": "/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-04",
@@ -36,7 +78,17 @@
       "slug": "merge-nodes-in-between-zeros",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/merge-nodes-in-between-zeros/"
+      "link": "/problems/merge-nodes-in-between-zeros/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-05",
@@ -45,7 +97,13 @@
       "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+      "link": "/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+      "topics": [
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2024-07-06",
@@ -54,7 +112,17 @@
       "slug": "pass-the-pillow",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/pass-the-pillow/"
+      "link": "/problems/pass-the-pillow/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-07",
@@ -63,7 +131,17 @@
       "slug": "water-bottles",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/water-bottles/"
+      "link": "/problems/water-bottles/",
+      "topics": [
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-08",
@@ -72,7 +150,29 @@
       "slug": "find-the-winner-of-the-circular-game",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-winner-of-the-circular-game/"
+      "link": "/problems/find-the-winner-of-the-circular-game/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Recursion",
+          "slug": "recursion"
+        },
+        {
+          "name": "Queue",
+          "slug": "queue"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-09",
@@ -81,7 +181,17 @@
       "slug": "average-waiting-time",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/average-waiting-time/"
+      "link": "/problems/average-waiting-time/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-10",
@@ -90,7 +200,21 @@
       "slug": "crawler-log-folder",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/crawler-log-folder/"
+      "link": "/problems/crawler-log-folder/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2024-07-11",
@@ -99,7 +223,21 @@
       "slug": "reverse-substrings-between-each-pair-of-parentheses",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/"
+      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Bracket Sequences",
+          "slug": "bracket-sequences"
+        }
+      ]
     },
     {
       "date": "2024-07-12",
@@ -108,7 +246,21 @@
       "slug": "maximum-score-from-removing-substrings",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/maximum-score-from-removing-substrings/"
+      "link": "/problems/maximum-score-from-removing-substrings/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        }
+      ]
     },
     {
       "date": "2024-07-13",
@@ -117,7 +269,25 @@
       "slug": "robot-collisions",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/robot-collisions/"
+      "link": "/problems/robot-collisions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Simulation",
+          "slug": "simulation"
+        }
+      ]
     },
     {
       "date": "2024-07-14",
@@ -126,7 +296,25 @@
       "slug": "number-of-atoms",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/number-of-atoms/"
+      "link": "/problems/number-of-atoms/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-15",
@@ -135,7 +323,25 @@
       "slug": "create-binary-tree-from-descriptions",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/create-binary-tree-from-descriptions/"
+      "link": "/problems/create-binary-tree-from-descriptions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2024-07-16",
@@ -144,7 +350,33 @@
       "slug": "step-by-step-directions-from-a-binary-tree-node-to-another",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/step-by-step-directions-from-a-binary-tree-node-to-another/"
+      "link": "/problems/step-by-step-directions-from-a-binary-tree-node-to-another/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        }
+      ]
     },
     {
       "date": "2024-07-17",
@@ -153,7 +385,29 @@
       "slug": "delete-nodes-and-return-forest",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/delete-nodes-and-return-forest/"
+      "link": "/problems/delete-nodes-and-return-forest/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        }
+      ]
     },
     {
       "date": "2024-07-18",
@@ -162,7 +416,25 @@
       "slug": "number-of-good-leaf-nodes-pairs",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/number-of-good-leaf-nodes-pairs/"
+      "link": "/problems/number-of-good-leaf-nodes-pairs/",
+      "topics": [
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "DP on Trees",
+          "slug": "dp-on-trees"
+        }
+      ]
     },
     {
       "date": "2024-07-19",
@@ -171,7 +443,17 @@
       "slug": "lucky-numbers-in-a-matrix",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/lucky-numbers-in-a-matrix/"
+      "link": "/problems/lucky-numbers-in-a-matrix/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        }
+      ]
     },
     {
       "date": "2024-07-20",
@@ -180,7 +462,25 @@
       "slug": "find-valid-matrix-given-row-and-column-sums",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-valid-matrix-given-row-and-column-sums/"
+      "link": "/problems/find-valid-matrix-given-row-and-column-sums/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Greedy",
+          "slug": "greedy"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Flow Network",
+          "slug": "flow-network"
+        }
+      ]
     },
     {
       "date": "2024-07-21",
@@ -189,7 +489,29 @@
       "slug": "build-a-matrix-with-conditions",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/build-a-matrix-with-conditions/"
+      "link": "/problems/build-a-matrix-with-conditions/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Topological Sort",
+          "slug": "topological-sort"
+        },
+        {
+          "name": "Matrix",
+          "slug": "matrix"
+        },
+        {
+          "name": "Directed Acyclic Graph",
+          "slug": "directed-acyclic-graph"
+        }
+      ]
     },
     {
       "date": "2024-07-22",
@@ -198,7 +520,25 @@
       "slug": "sort-the-people",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sort-the-people/"
+      "link": "/problems/sort-the-people/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-23",
@@ -207,7 +547,21 @@
       "slug": "sort-array-by-increasing-frequency",
       "difficulty": "Easy",
       "isPaidOnly": false,
-      "link": "/problems/sort-array-by-increasing-frequency/"
+      "link": "/problems/sort-array-by-increasing-frequency/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-24",
@@ -216,7 +570,17 @@
       "slug": "sort-the-jumbled-numbers",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sort-the-jumbled-numbers/"
+      "link": "/problems/sort-the-jumbled-numbers/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-25",
@@ -225,7 +589,41 @@
       "slug": "sort-an-array",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/sort-an-array/"
+      "link": "/problems/sort-an-array/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Divide and Conquer",
+          "slug": "divide-and-conquer"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Merge Sort",
+          "slug": "merge-sort"
+        },
+        {
+          "name": "Bucket Sort",
+          "slug": "bucket-sort"
+        },
+        {
+          "name": "Radix Sort",
+          "slug": "radix-sort"
+        },
+        {
+          "name": "Counting Sort",
+          "slug": "counting-sort"
+        }
+      ]
     },
     {
       "date": "2024-07-26",
@@ -234,7 +632,33 @@
       "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
+      "link": "/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "topics": [
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        },
+        {
+          "name": "Bellman–Ford Algorithm",
+          "slug": "bellman-ford-algorithm"
+        },
+        {
+          "name": "Floyd–Warshall Algorithm",
+          "slug": "floyd-warshall-algorithm"
+        }
+      ]
     },
     {
       "date": "2024-07-27",
@@ -243,7 +667,25 @@
       "slug": "minimum-cost-to-convert-string-i",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-cost-to-convert-string-i/"
+      "link": "/problems/minimum-cost-to-convert-string-i/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        }
+      ]
     },
     {
       "date": "2024-07-28",
@@ -252,7 +694,29 @@
       "slug": "second-minimum-time-to-reach-destination",
       "difficulty": "Hard",
       "isPaidOnly": false,
-      "link": "/problems/second-minimum-time-to-reach-destination/"
+      "link": "/problems/second-minimum-time-to-reach-destination/",
+      "topics": [
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        },
+        {
+          "name": "K Shortest Path",
+          "slug": "k-shortest-path"
+        }
+      ]
     },
     {
       "date": "2024-07-29",
@@ -261,7 +725,25 @@
       "slug": "count-number-of-teams",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/count-number-of-teams/"
+      "link": "/problems/count-number-of-teams/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Binary Indexed Tree",
+          "slug": "binary-indexed-tree"
+        },
+        {
+          "name": "Segment Tree",
+          "slug": "segment-tree"
+        }
+      ]
     },
     {
       "date": "2024-07-30",
@@ -270,7 +752,21 @@
       "slug": "minimum-deletions-to-make-string-balanced",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/minimum-deletions-to-make-string-balanced/"
+      "link": "/problems/minimum-deletions-to-make-string-balanced/",
+      "topics": [
+        {
+          "name": "String",
+          "slug": "string"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Stack",
+          "slug": "stack"
+        }
+      ]
     },
     {
       "date": "2024-07-31",
@@ -279,7 +775,17 @@
       "slug": "filling-bookcase-shelves",
       "difficulty": "Medium",
       "isPaidOnly": false,
-      "link": "/problems/filling-bookcase-shelves/"
+      "link": "/problems/filling-bookcase-shelves/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        }
+      ]
     }
   ],
   "weeklyChallenges": [
@@ -290,7 +796,21 @@
       "slug": "the-earliest-moment-when-everyone-become-friends",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/the-earliest-moment-when-everyone-become-friends/"
+      "link": "/problems/the-earliest-moment-when-everyone-become-friends/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Union-Find",
+          "slug": "union-find"
+        },
+        {
+          "name": "Sorting",
+          "slug": "sorting"
+        }
+      ]
     },
     {
       "date": "2024-07-08",
@@ -299,7 +819,17 @@
       "slug": "remove-duplicates-from-an-unsorted-linked-list",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/remove-duplicates-from-an-unsorted-linked-list/"
+      "link": "/problems/remove-duplicates-from-an-unsorted-linked-list/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Linked List",
+          "slug": "linked-list"
+        }
+      ]
     },
     {
       "date": "2024-07-15",
@@ -308,7 +838,37 @@
       "slug": "find-distance-in-a-binary-tree",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/find-distance-in-a-binary-tree/"
+      "link": "/problems/find-distance-in-a-binary-tree/",
+      "topics": [
+        {
+          "name": "Hash Table",
+          "slug": "hash-table"
+        },
+        {
+          "name": "Tree",
+          "slug": "tree"
+        },
+        {
+          "name": "Depth-First Search",
+          "slug": "depth-first-search"
+        },
+        {
+          "name": "Breadth-First Search",
+          "slug": "breadth-first-search"
+        },
+        {
+          "name": "Binary Tree",
+          "slug": "binary-tree"
+        },
+        {
+          "name": "Binary Lifting",
+          "slug": "binary-lifting"
+        },
+        {
+          "name": "Lowest Common Ancestor",
+          "slug": "lowest-common-ancestor"
+        }
+      ]
     },
     {
       "date": "2024-07-22",
@@ -317,7 +877,25 @@
       "slug": "minimum-cost-to-reach-city-with-discounts",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/minimum-cost-to-reach-city-with-discounts/"
+      "link": "/problems/minimum-cost-to-reach-city-with-discounts/",
+      "topics": [
+        {
+          "name": "Graph Theory",
+          "slug": "graph"
+        },
+        {
+          "name": "Heap (Priority Queue)",
+          "slug": "heap-priority-queue"
+        },
+        {
+          "name": "Shortest Path",
+          "slug": "shortest-path"
+        },
+        {
+          "name": "Dijkstra's Algorithm",
+          "slug": "dijkstra"
+        }
+      ]
     },
     {
       "date": "2024-07-29",
@@ -326,7 +904,25 @@
       "slug": "toss-strange-coins",
       "difficulty": "Medium",
       "isPaidOnly": true,
-      "link": "/problems/toss-strange-coins/"
+      "link": "/problems/toss-strange-coins/",
+      "topics": [
+        {
+          "name": "Array",
+          "slug": "array"
+        },
+        {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
+          "name": "Dynamic Programming",
+          "slug": "dynamic-programming"
+        },
+        {
+          "name": "Probability and Statistics",
+          "slug": "probability-and-statistics"
+        }
+      ]
     }
   ]
 }
