@@ -11,7 +11,7 @@
   const ID_QUERY = /^#?(\d+)$/;
   const URL_PREFIX = "https://leetcode.com/problems/";
   const EMPTY_MESSAGE = "No challenges match the current filters.";
-  const COLUMN_COUNT = 8;
+  const COLUMN_COUNT = 7;
   // A bare URL opens on the latest month, so the unfiltered view needs a query string of its own.
   // readQuery ignores "all" like any other unknown year, which leaves Year at "All years".
   const SHOW_ALL_QUERY = "year=all";
@@ -104,8 +104,6 @@
     const tr = document.createElement("tr");
     const title = cell("", "title");
     title.append(problemLink(challenge.url, challenge.title));
-    const link = cell("");
-    link.append(problemLink(challenge.url, "Open"));
     tr.append(
       cell(challenge.date),
       cell(TYPE_LABELS[challenge.type]),
@@ -114,7 +112,6 @@
       cell(challenge.difficulty),
       cell(challenge.isPaidOnly ? "Premium" : "Free"),
       cell(challenge.topics.join(", "), "topics"),
-      link,
     );
     return tr;
   }
