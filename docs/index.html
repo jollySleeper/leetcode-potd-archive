@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>LeetCode Problem of the Day</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>LeetCode Problem of the Day</h1>
+      <p id="range" class="summary">Loading challenges…</p>
+      <p id="counts" class="summary" aria-live="polite"></p>
+    </header>
+
+    <noscript>
+      <p class="notice">
+        The table on this page is built with JavaScript. Without it, browse the
+        <a href="https://github.com/jollySleeper/leetcode-potd-archive/blob/main/archive/README.md">Markdown archive</a>
+        instead.
+      </p>
+    </noscript>
+
+    <form id="filters" class="filters" role="search" autocomplete="off">
+      <div class="field field-search">
+        <label for="search">Search</label>
+        <input id="search" type="search" placeholder="Title, slug, date, or #id" spellcheck="false">
+      </div>
+      <div class="field">
+        <label for="year">Year</label>
+        <select id="year">
+          <option value="">All years</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="month">Month</label>
+        <select id="month">
+          <option value="">All months</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="type">Type</label>
+        <select id="type">
+          <option value="">All types</option>
+          <option value="daily">Daily</option>
+          <option value="weekly">Weekly</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="difficulty">Difficulty</label>
+        <select id="difficulty">
+          <option value="">All difficulties</option>
+          <option value="easy">Easy</option>
+          <option value="medium">Medium</option>
+          <option value="hard">Hard</option>
+        </select>
+      </div>
+      <button id="reset" type="button" class="reset" hidden>Reset</button>
+    </form>
+
+    <p id="error" class="notice error" role="alert" hidden></p>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Type</th>
+            <th scope="col" class="num">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Difficulty</th>
+            <th scope="col">Access</th>
+            <th scope="col">Link</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </main>
+</body>
+</html>
