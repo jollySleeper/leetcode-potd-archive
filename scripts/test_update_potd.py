@@ -3,9 +3,11 @@
 from __future__ import annotations
 
 import json
+import tempfile
 import unittest
 import urllib.error
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import update_potd as up
 
@@ -185,6 +187,54 @@ class FieldRuleTests(unittest.TestCase):
         self.weekly["date"] = "2026-02-05"
         self.payload["data"]["dailyCodingChallengeV2"]["weeklyChallenges"][0]["date"] = "2025-12-29"
         self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
+
+class NormalizationTests(unittest.TestCase):
+    def setUp(self):
+        weeklies = [api_item("2026-05-29", "1088", title="Confusing Number II", slug="confusing-number-ii",
+                             difficulty="Hard", paid=True)]
+        payload = api_payload(2026, 5, weeklies=weeklies)
+        record = payload["data"]["dailyCodingChallengeV2"]
+        record["challenges"][0] = api_item("2026-05-01", "396", title="N × 3", slug="n-x-3", paid=True)
+        record["challenges"][0]["userStatus"] = "NotStart"
+        record["challenges"][0]["question"]["extra"] = "dropped"
+        self.snapshot = up.normalize_response(payload, 2026, 5)
+
+    def test_key_order(self):
+        self.assertEqual(list(self.snapshot), ["year", "month", "challenges", "weeklyChallenges"])
+        for item in self.snapshot["challenges"] + self.snapshot["weeklyChallenges"]:
+            self.assertEqual(list(item), ["date", "id", "title", "slug", "difficulty", "isPaidOnly", "link"])
+
+    def test_values(self):
+        first = self.snapshot["challenges"][0]
+        self.assertEqual(first["id"], "396")
+        self.assertIs(first["isPaidOnly"], True)
+        self.assertIs(self.snapshot["challenges"][1]["isPaidOnly"], False)
+        self.assertEqual(first["link"], "/problems/n-x-3/")
+        self.assertEqual(self.snapshot["weeklyChallenges"][0]["slug"], "confusing-number-ii")
+
+    def test_rendered_json(self):
+        text = up.render_json(self.snapshot).decode("utf-8")
+        self.assertIn('"title": "N × 3"', text)
+        self.assertNotIn("\\u00d7", text)
+        self.assertNotIn("userStatus", text)
+        self.assertTrue(text.startswith('{\n  "year": 2026,\n  "month": 5,\n'))
+        self.assertTrue(text.endswith("}\n"))
+        self.assertFalse(text.endswith("\n\n"))
+
+    def test_rejects_non_complete(self):
+        with self.assertRaises(up.ArchiveError):
+            up.normalize_response(api_payload(2026, 9, days=range(1, 29)), 2026, 9)
+
+    def test_write_if_changed(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.assertTrue(up.save_snapshot(root, self.snapshot))
+            path = root / "archive" / "2026" / "2026-05.json"
+            self.assertTrue(path.is_file())
+            before = path.stat().st_mtime_ns
+            self.assertFalse(up.save_snapshot(root, self.snapshot))
+            self.assertEqual(path.stat().st_mtime_ns, before)
 
 
 class FakeTransport:

@@ -90,6 +90,8 @@ ID_RE = re.compile(r"\d+", re.ASCII)
 SLUG_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 
+SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link")
+
 
 class ArchiveError(Exception):
     """Any failure that should end the command with exit code 1."""
@@ -330,3 +332,48 @@ def classify_response(payload: object, year: int, month: int) -> tuple[str, str]
         year,
         month,
     )
+
+
+# ---------------------------------------------------------------------------
+# Snapshots and file output
+# ---------------------------------------------------------------------------
+
+
+def normalize_response(payload: object, year: int, month: int) -> dict:
+    """Turn a `complete` API response into the snapshot schema, keeping API order."""
+    kind, detail = classify_response(payload, year, month)
+    if kind != COMPLETE:
+        raise ArchiveError(f"{month_key(year, month)}: expected a complete month, got {kind} ({detail})")
+    record = payload["data"]["dailyCodingChallengeV2"]
+    return {
+        "year": year,
+        "month": month,
+        "challenges": [snapshot_item(item) for item in record["challenges"]],
+        "weeklyChallenges": [snapshot_item(item) for item in record["weeklyChallenges"]],
+    }
+
+
+def snapshot_item(item: dict) -> dict:
+    fields = api_item_fields(item)
+    return {name: fields[name] for name in SNAPSHOT_FIELDS}
+
+
+def render_json(value: object) -> bytes:
+    return (json.dumps(value, indent=2, ensure_ascii=False) + "\n").encode("utf-8")
+
+
+def write_if_changed(path: Path, data: bytes) -> bool:
+    """Write `data` unless the file already holds exactly these bytes. Returns True on write."""
+    if path.is_file() and path.read_bytes() == data:
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(data)
+    return True
+
+
+def snapshot_path(root: Path, year: int, month: int) -> Path:
+    return root / ARCHIVE_DIR / f"{year:04d}" / f"{month_key(year, month)}.json"
+
+
+def save_snapshot(root: Path, snapshot: dict) -> bool:
+    return write_if_changed(snapshot_path(root, snapshot["year"], snapshot["month"]), render_json(snapshot))
