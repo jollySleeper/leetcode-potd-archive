@@ -273,7 +273,7 @@ class NormalizationTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             self.assertTrue(up.save_snapshot(root, self.snapshot))
-            path = root / "archive" / "2026" / "2026-05.json"
+            path = root / "archive" / "2026" / "data" / "2026-05.json"
             self.assertTrue(path.is_file())
             before = path.stat().st_mtime_ns
             self.assertFalse(up.save_snapshot(root, self.snapshot))
@@ -287,7 +287,7 @@ class ArchiveTestCase(unittest.TestCase):
         self.root = Path(self._tmp.name)
 
     def snap(self, year: int, month: int) -> Path:
-        return self.root / "archive" / f"{year:04d}" / f"{year:04d}-{month:02d}.json"
+        return self.root / "archive" / f"{year:04d}" / "data" / f"{year:04d}-{month:02d}.json"
 
 
 class SnapshotLoadingTests(ArchiveTestCase):
@@ -295,7 +295,7 @@ class SnapshotLoadingTests(ArchiveTestCase):
         write_archive(self.root, (2020, 6))
         loaded = up.load_snapshots(self.root)
         self.assertEqual(list(loaded), [(2020, 4), (2020, 5), (2020, 6)])
-        self.assertEqual(loaded[(2020, 5)][0], "archive/2020/2020-05.json")
+        self.assertEqual(loaded[(2020, 5)][0], "archive/2020/data/2020-05.json")
 
     def test_gap_fails(self):
         write_archive(self.root, (2020, 6))
@@ -310,14 +310,21 @@ class SnapshotLoadingTests(ArchiveTestCase):
     def test_filename_must_match_year_and_month(self):
         write_archive(self.root, (2020, 5))
         write_json(self.snap(2020, 5), read_json(self.snap(2020, 4)))
-        with self.assertRaisesRegex(up.ArchiveError, "archive/2020/2020-05.json"):
+        with self.assertRaisesRegex(up.ArchiveError, "archive/2020/data/2020-05.json"):
             up.load_snapshots(self.root)
 
     def test_folder_must_match_year(self):
         write_archive(self.root, (2020, 4))
-        wrong = self.root / "archive" / "2021" / "2020-05.json"
+        wrong = self.root / "archive" / "2021" / "data" / "2020-05.json"
         write_json(wrong, up.normalize_response(api_payload(2020, 5), 2020, 5))
         with self.assertRaisesRegex(up.ArchiveError, "folder"):
+            up.load_snapshots(self.root)
+
+    def test_snapshot_outside_data_folder_fails(self):
+        write_archive(self.root, (2020, 5))
+        old_place = self.root / "archive" / "2020" / "2020-05.json"
+        self.snap(2020, 5).rename(old_place)
+        with self.assertRaisesRegex(up.ArchiveError, "archive/2020/2020-05.json: snapshots belong in archive/YYYY/data/"):
             up.load_snapshots(self.root)
 
     def test_hand_edited_partial_snapshot_fails(self):
@@ -507,8 +514,8 @@ class ConflictTests(ArchiveTestCase):
         })
         with self.assertRaises(up.ArchiveError) as ctx:
             self.merge()
-        self.assertIn("archive/2026/2026-05.json", str(ctx.exception))
-        self.assertIn("archive/2026/2026-06.json", str(ctx.exception))
+        self.assertIn("archive/2026/data/2026-05.json", str(ctx.exception))
+        self.assertIn("archive/2026/data/2026-06.json", str(ctx.exception))
 
     def test_identical_weekly_in_two_snapshots_is_kept_once(self):
         write_archive(self.root, (2026, 6), weeklies={

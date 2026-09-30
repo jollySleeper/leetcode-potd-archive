@@ -9,7 +9,7 @@ The site is static. It loads one file, `public/challenges.json`, and filters it 
 
 ## How the data is organized
 
-`archive/YYYY/YYYY-MM.json` is the canonical data: the validated LeetCode response for the month that was queried. A snapshot can contain a weekly challenge dated in the next month; it stays in the file of the month that returned it.
+`archive/YYYY/data/YYYY-MM.json` is the canonical data: the validated LeetCode response for the month that was queried. A snapshot can contain a weekly challenge dated in the next month; it stays in the file of the month that returned it.
 
 `build` reads every snapshot and generates, grouped by each challenge's own date:
 

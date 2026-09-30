@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Archive LeetCode's daily and weekly challenges as monthly snapshots.
 
-Canonical data lives in archive/YYYY/YYYY-MM.json. The build step turns those
+Canonical data lives in archive/YYYY/data/YYYY-MM.json. The build step turns those
 snapshots into monthly Markdown pages, archive/README.md, and
 public/challenges.json for the static site.
 """
@@ -23,6 +23,7 @@ FIRST_MONTH = (2020, 4)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE_DIR = Path("archive")
+SNAPSHOT_DIR = "data"
 INDEX_PATH = ARCHIVE_DIR / "README.md"
 SITE_JSON_PATH = Path("public") / "challenges.json"
 
@@ -388,7 +389,7 @@ def write_if_changed(path: Path, data: bytes) -> bool:
 
 
 def snapshot_path(root: Path, year: int, month: int) -> Path:
-    return root / ARCHIVE_DIR / f"{year:04d}" / f"{month_key(year, month)}.json"
+    return root / ARCHIVE_DIR / f"{year:04d}" / SNAPSHOT_DIR / f"{month_key(year, month)}.json"
 
 
 def save_snapshot(root: Path, snapshot: dict) -> bool:
@@ -416,15 +417,21 @@ def classify_snapshot(snapshot: dict, year: int, month: int) -> tuple[str, str]:
 
 
 def discover_snapshots(root: Path) -> dict[tuple[int, int], Path]:
-    """Find every archive/YYYY/YYYY-MM.json and check that its name and folder agree."""
+    """Find every archive/YYYY/data/YYYY-MM.json and check that its name and folder agree."""
+    archive = root / ARCHIVE_DIR
+    misplaced = sorted(archive.glob("*/*.json"))
+    if misplaced:
+        raise ArchiveError(
+            f"{relative(root, misplaced[0])}: snapshots belong in {ARCHIVE_DIR.as_posix()}/YYYY/{SNAPSHOT_DIR}/"
+        )
     found = {}
-    for path in sorted((root / ARCHIVE_DIR).glob("*/*.json")):
+    for path in sorted(archive.glob(f"*/{SNAPSHOT_DIR}/*.json")):
         name = relative(root, path)
         match = SNAPSHOT_NAME_RE.fullmatch(path.name)
         if not match or not 1 <= int(match.group(2)) <= 12:
             raise ArchiveError(f"{name}: snapshot files must be named YYYY-MM.json")
         year, month = int(match.group(1)), int(match.group(2))
-        if path.parent.name != f"{year:04d}":
+        if path.parent.parent.name != f"{year:04d}":
             raise ArchiveError(f"{name}: folder does not match the year {year:04d}")
         found[(year, month)] = path
     return found
