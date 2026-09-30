@@ -8,7 +8,10 @@
   ];
   const TYPE_LABELS = { daily: "Daily", weekly: "Weekly" };
   const DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
+  const ID_QUERY = /^#?(\d+)$/;
   const URL_PREFIX = "https://leetcode.com/problems/";
+  const EMPTY_MESSAGE = "No challenges match the current filters.";
+  const COLUMN_COUNT = 7;
   const numbers = new Intl.NumberFormat("en-US");
 
   const els = {
@@ -16,15 +19,30 @@
     counts: document.getElementById("counts"),
     error: document.getElementById("error"),
     rows: document.getElementById("rows"),
+    form: document.getElementById("filters"),
+    search: document.getElementById("search"),
+    year: document.getElementById("year"),
+    month: document.getElementById("month"),
+    type: document.getElementById("type"),
+    difficulty: document.getElementById("difficulty"),
+    reset: document.getElementById("reset"),
   };
+  const selects = [els.year, els.month, els.type, els.difficulty];
 
   let challenges = [];
+  let years = [];
+  let months = [];
   const rowCache = new Map();
 
   // Split the ISO string instead of using Date, which would shift the day west of UTC.
   function formatDate(iso) {
     const [year, month, day] = iso.split("-");
     return `${MONTH_NAMES[Number(month) - 1]} ${Number(day)}, ${year}`;
+  }
+
+  function formatMonth(key) {
+    const [year, month] = key.split("-");
+    return `${MONTH_NAMES[Number(month) - 1]} ${year}`;
   }
 
   function compareNewestFirst(a, b) {
@@ -108,9 +126,91 @@
 
   function render(list) {
     const fragment = document.createDocumentFragment();
+    if (list.length === 0) {
+      const tr = document.createElement("tr");
+      const td = cell(EMPTY_MESSAGE, "empty");
+      td.colSpan = COLUMN_COUNT;
+      tr.append(td);
+      fragment.append(tr);
+    }
     for (const challenge of list) fragment.append(rowFor(challenge));
     els.rows.replaceChildren(fragment);
     updateCounts(list.length);
+  }
+
+  function option(value, label) {
+    const el = document.createElement("option");
+    el.value = value;
+    el.textContent = label;
+    return el;
+  }
+
+  function fillSelect(select, allLabel, entries) {
+    const fragment = document.createDocumentFragment();
+    fragment.append(option("", allLabel));
+    for (const [value, label] of entries) fragment.append(option(value, label));
+    select.replaceChildren(fragment);
+  }
+
+  function monthsForYear(year) {
+    return year ? months.filter((key) => key.startsWith(`${year}-`)) : months;
+  }
+
+  function populateMonths() {
+    const selected = els.month.value;
+    const available = monthsForYear(els.year.value);
+    fillSelect(els.month, "All months", available.map((key) => [key, formatMonth(key)]));
+    els.month.value = available.includes(selected) ? selected : "";
+  }
+
+  function searchMatcher(input) {
+    const query = input.trim().toLowerCase();
+    if (!query) return () => true;
+    const id = ID_QUERY.exec(query);
+    if (id) return (c) => c.id === id[1];
+    return (c) => c.title.toLowerCase().includes(query)
+      || c.slug.toLowerCase().includes(query)
+      || c.date.includes(query);
+  }
+
+  function filtered() {
+    const matchesSearch = searchMatcher(els.search.value);
+    const year = els.year.value;
+    const month = els.month.value;
+    const type = els.type.value;
+    const difficulty = els.difficulty.value;
+    return challenges.filter((c) => (!year || c.date.startsWith(`${year}-`))
+      && (!month || c.date.startsWith(`${month}-`))
+      && (!type || c.type === type)
+      && (!difficulty || c.difficulty.toLowerCase() === difficulty)
+      && matchesSearch(c));
+  }
+
+  function isDefault() {
+    return els.search.value === "" && selects.every((select) => select.value === "");
+  }
+
+  function update() {
+    els.reset.hidden = isDefault();
+    render(filtered());
+  }
+
+  function reset() {
+    els.search.value = "";
+    for (const select of selects) select.value = "";
+    populateMonths();
+    update();
+  }
+
+  function bindControls() {
+    els.form.addEventListener("submit", (event) => event.preventDefault());
+    els.search.addEventListener("input", update);
+    els.year.addEventListener("change", () => {
+      populateMonths();
+      update();
+    });
+    for (const select of [els.month, els.type, els.difficulty]) select.addEventListener("change", update);
+    els.reset.addEventListener("click", reset);
   }
 
   function showError(message) {
@@ -122,8 +222,13 @@
 
   function init(data) {
     challenges = data.challenges.slice().sort(compareNewestFirst);
+    months = [...new Set(challenges.map((c) => c.date.slice(0, 7)))].sort().reverse();
+    years = [...new Set(months.map((key) => key.slice(0, 4)))];
     els.range.textContent = `${formatDate(data.from)} – ${formatDate(data.to)}`;
-    render(challenges);
+    fillSelect(els.year, "All years", years.map((year) => [year, year]));
+    populateMonths();
+    bindControls();
+    update();
   }
 
   async function load() {
