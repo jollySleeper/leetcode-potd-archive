@@ -10,10 +10,11 @@ from __future__ import annotations
 
 import calendar
 import json
+import re
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 FIRST_MONTH = (2020, 4)
@@ -77,6 +78,14 @@ TIMEOUT_SECONDS = 30
 MAX_ATTEMPTS = 3
 RETRY_SLEEPS = (2, 4)
 BACKFILL_DELAY_SECONDS = 0.2
+
+UNAVAILABLE = "unavailable"
+EMPTY = "empty"
+PARTIAL = "partial"
+COMPLETE = "complete"
+INVALID = "invalid"
+
+DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}", re.ASCII)
 
 
 class ArchiveError(Exception):
@@ -198,3 +207,83 @@ class LeetCodeClient:
                 last_error = "response body is not JSON"
                 continue
         raise FetchError(f"{label}: {last_error} after {MAX_ATTEMPTS} attempts")
+
+
+# ---------------------------------------------------------------------------
+# Classification
+# ---------------------------------------------------------------------------
+
+
+def parse_date(value: object) -> date | None:
+    """Parse a YYYY-MM-DD string that is a real calendar date, else None."""
+    if not isinstance(value, str) or not DATE_RE.fullmatch(value):
+        return None
+    try:
+        return date.fromisoformat(value)
+    except ValueError:
+        return None
+
+
+def api_item_fields(item: object) -> dict:
+    """Map one API list item onto snapshot field names. Missing values become None."""
+    if not isinstance(item, dict):
+        return {}
+    question = item.get("question")
+    if not isinstance(question, dict):
+        question = {}
+    return {
+        "date": item.get("date"),
+        "id": question.get("questionFrontendId"),
+        "title": question.get("title"),
+        "slug": question.get("titleSlug"),
+        "difficulty": question.get("difficulty"),
+        "isPaidOnly": question.get("isPaidOnly"),
+        "link": item.get("link"),
+    }
+
+
+def classify_items(dailies: list, weeklies: list, year: int, month: int) -> tuple[str, str]:
+    """Classify daily/weekly items that already use snapshot field names."""
+    label = month_key(year, month)
+    days = []
+    for item in dailies:
+        value = item.get("date") if isinstance(item, dict) else None
+        parsed = parse_date(value)
+        if parsed is None or (parsed.year, parsed.month) != (year, month):
+            return INVALID, f"daily date {value!r} is not a date in {label}"
+        days.append(parsed.day)
+    if len(set(days)) != len(days):
+        return INVALID, f"duplicate daily dates in {label}"
+    if sorted(days) != list(range(1, len(days) + 1)):
+        return INVALID, f"daily dates in {label} are not days 1..N"
+    if len(days) < days_in_month(year, month):
+        return PARTIAL, f"{label} has {len(days)} of {days_in_month(year, month)} dailies"
+    return COMPLETE, f"{label} has all {len(days)} dailies"
+
+
+def classify_response(payload: object, year: int, month: int) -> tuple[str, str]:
+    """Classify one GraphQL response as (class, human-readable detail)."""
+    if not isinstance(payload, dict):
+        return INVALID, "response is not a JSON object"
+    errors = payload.get("errors")
+    if errors:
+        message = errors[0].get("message") if isinstance(errors, list) and isinstance(errors[0], dict) else errors
+        return UNAVAILABLE, f"GraphQL error: {message}"
+    data = payload.get("data")
+    record = data.get("dailyCodingChallengeV2") if isinstance(data, dict) else None
+    if record is None:
+        return UNAVAILABLE, "dailyCodingChallengeV2 is null"
+    if not isinstance(record, dict):
+        return INVALID, "dailyCodingChallengeV2 is not an object"
+    challenges = record.get("challenges")
+    weeklies = record.get("weeklyChallenges")
+    if challenges == []:
+        return EMPTY, "challenges is empty"
+    if not isinstance(challenges, list) or not isinstance(weeklies, list):
+        return INVALID, "challenges and weeklyChallenges must be lists"
+    return classify_items(
+        [api_item_fields(item) for item in challenges],
+        [api_item_fields(item) for item in weeklies],
+        year,
+        month,
+    )

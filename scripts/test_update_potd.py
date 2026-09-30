@@ -14,6 +14,41 @@ def utc(year: int, month: int, day: int, hour: int = 0, minute: int = 0) -> date
     return datetime(year, month, day, hour, minute, tzinfo=timezone.utc)
 
 
+def api_item(day: str, qid: str, title: str | None = None, slug: str | None = None,
+             difficulty: str = "Medium", paid: bool = False) -> dict:
+    """One API list item, shaped like the LeetCode response."""
+    slug = slug or f"problem-{qid}"
+    return {
+        "date": day,
+        "link": f"/problems/{slug}/",
+        "question": {
+            "questionFrontendId": qid,
+            "title": title or f"Problem {qid}",
+            "titleSlug": slug,
+            "difficulty": difficulty,
+            "isPaidOnly": paid,
+        },
+    }
+
+
+def daily_items(year: int, month: int, days=None) -> list[dict]:
+    """Dailies for the given days (default: every day of the month) with unique ids."""
+    if days is None:
+        days = range(1, up.days_in_month(year, month) + 1)
+    return [api_item(f"{year:04d}-{month:02d}-{d:02d}", f"{year}{month:02d}{d:02d}") for d in days]
+
+
+def api_payload(year: int, month: int, days=None, weeklies=None) -> dict:
+    return {
+        "data": {
+            "dailyCodingChallengeV2": {
+                "challenges": daily_items(year, month, days),
+                "weeklyChallenges": list(weeklies or []),
+            }
+        }
+    }
+
+
 class MonthArithmeticTests(unittest.TestCase):
     def test_previous_month_mid_year(self):
         self.assertEqual(up.previous_month(utc(2026, 10, 1)), (2026, 9))
@@ -40,6 +75,55 @@ class MonthArithmeticTests(unittest.TestCase):
     def test_labels(self):
         self.assertEqual(up.month_label(2026, 9), "September 2026")
         self.assertEqual(up.month_key(2020, 4), "2020-04")
+
+
+class ClassificationTests(unittest.TestCase):
+    def kind(self, payload, year, month):
+        return up.classify_response(payload, year, month)[0]
+
+    def test_full_january_is_complete(self):
+        self.assertEqual(self.kind(api_payload(2026, 1), 2026, 1), up.COMPLETE)
+
+    def test_zero_weeklies_is_still_complete(self):
+        self.assertEqual(self.kind(api_payload(2020, 4, weeklies=[]), 2020, 4), up.COMPLETE)
+
+    def test_prefix_of_september_is_partial(self):
+        self.assertEqual(self.kind(api_payload(2026, 9, days=range(1, 29)), 2026, 9), up.PARTIAL)
+
+    def test_empty_challenges(self):
+        self.assertEqual(self.kind(api_payload(2026, 10, days=[]), 2026, 10), up.EMPTY)
+
+    def test_graphql_errors_are_unavailable(self):
+        payload = {
+            "errors": [{"message": "'list' object has no attribute 'none'"}],
+            "data": {"dailyCodingChallengeV2": None},
+        }
+        self.assertEqual(self.kind(payload, 2026, 10), up.UNAVAILABLE)
+
+    def test_null_record_without_errors_is_unavailable(self):
+        self.assertEqual(self.kind({"data": {"dailyCodingChallengeV2": None}}, 2020, 1), up.UNAVAILABLE)
+
+    def test_duplicate_date_is_invalid(self):
+        payload = api_payload(2026, 1)
+        dailies = payload["data"]["dailyCodingChallengeV2"]["challenges"]
+        dailies[1]["date"] = dailies[0]["date"]
+        self.assertEqual(self.kind(payload, 2026, 1), up.INVALID)
+
+    def test_date_in_another_month_is_invalid(self):
+        payload = api_payload(2026, 1)
+        payload["data"]["dailyCodingChallengeV2"]["challenges"][30]["date"] = "2026-02-01"
+        self.assertEqual(self.kind(payload, 2026, 1), up.INVALID)
+
+    def test_gap_that_is_not_a_prefix_is_invalid(self):
+        days = list(range(1, 11)) + [12]
+        self.assertEqual(self.kind(api_payload(2026, 1, days=days), 2026, 1), up.INVALID)
+
+    def test_non_list_challenges_is_invalid(self):
+        payload = {"data": {"dailyCodingChallengeV2": {"challenges": {}, "weeklyChallenges": []}}}
+        self.assertEqual(self.kind(payload, 2026, 1), up.INVALID)
+        payload = api_payload(2026, 1)
+        payload["data"]["dailyCodingChallengeV2"]["weeklyChallenges"] = None
+        self.assertEqual(self.kind(payload, 2026, 1), up.INVALID)
 
 
 class FakeTransport:
