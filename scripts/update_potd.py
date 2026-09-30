@@ -8,9 +8,11 @@ docs/challenges.json for the static site.
 
 from __future__ import annotations
 
+import argparse
 import calendar
 import json
 import re
+import sys
 import time
 import urllib.error
 import urllib.request
@@ -697,3 +699,115 @@ def build(root: Path) -> dict[str, list[str]]:
         path.unlink()
         removed.append(relative(root, path))
     return {"written": written, "removed": removed}
+
+
+# ---------------------------------------------------------------------------
+# Commands
+# ---------------------------------------------------------------------------
+
+
+def run_build(root: Path) -> None:
+    result = build(root)
+    print(f"build: wrote {len(result['written'])} file(s), removed {len(result['removed'])}")
+    for name in result["written"]:
+        print(f"  wrote {name}")
+    for name in result["removed"]:
+        print(f"  removed {name}")
+
+
+def save_complete_month(root: Path, year: int, month: int, payload: object) -> None:
+    kind, detail = classify_response(payload, year, month)
+    if kind != COMPLETE:
+        raise ArchiveError(f"{month_key(year, month)}: LeetCode returned a {kind} month, not complete ({detail})")
+    changed = save_snapshot(root, normalize_response(payload, year, month))
+    print(f"{month_key(year, month)}: {'saved' if changed else 'unchanged'}")
+
+
+def command_build(root: Path) -> None:
+    run_build(root)
+
+
+def command_previous_month(root: Path, now: datetime, client: LeetCodeClient) -> None:
+    year, month = previous_month(now)
+    save_complete_month(root, year, month, client.fetch_month(year, month))
+    run_build(root)
+
+
+def parse_fetch_month(year_text: str | None, month_text: str | None, now: datetime) -> tuple[int, int]:
+    year_text = (year_text or "").strip()
+    month_text = (month_text or "").strip()
+    if not year_text:
+        raise ArchiveError("fetch needs a non-empty --year, for example --year 2026")
+    if not month_text:
+        raise ArchiveError("fetch needs a non-empty --month (1-12), for example --month 9")
+    if not re.fullmatch(r"\d{4}", year_text, re.ASCII):
+        raise ArchiveError(f"--year must be a four-digit year, got {year_text!r}")
+    if not re.fullmatch(r"\d{1,2}", month_text, re.ASCII) or not 1 <= int(month_text) <= 12:
+        raise ArchiveError(f"--month must be a number from 1 to 12, got {month_text!r}")
+    requested = (int(year_text), int(month_text))
+    latest = current_month(now)
+    if not FIRST_MONTH <= requested <= latest:
+        raise ArchiveError(
+            f"{month_key(*requested)} is outside {month_key(*FIRST_MONTH)}..{month_key(*latest)} (current UTC month)"
+        )
+    return requested
+
+
+def command_fetch(root: Path, now: datetime, client: LeetCodeClient, year_text: str, month_text: str) -> None:
+    year, month = parse_fetch_month(year_text, month_text, now)
+    save_complete_month(root, year, month, client.fetch_month(year, month))
+    run_build(root)
+
+
+def command_backfill(root: Path, now: datetime, client: LeetCodeClient, sleep=time.sleep) -> None:
+    """Save every month from 2020-04; stop quietly at an unfinished current month."""
+    current = current_month(now)
+    for index, (year, month) in enumerate(iter_months(FIRST_MONTH, current)):
+        if index:
+            sleep(BACKFILL_DELAY_SECONDS)
+        payload = client.fetch_month(year, month)
+        if (year, month) == current:
+            kind, detail = classify_response(payload, year, month)
+            if kind == INVALID:
+                raise ArchiveError(f"{month_key(year, month)}: LeetCode returned an invalid month ({detail})")
+            if kind != COMPLETE:
+                print(f"{month_key(year, month)}: {kind}, not saved yet ({detail})")
+                break
+        save_complete_month(root, year, month, payload)
+    run_build(root)
+
+
+def main(argv=None, *, now: datetime | None = None, root: Path | None = None,
+         client: LeetCodeClient | None = None, sleep=time.sleep) -> int:
+    parser = argparse.ArgumentParser(
+        prog="update_potd.py",
+        description="Fetch LeetCode daily and weekly challenges and build the archive.",
+    )
+    commands = parser.add_subparsers(dest="command", required=True)
+    commands.add_parser("backfill", help="fetch every month from 2020-04 through the current UTC month")
+    commands.add_parser("previous-month", help="fetch the month before the current UTC month")
+    fetch = commands.add_parser("fetch", help="re-fetch one month")
+    fetch.add_argument("--year", required=True, help="four-digit year")
+    fetch.add_argument("--month", required=True, help="month number, 1-12")
+    commands.add_parser("build", help="regenerate Markdown and docs/challenges.json without the network")
+    args = parser.parse_args(argv)
+
+    now = now or datetime.now(timezone.utc)
+    root = root or REPO_ROOT
+    try:
+        if args.command == "build":
+            command_build(root)
+        elif args.command == "previous-month":
+            command_previous_month(root, now, client or LeetCodeClient())
+        elif args.command == "fetch":
+            command_fetch(root, now, client or LeetCodeClient(), args.year, args.month)
+        else:
+            command_backfill(root, now, client or LeetCodeClient(), sleep=sleep)
+    except ArchiveError as err:
+        print(f"error: {err}", file=sys.stderr)
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

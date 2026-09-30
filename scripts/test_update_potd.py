@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import contextlib
+import io
 import json
 import re
 import tempfile
@@ -802,6 +804,168 @@ class TransportTests(unittest.TestCase):
             self.client(transport).fetch_month(2026, 9)
         self.assertIn("not JSON", str(ctx.exception))
         self.assertEqual(len(transport.calls), 3)
+
+
+class FakeClient:
+    """Serves prepared payloads per (year, month); unknown months are unavailable."""
+
+    def __init__(self, payloads):
+        self.payloads = payloads
+        self.calls = []
+
+    def fetch_month(self, year, month):
+        self.calls.append((year, month))
+        return self.payloads.get((year, month), {"data": {"dailyCodingChallengeV2": None}})
+
+
+def complete_payloads(start, end, weeklies=None):
+    weeklies = weeklies or {}
+    return {m: api_payload(*m, weeklies=weeklies.get(m, [])) for m in up.iter_months(start, end)}
+
+
+class CommandTestCase(ArchiveTestCase):
+    def run_main(self, argv, now, client=None):
+        out, err = io.StringIO(), io.StringIO()
+        self.sleeps = []
+        with contextlib.redirect_stdout(out), contextlib.redirect_stderr(err):
+            code = up.main(argv, now=now, root=self.root, client=client, sleep=self.sleeps.append)
+        return code, out.getvalue(), err.getvalue()
+
+
+class BackfillTests(CommandTestCase):
+    def test_partial_current_month_is_not_written(self):
+        payloads = complete_payloads(up.FIRST_MONTH, (2026, 8), weeklies={(2026, 8): [counting_elements()]})
+        payloads[(2026, 9)] = api_payload(2026, 9, days=range(1, 15))
+        client = FakeClient(payloads)
+        code, out, err = self.run_main(["backfill"], utc(2026, 9, 15, 12), client)
+        self.assertEqual(code, 0, err)
+        self.assertEqual(client.calls[0], (2020, 4))
+        self.assertEqual(client.calls[-1], (2026, 9))
+        self.assertEqual(len(client.calls), 78)
+        self.assertEqual(self.sleeps, [0.2] * 77)
+        self.assertTrue(self.snap(2026, 8).is_file())
+        self.assertFalse(self.snap(2026, 9).exists())
+        self.assertFalse((self.root / "archive/2026/2026-09.md").exists())
+        self.assertTrue((self.root / "archive/2026/2026-08.md").is_file())
+        self.assertEqual(read_json(self.root / "docs/challenges.json")["to"], "2026-08-31")
+        self.assertIn("2026-09: partial", out)
+
+    def test_unavailable_current_month_stops_quietly(self):
+        client = FakeClient(complete_payloads(up.FIRST_MONTH, (2020, 5)))
+        code, _, err = self.run_main(["backfill"], utc(2020, 6, 1), client)
+        self.assertEqual(code, 0, err)
+        self.assertEqual(len(list((self.root / "archive").rglob("*.json"))), 2)
+
+    def test_complete_current_month_is_saved(self):
+        client = FakeClient(complete_payloads(up.FIRST_MONTH, (2020, 6)))
+        code, _, err = self.run_main(["backfill"], utc(2020, 6, 30, 23), client)
+        self.assertEqual(code, 0, err)
+        self.assertTrue(self.snap(2020, 6).is_file())
+
+    def test_partial_month_before_current_fails(self):
+        payloads = complete_payloads(up.FIRST_MONTH, (2020, 7))
+        payloads[(2020, 5)] = api_payload(2020, 5, days=range(1, 20))
+        code, _, err = self.run_main(["backfill"], utc(2020, 7, 15), FakeClient(payloads))
+        self.assertEqual(code, 1)
+        self.assertIn("2020-05", err)
+        self.assertFalse(self.snap(2020, 5).exists())
+
+    def test_invalid_current_month_fails(self):
+        payloads = complete_payloads(up.FIRST_MONTH, (2020, 5))
+        payloads[(2020, 6)] = api_payload(2020, 6, days=[1, 2, 4])
+        code, _, err = self.run_main(["backfill"], utc(2020, 6, 15), FakeClient(payloads))
+        self.assertEqual(code, 1)
+        self.assertIn("2020-06", err)
+        self.assertIn("invalid", err)
+
+    def test_fetch_error_names_month(self):
+        class FailingClient:
+            def fetch_month(self, year, month):
+                raise up.FetchError(f"{up.month_key(year, month)}: HTTP 403 from LeetCode")
+
+        code, _, err = self.run_main(["backfill"], utc(2020, 6, 15), FailingClient())
+        self.assertEqual(code, 1)
+        self.assertIn("2020-04: HTTP 403", err)
+
+
+class FetchCommandTests(CommandTestCase):
+    NOW = utc(2026, 9, 30, 17)
+
+    def test_blank_year_fails_with_clear_message(self):
+        client = FakeClient({})
+        code, _, err = self.run_main(["fetch", "--year", "", "--month", "9"], self.NOW, client)
+        self.assertEqual(code, 1)
+        self.assertIn("--year", err)
+        self.assertEqual(client.calls, [])
+
+    def test_blank_month_fails_with_clear_message(self):
+        client = FakeClient({})
+        code, _, err = self.run_main(["fetch", "--year", "2026", "--month", " "], self.NOW, client)
+        self.assertEqual(code, 1)
+        self.assertIn("--month", err)
+        self.assertEqual(client.calls, [])
+
+    def test_missing_argument_is_a_usage_error(self):
+        with self.assertRaises(SystemExit) as ctx:
+            self.run_main(["fetch", "--year", "2026"], self.NOW, FakeClient({}))
+        self.assertEqual(ctx.exception.code, 2)
+
+    def test_rejects_months_outside_the_archive_range(self):
+        for year, month in (("2020", "3"), ("2026", "10"), ("2026", "13"), ("26", "9")):
+            client = FakeClient({})
+            code, _, err = self.run_main(["fetch", "--year", year, "--month", month], self.NOW, client)
+            self.assertEqual(code, 1, (year, month))
+            self.assertTrue(err.startswith("error: "), err)
+            self.assertEqual(client.calls, [])
+
+    def test_fetch_saves_and_builds(self):
+        write_archive(self.root, (2026, 8))
+        client = FakeClient({(2026, 9): api_payload(2026, 9)})
+        code, out, err = self.run_main(["fetch", "--year", "2026", "--month", "09"], self.NOW, client)
+        self.assertEqual(code, 0, err)
+        self.assertEqual(client.calls, [(2026, 9)])
+        self.assertTrue(self.snap(2026, 9).is_file())
+        self.assertTrue((self.root / "archive/2026/2026-09.md").is_file())
+        self.assertIn("2026-09: saved", out)
+
+    def test_fetch_requires_complete_month(self):
+        write_archive(self.root, (2026, 8))
+        client = FakeClient({(2026, 9): api_payload(2026, 9, days=range(1, 29))})
+        code, _, err = self.run_main(["fetch", "--year", "2026", "--month", "9"], self.NOW, client)
+        self.assertEqual(code, 1)
+        self.assertIn("partial", err)
+        self.assertFalse(self.snap(2026, 9).exists())
+
+
+class PreviousMonthAndBuildCommandTests(CommandTestCase):
+    def test_previous_month_saves_and_builds(self):
+        write_archive(self.root, (2020, 12))
+        client = FakeClient({(2021, 1): api_payload(2021, 1)})
+        code, _, err = self.run_main(["previous-month"], utc(2021, 2, 1, 1, 15), client)
+        self.assertEqual(code, 0, err)
+        self.assertEqual(client.calls, [(2021, 1)])
+        self.assertTrue((self.root / "archive/2021/2021-01.md").is_file())
+
+    def test_previous_month_unchanged_writes_nothing(self):
+        write_archive(self.root, (2021, 1))
+        self.run_main(["build"], utc(2021, 2, 1))
+        client = FakeClient({(2021, 1): api_payload(2021, 1)})
+        code, out, _ = self.run_main(["previous-month"], utc(2021, 2, 2), client)
+        self.assertEqual(code, 0)
+        self.assertIn("2021-01: unchanged", out)
+        self.assertIn("build: wrote 0 file(s), removed 0", out)
+
+    def test_previous_month_must_be_complete(self):
+        write_archive(self.root, (2020, 12))
+        code, _, err = self.run_main(["previous-month"], utc(2021, 2, 1), FakeClient({}))
+        self.assertEqual(code, 1)
+        self.assertIn("2021-01", err)
+        self.assertFalse(self.snap(2021, 1).exists())
+
+    def test_build_with_no_snapshots_exits_1(self):
+        code, _, err = self.run_main(["build"], utc(2026, 9, 30))
+        self.assertEqual(code, 1)
+        self.assertIn("no snapshots", err)
 
 
 if __name__ == "__main__":
