@@ -91,6 +91,7 @@ SLUG_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 DIFFICULTIES = ("Easy", "Medium", "Hard")
 
 SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link")
+SNAPSHOT_NAME_RE = re.compile(r"(\d{4})-(\d{2})\.json", re.ASCII)
 
 
 class ArchiveError(Exception):
@@ -377,3 +378,71 @@ def snapshot_path(root: Path, year: int, month: int) -> Path:
 
 def save_snapshot(root: Path, snapshot: dict) -> bool:
     return write_if_changed(snapshot_path(root, snapshot["year"], snapshot["month"]), render_json(snapshot))
+
+
+# ---------------------------------------------------------------------------
+# Snapshot loading
+# ---------------------------------------------------------------------------
+
+
+def relative(root: Path, path: Path) -> str:
+    return path.relative_to(root).as_posix()
+
+
+def classify_snapshot(snapshot: dict, year: int, month: int) -> tuple[str, str]:
+    """Run the response classification and field rules against a stored snapshot."""
+    challenges = snapshot.get("challenges")
+    weeklies = snapshot.get("weeklyChallenges")
+    if challenges == []:
+        return EMPTY, "challenges is empty"
+    if not isinstance(challenges, list) or not isinstance(weeklies, list):
+        return INVALID, "challenges and weeklyChallenges must be lists"
+    return classify_items(challenges, weeklies, year, month)
+
+
+def discover_snapshots(root: Path) -> dict[tuple[int, int], Path]:
+    """Find every archive/YYYY/YYYY-MM.json and check that its name and folder agree."""
+    found = {}
+    for path in sorted((root / ARCHIVE_DIR).glob("*/*.json")):
+        name = relative(root, path)
+        match = SNAPSHOT_NAME_RE.fullmatch(path.name)
+        if not match or not 1 <= int(match.group(2)) <= 12:
+            raise ArchiveError(f"{name}: snapshot files must be named YYYY-MM.json")
+        year, month = int(match.group(1)), int(match.group(2))
+        if path.parent.name != f"{year:04d}":
+            raise ArchiveError(f"{name}: folder does not match the year {year:04d}")
+        found[(year, month)] = path
+    return found
+
+
+def load_snapshot(root: Path, path: Path, year: int, month: int) -> dict:
+    name = relative(root, path)
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (UnicodeDecodeError, json.JSONDecodeError) as err:
+        raise ArchiveError(f"{name}: not valid JSON: {err}") from err
+    if not isinstance(data, dict):
+        raise ArchiveError(f"{name}: snapshot is not a JSON object")
+    stored = (data.get("year"), data.get("month"))
+    if not all(type(value) is int for value in stored) or stored != (year, month):
+        raise ArchiveError(f"{name}: year/month {stored[0]!r}/{stored[1]!r} do not match the filename")
+    kind, detail = classify_snapshot(data, year, month)
+    if kind != COMPLETE:
+        raise ArchiveError(f"{name}: snapshot is {kind}, not complete: {detail}")
+    return data
+
+
+def load_snapshots(root: Path) -> dict[tuple[int, int], tuple[str, dict]]:
+    """Load every snapshot as {(year, month): (relative path, data)}, sorted by month."""
+    found = discover_snapshots(root)
+    if not found:
+        raise ArchiveError(f"no snapshots found under {ARCHIVE_DIR.as_posix()}/")
+    months = sorted(found)
+    if months[0] < FIRST_MONTH:
+        raise ArchiveError(
+            f"{relative(root, found[months[0]])}: snapshots start at {month_key(*FIRST_MONTH)}"
+        )
+    missing = [month_key(*m) for m in iter_months(FIRST_MONTH, months[-1]) if m not in found]
+    if missing:
+        raise ArchiveError(f"missing snapshots for {', '.join(missing)}")
+    return {m: (relative(root, found[m]), load_snapshot(root, found[m], *m)) for m in months}

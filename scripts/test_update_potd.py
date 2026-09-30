@@ -51,6 +51,26 @@ def api_payload(year: int, month: int, days=None, weeklies=None) -> dict:
     }
 
 
+def write_archive(root: Path, through: tuple[int, int], weeklies=None, start=up.FIRST_MONTH) -> None:
+    """Save complete snapshots from `start` through `through`.
+
+    `weeklies` maps (year, month) of the queried month to that response's API weekly items.
+    """
+    weeklies = weeklies or {}
+    for year, month in up.iter_months(start, through):
+        payload = api_payload(year, month, weeklies=weeklies.get((year, month), []))
+        up.save_snapshot(root, up.normalize_response(payload, year, month))
+
+
+def read_json(path: Path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_json(path: Path, value) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(up.render_json(value))
+
+
 class MonthArithmeticTests(unittest.TestCase):
     def test_previous_month_mid_year(self):
         self.assertEqual(up.previous_month(utc(2026, 10, 1)), (2026, 9))
@@ -235,6 +255,69 @@ class NormalizationTests(unittest.TestCase):
             before = path.stat().st_mtime_ns
             self.assertFalse(up.save_snapshot(root, self.snapshot))
             self.assertEqual(path.stat().st_mtime_ns, before)
+
+
+class ArchiveTestCase(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self._tmp.cleanup)
+        self.root = Path(self._tmp.name)
+
+    def snap(self, year: int, month: int) -> Path:
+        return self.root / "archive" / f"{year:04d}" / f"{year:04d}-{month:02d}.json"
+
+
+class SnapshotLoadingTests(ArchiveTestCase):
+    def test_loads_contiguous_snapshots(self):
+        write_archive(self.root, (2020, 6))
+        loaded = up.load_snapshots(self.root)
+        self.assertEqual(list(loaded), [(2020, 4), (2020, 5), (2020, 6)])
+        self.assertEqual(loaded[(2020, 5)][0], "archive/2020/2020-05.json")
+
+    def test_gap_fails(self):
+        write_archive(self.root, (2020, 6))
+        self.snap(2020, 5).unlink()
+        with self.assertRaisesRegex(up.ArchiveError, "2020-05"):
+            up.load_snapshots(self.root)
+
+    def test_zero_snapshots_fail(self):
+        with self.assertRaisesRegex(up.ArchiveError, "no snapshots"):
+            up.load_snapshots(self.root)
+
+    def test_filename_must_match_year_and_month(self):
+        write_archive(self.root, (2020, 5))
+        write_json(self.snap(2020, 5), read_json(self.snap(2020, 4)))
+        with self.assertRaisesRegex(up.ArchiveError, "archive/2020/2020-05.json"):
+            up.load_snapshots(self.root)
+
+    def test_folder_must_match_year(self):
+        write_archive(self.root, (2020, 4))
+        wrong = self.root / "archive" / "2021" / "2020-05.json"
+        write_json(wrong, up.normalize_response(api_payload(2020, 5), 2020, 5))
+        with self.assertRaisesRegex(up.ArchiveError, "folder"):
+            up.load_snapshots(self.root)
+
+    def test_hand_edited_partial_snapshot_fails(self):
+        write_archive(self.root, (2020, 5))
+        data = read_json(self.snap(2020, 5))
+        data["challenges"].pop()
+        write_json(self.snap(2020, 5), data)
+        with self.assertRaisesRegex(up.ArchiveError, "partial"):
+            up.load_snapshots(self.root)
+
+    def test_snapshot_field_rules_apply(self):
+        write_archive(self.root, (2020, 4))
+        data = read_json(self.snap(2020, 4))
+        data["challenges"][3]["difficulty"] = "Unknown"
+        write_json(self.snap(2020, 4), data)
+        with self.assertRaisesRegex(up.ArchiveError, "invalid"):
+            up.load_snapshots(self.root)
+
+    def test_snapshot_before_first_month_fails(self):
+        write_archive(self.root, (2020, 4))
+        write_json(self.snap(2020, 3), up.normalize_response(api_payload(2020, 3), 2020, 3))
+        with self.assertRaisesRegex(up.ArchiveError, "2020-03"):
+            up.load_snapshots(self.root)
 
 
 class FakeTransport:
