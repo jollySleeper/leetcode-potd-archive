@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 7,
+  "challenges": [
+    {
+      "date": "2025-07-01",
+      "id": "3330",
+      "title": "Find the Original Typed String I",
+      "slug": "find-the-original-typed-string-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-original-typed-string-i/"
+    },
+    {
+      "date": "2025-07-02",
+      "id": "3333",
+      "title": "Find the Original Typed String II",
+      "slug": "find-the-original-typed-string-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-original-typed-string-ii/"
+    },
+    {
+      "date": "2025-07-03",
+      "id": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-k-th-character-in-string-game-i/"
+    },
+    {
+      "date": "2025-07-04",
+      "id": "3307",
+      "title": "Find the K-th Character in String Game II",
+      "slug": "find-the-k-th-character-in-string-game-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-k-th-character-in-string-game-ii/"
+    },
+    {
+      "date": "2025-07-05",
+      "id": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-lucky-integer-in-an-array/"
+    },
+    {
+      "date": "2025-07-06",
+      "id": "1865",
+      "title": "Finding Pairs With a Certain Sum",
+      "slug": "finding-pairs-with-a-certain-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/finding-pairs-with-a-certain-sum/"
+    },
+    {
+      "date": "2025-07-07",
+      "id": "1353",
+      "title": "Maximum Number of Events That Can Be Attended",
+      "slug": "maximum-number-of-events-that-can-be-attended",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-events-that-can-be-attended/"
+    },
+    {
+      "date": "2025-07-08",
+      "id": "1751",
+      "title": "Maximum Number of Events That Can Be Attended II",
+      "slug": "maximum-number-of-events-that-can-be-attended-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/"
+    },
+    {
+      "date": "2025-07-09",
+      "id": "3439",
+      "title": "Reschedule Meetings for Maximum Free Time I",
+      "slug": "reschedule-meetings-for-maximum-free-time-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reschedule-meetings-for-maximum-free-time-i/"
+    },
+    {
+      "date": "2025-07-10",
+      "id": "3440",
+      "title": "Reschedule Meetings for Maximum Free Time II",
+      "slug": "reschedule-meetings-for-maximum-free-time-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reschedule-meetings-for-maximum-free-time-ii/"
+    },
+    {
+      "date": "2025-07-11",
+      "id": "2402",
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/meeting-rooms-iii/"
+    },
+    {
+      "date": "2025-07-12",
+      "id": "1900",
+      "title": "The Earliest and Latest Rounds Where Players Compete",
+      "slug": "the-earliest-and-latest-rounds-where-players-compete",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/the-earliest-and-latest-rounds-where-players-compete/"
+    },
+    {
+      "date": "2025-07-13",
+      "id": "2410",
+      "title": "Maximum Matching of Players With Trainers",
+      "slug": "maximum-matching-of-players-with-trainers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-matching-of-players-with-trainers/"
+    },
+    {
+      "date": "2025-07-14",
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/"
+    },
+    {
+      "date": "2025-07-15",
+      "id": "3136",
+      "title": "Valid Word",
+      "slug": "valid-word",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-word/"
+    },
+    {
+      "date": "2025-07-16",
+      "id": "3201",
+      "title": "Find the Maximum Length of Valid Subsequence I",
+      "slug": "find-the-maximum-length-of-valid-subsequence-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-length-of-valid-subsequence-i/"
+    },
+    {
+      "date": "2025-07-17",
+      "id": "3202",
+      "title": "Find the Maximum Length of Valid Subsequence II",
+      "slug": "find-the-maximum-length-of-valid-subsequence-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-length-of-valid-subsequence-ii/"
+    },
+    {
+      "date": "2025-07-18",
+      "id": "2163",
+      "title": "Minimum Difference in Sums After Removal of Elements",
+      "slug": "minimum-difference-in-sums-after-removal-of-elements",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-difference-in-sums-after-removal-of-elements/"
+    },
+    {
+      "date": "2025-07-19",
+      "id": "1233",
+      "title": "Remove Sub-Folders from the Filesystem",
+      "slug": "remove-sub-folders-from-the-filesystem",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-sub-folders-from-the-filesystem/"
+    },
+    {
+      "date": "2025-07-20",
+      "id": "1948",
+      "title": "Delete Duplicate Folders in System",
+      "slug": "delete-duplicate-folders-in-system",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/delete-duplicate-folders-in-system/"
+    },
+    {
+      "date": "2025-07-21",
+      "id": "1957",
+      "title": "Delete Characters to Make Fancy String",
+      "slug": "delete-characters-to-make-fancy-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/delete-characters-to-make-fancy-string/"
+    },
+    {
+      "date": "2025-07-22",
+      "id": "1695",
+      "title": "Maximum Erasure Value",
+      "slug": "maximum-erasure-value",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-erasure-value/"
+    },
+    {
+      "date": "2025-07-23",
+      "id": "1717",
+      "title": "Maximum Score From Removing Substrings",
+      "slug": "maximum-score-from-removing-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-from-removing-substrings/"
+    },
+    {
+      "date": "2025-07-24",
+      "id": "2322",
+      "title": "Minimum Score After Removals on a Tree",
+      "slug": "minimum-score-after-removals-on-a-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-score-after-removals-on-a-tree/"
+    },
+    {
+      "date": "2025-07-25",
+      "id": "3487",
+      "title": "Maximum Unique Subarray Sum After Deletion",
+      "slug": "maximum-unique-subarray-sum-after-deletion",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-unique-subarray-sum-after-deletion/"
+    },
+    {
+      "date": "2025-07-26",
+      "id": "3480",
+      "title": "Maximize Subarrays After Removing One Conflicting Pair",
+      "slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-subarrays-after-removing-one-conflicting-pair/"
+    },
+    {
+      "date": "2025-07-27",
+      "id": "2210",
+      "title": "Count Hills and Valleys in an Array",
+      "slug": "count-hills-and-valleys-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-hills-and-valleys-in-an-array/"
+    },
+    {
+      "date": "2025-07-28",
+      "id": "2044",
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "slug": "count-number-of-maximum-bitwise-or-subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-maximum-bitwise-or-subsets/"
+    },
+    {
+      "date": "2025-07-29",
+      "id": "2411",
+      "title": "Smallest Subarrays With Maximum Bitwise OR",
+      "slug": "smallest-subarrays-with-maximum-bitwise-or",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-subarrays-with-maximum-bitwise-or/"
+    },
+    {
+      "date": "2025-07-30",
+      "id": "2419",
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "slug": "longest-subarray-with-maximum-bitwise-and",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-subarray-with-maximum-bitwise-and/"
+    },
+    {
+      "date": "2025-07-31",
+      "id": "898",
+      "title": "Bitwise ORs of Subarrays",
+      "slug": "bitwise-ors-of-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bitwise-ors-of-subarrays/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-07-01",
+      "id": "333",
+      "title": "Largest BST Subtree",
+      "slug": "largest-bst-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/largest-bst-subtree/"
+    },
+    {
+      "date": "2025-07-08",
+      "id": "285",
+      "title": "Inorder Successor in BST",
+      "slug": "inorder-successor-in-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/inorder-successor-in-bst/"
+    },
+    {
+      "date": "2025-07-15",
+      "id": "425",
+      "title": "Word Squares",
+      "slug": "word-squares",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/word-squares/"
+    },
+    {
+      "date": "2025-07-22",
+      "id": "527",
+      "title": "Word Abbreviation",
+      "slug": "word-abbreviation",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/word-abbreviation/"
+    },
+    {
+      "date": "2025-07-29",
+      "id": "272",
+      "title": "Closest Binary Search Tree Value II",
+      "slug": "closest-binary-search-tree-value-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/closest-binary-search-tree-value-ii/"
+    }
+  ]
+}

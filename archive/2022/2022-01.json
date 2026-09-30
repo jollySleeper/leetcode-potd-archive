@@ -1,0 +1,332 @@
+{
+  "year": 2022,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2022-01-01",
+      "id": "312",
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/burst-balloons/"
+    },
+    {
+      "date": "2022-01-02",
+      "id": "1010",
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pairs-of-songs-with-total-durations-divisible-by-60/"
+    },
+    {
+      "date": "2022-01-03",
+      "id": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-town-judge/"
+    },
+    {
+      "date": "2022-01-04",
+      "id": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/complement-of-base-10-integer/"
+    },
+    {
+      "date": "2022-01-05",
+      "id": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-partitioning/"
+    },
+    {
+      "date": "2022-01-06",
+      "id": "1094",
+      "title": "Car Pooling",
+      "slug": "car-pooling",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/car-pooling/"
+    },
+    {
+      "date": "2022-01-07",
+      "id": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-random-node/"
+    },
+    {
+      "date": "2022-01-08",
+      "id": "1463",
+      "title": "Cherry Pickup II",
+      "slug": "cherry-pickup-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/cherry-pickup-ii/"
+    },
+    {
+      "date": "2022-01-09",
+      "id": "1041",
+      "title": "Robot Bounded In Circle",
+      "slug": "robot-bounded-in-circle",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/robot-bounded-in-circle/"
+    },
+    {
+      "date": "2022-01-10",
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-binary/"
+    },
+    {
+      "date": "2022-01-11",
+      "id": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-root-to-leaf-binary-numbers/"
+    },
+    {
+      "date": "2022-01-12",
+      "id": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-into-a-binary-search-tree/"
+    },
+    {
+      "date": "2022-01-13",
+      "id": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-arrows-to-burst-balloons/"
+    },
+    {
+      "date": "2022-01-14",
+      "id": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/string-to-integer-atoi/"
+    },
+    {
+      "date": "2022-01-15",
+      "id": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iv/"
+    },
+    {
+      "date": "2022-01-16",
+      "id": "849",
+      "title": "Maximize Distance to Closest Person",
+      "slug": "maximize-distance-to-closest-person",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-distance-to-closest-person/"
+    },
+    {
+      "date": "2022-01-17",
+      "id": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/word-pattern/"
+    },
+    {
+      "date": "2022-01-18",
+      "id": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/can-place-flowers/"
+    },
+    {
+      "date": "2022-01-19",
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle-ii/"
+    },
+    {
+      "date": "2022-01-20",
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/koko-eating-bananas/"
+    },
+    {
+      "date": "2022-01-21",
+      "id": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/gas-station/"
+    },
+    {
+      "date": "2022-01-22",
+      "id": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stone-game-iv/"
+    },
+    {
+      "date": "2022-01-23",
+      "id": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sequential-digits/"
+    },
+    {
+      "date": "2022-01-24",
+      "id": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/detect-capital/"
+    },
+    {
+      "date": "2022-01-25",
+      "id": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-mountain-array/"
+    },
+    {
+      "date": "2022-01-26",
+      "id": "1305",
+      "title": "All Elements in Two Binary Search Trees",
+      "slug": "all-elements-in-two-binary-search-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-elements-in-two-binary-search-trees/"
+    },
+    {
+      "date": "2022-01-27",
+      "id": "421",
+      "title": "Maximum XOR of Two Numbers in an Array",
+      "slug": "maximum-xor-of-two-numbers-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-xor-of-two-numbers-in-an-array/"
+    },
+    {
+      "date": "2022-01-28",
+      "id": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+      "date": "2022-01-29",
+      "id": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-rectangle-in-histogram/"
+    },
+    {
+      "date": "2022-01-30",
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-array/"
+    },
+    {
+      "date": "2022-01-31",
+      "id": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/richest-customer-wealth/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-01-01",
+      "id": "568",
+      "title": "Maximum Vacation Days",
+      "slug": "maximum-vacation-days",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-vacation-days/"
+    },
+    {
+      "date": "2022-01-08",
+      "id": "588",
+      "title": "Design In-Memory File System",
+      "slug": "design-in-memory-file-system",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/design-in-memory-file-system/"
+    },
+    {
+      "date": "2022-01-15",
+      "id": "253",
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/meeting-rooms-ii/"
+    },
+    {
+      "date": "2022-01-22",
+      "id": "1602",
+      "title": "Find Nearest Right Node in Binary Tree",
+      "slug": "find-nearest-right-node-in-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-nearest-right-node-in-binary-tree/"
+    },
+    {
+      "date": "2022-01-29",
+      "id": "249",
+      "title": "Group Shifted Strings",
+      "slug": "group-shifted-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/group-shifted-strings/"
+    }
+  ]
+}

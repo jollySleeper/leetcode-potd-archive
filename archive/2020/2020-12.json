@@ -1,0 +1,332 @@
+{
+  "year": 2020,
+  "month": 12,
+  "challenges": [
+    {
+      "date": "2020-12-01",
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "date": "2020-12-02",
+      "id": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-random-node/"
+    },
+    {
+      "date": "2020-12-03",
+      "id": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/increasing-order-search-tree/"
+    },
+    {
+      "date": "2020-12-04",
+      "id": "1492",
+      "title": "The kth Factor of n",
+      "slug": "the-kth-factor-of-n",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-kth-factor-of-n/"
+    },
+    {
+      "date": "2020-12-05",
+      "id": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/can-place-flowers/"
+    },
+    {
+      "date": "2020-12-06",
+      "id": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/populating-next-right-pointers-in-each-node-ii/"
+    },
+    {
+      "date": "2020-12-07",
+      "id": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/spiral-matrix-ii/"
+    },
+    {
+      "date": "2020-12-08",
+      "id": "1010",
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pairs-of-songs-with-total-durations-divisible-by-60/"
+    },
+    {
+      "date": "2020-12-09",
+      "id": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search-tree-iterator/"
+    },
+    {
+      "date": "2020-12-10",
+      "id": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-mountain-array/"
+    },
+    {
+      "date": "2020-12-11",
+      "id": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicates-from-sorted-array-ii/"
+    },
+    {
+      "date": "2020-12-12",
+      "id": "865",
+      "title": "Smallest Subtree with all the Deepest Nodes",
+      "slug": "smallest-subtree-with-all-the-deepest-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-subtree-with-all-the-deepest-nodes/"
+    },
+    {
+      "date": "2020-12-13",
+      "id": "312",
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/burst-balloons/"
+    },
+    {
+      "date": "2020-12-14",
+      "id": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-partitioning/"
+    },
+    {
+      "date": "2020-12-15",
+      "id": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/squares-of-a-sorted-array/"
+    },
+    {
+      "date": "2020-12-16",
+      "id": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-binary-search-tree/"
+    },
+    {
+      "date": "2020-12-17",
+      "id": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/4sum-ii/"
+    },
+    {
+      "date": "2020-12-18",
+      "id": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/increasing-triplet-subsequence/"
+    },
+    {
+      "date": "2020-12-19",
+      "id": "1463",
+      "title": "Cherry Pickup II",
+      "slug": "cherry-pickup-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/cherry-pickup-ii/"
+    },
+    {
+      "date": "2020-12-20",
+      "id": "880",
+      "title": "Decoded String at Index",
+      "slug": "decoded-string-at-index",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decoded-string-at-index/"
+    },
+    {
+      "date": "2020-12-21",
+      "id": "910",
+      "title": "Smallest Range II",
+      "slug": "smallest-range-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-range-ii/"
+    },
+    {
+      "date": "2020-12-22",
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/balanced-binary-tree/"
+    },
+    {
+      "date": "2020-12-23",
+      "id": "556",
+      "title": "Next Greater Element III",
+      "slug": "next-greater-element-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/next-greater-element-iii/"
+    },
+    {
+      "date": "2020-12-24",
+      "id": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/swap-nodes-in-pairs/"
+    },
+    {
+      "date": "2020-12-25",
+      "id": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/diagonal-traverse/"
+    },
+    {
+      "date": "2020-12-26",
+      "id": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decode-ways/"
+    },
+    {
+      "date": "2020-12-27",
+      "id": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iv/"
+    },
+    {
+      "date": "2020-12-28",
+      "id": "754",
+      "title": "Reach a Number",
+      "slug": "reach-a-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reach-a-number/"
+    },
+    {
+      "date": "2020-12-29",
+      "id": "1457",
+      "title": "Pseudo-Palindromic Paths in a Binary Tree",
+      "slug": "pseudo-palindromic-paths-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pseudo-palindromic-paths-in-a-binary-tree/"
+    },
+    {
+      "date": "2020-12-30",
+      "id": "289",
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/game-of-life/"
+    },
+    {
+      "date": "2020-12-31",
+      "id": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-rectangle-in-histogram/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2020-12-01",
+      "id": "243",
+      "title": "Shortest Word Distance",
+      "slug": "shortest-word-distance",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-word-distance/"
+    },
+    {
+      "date": "2020-12-08",
+      "id": "163",
+      "title": "Missing Ranges",
+      "slug": "missing-ranges",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/missing-ranges/"
+    },
+    {
+      "date": "2020-12-15",
+      "id": "369",
+      "title": "Plus One Linked List",
+      "slug": "plus-one-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/plus-one-linked-list/"
+    },
+    {
+      "date": "2020-12-22",
+      "id": "1602",
+      "title": "Find Nearest Right Node in Binary Tree",
+      "slug": "find-nearest-right-node-in-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-nearest-right-node-in-binary-tree/"
+    },
+    {
+      "date": "2020-12-29",
+      "id": "340",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "slug": "longest-substring-with-at-most-k-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-k-distinct-characters/"
+    }
+  ]
+}

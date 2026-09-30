@@ -1,0 +1,332 @@
+{
+  "year": 2020,
+  "month": 10,
+  "challenges": [
+    {
+      "date": "2020-10-01",
+      "id": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-recent-calls/"
+    },
+    {
+      "date": "2020-10-02",
+      "id": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum/"
+    },
+    {
+      "date": "2020-10-03",
+      "id": "532",
+      "title": "K-diff Pairs in an Array",
+      "slug": "k-diff-pairs-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-diff-pairs-in-an-array/"
+    },
+    {
+      "date": "2020-10-04",
+      "id": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-covered-intervals/"
+    },
+    {
+      "date": "2020-10-05",
+      "id": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/complement-of-base-10-integer/"
+    },
+    {
+      "date": "2020-10-06",
+      "id": "701",
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-into-a-binary-search-tree/"
+    },
+    {
+      "date": "2020-10-07",
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-list/"
+    },
+    {
+      "date": "2020-10-08",
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search/"
+    },
+    {
+      "date": "2020-10-09",
+      "id": "449",
+      "title": "Serialize and Deserialize BST",
+      "slug": "serialize-and-deserialize-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/serialize-and-deserialize-bst/"
+    },
+    {
+      "date": "2020-10-10",
+      "id": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-arrows-to-burst-balloons/"
+    },
+    {
+      "date": "2020-10-11",
+      "id": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicate-letters/"
+    },
+    {
+      "date": "2020-10-12",
+      "id": "859",
+      "title": "Buddy Strings",
+      "slug": "buddy-strings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/buddy-strings/"
+    },
+    {
+      "date": "2020-10-13",
+      "id": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-list/"
+    },
+    {
+      "date": "2020-10-14",
+      "id": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/house-robber-ii/"
+    },
+    {
+      "date": "2020-10-15",
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-array/"
+    },
+    {
+      "date": "2020-10-16",
+      "id": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-a-2d-matrix/"
+    },
+    {
+      "date": "2020-10-17",
+      "id": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/repeated-dna-sequences/"
+    },
+    {
+      "date": "2020-10-18",
+      "id": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-iv/"
+    },
+    {
+      "date": "2020-10-19",
+      "id": "1007",
+      "title": "Minimum Domino Rotations For Equal Row",
+      "slug": "minimum-domino-rotations-for-equal-row",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-domino-rotations-for-equal-row/"
+    },
+    {
+      "date": "2020-10-20",
+      "id": "133",
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/clone-graph/"
+    },
+    {
+      "date": "2020-10-21",
+      "id": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/asteroid-collision/"
+    },
+    {
+      "date": "2020-10-22",
+      "id": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-depth-of-binary-tree/"
+    },
+    {
+      "date": "2020-10-23",
+      "id": "456",
+      "title": "132 Pattern",
+      "slug": "132-pattern",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/132-pattern/"
+    },
+    {
+      "date": "2020-10-24",
+      "id": "948",
+      "title": "Bag of Tokens",
+      "slug": "bag-of-tokens",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bag-of-tokens/"
+    },
+    {
+      "date": "2020-10-25",
+      "id": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stone-game-iv/"
+    },
+    {
+      "date": "2020-10-26",
+      "id": "799",
+      "title": "Champagne Tower",
+      "slug": "champagne-tower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/champagne-tower/"
+    },
+    {
+      "date": "2020-10-27",
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle-ii/"
+    },
+    {
+      "date": "2020-10-28",
+      "id": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/summary-ranges/"
+    },
+    {
+      "date": "2020-10-29",
+      "id": "849",
+      "title": "Maximize Distance to Closest Person",
+      "slug": "maximize-distance-to-closest-person",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-distance-to-closest-person/"
+    },
+    {
+      "date": "2020-10-30",
+      "id": "673",
+      "title": "Number of Longest Increasing Subsequence",
+      "slug": "number-of-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-longest-increasing-subsequence/"
+    },
+    {
+      "date": "2020-10-31",
+      "id": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/recover-binary-search-tree/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2020-10-01",
+      "id": "624",
+      "title": "Maximum Distance in Arrays",
+      "slug": "maximum-distance-in-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-distance-in-arrays/"
+    },
+    {
+      "date": "2020-10-08",
+      "id": "170",
+      "title": "Two Sum III - Data structure design",
+      "slug": "two-sum-iii-data-structure-design",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-iii-data-structure-design/"
+    },
+    {
+      "date": "2020-10-15",
+      "id": "253",
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/meeting-rooms-ii/"
+    },
+    {
+      "date": "2020-10-22",
+      "id": "702",
+      "title": "Search in a Sorted Array of Unknown Size",
+      "slug": "search-in-a-sorted-array-of-unknown-size",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/search-in-a-sorted-array-of-unknown-size/"
+    },
+    {
+      "date": "2020-10-29",
+      "id": "431",
+      "title": "Encode N-ary Tree to Binary Tree",
+      "slug": "encode-n-ary-tree-to-binary-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/encode-n-ary-tree-to-binary-tree/"
+    }
+  ]
+}

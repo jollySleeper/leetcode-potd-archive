@@ -1,0 +1,332 @@
+{
+  "year": 2023,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2023-05-01",
+      "id": "1491",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/average-salary-excluding-the-minimum-and-maximum-salary/"
+    },
+    {
+      "date": "2023-05-02",
+      "id": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sign-of-the-product-of-an-array/"
+    },
+    {
+      "date": "2023-05-03",
+      "id": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-difference-of-two-arrays/"
+    },
+    {
+      "date": "2023-05-04",
+      "id": "649",
+      "title": "Dota2 Senate",
+      "slug": "dota2-senate",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/dota2-senate/"
+    },
+    {
+      "date": "2023-05-05",
+      "id": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
+    },
+    {
+      "date": "2023-05-06",
+      "id": "1498",
+      "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+      "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/"
+    },
+    {
+      "date": "2023-05-07",
+      "id": "1964",
+      "title": "Find the Longest Valid Obstacle Course at Each Position",
+      "slug": "find-the-longest-valid-obstacle-course-at-each-position",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-longest-valid-obstacle-course-at-each-position/"
+    },
+    {
+      "date": "2023-05-08",
+      "id": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/matrix-diagonal-sum/"
+    },
+    {
+      "date": "2023-05-09",
+      "id": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/spiral-matrix/"
+    },
+    {
+      "date": "2023-05-10",
+      "id": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/spiral-matrix-ii/"
+    },
+    {
+      "date": "2023-05-11",
+      "id": "1035",
+      "title": "Uncrossed Lines",
+      "slug": "uncrossed-lines",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/uncrossed-lines/"
+    },
+    {
+      "date": "2023-05-12",
+      "id": "2140",
+      "title": "Solving Questions With Brainpower",
+      "slug": "solving-questions-with-brainpower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/solving-questions-with-brainpower/"
+    },
+    {
+      "date": "2023-05-13",
+      "id": "2466",
+      "title": "Count Ways To Build Good Strings",
+      "slug": "count-ways-to-build-good-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-ways-to-build-good-strings/"
+    },
+    {
+      "date": "2023-05-14",
+      "id": "1799",
+      "title": "Maximize Score After N Operations",
+      "slug": "maximize-score-after-n-operations",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-score-after-n-operations/"
+    },
+    {
+      "date": "2023-05-15",
+      "id": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "slug": "swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/swapping-nodes-in-a-linked-list/"
+    },
+    {
+      "date": "2023-05-16",
+      "id": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/swap-nodes-in-pairs/"
+    },
+    {
+      "date": "2023-05-17",
+      "id": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-twin-sum-of-a-linked-list/"
+    },
+    {
+      "date": "2023-05-18",
+      "id": "1557",
+      "title": "Minimum Number of Vertices to Reach All Nodes",
+      "slug": "minimum-number-of-vertices-to-reach-all-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-vertices-to-reach-all-nodes/"
+    },
+    {
+      "date": "2023-05-19",
+      "id": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/is-graph-bipartite/"
+    },
+    {
+      "date": "2023-05-20",
+      "id": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-division/"
+    },
+    {
+      "date": "2023-05-21",
+      "id": "934",
+      "title": "Shortest Bridge",
+      "slug": "shortest-bridge",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-bridge/"
+    },
+    {
+      "date": "2023-05-22",
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/top-k-frequent-elements/"
+    },
+    {
+      "date": "2023-05-23",
+      "id": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/kth-largest-element-in-a-stream/"
+    },
+    {
+      "date": "2023-05-24",
+      "id": "2542",
+      "title": "Maximum Subsequence Score",
+      "slug": "maximum-subsequence-score",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-subsequence-score/"
+    },
+    {
+      "date": "2023-05-25",
+      "id": "837",
+      "title": "New 21 Game",
+      "slug": "new-21-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/new-21-game/"
+    },
+    {
+      "date": "2023-05-26",
+      "id": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/stone-game-ii/"
+    },
+    {
+      "date": "2023-05-27",
+      "id": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stone-game-iii/"
+    },
+    {
+      "date": "2023-05-28",
+      "id": "1547",
+      "title": "Minimum Cost to Cut a Stick",
+      "slug": "minimum-cost-to-cut-a-stick",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-cut-a-stick/"
+    },
+    {
+      "date": "2023-05-29",
+      "id": "1603",
+      "title": "Design Parking System",
+      "slug": "design-parking-system",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/design-parking-system/"
+    },
+    {
+      "date": "2023-05-30",
+      "id": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/design-hashset/"
+    },
+    {
+      "date": "2023-05-31",
+      "id": "1396",
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-underground-system/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-05-01",
+      "id": "1065",
+      "title": "Index Pairs of a String",
+      "slug": "index-pairs-of-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/index-pairs-of-a-string/"
+    },
+    {
+      "date": "2023-05-08",
+      "id": "311",
+      "title": "Sparse Matrix Multiplication",
+      "slug": "sparse-matrix-multiplication",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/sparse-matrix-multiplication/"
+    },
+    {
+      "date": "2023-05-15",
+      "id": "265",
+      "title": "Paint House II",
+      "slug": "paint-house-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/paint-house-ii/"
+    },
+    {
+      "date": "2023-05-22",
+      "id": "253",
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/meeting-rooms-ii/"
+    },
+    {
+      "date": "2023-05-29",
+      "id": "348",
+      "title": "Design Tic-Tac-Toe",
+      "slug": "design-tic-tac-toe",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-tic-tac-toe/"
+    }
+  ]
+}

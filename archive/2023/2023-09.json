@@ -1,0 +1,323 @@
+{
+  "year": 2023,
+  "month": 9,
+  "challenges": [
+    {
+      "date": "2023-09-01",
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/counting-bits/"
+    },
+    {
+      "date": "2023-09-02",
+      "id": "2707",
+      "title": "Extra Characters in a String",
+      "slug": "extra-characters-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/extra-characters-in-a-string/"
+    },
+    {
+      "date": "2023-09-03",
+      "id": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths/"
+    },
+    {
+      "date": "2023-09-04",
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle/"
+    },
+    {
+      "date": "2023-09-05",
+      "id": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/copy-list-with-random-pointer/"
+    },
+    {
+      "date": "2023-09-06",
+      "id": "725",
+      "title": "Split Linked List in Parts",
+      "slug": "split-linked-list-in-parts",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/split-linked-list-in-parts/"
+    },
+    {
+      "date": "2023-09-07",
+      "id": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-linked-list-ii/"
+    },
+    {
+      "date": "2023-09-08",
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/pascals-triangle/"
+    },
+    {
+      "date": "2023-09-09",
+      "id": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum-iv/"
+    },
+    {
+      "date": "2023-09-10",
+      "id": "1359",
+      "title": "Count All Valid Pickup and Delivery Options",
+      "slug": "count-all-valid-pickup-and-delivery-options",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-all-valid-pickup-and-delivery-options/"
+    },
+    {
+      "date": "2023-09-11",
+      "id": "1282",
+      "title": "Group the People Given the Group Size They Belong To",
+      "slug": "group-the-people-given-the-group-size-they-belong-to",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/group-the-people-given-the-group-size-they-belong-to/"
+    },
+    {
+      "date": "2023-09-12",
+      "id": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-deletions-to-make-character-frequencies-unique/"
+    },
+    {
+      "date": "2023-09-13",
+      "id": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/candy/"
+    },
+    {
+      "date": "2023-09-14",
+      "id": "332",
+      "title": "Reconstruct Itinerary",
+      "slug": "reconstruct-itinerary",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/reconstruct-itinerary/"
+    },
+    {
+      "date": "2023-09-15",
+      "id": "1584",
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/min-cost-to-connect-all-points/"
+    },
+    {
+      "date": "2023-09-16",
+      "id": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-with-minimum-effort/"
+    },
+    {
+      "date": "2023-09-17",
+      "id": "847",
+      "title": "Shortest Path Visiting All Nodes",
+      "slug": "shortest-path-visiting-all-nodes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-visiting-all-nodes/"
+    },
+    {
+      "date": "2023-09-18",
+      "id": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/the-k-weakest-rows-in-a-matrix/"
+    },
+    {
+      "date": "2023-09-19",
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-duplicate-number/"
+    },
+    {
+      "date": "2023-09-20",
+      "id": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-reduce-x-to-zero/"
+    },
+    {
+      "date": "2023-09-21",
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/median-of-two-sorted-arrays/"
+    },
+    {
+      "date": "2023-09-22",
+      "id": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/is-subsequence/"
+    },
+    {
+      "date": "2023-09-23",
+      "id": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-string-chain/"
+    },
+    {
+      "date": "2023-09-24",
+      "id": "799",
+      "title": "Champagne Tower",
+      "slug": "champagne-tower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/champagne-tower/"
+    },
+    {
+      "date": "2023-09-25",
+      "id": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-difference/"
+    },
+    {
+      "date": "2023-09-26",
+      "id": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicate-letters/"
+    },
+    {
+      "date": "2023-09-27",
+      "id": "880",
+      "title": "Decoded String at Index",
+      "slug": "decoded-string-at-index",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decoded-string-at-index/"
+    },
+    {
+      "date": "2023-09-28",
+      "id": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-array-by-parity/"
+    },
+    {
+      "date": "2023-09-29",
+      "id": "896",
+      "title": "Monotonic Array",
+      "slug": "monotonic-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/monotonic-array/"
+    },
+    {
+      "date": "2023-09-30",
+      "id": "456",
+      "title": "132 Pattern",
+      "slug": "132-pattern",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/132-pattern/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-09-01",
+      "id": "1199",
+      "title": "Minimum Time to Build Blocks",
+      "slug": "minimum-time-to-build-blocks",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-time-to-build-blocks/"
+    },
+    {
+      "date": "2023-09-08",
+      "id": "358",
+      "title": "Rearrange String k Distance Apart",
+      "slug": "rearrange-string-k-distance-apart",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/rearrange-string-k-distance-apart/"
+    },
+    {
+      "date": "2023-09-15",
+      "id": "1136",
+      "title": "Parallel Courses",
+      "slug": "parallel-courses",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/parallel-courses/"
+    },
+    {
+      "date": "2023-09-22",
+      "id": "1063",
+      "title": "Number of Valid Subarrays",
+      "slug": "number-of-valid-subarrays",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-valid-subarrays/"
+    },
+    {
+      "date": "2023-09-29",
+      "id": "2393",
+      "title": "Count Strictly Increasing Subarrays",
+      "slug": "count-strictly-increasing-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/count-strictly-increasing-subarrays/"
+    }
+  ]
+}

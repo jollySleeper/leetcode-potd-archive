@@ -1,0 +1,323 @@
+{
+  "year": 2022,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2022-11-01",
+      "id": "1706",
+      "title": "Where Will the Ball Fall",
+      "slug": "where-will-the-ball-fall",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/where-will-the-ball-fall/"
+    },
+    {
+      "date": "2022-11-02",
+      "id": "433",
+      "title": "Minimum Genetic Mutation",
+      "slug": "minimum-genetic-mutation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-genetic-mutation/"
+    },
+    {
+      "date": "2022-11-03",
+      "id": "2131",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindrome-by-concatenating-two-letter-words/"
+    },
+    {
+      "date": "2022-11-04",
+      "id": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-vowels-of-a-string/"
+    },
+    {
+      "date": "2022-11-05",
+      "id": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-search-ii/"
+    },
+    {
+      "date": "2022-11-06",
+      "id": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/orderly-queue/"
+    },
+    {
+      "date": "2022-11-07",
+      "id": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-69-number/"
+    },
+    {
+      "date": "2022-11-08",
+      "id": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/make-the-string-great/"
+    },
+    {
+      "date": "2022-11-09",
+      "id": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/online-stock-span/"
+    },
+    {
+      "date": "2022-11-10",
+      "id": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/remove-all-adjacent-duplicates-in-string/"
+    },
+    {
+      "date": "2022-11-11",
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+      "date": "2022-11-12",
+      "id": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-median-from-data-stream/"
+    },
+    {
+      "date": "2022-11-13",
+      "id": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-words-in-a-string/"
+    },
+    {
+      "date": "2022-11-14",
+      "id": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/most-stones-removed-with-same-row-or-column/"
+    },
+    {
+      "date": "2022-11-15",
+      "id": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-complete-tree-nodes/"
+    },
+    {
+      "date": "2022-11-16",
+      "id": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/guess-number-higher-or-lower/"
+    },
+    {
+      "date": "2022-11-17",
+      "id": "223",
+      "title": "Rectangle Area",
+      "slug": "rectangle-area",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rectangle-area/"
+    },
+    {
+      "date": "2022-11-18",
+      "id": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/ugly-number/"
+    },
+    {
+      "date": "2022-11-19",
+      "id": "587",
+      "title": "Erect the Fence",
+      "slug": "erect-the-fence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/erect-the-fence/"
+    },
+    {
+      "date": "2022-11-20",
+      "id": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/basic-calculator/"
+    },
+    {
+      "date": "2022-11-21",
+      "id": "1926",
+      "title": "Nearest Exit from Entrance in Maze",
+      "slug": "nearest-exit-from-entrance-in-maze",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/nearest-exit-from-entrance-in-maze/"
+    },
+    {
+      "date": "2022-11-22",
+      "id": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/perfect-squares/"
+    },
+    {
+      "date": "2022-11-23",
+      "id": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-sudoku/"
+    },
+    {
+      "date": "2022-11-24",
+      "id": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/word-search/"
+    },
+    {
+      "date": "2022-11-25",
+      "id": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-subarray-minimums/"
+    },
+    {
+      "date": "2022-11-26",
+      "id": "1235",
+      "title": "Maximum Profit in Job Scheduling",
+      "slug": "maximum-profit-in-job-scheduling",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-profit-in-job-scheduling/"
+    },
+    {
+      "date": "2022-11-27",
+      "id": "446",
+      "title": "Arithmetic Slices II - Subsequence",
+      "slug": "arithmetic-slices-ii-subsequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-slices-ii-subsequence/"
+    },
+    {
+      "date": "2022-11-28",
+      "id": "2225",
+      "title": "Find Players With Zero or One Losses",
+      "slug": "find-players-with-zero-or-one-losses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-players-with-zero-or-one-losses/"
+    },
+    {
+      "date": "2022-11-29",
+      "id": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-delete-getrandom-o1/"
+    },
+    {
+      "date": "2022-11-30",
+      "id": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-number-of-occurrences/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-11-01",
+      "id": "1198",
+      "title": "Find Smallest Common Element in All Rows",
+      "slug": "find-smallest-common-element-in-all-rows",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-smallest-common-element-in-all-rows/"
+    },
+    {
+      "date": "2022-11-08",
+      "id": "339",
+      "title": "Nested List Weight Sum",
+      "slug": "nested-list-weight-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/nested-list-weight-sum/"
+    },
+    {
+      "date": "2022-11-15",
+      "id": "1099",
+      "title": "Two Sum Less Than K",
+      "slug": "two-sum-less-than-k",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-less-than-k/"
+    },
+    {
+      "date": "2022-11-22",
+      "id": "246",
+      "title": "Strobogrammatic Number",
+      "slug": "strobogrammatic-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/strobogrammatic-number/"
+    },
+    {
+      "date": "2022-11-29",
+      "id": "1216",
+      "title": "Valid Palindrome III",
+      "slug": "valid-palindrome-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/valid-palindrome-iii/"
+    }
+  ]
+}

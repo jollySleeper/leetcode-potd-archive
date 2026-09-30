@@ -1,0 +1,323 @@
+{
+  "year": 2021,
+  "month": 9,
+  "challenges": [
+    {
+      "date": "2021-09-01",
+      "id": "565",
+      "title": "Array Nesting",
+      "slug": "array-nesting",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/array-nesting/"
+    },
+    {
+      "date": "2021-09-02",
+      "id": "95",
+      "title": "Unique Binary Search Trees II",
+      "slug": "unique-binary-search-trees-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-binary-search-trees-ii/"
+    },
+    {
+      "date": "2021-09-03",
+      "id": "587",
+      "title": "Erect the Fence",
+      "slug": "erect-the-fence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/erect-the-fence/"
+    },
+    {
+      "date": "2021-09-04",
+      "id": "834",
+      "title": "Sum of Distances in Tree",
+      "slug": "sum-of-distances-in-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-distances-in-tree/"
+    },
+    {
+      "date": "2021-09-05",
+      "id": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/orderly-queue/"
+    },
+    {
+      "date": "2021-09-06",
+      "id": "1629",
+      "title": "Slowest Key",
+      "slug": "slowest-key",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/slowest-key/"
+    },
+    {
+      "date": "2021-09-07",
+      "id": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-linked-list/"
+    },
+    {
+      "date": "2021-09-08",
+      "id": "848",
+      "title": "Shifting Letters",
+      "slug": "shifting-letters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shifting-letters/"
+    },
+    {
+      "date": "2021-09-09",
+      "id": "764",
+      "title": "Largest Plus Sign",
+      "slug": "largest-plus-sign",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-plus-sign/"
+    },
+    {
+      "date": "2021-09-10",
+      "id": "446",
+      "title": "Arithmetic Slices II - Subsequence",
+      "slug": "arithmetic-slices-ii-subsequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-slices-ii-subsequence/"
+    },
+    {
+      "date": "2021-09-11",
+      "id": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/basic-calculator/"
+    },
+    {
+      "date": "2021-09-12",
+      "id": "882",
+      "title": "Reachable Nodes In Subdivided Graph",
+      "slug": "reachable-nodes-in-subdivided-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/reachable-nodes-in-subdivided-graph/"
+    },
+    {
+      "date": "2021-09-13",
+      "id": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-balloons/"
+    },
+    {
+      "date": "2021-09-14",
+      "id": "917",
+      "title": "Reverse Only Letters",
+      "slug": "reverse-only-letters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-only-letters/"
+    },
+    {
+      "date": "2021-09-15",
+      "id": "978",
+      "title": "Longest Turbulent Subarray",
+      "slug": "longest-turbulent-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-turbulent-subarray/"
+    },
+    {
+      "date": "2021-09-16",
+      "id": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/spiral-matrix/"
+    },
+    {
+      "date": "2021-09-17",
+      "id": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+      "date": "2021-09-18",
+      "id": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/expression-add-operators/"
+    },
+    {
+      "date": "2021-09-19",
+      "id": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/distinct-subsequences/"
+    },
+    {
+      "date": "2021-09-20",
+      "id": "1275",
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "slug": "find-winner-on-a-tic-tac-toe-game",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-winner-on-a-tic-tac-toe-game/"
+    },
+    {
+      "date": "2021-09-21",
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/max-consecutive-ones/"
+    },
+    {
+      "date": "2021-09-22",
+      "id": "1239",
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
+    },
+    {
+      "date": "2021-09-23",
+      "id": "1328",
+      "title": "Break a Palindrome",
+      "slug": "break-a-palindrome",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/break-a-palindrome/"
+    },
+    {
+      "date": "2021-09-24",
+      "id": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/n-th-tribonacci-number/"
+    },
+    {
+      "date": "2021-09-25",
+      "id": "1293",
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-in-a-grid-with-obstacles-elimination/"
+    },
+    {
+      "date": "2021-09-26",
+      "id": "782",
+      "title": "Transform to Chessboard",
+      "slug": "transform-to-chessboard",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/transform-to-chessboard/"
+    },
+    {
+      "date": "2021-09-27",
+      "id": "929",
+      "title": "Unique Email Addresses",
+      "slug": "unique-email-addresses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-email-addresses/"
+    },
+    {
+      "date": "2021-09-28",
+      "id": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-array-by-parity-ii/"
+    },
+    {
+      "date": "2021-09-29",
+      "id": "725",
+      "title": "Split Linked List in Parts",
+      "slug": "split-linked-list-in-parts",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/split-linked-list-in-parts/"
+    },
+    {
+      "date": "2021-09-30",
+      "id": "698",
+      "title": "Partition to K Equal Sum Subsets",
+      "slug": "partition-to-k-equal-sum-subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-to-k-equal-sum-subsets/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-09-01",
+      "id": "1120",
+      "title": "Maximum Average Subtree",
+      "slug": "maximum-average-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-average-subtree/"
+    },
+    {
+      "date": "2021-09-08",
+      "id": "296",
+      "title": "Best Meeting Point",
+      "slug": "best-meeting-point",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/best-meeting-point/"
+    },
+    {
+      "date": "2021-09-15",
+      "id": "774",
+      "title": "Minimize Max Distance to Gas Station",
+      "slug": "minimize-max-distance-to-gas-station",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/minimize-max-distance-to-gas-station/"
+    },
+    {
+      "date": "2021-09-22",
+      "id": "317",
+      "title": "Shortest Distance from All Buildings",
+      "slug": "shortest-distance-from-all-buildings",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-distance-from-all-buildings/"
+    },
+    {
+      "date": "2021-09-29",
+      "id": "325",
+      "title": "Maximum Size Subarray Sum Equals k",
+      "slug": "maximum-size-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-size-subarray-sum-equals-k/"
+    }
+  ]
+}

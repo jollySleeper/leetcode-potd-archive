@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2025-11-01",
+      "id": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-nodes-from-linked-list-present-in-array/"
+    },
+    {
+      "date": "2025-11-02",
+      "id": "2257",
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-unguarded-cells-in-the-grid/"
+    },
+    {
+      "date": "2025-11-03",
+      "id": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-make-rope-colorful/"
+    },
+    {
+      "date": "2025-11-04",
+      "id": "3318",
+      "title": "Find X-Sum of All K-Long Subarrays I",
+      "slug": "find-x-sum-of-all-k-long-subarrays-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-x-sum-of-all-k-long-subarrays-i/"
+    },
+    {
+      "date": "2025-11-05",
+      "id": "3321",
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "slug": "find-x-sum-of-all-k-long-subarrays-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-x-sum-of-all-k-long-subarrays-ii/"
+    },
+    {
+      "date": "2025-11-06",
+      "id": "3607",
+      "title": "Power Grid Maintenance",
+      "slug": "power-grid-maintenance",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/power-grid-maintenance/"
+    },
+    {
+      "date": "2025-11-07",
+      "id": "2528",
+      "title": "Maximize the Minimum Powered City",
+      "slug": "maximize-the-minimum-powered-city",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-the-minimum-powered-city/"
+    },
+    {
+      "date": "2025-11-08",
+      "id": "1611",
+      "title": "Minimum One Bit Operations to Make Integers Zero",
+      "slug": "minimum-one-bit-operations-to-make-integers-zero",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/"
+    },
+    {
+      "date": "2025-11-09",
+      "id": "2169",
+      "title": "Count Operations to Obtain Zero",
+      "slug": "count-operations-to-obtain-zero",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-operations-to-obtain-zero/"
+    },
+    {
+      "date": "2025-11-10",
+      "id": "3542",
+      "title": "Minimum Operations to Convert All Elements to Zero",
+      "slug": "minimum-operations-to-convert-all-elements-to-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-convert-all-elements-to-zero/"
+    },
+    {
+      "date": "2025-11-11",
+      "id": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ones-and-zeroes/"
+    },
+    {
+      "date": "2025-11-12",
+      "id": "2654",
+      "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+      "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/"
+    },
+    {
+      "date": "2025-11-13",
+      "id": "3228",
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-operations-to-move-ones-to-the-end/"
+    },
+    {
+      "date": "2025-11-14",
+      "id": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/increment-submatrices-by-one/"
+    },
+    {
+      "date": "2025-11-15",
+      "id": "3234",
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "slug": "count-the-number-of-substrings-with-dominant-ones",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-substrings-with-dominant-ones/"
+    },
+    {
+      "date": "2025-11-16",
+      "id": "1513",
+      "title": "Number of Substrings With Only 1s",
+      "slug": "number-of-substrings-with-only-1s",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-substrings-with-only-1s/"
+    },
+    {
+      "date": "2025-11-17",
+      "id": "1437",
+      "title": "Check If All 1's Are at Least Length K Places Away",
+      "slug": "check-if-all-1s-are-at-least-length-k-places-away",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-all-1s-are-at-least-length-k-places-away/"
+    },
+    {
+      "date": "2025-11-18",
+      "id": "717",
+      "title": "1-bit and 2-bit Characters",
+      "slug": "1-bit-and-2-bit-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/1-bit-and-2-bit-characters/"
+    },
+    {
+      "date": "2025-11-19",
+      "id": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/keep-multiplying-found-values-by-two/"
+    },
+    {
+      "date": "2025-11-20",
+      "id": "757",
+      "title": "Set Intersection Size At Least Two",
+      "slug": "set-intersection-size-at-least-two",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/set-intersection-size-at-least-two/"
+    },
+    {
+      "date": "2025-11-21",
+      "id": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-length-3-palindromic-subsequences/"
+    },
+    {
+      "date": "2025-11-22",
+      "id": "3190",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/"
+    },
+    {
+      "date": "2025-11-23",
+      "id": "1262",
+      "title": "Greatest Sum Divisible by Three",
+      "slug": "greatest-sum-divisible-by-three",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/greatest-sum-divisible-by-three/"
+    },
+    {
+      "date": "2025-11-24",
+      "id": "1018",
+      "title": "Binary Prefix Divisible By 5",
+      "slug": "binary-prefix-divisible-by-5",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-prefix-divisible-by-5/"
+    },
+    {
+      "date": "2025-11-25",
+      "id": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "slug": "smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-integer-divisible-by-k/"
+    },
+    {
+      "date": "2025-11-26",
+      "id": "2435",
+      "title": "Paths in Matrix Whose Sum Is Divisible by K",
+      "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/paths-in-matrix-whose-sum-is-divisible-by-k/"
+    },
+    {
+      "date": "2025-11-27",
+      "id": "3381",
+      "title": "Maximum Subarray Sum With Length Divisible by K",
+      "slug": "maximum-subarray-sum-with-length-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-subarray-sum-with-length-divisible-by-k/"
+    },
+    {
+      "date": "2025-11-28",
+      "id": "2872",
+      "title": "Maximum Number of K-Divisible Components",
+      "slug": "maximum-number-of-k-divisible-components",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-k-divisible-components/"
+    },
+    {
+      "date": "2025-11-29",
+      "id": "3512",
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-make-array-sum-divisible-by-k/"
+    },
+    {
+      "date": "2025-11-30",
+      "id": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/make-sum-divisible-by-p/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-11-01",
+      "id": "1183",
+      "title": "Maximum Number of Ones",
+      "slug": "maximum-number-of-ones",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-number-of-ones/"
+    },
+    {
+      "date": "2025-11-08",
+      "id": "170",
+      "title": "Two Sum III - Data structure design",
+      "slug": "two-sum-iii-data-structure-design",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-iii-data-structure-design/"
+    },
+    {
+      "date": "2025-11-15",
+      "id": "259",
+      "title": "3Sum Smaller",
+      "slug": "3sum-smaller",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/3sum-smaller/"
+    },
+    {
+      "date": "2025-11-22",
+      "id": "364",
+      "title": "Nested List Weight Sum II",
+      "slug": "nested-list-weight-sum-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/nested-list-weight-sum-ii/"
+    },
+    {
+      "date": "2025-11-29",
+      "id": "370",
+      "title": "Range Addition",
+      "slug": "range-addition",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/range-addition/"
+    },
+    {
+      "date": "2025-12-06",
+      "id": "1099",
+      "title": "Two Sum Less Than K",
+      "slug": "two-sum-less-than-k",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-less-than-k/"
+    }
+  ]
+}

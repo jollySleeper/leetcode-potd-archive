@@ -1,0 +1,332 @@
+{
+  "year": 2021,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2021-01-01",
+      "id": "1640",
+      "title": "Check Array Formation Through Concatenation",
+      "slug": "check-array-formation-through-concatenation",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-array-formation-through-concatenation/"
+    },
+    {
+      "date": "2021-01-02",
+      "id": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/"
+    },
+    {
+      "date": "2021-01-03",
+      "id": "526",
+      "title": "Beautiful Arrangement",
+      "slug": "beautiful-arrangement",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/beautiful-arrangement/"
+    },
+    {
+      "date": "2021-01-04",
+      "id": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/merge-two-sorted-lists/"
+    },
+    {
+      "date": "2021-01-05",
+      "id": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicates-from-sorted-list-ii/"
+    },
+    {
+      "date": "2021-01-06",
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/kth-missing-positive-number/"
+    },
+    {
+      "date": "2021-01-07",
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      "date": "2021-01-08",
+      "id": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-two-string-arrays-are-equivalent/"
+    },
+    {
+      "date": "2021-01-09",
+      "id": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-ladder/"
+    },
+    {
+      "date": "2021-01-10",
+      "id": "1649",
+      "title": "Create Sorted Array through Instructions",
+      "slug": "create-sorted-array-through-instructions",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/create-sorted-array-through-instructions/"
+    },
+    {
+      "date": "2021-01-11",
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/merge-sorted-array/"
+    },
+    {
+      "date": "2021-01-12",
+      "id": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-two-numbers/"
+    },
+    {
+      "date": "2021-01-13",
+      "id": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/boats-to-save-people/"
+    },
+    {
+      "date": "2021-01-14",
+      "id": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-reduce-x-to-zero/"
+    },
+    {
+      "date": "2021-01-15",
+      "id": "1646",
+      "title": "Get Maximum in Generated Array",
+      "slug": "get-maximum-in-generated-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/get-maximum-in-generated-array/"
+    },
+    {
+      "date": "2021-01-16",
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/kth-largest-element-in-an-array/"
+    },
+    {
+      "date": "2021-01-17",
+      "id": "1641",
+      "title": "Count Sorted Vowel Strings",
+      "slug": "count-sorted-vowel-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-sorted-vowel-strings/"
+    },
+    {
+      "date": "2021-01-18",
+      "id": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-number-of-k-sum-pairs/"
+    },
+    {
+      "date": "2021-01-19",
+      "id": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindromic-substring/"
+    },
+    {
+      "date": "2021-01-20",
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-parentheses/"
+    },
+    {
+      "date": "2021-01-21",
+      "id": "1673",
+      "title": "Find the Most Competitive Subsequence",
+      "slug": "find-the-most-competitive-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-most-competitive-subsequence/"
+    },
+    {
+      "date": "2021-01-22",
+      "id": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/determine-if-two-strings-are-close/"
+    },
+    {
+      "date": "2021-01-23",
+      "id": "1329",
+      "title": "Sort the Matrix Diagonally",
+      "slug": "sort-the-matrix-diagonally",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-the-matrix-diagonally/"
+    },
+    {
+      "date": "2021-01-24",
+      "id": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/merge-k-sorted-lists/"
+    },
+    {
+      "date": "2021-01-25",
+      "id": "1437",
+      "title": "Check If All 1's Are at Least Length K Places Away",
+      "slug": "check-if-all-1s-are-at-least-length-k-places-away",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-all-1s-are-at-least-length-k-places-away/"
+    },
+    {
+      "date": "2021-01-26",
+      "id": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-with-minimum-effort/"
+    },
+    {
+      "date": "2021-01-27",
+      "id": "1680",
+      "title": "Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/concatenation-of-consecutive-binary-numbers/"
+    },
+    {
+      "date": "2021-01-28",
+      "id": "1663",
+      "title": "Smallest String With A Given Numeric Value",
+      "slug": "smallest-string-with-a-given-numeric-value",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-string-with-a-given-numeric-value/"
+    },
+    {
+      "date": "2021-01-29",
+      "id": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/vertical-order-traversal-of-a-binary-tree/"
+    },
+    {
+      "date": "2021-01-30",
+      "id": "1675",
+      "title": "Minimize Deviation in Array",
+      "slug": "minimize-deviation-in-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-deviation-in-array/"
+    },
+    {
+      "date": "2021-01-31",
+      "id": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/next-permutation/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-01-01",
+      "id": "266",
+      "title": "Palindrome Permutation",
+      "slug": "palindrome-permutation",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/palindrome-permutation/"
+    },
+    {
+      "date": "2021-01-08",
+      "id": "1506",
+      "title": "Find Root of N-Ary Tree",
+      "slug": "find-root-of-n-ary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-root-of-n-ary-tree/"
+    },
+    {
+      "date": "2021-01-15",
+      "id": "339",
+      "title": "Nested List Weight Sum",
+      "slug": "nested-list-weight-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/nested-list-weight-sum/"
+    },
+    {
+      "date": "2021-01-22",
+      "id": "161",
+      "title": "One Edit Distance",
+      "slug": "one-edit-distance",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/one-edit-distance/"
+    },
+    {
+      "date": "2021-01-29",
+      "id": "750",
+      "title": "Number Of Corner Rectangles",
+      "slug": "number-of-corner-rectangles",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-corner-rectangles/"
+    }
+  ]
+}

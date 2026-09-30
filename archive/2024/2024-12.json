@@ -1,0 +1,332 @@
+{
+  "year": 2024,
+  "month": 12,
+  "challenges": [
+    {
+      "date": "2024-12-01",
+      "id": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-n-and-its-double-exist/"
+    },
+    {
+      "date": "2024-12-02",
+      "id": "1455",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/"
+    },
+    {
+      "date": "2024-12-03",
+      "id": "2109",
+      "title": "Adding Spaces to a String",
+      "slug": "adding-spaces-to-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/adding-spaces-to-a-string/"
+    },
+    {
+      "date": "2024-12-04",
+      "id": "2825",
+      "title": "Make String a Subsequence Using Cyclic Increments",
+      "slug": "make-string-a-subsequence-using-cyclic-increments",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/make-string-a-subsequence-using-cyclic-increments/"
+    },
+    {
+      "date": "2024-12-05",
+      "id": "2337",
+      "title": "Move Pieces to Obtain a String",
+      "slug": "move-pieces-to-obtain-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/move-pieces-to-obtain-a-string/"
+    },
+    {
+      "date": "2024-12-06",
+      "id": "2554",
+      "title": "Maximum Number of Integers to Choose From a Range I",
+      "slug": "maximum-number-of-integers-to-choose-from-a-range-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-integers-to-choose-from-a-range-i/"
+    },
+    {
+      "date": "2024-12-07",
+      "id": "1760",
+      "title": "Minimum Limit of Balls in a Bag",
+      "slug": "minimum-limit-of-balls-in-a-bag",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-limit-of-balls-in-a-bag/"
+    },
+    {
+      "date": "2024-12-08",
+      "id": "2054",
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/two-best-non-overlapping-events/"
+    },
+    {
+      "date": "2024-12-09",
+      "id": "3152",
+      "title": "Special Array II",
+      "slug": "special-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/special-array-ii/"
+    },
+    {
+      "date": "2024-12-10",
+      "id": "2981",
+      "title": "Find Longest Special Substring That Occurs Thrice I",
+      "slug": "find-longest-special-substring-that-occurs-thrice-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-longest-special-substring-that-occurs-thrice-i/"
+    },
+    {
+      "date": "2024-12-11",
+      "id": "2779",
+      "title": "Maximum Beauty of an Array After Applying Operation",
+      "slug": "maximum-beauty-of-an-array-after-applying-operation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-beauty-of-an-array-after-applying-operation/"
+    },
+    {
+      "date": "2024-12-12",
+      "id": "2558",
+      "title": "Take Gifts From the Richest Pile",
+      "slug": "take-gifts-from-the-richest-pile",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/take-gifts-from-the-richest-pile/"
+    },
+    {
+      "date": "2024-12-13",
+      "id": "2593",
+      "title": "Find Score of an Array After Marking All Elements",
+      "slug": "find-score-of-an-array-after-marking-all-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-score-of-an-array-after-marking-all-elements/"
+    },
+    {
+      "date": "2024-12-14",
+      "id": "2762",
+      "title": "Continuous Subarrays",
+      "slug": "continuous-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/continuous-subarrays/"
+    },
+    {
+      "date": "2024-12-15",
+      "id": "1792",
+      "title": "Maximum Average Pass Ratio",
+      "slug": "maximum-average-pass-ratio",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-average-pass-ratio/"
+    },
+    {
+      "date": "2024-12-16",
+      "id": "3264",
+      "title": "Final Array State After K Multiplication Operations I",
+      "slug": "final-array-state-after-k-multiplication-operations-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/final-array-state-after-k-multiplication-operations-i/"
+    },
+    {
+      "date": "2024-12-17",
+      "id": "2182",
+      "title": "Construct String With Repeat Limit",
+      "slug": "construct-string-with-repeat-limit",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-string-with-repeat-limit/"
+    },
+    {
+      "date": "2024-12-18",
+      "id": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/final-prices-with-a-special-discount-in-a-shop/"
+    },
+    {
+      "date": "2024-12-19",
+      "id": "769",
+      "title": "Max Chunks To Make Sorted",
+      "slug": "max-chunks-to-make-sorted",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-chunks-to-make-sorted/"
+    },
+    {
+      "date": "2024-12-20",
+      "id": "2415",
+      "title": "Reverse Odd Levels of Binary Tree",
+      "slug": "reverse-odd-levels-of-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-odd-levels-of-binary-tree/"
+    },
+    {
+      "date": "2024-12-21",
+      "id": "2872",
+      "title": "Maximum Number of K-Divisible Components",
+      "slug": "maximum-number-of-k-divisible-components",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-k-divisible-components/"
+    },
+    {
+      "date": "2024-12-22",
+      "id": "2940",
+      "title": "Find Building Where Alice and Bob Can Meet",
+      "slug": "find-building-where-alice-and-bob-can-meet",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-building-where-alice-and-bob-can-meet/"
+    },
+    {
+      "date": "2024-12-23",
+      "id": "2471",
+      "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "slug": "minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/"
+    },
+    {
+      "date": "2024-12-24",
+      "id": "3203",
+      "title": "Find Minimum Diameter After Merging Two Trees",
+      "slug": "find-minimum-diameter-after-merging-two-trees",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-diameter-after-merging-two-trees/"
+    },
+    {
+      "date": "2024-12-25",
+      "id": "515",
+      "title": "Find Largest Value in Each Tree Row",
+      "slug": "find-largest-value-in-each-tree-row",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-largest-value-in-each-tree-row/"
+    },
+    {
+      "date": "2024-12-26",
+      "id": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/target-sum/"
+    },
+    {
+      "date": "2024-12-27",
+      "id": "1014",
+      "title": "Best Sightseeing Pair",
+      "slug": "best-sightseeing-pair",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-sightseeing-pair/"
+    },
+    {
+      "date": "2024-12-28",
+      "id": "689",
+      "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+      "slug": "maximum-sum-of-3-non-overlapping-subarrays",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-sum-of-3-non-overlapping-subarrays/"
+    },
+    {
+      "date": "2024-12-29",
+      "id": "1639",
+      "title": "Number of Ways to Form a Target String Given a Dictionary",
+      "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/"
+    },
+    {
+      "date": "2024-12-30",
+      "id": "2466",
+      "title": "Count Ways To Build Good Strings",
+      "slug": "count-ways-to-build-good-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-ways-to-build-good-strings/"
+    },
+    {
+      "date": "2024-12-31",
+      "id": "983",
+      "title": "Minimum Cost For Tickets",
+      "slug": "minimum-cost-for-tickets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-for-tickets/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-12-01",
+      "id": "277",
+      "title": "Find the Celebrity",
+      "slug": "find-the-celebrity",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-the-celebrity/"
+    },
+    {
+      "date": "2024-12-08",
+      "id": "1891",
+      "title": "Cutting Ribbons",
+      "slug": "cutting-ribbons",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/cutting-ribbons/"
+    },
+    {
+      "date": "2024-12-15",
+      "id": "2832",
+      "title": "Maximal Range That Each Element Is Maximum in It",
+      "slug": "maximal-range-that-each-element-is-maximum-in-it",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximal-range-that-each-element-is-maximum-in-it/"
+    },
+    {
+      "date": "2024-12-22",
+      "id": "1644",
+      "title": "Lowest Common Ancestor of a Binary Tree II",
+      "slug": "lowest-common-ancestor-of-a-binary-tree-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/"
+    },
+    {
+      "date": "2024-12-29",
+      "id": "1746",
+      "title": "Maximum Subarray Sum After One Operation",
+      "slug": "maximum-subarray-sum-after-one-operation",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-subarray-sum-after-one-operation/"
+    }
+  ]
+}

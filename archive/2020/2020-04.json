@@ -1,0 +1,277 @@
+{
+  "year": 2020,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2020-04-01",
+      "id": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/single-number/"
+    },
+    {
+      "date": "2020-04-02",
+      "id": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/happy-number/"
+    },
+    {
+      "date": "2020-04-03",
+      "id": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-subarray/"
+    },
+    {
+      "date": "2020-04-04",
+      "id": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/move-zeroes/"
+    },
+    {
+      "date": "2020-04-05",
+      "id": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+      "date": "2020-04-06",
+      "id": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/group-anagrams/"
+    },
+    {
+      "date": "2020-04-07",
+      "id": "1426",
+      "title": "Counting Elements",
+      "slug": "counting-elements",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/counting-elements/"
+    },
+    {
+      "date": "2020-04-08",
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/middle-of-the-linked-list/"
+    },
+    {
+      "date": "2020-04-09",
+      "id": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/backspace-string-compare/"
+    },
+    {
+      "date": "2020-04-10",
+      "id": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/min-stack/"
+    },
+    {
+      "date": "2020-04-11",
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/diameter-of-binary-tree/"
+    },
+    {
+      "date": "2020-04-12",
+      "id": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/last-stone-weight/"
+    },
+    {
+      "date": "2020-04-13",
+      "id": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/contiguous-array/"
+    },
+    {
+      "date": "2020-04-14",
+      "id": "1427",
+      "title": "Perform String Shifts",
+      "slug": "perform-string-shifts",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/perform-string-shifts/"
+    },
+    {
+      "date": "2020-04-15",
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/product-of-array-except-self/"
+    },
+    {
+      "date": "2020-04-16",
+      "id": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-parenthesis-string/"
+    },
+    {
+      "date": "2020-04-17",
+      "id": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-islands/"
+    },
+    {
+      "date": "2020-04-18",
+      "id": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-path-sum/"
+    },
+    {
+      "date": "2020-04-19",
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-rotated-sorted-array/"
+    },
+    {
+      "date": "2020-04-20",
+      "id": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-search-tree-from-preorder-traversal/"
+    },
+    {
+      "date": "2020-04-21",
+      "id": "1428",
+      "title": "Leftmost Column with at Least a One",
+      "slug": "leftmost-column-with-at-least-a-one",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/leftmost-column-with-at-least-a-one/"
+    },
+    {
+      "date": "2020-04-22",
+      "id": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subarray-sum-equals-k/"
+    },
+    {
+      "date": "2020-04-23",
+      "id": "201",
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bitwise-and-of-numbers-range/"
+    },
+    {
+      "date": "2020-04-24",
+      "id": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lru-cache/"
+    },
+    {
+      "date": "2020-04-25",
+      "id": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game/"
+    },
+    {
+      "date": "2020-04-26",
+      "id": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-common-subsequence/"
+    },
+    {
+      "date": "2020-04-27",
+      "id": "221",
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-square/"
+    },
+    {
+      "date": "2020-04-28",
+      "id": "1429",
+      "title": "First Unique Number",
+      "slug": "first-unique-number",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/first-unique-number/"
+    },
+    {
+      "date": "2020-04-29",
+      "id": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+      "date": "2020-04-30",
+      "id": "1430",
+      "title": "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+      "slug": "check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/"
+    }
+  ],
+  "weeklyChallenges": []
+}

@@ -1,0 +1,296 @@
+{
+  "year": 2021,
+  "month": 2,
+  "challenges": [
+    {
+      "date": "2021-02-01",
+      "id": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-1-bits/"
+    },
+    {
+      "date": "2021-02-02",
+      "id": "669",
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/trim-a-binary-search-tree/"
+    },
+    {
+      "date": "2021-02-03",
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle/"
+    },
+    {
+      "date": "2021-02-04",
+      "id": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-harmonious-subsequence/"
+    },
+    {
+      "date": "2021-02-05",
+      "id": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/simplify-path/"
+    },
+    {
+      "date": "2021-02-06",
+      "id": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-right-side-view/"
+    },
+    {
+      "date": "2021-02-07",
+      "id": "821",
+      "title": "Shortest Distance to a Character",
+      "slug": "shortest-distance-to-a-character",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-distance-to-a-character/"
+    },
+    {
+      "date": "2021-02-08",
+      "id": "284",
+      "title": "Peeking Iterator",
+      "slug": "peeking-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/peeking-iterator/"
+    },
+    {
+      "date": "2021-02-09",
+      "id": "538",
+      "title": "Convert BST to Greater Tree",
+      "slug": "convert-bst-to-greater-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/convert-bst-to-greater-tree/"
+    },
+    {
+      "date": "2021-02-10",
+      "id": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/copy-list-with-random-pointer/"
+    },
+    {
+      "date": "2021-02-11",
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-anagram/"
+    },
+    {
+      "date": "2021-02-12",
+      "id": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+      "date": "2021-02-13",
+      "id": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-in-binary-matrix/"
+    },
+    {
+      "date": "2021-02-14",
+      "id": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/is-graph-bipartite/"
+    },
+    {
+      "date": "2021-02-15",
+      "id": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/the-k-weakest-rows-in-a-matrix/"
+    },
+    {
+      "date": "2021-02-16",
+      "id": "784",
+      "title": "Letter Case Permutation",
+      "slug": "letter-case-permutation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/letter-case-permutation/"
+    },
+    {
+      "date": "2021-02-17",
+      "id": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/container-with-most-water/"
+    },
+    {
+      "date": "2021-02-18",
+      "id": "413",
+      "title": "Arithmetic Slices",
+      "slug": "arithmetic-slices",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-slices/"
+    },
+    {
+      "date": "2021-02-19",
+      "id": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-remove-to-make-valid-parentheses/"
+    },
+    {
+      "date": "2021-02-20",
+      "id": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/roman-to-integer/"
+    },
+    {
+      "date": "2021-02-21",
+      "id": "991",
+      "title": "Broken Calculator",
+      "slug": "broken-calculator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/broken-calculator/"
+    },
+    {
+      "date": "2021-02-22",
+      "id": "524",
+      "title": "Longest Word in Dictionary through Deleting",
+      "slug": "longest-word-in-dictionary-through-deleting",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-word-in-dictionary-through-deleting/"
+    },
+    {
+      "date": "2021-02-23",
+      "id": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-a-2d-matrix-ii/"
+    },
+    {
+      "date": "2021-02-24",
+      "id": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/score-of-parentheses/"
+    },
+    {
+      "date": "2021-02-25",
+      "id": "581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "slug": "shortest-unsorted-continuous-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-unsorted-continuous-subarray/"
+    },
+    {
+      "date": "2021-02-26",
+      "id": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-stack-sequences/"
+    },
+    {
+      "date": "2021-02-27",
+      "id": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/divide-two-integers/"
+    },
+    {
+      "date": "2021-02-28",
+      "id": "895",
+      "title": "Maximum Frequency Stack",
+      "slug": "maximum-frequency-stack",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-frequency-stack/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-02-01",
+      "id": "573",
+      "title": "Squirrel Simulation",
+      "slug": "squirrel-simulation",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/squirrel-simulation/"
+    },
+    {
+      "date": "2021-02-08",
+      "id": "694",
+      "title": "Number of Distinct Islands",
+      "slug": "number-of-distinct-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-distinct-islands/"
+    },
+    {
+      "date": "2021-02-15",
+      "id": "582",
+      "title": "Kill Process",
+      "slug": "kill-process",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/kill-process/"
+    },
+    {
+      "date": "2021-02-22",
+      "id": "277",
+      "title": "Find the Celebrity",
+      "slug": "find-the-celebrity",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-the-celebrity/"
+    }
+  ]
+}

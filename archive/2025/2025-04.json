@@ -1,0 +1,323 @@
+{
+  "year": 2025,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2025-04-01",
+      "id": "2140",
+      "title": "Solving Questions With Brainpower",
+      "slug": "solving-questions-with-brainpower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/solving-questions-with-brainpower/"
+    },
+    {
+      "date": "2025-04-02",
+      "id": "2873",
+      "title": "Maximum Value of an Ordered Triplet I",
+      "slug": "maximum-value-of-an-ordered-triplet-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-value-of-an-ordered-triplet-i/"
+    },
+    {
+      "date": "2025-04-03",
+      "id": "2874",
+      "title": "Maximum Value of an Ordered Triplet II",
+      "slug": "maximum-value-of-an-ordered-triplet-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-value-of-an-ordered-triplet-ii/"
+    },
+    {
+      "date": "2025-04-04",
+      "id": "1123",
+      "title": "Lowest Common Ancestor of Deepest Leaves",
+      "slug": "lowest-common-ancestor-of-deepest-leaves",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lowest-common-ancestor-of-deepest-leaves/"
+    },
+    {
+      "date": "2025-04-05",
+      "id": "1863",
+      "title": "Sum of All Subset XOR Totals",
+      "slug": "sum-of-all-subset-xor-totals",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-all-subset-xor-totals/"
+    },
+    {
+      "date": "2025-04-06",
+      "id": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-divisible-subset/"
+    },
+    {
+      "date": "2025-04-07",
+      "id": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-equal-subset-sum/"
+    },
+    {
+      "date": "2025-04-08",
+      "id": "3396",
+      "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+      "slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/"
+    },
+    {
+      "date": "2025-04-09",
+      "id": "3375",
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "slug": "minimum-operations-to-make-array-values-equal-to-k",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-make-array-values-equal-to-k/"
+    },
+    {
+      "date": "2025-04-10",
+      "id": "2999",
+      "title": "Count the Number of Powerful Integers",
+      "slug": "count-the-number-of-powerful-integers",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-powerful-integers/"
+    },
+    {
+      "date": "2025-04-11",
+      "id": "2843",
+      "title": "  Count Symmetric Integers",
+      "slug": "count-symmetric-integers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-symmetric-integers/"
+    },
+    {
+      "date": "2025-04-12",
+      "id": "3272",
+      "title": "Find the Count of Good Integers",
+      "slug": "find-the-count-of-good-integers",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-count-of-good-integers/"
+    },
+    {
+      "date": "2025-04-13",
+      "id": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-good-numbers/"
+    },
+    {
+      "date": "2025-04-14",
+      "id": "1534",
+      "title": "Count Good Triplets",
+      "slug": "count-good-triplets",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-good-triplets/"
+    },
+    {
+      "date": "2025-04-15",
+      "id": "2179",
+      "title": "Count Good Triplets in an Array",
+      "slug": "count-good-triplets-in-an-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-good-triplets-in-an-array/"
+    },
+    {
+      "date": "2025-04-16",
+      "id": "2537",
+      "title": "Count the Number of Good Subarrays",
+      "slug": "count-the-number-of-good-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-good-subarrays/"
+    },
+    {
+      "date": "2025-04-17",
+      "id": "2176",
+      "title": "Count Equal and Divisible Pairs in an Array",
+      "slug": "count-equal-and-divisible-pairs-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-equal-and-divisible-pairs-in-an-array/"
+    },
+    {
+      "date": "2025-04-18",
+      "id": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-and-say/"
+    },
+    {
+      "date": "2025-04-19",
+      "id": "2563",
+      "title": "Count the Number of Fair Pairs",
+      "slug": "count-the-number-of-fair-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-fair-pairs/"
+    },
+    {
+      "date": "2025-04-20",
+      "id": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rabbits-in-forest/"
+    },
+    {
+      "date": "2025-04-21",
+      "id": "2145",
+      "title": "Count the Hidden Sequences",
+      "slug": "count-the-hidden-sequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-hidden-sequences/"
+    },
+    {
+      "date": "2025-04-22",
+      "id": "2338",
+      "title": "Count the Number of Ideal Arrays",
+      "slug": "count-the-number-of-ideal-arrays",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-ideal-arrays/"
+    },
+    {
+      "date": "2025-04-23",
+      "id": "1399",
+      "title": "Count Largest Group",
+      "slug": "count-largest-group",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-largest-group/"
+    },
+    {
+      "date": "2025-04-24",
+      "id": "2799",
+      "title": "Count Complete Subarrays in an Array",
+      "slug": "count-complete-subarrays-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-complete-subarrays-in-an-array/"
+    },
+    {
+      "date": "2025-04-25",
+      "id": "2845",
+      "title": "Count of Interesting Subarrays",
+      "slug": "count-of-interesting-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-of-interesting-subarrays/"
+    },
+    {
+      "date": "2025-04-26",
+      "id": "2444",
+      "title": "Count Subarrays With Fixed Bounds",
+      "slug": "count-subarrays-with-fixed-bounds",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-with-fixed-bounds/"
+    },
+    {
+      "date": "2025-04-27",
+      "id": "3392",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "slug": "count-subarrays-of-length-three-with-a-condition",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-of-length-three-with-a-condition/"
+    },
+    {
+      "date": "2025-04-28",
+      "id": "2302",
+      "title": "Count Subarrays With Score Less Than K",
+      "slug": "count-subarrays-with-score-less-than-k",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-with-score-less-than-k/"
+    },
+    {
+      "date": "2025-04-29",
+      "id": "2962",
+      "title": "Count Subarrays Where Max Element Appears at Least K Times",
+      "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-where-max-element-appears-at-least-k-times/"
+    },
+    {
+      "date": "2025-04-30",
+      "id": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-numbers-with-even-number-of-digits/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-04-01",
+      "id": "317",
+      "title": "Shortest Distance from All Buildings",
+      "slug": "shortest-distance-from-all-buildings",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-distance-from-all-buildings/"
+    },
+    {
+      "date": "2025-04-08",
+      "id": "323",
+      "title": "Number of Connected Components in an Undirected Graph",
+      "slug": "number-of-connected-components-in-an-undirected-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-connected-components-in-an-undirected-graph/"
+    },
+    {
+      "date": "2025-04-15",
+      "id": "325",
+      "title": "Maximum Size Subarray Sum Equals k",
+      "slug": "maximum-size-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-size-subarray-sum-equals-k/"
+    },
+    {
+      "date": "2025-04-22",
+      "id": "302",
+      "title": "Smallest Rectangle Enclosing Black Pixels",
+      "slug": "smallest-rectangle-enclosing-black-pixels",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/smallest-rectangle-enclosing-black-pixels/"
+    },
+    {
+      "date": "2025-04-29",
+      "id": "311",
+      "title": "Sparse Matrix Multiplication",
+      "slug": "sparse-matrix-multiplication",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/sparse-matrix-multiplication/"
+    }
+  ]
+}

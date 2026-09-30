@@ -1,0 +1,332 @@
+{
+  "year": 2021,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2021-05-01",
+      "id": "745",
+      "title": "Prefix and Suffix Search",
+      "slug": "prefix-and-suffix-search",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/prefix-and-suffix-search/"
+    },
+    {
+      "date": "2021-05-02",
+      "id": "630",
+      "title": "Course Schedule III",
+      "slug": "course-schedule-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule-iii/"
+    },
+    {
+      "date": "2021-05-03",
+      "id": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/running-sum-of-1d-array/"
+    },
+    {
+      "date": "2021-05-04",
+      "id": "665",
+      "title": "Non-decreasing Array",
+      "slug": "non-decreasing-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/non-decreasing-array/"
+    },
+    {
+      "date": "2021-05-05",
+      "id": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-ii/"
+    },
+    {
+      "date": "2021-05-06",
+      "id": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/convert-sorted-list-to-binary-search-tree/"
+    },
+    {
+      "date": "2021-05-07",
+      "id": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-operation-for-two-strings/"
+    },
+    {
+      "date": "2021-05-08",
+      "id": "906",
+      "title": "Super Palindromes",
+      "slug": "super-palindromes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/super-palindromes/"
+    },
+    {
+      "date": "2021-05-09",
+      "id": "1354",
+      "title": "Construct Target Array With Multiple Sums",
+      "slug": "construct-target-array-with-multiple-sums",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/construct-target-array-with-multiple-sums/"
+    },
+    {
+      "date": "2021-05-10",
+      "id": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-primes/"
+    },
+    {
+      "date": "2021-05-11",
+      "id": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-points-you-can-obtain-from-cards/"
+    },
+    {
+      "date": "2021-05-12",
+      "id": "304",
+      "title": "Range Sum Query 2D - Immutable",
+      "slug": "range-sum-query-2d-immutable",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/range-sum-query-2d-immutable/"
+    },
+    {
+      "date": "2021-05-13",
+      "id": "816",
+      "title": "Ambiguous Coordinates",
+      "slug": "ambiguous-coordinates",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ambiguous-coordinates/"
+    },
+    {
+      "date": "2021-05-14",
+      "id": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flatten-binary-tree-to-linked-list/"
+    },
+    {
+      "date": "2021-05-15",
+      "id": "65",
+      "title": "Valid Number",
+      "slug": "valid-number",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/valid-number/"
+    },
+    {
+      "date": "2021-05-16",
+      "id": "968",
+      "title": "Binary Tree Cameras",
+      "slug": "binary-tree-cameras",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-cameras/"
+    },
+    {
+      "date": "2021-05-17",
+      "id": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-string-chain/"
+    },
+    {
+      "date": "2021-05-18",
+      "id": "609",
+      "title": "Find Duplicate File in System",
+      "slug": "find-duplicate-file-in-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-duplicate-file-in-system/"
+    },
+    {
+      "date": "2021-05-19",
+      "id": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-moves-to-equal-array-elements-ii/"
+    },
+    {
+      "date": "2021-05-20",
+      "id": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-level-order-traversal/"
+    },
+    {
+      "date": "2021-05-21",
+      "id": "890",
+      "title": "Find and Replace Pattern",
+      "slug": "find-and-replace-pattern",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-and-replace-pattern/"
+    },
+    {
+      "date": "2021-05-22",
+      "id": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/n-queens/"
+    },
+    {
+      "date": "2021-05-23",
+      "id": "943",
+      "title": "Find the Shortest Superstring",
+      "slug": "find-the-shortest-superstring",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-shortest-superstring/"
+    },
+    {
+      "date": "2021-05-24",
+      "id": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/to-lower-case/"
+    },
+    {
+      "date": "2021-05-25",
+      "id": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      "date": "2021-05-26",
+      "id": "1689",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/"
+    },
+    {
+      "date": "2021-05-27",
+      "id": "318",
+      "title": "Maximum Product of Word Lengths",
+      "slug": "maximum-product-of-word-lengths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-of-word-lengths/"
+    },
+    {
+      "date": "2021-05-28",
+      "id": "1695",
+      "title": "Maximum Erasure Value",
+      "slug": "maximum-erasure-value",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-erasure-value/"
+    },
+    {
+      "date": "2021-05-29",
+      "id": "52",
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/n-queens-ii/"
+    },
+    {
+      "date": "2021-05-30",
+      "id": "164",
+      "title": "Maximum Gap",
+      "slug": "maximum-gap",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-gap/"
+    },
+    {
+      "date": "2021-05-31",
+      "id": "1268",
+      "title": "Search Suggestions System",
+      "slug": "search-suggestions-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-suggestions-system/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-05-01",
+      "id": "323",
+      "title": "Number of Connected Components in an Undirected Graph",
+      "slug": "number-of-connected-components-in-an-undirected-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-connected-components-in-an-undirected-graph/"
+    },
+    {
+      "date": "2021-05-08",
+      "id": "1564",
+      "title": "Put Boxes Into the Warehouse I",
+      "slug": "put-boxes-into-the-warehouse-i",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/put-boxes-into-the-warehouse-i/"
+    },
+    {
+      "date": "2021-05-15",
+      "id": "1197",
+      "title": "Minimum Knight Moves",
+      "slug": "minimum-knight-moves",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-knight-moves/"
+    },
+    {
+      "date": "2021-05-22",
+      "id": "348",
+      "title": "Design Tic-Tac-Toe",
+      "slug": "design-tic-tac-toe",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-tic-tac-toe/"
+    },
+    {
+      "date": "2021-05-29",
+      "id": "1167",
+      "title": "Minimum Cost to Connect Sticks",
+      "slug": "minimum-cost-to-connect-sticks",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-cost-to-connect-sticks/"
+    }
+  ]
+}

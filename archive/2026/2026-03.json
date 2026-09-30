@@ -1,0 +1,332 @@
+{
+  "year": 2026,
+  "month": 3,
+  "challenges": [
+    {
+      "date": "2026-03-01",
+      "id": "1689",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partitioning-into-minimum-number-of-deci-binary-numbers/"
+    },
+    {
+      "date": "2026-03-02",
+      "id": "1536",
+      "title": "Minimum Swaps to Arrange a Binary Grid",
+      "slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-swaps-to-arrange-a-binary-grid/"
+    },
+    {
+      "date": "2026-03-03",
+      "id": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-kth-bit-in-nth-binary-string/"
+    },
+    {
+      "date": "2026-03-04",
+      "id": "1582",
+      "title": "Special Positions in a Binary Matrix",
+      "slug": "special-positions-in-a-binary-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/special-positions-in-a-binary-matrix/"
+    },
+    {
+      "date": "2026-03-05",
+      "id": "1758",
+      "title": "Minimum Changes To Make Alternating Binary String",
+      "slug": "minimum-changes-to-make-alternating-binary-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-changes-to-make-alternating-binary-string/"
+    },
+    {
+      "date": "2026-03-06",
+      "id": "1784",
+      "title": "Check if Binary String Has at Most One Segment of Ones",
+      "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-binary-string-has-at-most-one-segment-of-ones/"
+    },
+    {
+      "date": "2026-03-07",
+      "id": "1888",
+      "title": "Minimum Number of Flips to Make the Binary String Alternating",
+      "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/"
+    },
+    {
+      "date": "2026-03-08",
+      "id": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-unique-binary-string/"
+    },
+    {
+      "date": "2026-03-09",
+      "id": "3129",
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-possible-stable-binary-arrays-i/"
+    },
+    {
+      "date": "2026-03-10",
+      "id": "3130",
+      "title": "Find All Possible Stable Binary Arrays II",
+      "slug": "find-all-possible-stable-binary-arrays-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-possible-stable-binary-arrays-ii/"
+    },
+    {
+      "date": "2026-03-11",
+      "id": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/complement-of-base-10-integer/"
+    },
+    {
+      "date": "2026-03-12",
+      "id": "3600",
+      "title": "Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-spanning-tree-stability-with-upgrades/"
+    },
+    {
+      "date": "2026-03-13",
+      "id": "3296",
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-seconds-to-make-mountain-height-zero/"
+    },
+    {
+      "date": "2026-03-14",
+      "id": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/"
+    },
+    {
+      "date": "2026-03-15",
+      "id": "1622",
+      "title": "Fancy Sequence",
+      "slug": "fancy-sequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/fancy-sequence/"
+    },
+    {
+      "date": "2026-03-16",
+      "id": "1878",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/get-biggest-three-rhombus-sums-in-a-grid/"
+    },
+    {
+      "date": "2026-03-17",
+      "id": "1727",
+      "title": "Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-submatrix-with-rearrangements/"
+    },
+    {
+      "date": "2026-03-18",
+      "id": "3070",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/"
+    },
+    {
+      "date": "2026-03-19",
+      "id": "3212",
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-submatrices-with-equal-frequency-of-x-and-y/"
+    },
+    {
+      "date": "2026-03-20",
+      "id": "3567",
+      "title": "Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-absolute-difference-in-sliding-submatrix/"
+    },
+    {
+      "date": "2026-03-21",
+      "id": "3643",
+      "title": "Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/flip-square-submatrix-vertically/"
+    },
+    {
+      "date": "2026-03-22",
+      "id": "1886",
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/determine-whether-matrix-can-be-obtained-by-rotation/"
+    },
+    {
+      "date": "2026-03-23",
+      "id": "1594",
+      "title": "Maximum Non Negative Product in a Matrix",
+      "slug": "maximum-non-negative-product-in-a-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-non-negative-product-in-a-matrix/"
+    },
+    {
+      "date": "2026-03-24",
+      "id": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-product-matrix/"
+    },
+    {
+      "date": "2026-03-25",
+      "id": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/equal-sum-grid-partition-i/"
+    },
+    {
+      "date": "2026-03-26",
+      "id": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/equal-sum-grid-partition-ii/"
+    },
+    {
+      "date": "2026-03-27",
+      "id": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/matrix-similarity-after-cyclic-shifts/"
+    },
+    {
+      "date": "2026-03-28",
+      "id": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-string-with-lcp/"
+    },
+    {
+      "date": "2026-03-29",
+      "id": "2839",
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-i/"
+    },
+    {
+      "date": "2026-03-30",
+      "id": "2840",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-strings-can-be-made-equal-with-operations-ii/"
+    },
+    {
+      "date": "2026-03-31",
+      "id": "3474",
+      "title": "Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographically-smallest-generated-string/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-03-01",
+      "id": "631",
+      "title": "Design Excel Sum Formula",
+      "slug": "design-excel-sum-formula",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/design-excel-sum-formula/"
+    },
+    {
+      "date": "2026-03-08",
+      "id": "635",
+      "title": "Design Log Storage System",
+      "slug": "design-log-storage-system",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-log-storage-system/"
+    },
+    {
+      "date": "2026-03-15",
+      "id": "642",
+      "title": "Design Search Autocomplete System",
+      "slug": "design-search-autocomplete-system",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/design-search-autocomplete-system/"
+    },
+    {
+      "date": "2026-03-22",
+      "id": "1756",
+      "title": "Design Most Recently Used Queue",
+      "slug": "design-most-recently-used-queue",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-most-recently-used-queue/"
+    },
+    {
+      "date": "2026-03-29",
+      "id": "379",
+      "title": "Design Phone Directory",
+      "slug": "design-phone-directory",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-phone-directory/"
+    }
+  ]
+}

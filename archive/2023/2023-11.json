@@ -1,0 +1,323 @@
+{
+  "year": 2023,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2023-11-01",
+      "id": "501",
+      "title": "Find Mode in Binary Search Tree",
+      "slug": "find-mode-in-binary-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-mode-in-binary-search-tree/"
+    },
+    {
+      "date": "2023-11-02",
+      "id": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-nodes-equal-to-average-of-subtree/"
+    },
+    {
+      "date": "2023-11-03",
+      "id": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/build-an-array-with-stack-operations/"
+    },
+    {
+      "date": "2023-11-04",
+      "id": "1503",
+      "title": "Last Moment Before All Ants Fall Out of a Plank",
+      "slug": "last-moment-before-all-ants-fall-out-of-a-plank",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/last-moment-before-all-ants-fall-out-of-a-plank/"
+    },
+    {
+      "date": "2023-11-05",
+      "id": "1535",
+      "title": "Find the Winner of an Array Game",
+      "slug": "find-the-winner-of-an-array-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-winner-of-an-array-game/"
+    },
+    {
+      "date": "2023-11-06",
+      "id": "1845",
+      "title": "Seat Reservation Manager",
+      "slug": "seat-reservation-manager",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/seat-reservation-manager/"
+    },
+    {
+      "date": "2023-11-07",
+      "id": "1921",
+      "title": "Eliminate Maximum Number of Monsters",
+      "slug": "eliminate-maximum-number-of-monsters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/eliminate-maximum-number-of-monsters/"
+    },
+    {
+      "date": "2023-11-08",
+      "id": "2849",
+      "title": "Determine if a Cell Is Reachable at a Given Time",
+      "slug": "determine-if-a-cell-is-reachable-at-a-given-time",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/determine-if-a-cell-is-reachable-at-a-given-time/"
+    },
+    {
+      "date": "2023-11-09",
+      "id": "1759",
+      "title": "Count Number of Homogenous Substrings",
+      "slug": "count-number-of-homogenous-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-homogenous-substrings/"
+    },
+    {
+      "date": "2023-11-10",
+      "id": "1743",
+      "title": "Restore the Array From Adjacent Pairs",
+      "slug": "restore-the-array-from-adjacent-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/restore-the-array-from-adjacent-pairs/"
+    },
+    {
+      "date": "2023-11-11",
+      "id": "2642",
+      "title": "Design Graph With Shortest Path Calculator",
+      "slug": "design-graph-with-shortest-path-calculator",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/design-graph-with-shortest-path-calculator/"
+    },
+    {
+      "date": "2023-11-12",
+      "id": "815",
+      "title": "Bus Routes",
+      "slug": "bus-routes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/bus-routes/"
+    },
+    {
+      "date": "2023-11-13",
+      "id": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-vowels-in-a-string/"
+    },
+    {
+      "date": "2023-11-14",
+      "id": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-length-3-palindromic-subsequences/"
+    },
+    {
+      "date": "2023-11-15",
+      "id": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-element-after-decreasing-and-rearranging/"
+    },
+    {
+      "date": "2023-11-16",
+      "id": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-unique-binary-string/"
+    },
+    {
+      "date": "2023-11-17",
+      "id": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-maximum-pair-sum-in-array/"
+    },
+    {
+      "date": "2023-11-18",
+      "id": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/frequency-of-the-most-frequent-element/"
+    },
+    {
+      "date": "2023-11-19",
+      "id": "1887",
+      "title": "Reduction Operations to Make the Array Elements Equal",
+      "slug": "reduction-operations-to-make-the-array-elements-equal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reduction-operations-to-make-the-array-elements-equal/"
+    },
+    {
+      "date": "2023-11-20",
+      "id": "2391",
+      "title": "Minimum Amount of Time to Collect Garbage",
+      "slug": "minimum-amount-of-time-to-collect-garbage",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-amount-of-time-to-collect-garbage/"
+    },
+    {
+      "date": "2023-11-21",
+      "id": "1814",
+      "title": "Count Nice Pairs in an Array",
+      "slug": "count-nice-pairs-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-nice-pairs-in-an-array/"
+    },
+    {
+      "date": "2023-11-22",
+      "id": "1424",
+      "title": "Diagonal Traverse II",
+      "slug": "diagonal-traverse-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/diagonal-traverse-ii/"
+    },
+    {
+      "date": "2023-11-23",
+      "id": "1630",
+      "title": "Arithmetic Subarrays",
+      "slug": "arithmetic-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-subarrays/"
+    },
+    {
+      "date": "2023-11-24",
+      "id": "1561",
+      "title": "Maximum Number of Coins You Can Get",
+      "slug": "maximum-number-of-coins-you-can-get",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-coins-you-can-get/"
+    },
+    {
+      "date": "2023-11-25",
+      "id": "1685",
+      "title": "Sum of Absolute Differences in a Sorted Array",
+      "slug": "sum-of-absolute-differences-in-a-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-absolute-differences-in-a-sorted-array/"
+    },
+    {
+      "date": "2023-11-26",
+      "id": "1727",
+      "title": "Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-submatrix-with-rearrangements/"
+    },
+    {
+      "date": "2023-11-27",
+      "id": "935",
+      "title": "Knight Dialer",
+      "slug": "knight-dialer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/knight-dialer/"
+    },
+    {
+      "date": "2023-11-28",
+      "id": "2147",
+      "title": "Number of Ways to Divide a Long Corridor",
+      "slug": "number-of-ways-to-divide-a-long-corridor",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-divide-a-long-corridor/"
+    },
+    {
+      "date": "2023-11-29",
+      "id": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-1-bits/"
+    },
+    {
+      "date": "2023-11-30",
+      "id": "1611",
+      "title": "Minimum One Bit Operations to Make Integers Zero",
+      "slug": "minimum-one-bit-operations-to-make-integers-zero",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-one-bit-operations-to-make-integers-zero/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-11-01",
+      "id": "1057",
+      "title": "Campus Bikes",
+      "slug": "campus-bikes",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/campus-bikes/"
+    },
+    {
+      "date": "2023-11-08",
+      "id": "573",
+      "title": "Squirrel Simulation",
+      "slug": "squirrel-simulation",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/squirrel-simulation/"
+    },
+    {
+      "date": "2023-11-15",
+      "id": "346",
+      "title": "Moving Average from Data Stream",
+      "slug": "moving-average-from-data-stream",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/moving-average-from-data-stream/"
+    },
+    {
+      "date": "2023-11-22",
+      "id": "624",
+      "title": "Maximum Distance in Arrays",
+      "slug": "maximum-distance-in-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-distance-in-arrays/"
+    },
+    {
+      "date": "2023-11-29",
+      "id": "487",
+      "title": "Max Consecutive Ones II",
+      "slug": "max-consecutive-ones-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/max-consecutive-ones-ii/"
+    }
+  ]
+}

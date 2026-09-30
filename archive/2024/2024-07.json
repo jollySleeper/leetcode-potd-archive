@@ -1,0 +1,332 @@
+{
+  "year": 2024,
+  "month": 7,
+  "challenges": [
+    {
+      "date": "2024-07-01",
+      "id": "1550",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/three-consecutive-odds/"
+    },
+    {
+      "date": "2024-07-02",
+      "id": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/intersection-of-two-arrays-ii/"
+    },
+    {
+      "date": "2024-07-03",
+      "id": "1509",
+      "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+      "slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/"
+    },
+    {
+      "date": "2024-07-04",
+      "id": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "slug": "merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/merge-nodes-in-between-zeros/"
+    },
+    {
+      "date": "2024-07-05",
+      "id": "2058",
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+    },
+    {
+      "date": "2024-07-06",
+      "id": "2582",
+      "title": "Pass the Pillow",
+      "slug": "pass-the-pillow",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/pass-the-pillow/"
+    },
+    {
+      "date": "2024-07-07",
+      "id": "1518",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/water-bottles/"
+    },
+    {
+      "date": "2024-07-08",
+      "id": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-winner-of-the-circular-game/"
+    },
+    {
+      "date": "2024-07-09",
+      "id": "1701",
+      "title": "Average Waiting Time",
+      "slug": "average-waiting-time",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/average-waiting-time/"
+    },
+    {
+      "date": "2024-07-10",
+      "id": "1598",
+      "title": "Crawler Log Folder",
+      "slug": "crawler-log-folder",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/crawler-log-folder/"
+    },
+    {
+      "date": "2024-07-11",
+      "id": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/"
+    },
+    {
+      "date": "2024-07-12",
+      "id": "1717",
+      "title": "Maximum Score From Removing Substrings",
+      "slug": "maximum-score-from-removing-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-from-removing-substrings/"
+    },
+    {
+      "date": "2024-07-13",
+      "id": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/robot-collisions/"
+    },
+    {
+      "date": "2024-07-14",
+      "id": "726",
+      "title": "Number of Atoms",
+      "slug": "number-of-atoms",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-atoms/"
+    },
+    {
+      "date": "2024-07-15",
+      "id": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/create-binary-tree-from-descriptions/"
+    },
+    {
+      "date": "2024-07-16",
+      "id": "2096",
+      "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+      "slug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/step-by-step-directions-from-a-binary-tree-node-to-another/"
+    },
+    {
+      "date": "2024-07-17",
+      "id": "1110",
+      "title": "Delete Nodes And Return Forest",
+      "slug": "delete-nodes-and-return-forest",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-nodes-and-return-forest/"
+    },
+    {
+      "date": "2024-07-18",
+      "id": "1530",
+      "title": "Number of Good Leaf Nodes Pairs",
+      "slug": "number-of-good-leaf-nodes-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-good-leaf-nodes-pairs/"
+    },
+    {
+      "date": "2024-07-19",
+      "id": "1380",
+      "title": "Lucky Numbers in a Matrix",
+      "slug": "lucky-numbers-in-a-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/lucky-numbers-in-a-matrix/"
+    },
+    {
+      "date": "2024-07-20",
+      "id": "1605",
+      "title": "Find Valid Matrix Given Row and Column Sums",
+      "slug": "find-valid-matrix-given-row-and-column-sums",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-valid-matrix-given-row-and-column-sums/"
+    },
+    {
+      "date": "2024-07-21",
+      "id": "2392",
+      "title": "Build a Matrix With Conditions",
+      "slug": "build-a-matrix-with-conditions",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/build-a-matrix-with-conditions/"
+    },
+    {
+      "date": "2024-07-22",
+      "id": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-the-people/"
+    },
+    {
+      "date": "2024-07-23",
+      "id": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-array-by-increasing-frequency/"
+    },
+    {
+      "date": "2024-07-24",
+      "id": "2191",
+      "title": "Sort the Jumbled Numbers",
+      "slug": "sort-the-jumbled-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-the-jumbled-numbers/"
+    },
+    {
+      "date": "2024-07-25",
+      "id": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-an-array/"
+    },
+    {
+      "date": "2024-07-26",
+      "id": "1334",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
+    },
+    {
+      "date": "2024-07-27",
+      "id": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-convert-string-i/"
+    },
+    {
+      "date": "2024-07-28",
+      "id": "2045",
+      "title": "Second Minimum Time to Reach Destination",
+      "slug": "second-minimum-time-to-reach-destination",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/second-minimum-time-to-reach-destination/"
+    },
+    {
+      "date": "2024-07-29",
+      "id": "1395",
+      "title": "Count Number of Teams",
+      "slug": "count-number-of-teams",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-teams/"
+    },
+    {
+      "date": "2024-07-30",
+      "id": "1653",
+      "title": "Minimum Deletions to Make String Balanced",
+      "slug": "minimum-deletions-to-make-string-balanced",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-deletions-to-make-string-balanced/"
+    },
+    {
+      "date": "2024-07-31",
+      "id": "1105",
+      "title": "Filling Bookcase Shelves",
+      "slug": "filling-bookcase-shelves",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/filling-bookcase-shelves/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-07-01",
+      "id": "1101",
+      "title": "The Earliest Moment When Everyone Become Friends",
+      "slug": "the-earliest-moment-when-everyone-become-friends",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-earliest-moment-when-everyone-become-friends/"
+    },
+    {
+      "date": "2024-07-08",
+      "id": "1836",
+      "title": "Remove Duplicates From an Unsorted Linked List",
+      "slug": "remove-duplicates-from-an-unsorted-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/remove-duplicates-from-an-unsorted-linked-list/"
+    },
+    {
+      "date": "2024-07-15",
+      "id": "1740",
+      "title": "Find Distance in a Binary Tree",
+      "slug": "find-distance-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-distance-in-a-binary-tree/"
+    },
+    {
+      "date": "2024-07-22",
+      "id": "2093",
+      "title": "Minimum Cost to Reach City With Discounts",
+      "slug": "minimum-cost-to-reach-city-with-discounts",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-cost-to-reach-city-with-discounts/"
+    },
+    {
+      "date": "2024-07-29",
+      "id": "1230",
+      "title": "Toss Strange Coins",
+      "slug": "toss-strange-coins",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/toss-strange-coins/"
+    }
+  ]
+}

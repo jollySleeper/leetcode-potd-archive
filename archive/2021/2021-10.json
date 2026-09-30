@@ -1,0 +1,332 @@
+{
+  "year": 2021,
+  "month": 10,
+  "challenges": [
+    {
+      "date": "2021-10-01",
+      "id": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-common-subsequence/"
+    },
+    {
+      "date": "2021-10-02",
+      "id": "174",
+      "title": "Dungeon Game",
+      "slug": "dungeon-game",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/dungeon-game/"
+    },
+    {
+      "date": "2021-10-03",
+      "id": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game/"
+    },
+    {
+      "date": "2021-10-04",
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/island-perimeter/"
+    },
+    {
+      "date": "2021-10-05",
+      "id": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/climbing-stairs/"
+    },
+    {
+      "date": "2021-10-06",
+      "id": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-duplicates-in-an-array/"
+    },
+    {
+      "date": "2021-10-07",
+      "id": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/word-search/"
+    },
+    {
+      "date": "2021-10-08",
+      "id": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/implement-trie-prefix-tree/"
+    },
+    {
+      "date": "2021-10-09",
+      "id": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-search-ii/"
+    },
+    {
+      "date": "2021-10-10",
+      "id": "201",
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bitwise-and-of-numbers-range/"
+    },
+    {
+      "date": "2021-10-11",
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/diameter-of-binary-tree/"
+    },
+    {
+      "date": "2021-10-12",
+      "id": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/guess-number-higher-or-lower/"
+    },
+    {
+      "date": "2021-10-13",
+      "id": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-search-tree-from-preorder-traversal/"
+    },
+    {
+      "date": "2021-10-14",
+      "id": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/perfect-squares/"
+    },
+    {
+      "date": "2021-10-15",
+      "id": "309",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    },
+    {
+      "date": "2021-10-16",
+      "id": "123",
+      "title": "Best Time to Buy and Sell Stock III",
+      "slug": "best-time-to-buy-and-sell-stock-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-iii/"
+    },
+    {
+      "date": "2021-10-17",
+      "id": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-sum-iii/"
+    },
+    {
+      "date": "2021-10-18",
+      "id": "993",
+      "title": "Cousins in Binary Tree",
+      "slug": "cousins-in-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/cousins-in-binary-tree/"
+    },
+    {
+      "date": "2021-10-19",
+      "id": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/next-greater-element-i/"
+    },
+    {
+      "date": "2021-10-20",
+      "id": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-words-in-a-string/"
+    },
+    {
+      "date": "2021-10-21",
+      "id": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-delete-getrandom-o1/"
+    },
+    {
+      "date": "2021-10-22",
+      "id": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-characters-by-frequency/"
+    },
+    {
+      "date": "2021-10-23",
+      "id": "154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-in-rotated-sorted-array-ii/"
+    },
+    {
+      "date": "2021-10-24",
+      "id": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-complete-tree-nodes/"
+    },
+    {
+      "date": "2021-10-25",
+      "id": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/min-stack/"
+    },
+    {
+      "date": "2021-10-26",
+      "id": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/invert-binary-tree/"
+    },
+    {
+      "date": "2021-10-27",
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-colors/"
+    },
+    {
+      "date": "2021-10-28",
+      "id": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/3sum/"
+    },
+    {
+      "date": "2021-10-29",
+      "id": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotting-oranges/"
+    },
+    {
+      "date": "2021-10-30",
+      "id": "1044",
+      "title": "Longest Duplicate Substring",
+      "slug": "longest-duplicate-substring",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-duplicate-substring/"
+    },
+    {
+      "date": "2021-10-31",
+      "id": "430",
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "slug": "flatten-a-multilevel-doubly-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flatten-a-multilevel-doubly-linked-list/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-10-01",
+      "id": "1428",
+      "title": "Leftmost Column with at Least a One",
+      "slug": "leftmost-column-with-at-least-a-one",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/leftmost-column-with-at-least-a-one/"
+    },
+    {
+      "date": "2021-10-08",
+      "id": "1216",
+      "title": "Valid Palindrome III",
+      "slug": "valid-palindrome-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/valid-palindrome-iii/"
+    },
+    {
+      "date": "2021-10-15",
+      "id": "302",
+      "title": "Smallest Rectangle Enclosing Black Pixels",
+      "slug": "smallest-rectangle-enclosing-black-pixels",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/smallest-rectangle-enclosing-black-pixels/"
+    },
+    {
+      "date": "2021-10-22",
+      "id": "1066",
+      "title": "Campus Bikes II",
+      "slug": "campus-bikes-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/campus-bikes-ii/"
+    },
+    {
+      "date": "2021-10-29",
+      "id": "1762",
+      "title": "Buildings With an Ocean View",
+      "slug": "buildings-with-an-ocean-view",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/buildings-with-an-ocean-view/"
+    }
+  ]
+}

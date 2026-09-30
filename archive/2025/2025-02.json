@@ -1,0 +1,296 @@
+{
+  "year": 2025,
+  "month": 2,
+  "challenges": [
+    {
+      "date": "2025-02-01",
+      "id": "3151",
+      "title": "Special Array I",
+      "slug": "special-array-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/special-array-i/"
+    },
+    {
+      "date": "2025-02-02",
+      "id": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-array-is-sorted-and-rotated/"
+    },
+    {
+      "date": "2025-02-03",
+      "id": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/"
+    },
+    {
+      "date": "2025-02-04",
+      "id": "1800",
+      "title": "Maximum Ascending Subarray Sum",
+      "slug": "maximum-ascending-subarray-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-ascending-subarray-sum/"
+    },
+    {
+      "date": "2025-02-05",
+      "id": "1790",
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "slug": "check-if-one-string-swap-can-make-strings-equal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-one-string-swap-can-make-strings-equal/"
+    },
+    {
+      "date": "2025-02-06",
+      "id": "1726",
+      "title": "Tuple with Same Product",
+      "slug": "tuple-with-same-product",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/tuple-with-same-product/"
+    },
+    {
+      "date": "2025-02-07",
+      "id": "3160",
+      "title": "Find the Number of Distinct Colors Among the Balls",
+      "slug": "find-the-number-of-distinct-colors-among-the-balls",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-number-of-distinct-colors-among-the-balls/"
+    },
+    {
+      "date": "2025-02-08",
+      "id": "2349",
+      "title": "Design a Number Container System",
+      "slug": "design-a-number-container-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-a-number-container-system/"
+    },
+    {
+      "date": "2025-02-09",
+      "id": "2364",
+      "title": "Count Number of Bad Pairs",
+      "slug": "count-number-of-bad-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-bad-pairs/"
+    },
+    {
+      "date": "2025-02-10",
+      "id": "3174",
+      "title": "Clear Digits",
+      "slug": "clear-digits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/clear-digits/"
+    },
+    {
+      "date": "2025-02-11",
+      "id": "1910",
+      "title": "Remove All Occurrences of a Substring",
+      "slug": "remove-all-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-all-occurrences-of-a-substring/"
+    },
+    {
+      "date": "2025-02-12",
+      "id": "2342",
+      "title": "Max Sum of a Pair With Equal Sum of Digits",
+      "slug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-sum-of-a-pair-with-equal-sum-of-digits/"
+    },
+    {
+      "date": "2025-02-13",
+      "id": "3066",
+      "title": "Minimum Operations to Exceed Threshold Value II",
+      "slug": "minimum-operations-to-exceed-threshold-value-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-exceed-threshold-value-ii/"
+    },
+    {
+      "date": "2025-02-14",
+      "id": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/product-of-the-last-k-numbers/"
+    },
+    {
+      "date": "2025-02-15",
+      "id": "2698",
+      "title": "Find the Punishment Number of an Integer",
+      "slug": "find-the-punishment-number-of-an-integer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-punishment-number-of-an-integer/"
+    },
+    {
+      "date": "2025-02-16",
+      "id": "1718",
+      "title": "Construct the Lexicographically Largest Valid Sequence",
+      "slug": "construct-the-lexicographically-largest-valid-sequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-the-lexicographically-largest-valid-sequence/"
+    },
+    {
+      "date": "2025-02-17",
+      "id": "1079",
+      "title": "Letter Tile Possibilities",
+      "slug": "letter-tile-possibilities",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/letter-tile-possibilities/"
+    },
+    {
+      "date": "2025-02-18",
+      "id": "2375",
+      "title": "Construct Smallest Number From DI String",
+      "slug": "construct-smallest-number-from-di-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-smallest-number-from-di-string/"
+    },
+    {
+      "date": "2025-02-19",
+      "id": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/"
+    },
+    {
+      "date": "2025-02-20",
+      "id": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-unique-binary-string/"
+    },
+    {
+      "date": "2025-02-21",
+      "id": "1261",
+      "title": "Find Elements in a Contaminated Binary Tree",
+      "slug": "find-elements-in-a-contaminated-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-elements-in-a-contaminated-binary-tree/"
+    },
+    {
+      "date": "2025-02-22",
+      "id": "1028",
+      "title": "Recover a Tree From Preorder Traversal",
+      "slug": "recover-a-tree-from-preorder-traversal",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/recover-a-tree-from-preorder-traversal/"
+    },
+    {
+      "date": "2025-02-23",
+      "id": "889",
+      "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-tree-from-preorder-and-postorder-traversal/"
+    },
+    {
+      "date": "2025-02-24",
+      "id": "2467",
+      "title": "Most Profitable Path in a Tree",
+      "slug": "most-profitable-path-in-a-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/most-profitable-path-in-a-tree/"
+    },
+    {
+      "date": "2025-02-25",
+      "id": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-sub-arrays-with-odd-sum/"
+    },
+    {
+      "date": "2025-02-26",
+      "id": "1749",
+      "title": "Maximum Absolute Sum of Any Subarray",
+      "slug": "maximum-absolute-sum-of-any-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-absolute-sum-of-any-subarray/"
+    },
+    {
+      "date": "2025-02-27",
+      "id": "873",
+      "title": "Length of Longest Fibonacci Subsequence",
+      "slug": "length-of-longest-fibonacci-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/length-of-longest-fibonacci-subsequence/"
+    },
+    {
+      "date": "2025-02-28",
+      "id": "1092",
+      "title": "Shortest Common Supersequence ",
+      "slug": "shortest-common-supersequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-common-supersequence/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-02-01",
+      "id": "1852",
+      "title": "Distinct Numbers in Each Subarray",
+      "slug": "distinct-numbers-in-each-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/distinct-numbers-in-each-subarray/"
+    },
+    {
+      "date": "2025-02-08",
+      "id": "2599",
+      "title": "Make the Prefix Sum Non-negative",
+      "slug": "make-the-prefix-sum-non-negative",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/make-the-prefix-sum-non-negative/"
+    },
+    {
+      "date": "2025-02-15",
+      "id": "1756",
+      "title": "Design Most Recently Used Queue",
+      "slug": "design-most-recently-used-queue",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-most-recently-used-queue/"
+    },
+    {
+      "date": "2025-02-22",
+      "id": "487",
+      "title": "Max Consecutive Ones II",
+      "slug": "max-consecutive-ones-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/max-consecutive-ones-ii/"
+    }
+  ]
+}

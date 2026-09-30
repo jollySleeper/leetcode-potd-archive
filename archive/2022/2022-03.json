@@ -1,0 +1,332 @@
+{
+  "year": 2022,
+  "month": 3,
+  "challenges": [
+    {
+      "date": "2022-03-01",
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/counting-bits/"
+    },
+    {
+      "date": "2022-03-02",
+      "id": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/is-subsequence/"
+    },
+    {
+      "date": "2022-03-03",
+      "id": "413",
+      "title": "Arithmetic Slices",
+      "slug": "arithmetic-slices",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-slices/"
+    },
+    {
+      "date": "2022-03-04",
+      "id": "799",
+      "title": "Champagne Tower",
+      "slug": "champagne-tower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/champagne-tower/"
+    },
+    {
+      "date": "2022-03-05",
+      "id": "740",
+      "title": "Delete and Earn",
+      "slug": "delete-and-earn",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-and-earn/"
+    },
+    {
+      "date": "2022-03-06",
+      "id": "1359",
+      "title": "Count All Valid Pickup and Delivery Options",
+      "slug": "count-all-valid-pickup-and-delivery-options",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-all-valid-pickup-and-delivery-options/"
+    },
+    {
+      "date": "2022-03-07",
+      "id": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/merge-two-sorted-lists/"
+    },
+    {
+      "date": "2022-03-08",
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle/"
+    },
+    {
+      "date": "2022-03-09",
+      "id": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicates-from-sorted-list-ii/"
+    },
+    {
+      "date": "2022-03-10",
+      "id": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-two-numbers/"
+    },
+    {
+      "date": "2022-03-11",
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-list/"
+    },
+    {
+      "date": "2022-03-12",
+      "id": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/copy-list-with-random-pointer/"
+    },
+    {
+      "date": "2022-03-13",
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-parentheses/"
+    },
+    {
+      "date": "2022-03-14",
+      "id": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/simplify-path/"
+    },
+    {
+      "date": "2022-03-15",
+      "id": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-remove-to-make-valid-parentheses/"
+    },
+    {
+      "date": "2022-03-16",
+      "id": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-stack-sequences/"
+    },
+    {
+      "date": "2022-03-17",
+      "id": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/score-of-parentheses/"
+    },
+    {
+      "date": "2022-03-18",
+      "id": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicate-letters/"
+    },
+    {
+      "date": "2022-03-19",
+      "id": "895",
+      "title": "Maximum Frequency Stack",
+      "slug": "maximum-frequency-stack",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-frequency-stack/"
+    },
+    {
+      "date": "2022-03-20",
+      "id": "1007",
+      "title": "Minimum Domino Rotations For Equal Row",
+      "slug": "minimum-domino-rotations-for-equal-row",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-domino-rotations-for-equal-row/"
+    },
+    {
+      "date": "2022-03-21",
+      "id": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-labels/"
+    },
+    {
+      "date": "2022-03-22",
+      "id": "1663",
+      "title": "Smallest String With A Given Numeric Value",
+      "slug": "smallest-string-with-a-given-numeric-value",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-string-with-a-given-numeric-value/"
+    },
+    {
+      "date": "2022-03-23",
+      "id": "991",
+      "title": "Broken Calculator",
+      "slug": "broken-calculator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/broken-calculator/"
+    },
+    {
+      "date": "2022-03-24",
+      "id": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/boats-to-save-people/"
+    },
+    {
+      "date": "2022-03-25",
+      "id": "1029",
+      "title": "Two City Scheduling",
+      "slug": "two-city-scheduling",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/two-city-scheduling/"
+    },
+    {
+      "date": "2022-03-26",
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search/"
+    },
+    {
+      "date": "2022-03-27",
+      "id": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/the-k-weakest-rows-in-a-matrix/"
+    },
+    {
+      "date": "2022-03-28",
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-rotated-sorted-array-ii/"
+    },
+    {
+      "date": "2022-03-29",
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-duplicate-number/"
+    },
+    {
+      "date": "2022-03-30",
+      "id": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-a-2d-matrix/"
+    },
+    {
+      "date": "2022-03-31",
+      "id": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/split-array-largest-sum/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-03-01",
+      "id": "1490",
+      "title": "Clone N-ary Tree",
+      "slug": "clone-n-ary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/clone-n-ary-tree/"
+    },
+    {
+      "date": "2022-03-08",
+      "id": "247",
+      "title": "Strobogrammatic Number II",
+      "slug": "strobogrammatic-number-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/strobogrammatic-number-ii/"
+    },
+    {
+      "date": "2022-03-15",
+      "id": "1057",
+      "title": "Campus Bikes",
+      "slug": "campus-bikes",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/campus-bikes/"
+    },
+    {
+      "date": "2022-03-22",
+      "id": "311",
+      "title": "Sparse Matrix Multiplication",
+      "slug": "sparse-matrix-multiplication",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/sparse-matrix-multiplication/"
+    },
+    {
+      "date": "2022-03-29",
+      "id": "1102",
+      "title": "Path With Maximum Minimum Value",
+      "slug": "path-with-maximum-minimum-value",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/path-with-maximum-minimum-value/"
+    }
+  ]
+}

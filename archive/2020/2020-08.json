@@ -1,0 +1,332 @@
+{
+  "year": 2020,
+  "month": 8,
+  "challenges": [
+    {
+      "date": "2020-08-01",
+      "id": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/detect-capital/"
+    },
+    {
+      "date": "2020-08-02",
+      "id": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/design-hashset/"
+    },
+    {
+      "date": "2020-08-03",
+      "id": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-palindrome/"
+    },
+    {
+      "date": "2020-08-04",
+      "id": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-four/"
+    },
+    {
+      "date": "2020-08-05",
+      "id": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+      "date": "2020-08-06",
+      "id": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-duplicates-in-an-array/"
+    },
+    {
+      "date": "2020-08-07",
+      "id": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/vertical-order-traversal-of-a-binary-tree/"
+    },
+    {
+      "date": "2020-08-08",
+      "id": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-sum-iii/"
+    },
+    {
+      "date": "2020-08-09",
+      "id": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotting-oranges/"
+    },
+    {
+      "date": "2020-08-10",
+      "id": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/excel-sheet-column-number/"
+    },
+    {
+      "date": "2020-08-11",
+      "id": "274",
+      "title": "H-Index",
+      "slug": "h-index",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/h-index/"
+    },
+    {
+      "date": "2020-08-12",
+      "id": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/pascals-triangle-ii/"
+    },
+    {
+      "date": "2020-08-13",
+      "id": "1286",
+      "title": "Iterator for Combination",
+      "slug": "iterator-for-combination",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/iterator-for-combination/"
+    },
+    {
+      "date": "2020-08-14",
+      "id": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindrome/"
+    },
+    {
+      "date": "2020-08-15",
+      "id": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/non-overlapping-intervals/"
+    },
+    {
+      "date": "2020-08-16",
+      "id": "123",
+      "title": "Best Time to Buy and Sell Stock III",
+      "slug": "best-time-to-buy-and-sell-stock-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-iii/"
+    },
+    {
+      "date": "2020-08-17",
+      "id": "1103",
+      "title": "Distribute Candies to People",
+      "slug": "distribute-candies-to-people",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/distribute-candies-to-people/"
+    },
+    {
+      "date": "2020-08-18",
+      "id": "967",
+      "title": "Numbers With Same Consecutive Differences",
+      "slug": "numbers-with-same-consecutive-differences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/numbers-with-same-consecutive-differences/"
+    },
+    {
+      "date": "2020-08-19",
+      "id": "824",
+      "title": "Goat Latin",
+      "slug": "goat-latin",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/goat-latin/"
+    },
+    {
+      "date": "2020-08-20",
+      "id": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reorder-list/"
+    },
+    {
+      "date": "2020-08-21",
+      "id": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-array-by-parity/"
+    },
+    {
+      "date": "2020-08-22",
+      "id": "497",
+      "title": "Random Point in Non-overlapping Rectangles",
+      "slug": "random-point-in-non-overlapping-rectangles",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/random-point-in-non-overlapping-rectangles/"
+    },
+    {
+      "date": "2020-08-23",
+      "id": "1032",
+      "title": "Stream of Characters",
+      "slug": "stream-of-characters",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stream-of-characters/"
+    },
+    {
+      "date": "2020-08-24",
+      "id": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-left-leaves/"
+    },
+    {
+      "date": "2020-08-25",
+      "id": "983",
+      "title": "Minimum Cost For Tickets",
+      "slug": "minimum-cost-for-tickets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-for-tickets/"
+    },
+    {
+      "date": "2020-08-26",
+      "id": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/fizz-buzz/"
+    },
+    {
+      "date": "2020-08-27",
+      "id": "436",
+      "title": "Find Right Interval",
+      "slug": "find-right-interval",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-right-interval/"
+    },
+    {
+      "date": "2020-08-28",
+      "id": "470",
+      "title": "Implement Rand10() Using Rand7()",
+      "slug": "implement-rand10-using-rand7",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/implement-rand10-using-rand7/"
+    },
+    {
+      "date": "2020-08-29",
+      "id": "969",
+      "title": "Pancake Sorting",
+      "slug": "pancake-sorting",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pancake-sorting/"
+    },
+    {
+      "date": "2020-08-30",
+      "id": "952",
+      "title": "Largest Component Size by Common Factor",
+      "slug": "largest-component-size-by-common-factor",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-component-size-by-common-factor/"
+    },
+    {
+      "date": "2020-08-31",
+      "id": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-node-in-a-bst/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2020-08-01",
+      "id": "359",
+      "title": "Logger Rate Limiter",
+      "slug": "logger-rate-limiter",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/logger-rate-limiter/"
+    },
+    {
+      "date": "2020-08-08",
+      "id": "270",
+      "title": "Closest Binary Search Tree Value",
+      "slug": "closest-binary-search-tree-value",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/closest-binary-search-tree-value/"
+    },
+    {
+      "date": "2020-08-15",
+      "id": "484",
+      "title": "Find Permutation",
+      "slug": "find-permutation",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-permutation/"
+    },
+    {
+      "date": "2020-08-22",
+      "id": "490",
+      "title": "The Maze",
+      "slug": "the-maze",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze/"
+    },
+    {
+      "date": "2020-08-29",
+      "id": "489",
+      "title": "Robot Room Cleaner",
+      "slug": "robot-room-cleaner",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/robot-room-cleaner/"
+    }
+  ]
+}

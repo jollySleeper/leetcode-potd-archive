@@ -1,0 +1,323 @@
+{
+  "year": 2025,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2025-06-01",
+      "id": "2929",
+      "title": "Distribute Candies Among Children II",
+      "slug": "distribute-candies-among-children-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/distribute-candies-among-children-ii/"
+    },
+    {
+      "date": "2025-06-02",
+      "id": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/candy/"
+    },
+    {
+      "date": "2025-06-03",
+      "id": "1298",
+      "title": "Maximum Candies You Can Get from Boxes",
+      "slug": "maximum-candies-you-can-get-from-boxes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-candies-you-can-get-from-boxes/"
+    },
+    {
+      "date": "2025-06-04",
+      "id": "3403",
+      "title": "Find the Lexicographically Largest String From the Box I",
+      "slug": "find-the-lexicographically-largest-string-from-the-box-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-lexicographically-largest-string-from-the-box-i/"
+    },
+    {
+      "date": "2025-06-05",
+      "id": "1061",
+      "title": "Lexicographically Smallest Equivalent String",
+      "slug": "lexicographically-smallest-equivalent-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographically-smallest-equivalent-string/"
+    },
+    {
+      "date": "2025-06-06",
+      "id": "2434",
+      "title": "Using a Robot to Print the Lexicographically Smallest String",
+      "slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/using-a-robot-to-print-the-lexicographically-smallest-string/"
+    },
+    {
+      "date": "2025-06-07",
+      "id": "3170",
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "slug": "lexicographically-minimum-string-after-removing-stars",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographically-minimum-string-after-removing-stars/"
+    },
+    {
+      "date": "2025-06-08",
+      "id": "386",
+      "title": "Lexicographical Numbers",
+      "slug": "lexicographical-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographical-numbers/"
+    },
+    {
+      "date": "2025-06-09",
+      "id": "440",
+      "title": "K-th Smallest in Lexicographical Order",
+      "slug": "k-th-smallest-in-lexicographical-order",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/k-th-smallest-in-lexicographical-order/"
+    },
+    {
+      "date": "2025-06-10",
+      "id": "3442",
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "slug": "maximum-difference-between-even-and-odd-frequency-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-even-and-odd-frequency-i/"
+    },
+    {
+      "date": "2025-06-11",
+      "id": "3445",
+      "title": "Maximum Difference Between Even and Odd Frequency II",
+      "slug": "maximum-difference-between-even-and-odd-frequency-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-even-and-odd-frequency-ii/"
+    },
+    {
+      "date": "2025-06-12",
+      "id": "3423",
+      "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+      "slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/"
+    },
+    {
+      "date": "2025-06-13",
+      "id": "2616",
+      "title": "Minimize the Maximum Difference of Pairs",
+      "slug": "minimize-the-maximum-difference-of-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-the-maximum-difference-of-pairs/"
+    },
+    {
+      "date": "2025-06-14",
+      "id": "2566",
+      "title": "Maximum Difference by Remapping a Digit",
+      "slug": "maximum-difference-by-remapping-a-digit",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-by-remapping-a-digit/"
+    },
+    {
+      "date": "2025-06-15",
+      "id": "1432",
+      "title": "Max Difference You Can Get From Changing an Integer",
+      "slug": "max-difference-you-can-get-from-changing-an-integer",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-difference-you-can-get-from-changing-an-integer/"
+    },
+    {
+      "date": "2025-06-16",
+      "id": "2016",
+      "title": "Maximum Difference Between Increasing Elements",
+      "slug": "maximum-difference-between-increasing-elements",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-increasing-elements/"
+    },
+    {
+      "date": "2025-06-17",
+      "id": "3405",
+      "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+      "slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/"
+    },
+    {
+      "date": "2025-06-18",
+      "id": "2966",
+      "title": "Divide Array Into Arrays With Max Difference",
+      "slug": "divide-array-into-arrays-with-max-difference",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/divide-array-into-arrays-with-max-difference/"
+    },
+    {
+      "date": "2025-06-19",
+      "id": "2294",
+      "title": "Partition Array Such That Maximum Difference Is K",
+      "slug": "partition-array-such-that-maximum-difference-is-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-array-such-that-maximum-difference-is-k/"
+    },
+    {
+      "date": "2025-06-20",
+      "id": "3443",
+      "title": "Maximum Manhattan Distance After K Changes",
+      "slug": "maximum-manhattan-distance-after-k-changes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-manhattan-distance-after-k-changes/"
+    },
+    {
+      "date": "2025-06-21",
+      "id": "3085",
+      "title": "Minimum Deletions to Make String K-Special",
+      "slug": "minimum-deletions-to-make-string-k-special",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-deletions-to-make-string-k-special/"
+    },
+    {
+      "date": "2025-06-22",
+      "id": "2138",
+      "title": "Divide a String Into Groups of Size k",
+      "slug": "divide-a-string-into-groups-of-size-k",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/divide-a-string-into-groups-of-size-k/"
+    },
+    {
+      "date": "2025-06-23",
+      "id": "2081",
+      "title": "Sum of k-Mirror Numbers",
+      "slug": "sum-of-k-mirror-numbers",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-k-mirror-numbers/"
+    },
+    {
+      "date": "2025-06-24",
+      "id": "2200",
+      "title": "Find All K-Distant Indices in an Array",
+      "slug": "find-all-k-distant-indices-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-k-distant-indices-in-an-array/"
+    },
+    {
+      "date": "2025-06-25",
+      "id": "2040",
+      "title": "Kth Smallest Product of Two Sorted Arrays",
+      "slug": "kth-smallest-product-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/kth-smallest-product-of-two-sorted-arrays/"
+    },
+    {
+      "date": "2025-06-26",
+      "id": "2311",
+      "title": "Longest Binary Subsequence Less Than or Equal to K",
+      "slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-binary-subsequence-less-than-or-equal-to-k/"
+    },
+    {
+      "date": "2025-06-27",
+      "id": "2014",
+      "title": "Longest Subsequence Repeated k Times",
+      "slug": "longest-subsequence-repeated-k-times",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-subsequence-repeated-k-times/"
+    },
+    {
+      "date": "2025-06-28",
+      "id": "2099",
+      "title": "Find Subsequence of Length K With the Largest Sum",
+      "slug": "find-subsequence-of-length-k-with-the-largest-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-subsequence-of-length-k-with-the-largest-sum/"
+    },
+    {
+      "date": "2025-06-29",
+      "id": "1498",
+      "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+      "slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/"
+    },
+    {
+      "date": "2025-06-30",
+      "id": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-harmonious-subsequence/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-06-01",
+      "id": "2927",
+      "title": "Distribute Candies Among Children III",
+      "slug": "distribute-candies-among-children-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/distribute-candies-among-children-iii/"
+    },
+    {
+      "date": "2025-06-08",
+      "id": "255",
+      "title": "Verify Preorder Sequence in Binary Search Tree",
+      "slug": "verify-preorder-sequence-in-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/verify-preorder-sequence-in-binary-search-tree/"
+    },
+    {
+      "date": "2025-06-15",
+      "id": "663",
+      "title": "Equal Tree Partition",
+      "slug": "equal-tree-partition",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/equal-tree-partition/"
+    },
+    {
+      "date": "2025-06-22",
+      "id": "683",
+      "title": "K Empty Slots",
+      "slug": "k-empty-slots",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/k-empty-slots/"
+    },
+    {
+      "date": "2025-06-29",
+      "id": "426",
+      "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+      "slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "year": 2021,
+  "month": 12,
+  "challenges": [
+    {
+      "date": "2021-12-01",
+      "id": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/house-robber/"
+    },
+    {
+      "date": "2021-12-02",
+      "id": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/odd-even-linked-list/"
+    },
+    {
+      "date": "2021-12-03",
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-subarray/"
+    },
+    {
+      "date": "2021-12-04",
+      "id": "1032",
+      "title": "Stream of Characters",
+      "slug": "stream-of-characters",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stream-of-characters/"
+    },
+    {
+      "date": "2021-12-05",
+      "id": "337",
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/house-robber-iii/"
+    },
+    {
+      "date": "2021-12-06",
+      "id": "1217",
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-move-chips-to-the-same-position/"
+    },
+    {
+      "date": "2021-12-07",
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/"
+    },
+    {
+      "date": "2021-12-08",
+      "id": "563",
+      "title": "Binary Tree Tilt",
+      "slug": "binary-tree-tilt",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-tilt/"
+    },
+    {
+      "date": "2021-12-09",
+      "id": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iii/"
+    },
+    {
+      "date": "2021-12-10",
+      "id": "790",
+      "title": "Domino and Tromino Tiling",
+      "slug": "domino-and-tromino-tiling",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/domino-and-tromino-tiling/"
+    },
+    {
+      "date": "2021-12-11",
+      "id": "878",
+      "title": "Nth Magical Number",
+      "slug": "nth-magical-number",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/nth-magical-number/"
+    },
+    {
+      "date": "2021-12-12",
+      "id": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-equal-subset-sum/"
+    },
+    {
+      "date": "2021-12-13",
+      "id": "1446",
+      "title": "Consecutive Characters",
+      "slug": "consecutive-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/consecutive-characters/"
+    },
+    {
+      "date": "2021-12-14",
+      "id": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/range-sum-of-bst/"
+    },
+    {
+      "date": "2021-12-15",
+      "id": "147",
+      "title": "Insertion Sort List",
+      "slug": "insertion-sort-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insertion-sort-list/"
+    },
+    {
+      "date": "2021-12-16",
+      "id": "310",
+      "title": "Minimum Height Trees",
+      "slug": "minimum-height-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-height-trees/"
+    },
+    {
+      "date": "2021-12-17",
+      "id": "221",
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-square/"
+    },
+    {
+      "date": "2021-12-18",
+      "id": "902",
+      "title": "Numbers At Most N Given Digit Set",
+      "slug": "numbers-at-most-n-given-digit-set",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/numbers-at-most-n-given-digit-set/"
+    },
+    {
+      "date": "2021-12-19",
+      "id": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decode-string/"
+    },
+    {
+      "date": "2021-12-20",
+      "id": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-absolute-difference/"
+    },
+    {
+      "date": "2021-12-21",
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-two/"
+    },
+    {
+      "date": "2021-12-22",
+      "id": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reorder-list/"
+    },
+    {
+      "date": "2021-12-23",
+      "id": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule-ii/"
+    },
+    {
+      "date": "2021-12-24",
+      "id": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/merge-intervals/"
+    },
+    {
+      "date": "2021-12-25",
+      "id": "227",
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/basic-calculator-ii/"
+    },
+    {
+      "date": "2021-12-26",
+      "id": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-closest-points-to-origin/"
+    },
+    {
+      "date": "2021-12-27",
+      "id": "476",
+      "title": "Number Complement",
+      "slug": "number-complement",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-complement/"
+    },
+    {
+      "date": "2021-12-28",
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/middle-of-the-linked-list/"
+    },
+    {
+      "date": "2021-12-29",
+      "id": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/populating-next-right-pointers-in-each-node/"
+    },
+    {
+      "date": "2021-12-30",
+      "id": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "slug": "smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-integer-divisible-by-k/"
+    },
+    {
+      "date": "2021-12-31",
+      "id": "1026",
+      "title": "Maximum Difference Between Node and Ancestor",
+      "slug": "maximum-difference-between-node-and-ancestor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-node-and-ancestor/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-12-01",
+      "id": "708",
+      "title": "Insert into a Sorted Circular Linked List",
+      "slug": "insert-into-a-sorted-circular-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/insert-into-a-sorted-circular-linked-list/"
+    },
+    {
+      "date": "2021-12-08",
+      "id": "364",
+      "title": "Nested List Weight Sum II",
+      "slug": "nested-list-weight-sum-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/nested-list-weight-sum-ii/"
+    },
+    {
+      "date": "2021-12-15",
+      "id": "624",
+      "title": "Maximum Distance in Arrays",
+      "slug": "maximum-distance-in-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-distance-in-arrays/"
+    },
+    {
+      "date": "2021-12-22",
+      "id": "1153",
+      "title": "String Transforms Into Another String",
+      "slug": "string-transforms-into-another-string",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/string-transforms-into-another-string/"
+    },
+    {
+      "date": "2021-12-29",
+      "id": "1244",
+      "title": "Design A Leaderboard",
+      "slug": "design-a-leaderboard",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-a-leaderboard/"
+    }
+  ]
+}

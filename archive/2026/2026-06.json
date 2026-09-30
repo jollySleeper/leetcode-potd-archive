@@ -1,0 +1,323 @@
+{
+  "year": 2026,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2026-06-01",
+      "id": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-of-buying-candies-with-discount/"
+    },
+    {
+      "date": "2026-06-02",
+      "id": "3633",
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/earliest-finish-time-for-land-and-water-rides-i/"
+    },
+    {
+      "date": "2026-06-03",
+      "id": "3635",
+      "title": "Earliest Finish Time for Land and Water Rides II",
+      "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/earliest-finish-time-for-land-and-water-rides-ii/"
+    },
+    {
+      "date": "2026-06-04",
+      "id": "3751",
+      "title": "Total Waviness of Numbers in Range I",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/total-waviness-of-numbers-in-range-i/"
+    },
+    {
+      "date": "2026-06-05",
+      "id": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/total-waviness-of-numbers-in-range-ii/"
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/left-and-right-sum-differences/"
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/create-binary-tree-from-descriptions/"
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-array-according-to-given-pivot/"
+    },
+    {
+      "date": "2026-06-09",
+      "id": "3689",
+      "title": "Maximum Total Subarray Value I",
+      "slug": "maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-total-subarray-value-i/"
+    },
+    {
+      "date": "2026-06-10",
+      "id": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-total-subarray-value-ii/"
+    },
+    {
+      "date": "2026-06-11",
+      "id": "3558",
+      "title": "Number of Ways to Assign Edge Weights I",
+      "slug": "number-of-ways-to-assign-edge-weights-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-assign-edge-weights-i/"
+    },
+    {
+      "date": "2026-06-12",
+      "id": "3559",
+      "title": "Number of Ways to Assign Edge Weights II",
+      "slug": "number-of-ways-to-assign-edge-weights-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-assign-edge-weights-ii/"
+    },
+    {
+      "date": "2026-06-13",
+      "id": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/weighted-word-mapping/"
+    },
+    {
+      "date": "2026-06-14",
+      "id": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-twin-sum-of-a-linked-list/"
+    },
+    {
+      "date": "2026-06-15",
+      "id": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-the-middle-node-of-a-linked-list/"
+    },
+    {
+      "date": "2026-06-16",
+      "id": "3612",
+      "title": "Process String with Special Operations I",
+      "slug": "process-string-with-special-operations-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/process-string-with-special-operations-i/"
+    },
+    {
+      "date": "2026-06-17",
+      "id": "3614",
+      "title": "Process String with Special Operations II",
+      "slug": "process-string-with-special-operations-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/process-string-with-special-operations-ii/"
+    },
+    {
+      "date": "2026-06-18",
+      "id": "1344",
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/angle-between-hands-of-a-clock/"
+    },
+    {
+      "date": "2026-06-19",
+      "id": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-highest-altitude/"
+    },
+    {
+      "date": "2026-06-20",
+      "id": "1840",
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-building-height/"
+    },
+    {
+      "date": "2026-06-21",
+      "id": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-ice-cream-bars/"
+    },
+    {
+      "date": "2026-06-22",
+      "id": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-balloons/"
+    },
+    {
+      "date": "2026-06-23",
+      "id": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-zigzag-arrays-i/"
+    },
+    {
+      "date": "2026-06-24",
+      "id": "3700",
+      "title": "Number of ZigZag Arrays II",
+      "slug": "number-of-zigzag-arrays-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-zigzag-arrays-ii/"
+    },
+    {
+      "date": "2026-06-25",
+      "id": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-with-majority-element-i/"
+    },
+    {
+      "date": "2026-06-26",
+      "id": "3739",
+      "title": "Count Subarrays With Majority Element II",
+      "slug": "count-subarrays-with-majority-element-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-with-majority-element-ii/"
+    },
+    {
+      "date": "2026-06-27",
+      "id": "3020",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "slug": "find-the-maximum-number-of-elements-in-subset",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-number-of-elements-in-subset/"
+    },
+    {
+      "date": "2026-06-28",
+      "id": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-element-after-decreasing-and-rearranging/"
+    },
+    {
+      "date": "2026-06-29",
+      "id": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-strings-that-appear-as-substrings-in-word/"
+    },
+    {
+      "date": "2026-06-30",
+      "id": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-substrings-containing-all-three-characters/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-06-01",
+      "id": "723",
+      "title": "Candy Crush",
+      "slug": "candy-crush",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/candy-crush/"
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2107",
+      "title": "Number of Unique Flavors After Sharing K Candies",
+      "slug": "number-of-unique-flavors-after-sharing-k-candies",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/"
+    },
+    {
+      "date": "2026-06-15",
+      "id": "1259",
+      "title": "Handshakes That Don't Cross",
+      "slug": "handshakes-that-dont-cross",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/handshakes-that-dont-cross/"
+    },
+    {
+      "date": "2026-06-22",
+      "id": "1485",
+      "title": "Clone Binary Tree With Random Pointer",
+      "slug": "clone-binary-tree-with-random-pointer",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/clone-binary-tree-with-random-pointer/"
+    },
+    {
+      "date": "2026-06-29",
+      "id": "1490",
+      "title": "Clone N-ary Tree",
+      "slug": "clone-n-ary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/clone-n-ary-tree/"
+    }
+  ]
+}

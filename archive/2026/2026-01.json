@@ -1,0 +1,332 @@
+{
+  "year": 2026,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2026-01-01",
+      "id": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/plus-one/"
+    },
+    {
+      "date": "2026-01-02",
+      "id": "961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "slug": "n-repeated-element-in-size-2n-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/n-repeated-element-in-size-2n-array/"
+    },
+    {
+      "date": "2026-01-03",
+      "id": "1411",
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "slug": "number-of-ways-to-paint-n-3-grid",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-paint-n-3-grid/"
+    },
+    {
+      "date": "2026-01-04",
+      "id": "1390",
+      "title": "Four Divisors",
+      "slug": "four-divisors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/four-divisors/"
+    },
+    {
+      "date": "2026-01-05",
+      "id": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-matrix-sum/"
+    },
+    {
+      "date": "2026-01-06",
+      "id": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "slug": "maximum-level-sum-of-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-level-sum-of-a-binary-tree/"
+    },
+    {
+      "date": "2026-01-07",
+      "id": "1339",
+      "title": "Maximum Product of Splitted Binary Tree",
+      "slug": "maximum-product-of-splitted-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-of-splitted-binary-tree/"
+    },
+    {
+      "date": "2026-01-08",
+      "id": "1458",
+      "title": "Max Dot Product of Two Subsequences",
+      "slug": "max-dot-product-of-two-subsequences",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/max-dot-product-of-two-subsequences/"
+    },
+    {
+      "date": "2026-01-09",
+      "id": "865",
+      "title": "Smallest Subtree with all the Deepest Nodes",
+      "slug": "smallest-subtree-with-all-the-deepest-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-subtree-with-all-the-deepest-nodes/"
+    },
+    {
+      "date": "2026-01-10",
+      "id": "712",
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "slug": "minimum-ascii-delete-sum-for-two-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-ascii-delete-sum-for-two-strings/"
+    },
+    {
+      "date": "2026-01-11",
+      "id": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-rectangle/"
+    },
+    {
+      "date": "2026-01-12",
+      "id": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-visiting-all-points/"
+    },
+    {
+      "date": "2026-01-13",
+      "id": "3453",
+      "title": "Separate Squares I",
+      "slug": "separate-squares-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/separate-squares-i/"
+    },
+    {
+      "date": "2026-01-14",
+      "id": "3454",
+      "title": "Separate Squares II",
+      "slug": "separate-squares-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/separate-squares-ii/"
+    },
+    {
+      "date": "2026-01-15",
+      "id": "2943",
+      "title": "Maximize Area of Square Hole in Grid",
+      "slug": "maximize-area-of-square-hole-in-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-area-of-square-hole-in-grid/"
+    },
+    {
+      "date": "2026-01-16",
+      "id": "2975",
+      "title": "Maximum Square Area by Removing Fences From a Field",
+      "slug": "maximum-square-area-by-removing-fences-from-a-field",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-square-area-by-removing-fences-from-a-field/"
+    },
+    {
+      "date": "2026-01-17",
+      "id": "3047",
+      "title": "Find the Largest Area of Square Inside Two Rectangles",
+      "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-largest-area-of-square-inside-two-rectangles/"
+    },
+    {
+      "date": "2026-01-18",
+      "id": "1895",
+      "title": "Largest Magic Square",
+      "slug": "largest-magic-square",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-magic-square/"
+    },
+    {
+      "date": "2026-01-19",
+      "id": "1292",
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/"
+    },
+    {
+      "date": "2026-01-20",
+      "id": "3314",
+      "title": "Construct the Minimum Bitwise Array I",
+      "slug": "construct-the-minimum-bitwise-array-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/construct-the-minimum-bitwise-array-i/"
+    },
+    {
+      "date": "2026-01-21",
+      "id": "3315",
+      "title": "Construct the Minimum Bitwise Array II",
+      "slug": "construct-the-minimum-bitwise-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-the-minimum-bitwise-array-ii/"
+    },
+    {
+      "date": "2026-01-22",
+      "id": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-pair-removal-to-sort-array-i/"
+    },
+    {
+      "date": "2026-01-23",
+      "id": "3510",
+      "title": "Minimum Pair Removal to Sort Array II",
+      "slug": "minimum-pair-removal-to-sort-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-pair-removal-to-sort-array-ii/"
+    },
+    {
+      "date": "2026-01-24",
+      "id": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-maximum-pair-sum-in-array/"
+    },
+    {
+      "date": "2026-01-25",
+      "id": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-difference-between-highest-and-lowest-of-k-scores/"
+    },
+    {
+      "date": "2026-01-26",
+      "id": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-absolute-difference/"
+    },
+    {
+      "date": "2026-01-27",
+      "id": "3650",
+      "title": "Minimum Cost Path with Edge Reversals",
+      "slug": "minimum-cost-path-with-edge-reversals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-path-with-edge-reversals/"
+    },
+    {
+      "date": "2026-01-28",
+      "id": "3651",
+      "title": "Minimum Cost Path with Teleportations",
+      "slug": "minimum-cost-path-with-teleportations",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-path-with-teleportations/"
+    },
+    {
+      "date": "2026-01-29",
+      "id": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-convert-string-i/"
+    },
+    {
+      "date": "2026-01-30",
+      "id": "2977",
+      "title": "Minimum Cost to Convert String II",
+      "slug": "minimum-cost-to-convert-string-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-convert-string-ii/"
+    },
+    {
+      "date": "2026-01-31",
+      "id": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-smallest-letter-greater-than-target/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-01-01",
+      "id": "1244",
+      "title": "Design A Leaderboard",
+      "slug": "design-a-leaderboard",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-a-leaderboard/"
+    },
+    {
+      "date": "2026-01-08",
+      "id": "490",
+      "title": "The Maze",
+      "slug": "the-maze",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze/"
+    },
+    {
+      "date": "2026-01-15",
+      "id": "505",
+      "title": "The Maze II",
+      "slug": "the-maze-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze-ii/"
+    },
+    {
+      "date": "2026-01-22",
+      "id": "499",
+      "title": "The Maze III",
+      "slug": "the-maze-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze-iii/"
+    },
+    {
+      "date": "2026-01-29",
+      "id": "286",
+      "title": "Walls and Gates",
+      "slug": "walls-and-gates",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/walls-and-gates/"
+    }
+  ]
+}

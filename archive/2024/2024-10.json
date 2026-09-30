@@ -1,0 +1,332 @@
+{
+  "year": 2024,
+  "month": 10,
+  "challenges": [
+    {
+      "date": "2024-10-01",
+      "id": "1497",
+      "title": "Check If Array Pairs Are Divisible by k",
+      "slug": "check-if-array-pairs-are-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-array-pairs-are-divisible-by-k/"
+    },
+    {
+      "date": "2024-10-02",
+      "id": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/rank-transform-of-an-array/"
+    },
+    {
+      "date": "2024-10-03",
+      "id": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/make-sum-divisible-by-p/"
+    },
+    {
+      "date": "2024-10-04",
+      "id": "2491",
+      "title": "Divide Players Into Teams of Equal Skill",
+      "slug": "divide-players-into-teams-of-equal-skill",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/divide-players-into-teams-of-equal-skill/"
+    },
+    {
+      "date": "2024-10-05",
+      "id": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutation-in-string/"
+    },
+    {
+      "date": "2024-10-06",
+      "id": "1813",
+      "title": "Sentence Similarity III",
+      "slug": "sentence-similarity-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sentence-similarity-iii/"
+    },
+    {
+      "date": "2024-10-07",
+      "id": "2696",
+      "title": "Minimum String Length After Removing Substrings",
+      "slug": "minimum-string-length-after-removing-substrings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-string-length-after-removing-substrings/"
+    },
+    {
+      "date": "2024-10-08",
+      "id": "1963",
+      "title": "Minimum Number of Swaps to Make the String Balanced",
+      "slug": "minimum-number-of-swaps-to-make-the-string-balanced",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-swaps-to-make-the-string-balanced/"
+    },
+    {
+      "date": "2024-10-09",
+      "id": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-add-to-make-parentheses-valid/"
+    },
+    {
+      "date": "2024-10-10",
+      "id": "962",
+      "title": "Maximum Width Ramp",
+      "slug": "maximum-width-ramp",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-width-ramp/"
+    },
+    {
+      "date": "2024-10-11",
+      "id": "1942",
+      "title": "The Number of the Smallest Unoccupied Chair",
+      "slug": "the-number-of-the-smallest-unoccupied-chair",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-number-of-the-smallest-unoccupied-chair/"
+    },
+    {
+      "date": "2024-10-12",
+      "id": "2406",
+      "title": "Divide Intervals Into Minimum Number of Groups",
+      "slug": "divide-intervals-into-minimum-number-of-groups",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/divide-intervals-into-minimum-number-of-groups/"
+    },
+    {
+      "date": "2024-10-13",
+      "id": "632",
+      "title": "Smallest Range Covering Elements from K Lists",
+      "slug": "smallest-range-covering-elements-from-k-lists",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-range-covering-elements-from-k-lists/"
+    },
+    {
+      "date": "2024-10-14",
+      "id": "2530",
+      "title": "Maximal Score After Applying K Operations",
+      "slug": "maximal-score-after-applying-k-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-score-after-applying-k-operations/"
+    },
+    {
+      "date": "2024-10-15",
+      "id": "2938",
+      "title": "Separate Black and White Balls",
+      "slug": "separate-black-and-white-balls",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/separate-black-and-white-balls/"
+    },
+    {
+      "date": "2024-10-16",
+      "id": "1405",
+      "title": "Longest Happy String",
+      "slug": "longest-happy-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-happy-string/"
+    },
+    {
+      "date": "2024-10-17",
+      "id": "670",
+      "title": "Maximum Swap",
+      "slug": "maximum-swap",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-swap/"
+    },
+    {
+      "date": "2024-10-18",
+      "id": "2044",
+      "title": "Count Number of Maximum Bitwise-OR Subsets",
+      "slug": "count-number-of-maximum-bitwise-or-subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-maximum-bitwise-or-subsets/"
+    },
+    {
+      "date": "2024-10-19",
+      "id": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-kth-bit-in-nth-binary-string/"
+    },
+    {
+      "date": "2024-10-20",
+      "id": "1106",
+      "title": "Parsing A Boolean Expression",
+      "slug": "parsing-a-boolean-expression",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/parsing-a-boolean-expression/"
+    },
+    {
+      "date": "2024-10-21",
+      "id": "1593",
+      "title": "Split a String Into the Max Number of Unique Substrings",
+      "slug": "split-a-string-into-the-max-number-of-unique-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/split-a-string-into-the-max-number-of-unique-substrings/"
+    },
+    {
+      "date": "2024-10-22",
+      "id": "2583",
+      "title": "Kth Largest Sum in a Binary Tree",
+      "slug": "kth-largest-sum-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/kth-largest-sum-in-a-binary-tree/"
+    },
+    {
+      "date": "2024-10-23",
+      "id": "2641",
+      "title": "Cousins in Binary Tree II",
+      "slug": "cousins-in-binary-tree-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/cousins-in-binary-tree-ii/"
+    },
+    {
+      "date": "2024-10-24",
+      "id": "951",
+      "title": "Flip Equivalent Binary Trees",
+      "slug": "flip-equivalent-binary-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flip-equivalent-binary-trees/"
+    },
+    {
+      "date": "2024-10-25",
+      "id": "1233",
+      "title": "Remove Sub-Folders from the Filesystem",
+      "slug": "remove-sub-folders-from-the-filesystem",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-sub-folders-from-the-filesystem/"
+    },
+    {
+      "date": "2024-10-26",
+      "id": "2458",
+      "title": "Height of Binary Tree After Subtree Removal Queries",
+      "slug": "height-of-binary-tree-after-subtree-removal-queries",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/height-of-binary-tree-after-subtree-removal-queries/"
+    },
+    {
+      "date": "2024-10-27",
+      "id": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-square-submatrices-with-all-ones/"
+    },
+    {
+      "date": "2024-10-28",
+      "id": "2501",
+      "title": "Longest Square Streak in an Array",
+      "slug": "longest-square-streak-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-square-streak-in-an-array/"
+    },
+    {
+      "date": "2024-10-29",
+      "id": "2684",
+      "title": "Maximum Number of Moves in a Grid",
+      "slug": "maximum-number-of-moves-in-a-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-moves-in-a-grid/"
+    },
+    {
+      "date": "2024-10-30",
+      "id": "1671",
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "slug": "minimum-number-of-removals-to-make-mountain-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-removals-to-make-mountain-array/"
+    },
+    {
+      "date": "2024-10-31",
+      "id": "2463",
+      "title": "Minimum Total Distance Traveled",
+      "slug": "minimum-total-distance-traveled",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-total-distance-traveled/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-10-01",
+      "id": "1133",
+      "title": "Largest Unique Number",
+      "slug": "largest-unique-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/largest-unique-number/"
+    },
+    {
+      "date": "2024-10-08",
+      "id": "2838",
+      "title": "Maximum Coins Heroes Can Collect",
+      "slug": "maximum-coins-heroes-can-collect",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-coins-heroes-can-collect/"
+    },
+    {
+      "date": "2024-10-15",
+      "id": "1429",
+      "title": "First Unique Number",
+      "slug": "first-unique-number",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/first-unique-number/"
+    },
+    {
+      "date": "2024-10-22",
+      "id": "2664",
+      "title": "The Knight’s Tour",
+      "slug": "the-knights-tour",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-knights-tour/"
+    },
+    {
+      "date": "2024-10-29",
+      "id": "265",
+      "title": "Paint House II",
+      "slug": "paint-house-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/paint-house-ii/"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "year": 2020,
+  "month": 7,
+  "challenges": [
+    {
+      "date": "2020-07-01",
+      "id": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/climbing-stairs/"
+    },
+    {
+      "date": "2020-07-02",
+      "id": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/arranging-coins/"
+    },
+    {
+      "date": "2020-07-03",
+      "id": "107",
+      "title": "Binary Tree Level Order Traversal II",
+      "slug": "binary-tree-level-order-traversal-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-level-order-traversal-ii/"
+    },
+    {
+      "date": "2020-07-04",
+      "id": "957",
+      "title": "Prison Cells After N Days",
+      "slug": "prison-cells-after-n-days",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/prison-cells-after-n-days/"
+    },
+    {
+      "date": "2020-07-05",
+      "id": "264",
+      "title": "Ugly Number II",
+      "slug": "ugly-number-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ugly-number-ii/"
+    },
+    {
+      "date": "2020-07-06",
+      "id": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/hamming-distance/"
+    },
+    {
+      "date": "2020-07-07",
+      "id": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/plus-one/"
+    },
+    {
+      "date": "2020-07-08",
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/island-perimeter/"
+    },
+    {
+      "date": "2020-07-09",
+      "id": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/3sum/"
+    },
+    {
+      "date": "2020-07-10",
+      "id": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-width-of-binary-tree/"
+    },
+    {
+      "date": "2020-07-11",
+      "id": "430",
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "slug": "flatten-a-multilevel-doubly-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flatten-a-multilevel-doubly-linked-list/"
+    },
+    {
+      "date": "2020-07-12",
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subsets/"
+    },
+    {
+      "date": "2020-07-13",
+      "id": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-bits/"
+    },
+    {
+      "date": "2020-07-14",
+      "id": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/same-tree/"
+    },
+    {
+      "date": "2020-07-15",
+      "id": "1344",
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/angle-between-hands-of-a-clock/"
+    },
+    {
+      "date": "2020-07-16",
+      "id": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-words-in-a-string/"
+    },
+    {
+      "date": "2020-07-17",
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/powx-n/"
+    },
+    {
+      "date": "2020-07-18",
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/top-k-frequent-elements/"
+    },
+    {
+      "date": "2020-07-19",
+      "id": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule-ii/"
+    },
+    {
+      "date": "2020-07-20",
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-binary/"
+    },
+    {
+      "date": "2020-07-21",
+      "id": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/remove-linked-list-elements/"
+    },
+    {
+      "date": "2020-07-22",
+      "id": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/word-search/"
+    },
+    {
+      "date": "2020-07-23",
+      "id": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-zigzag-level-order-traversal/"
+    },
+    {
+      "date": "2020-07-24",
+      "id": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-number-iii/"
+    },
+    {
+      "date": "2020-07-25",
+      "id": "797",
+      "title": "All Paths From Source to Target",
+      "slug": "all-paths-from-source-to-target",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-paths-from-source-to-target/"
+    },
+    {
+      "date": "2020-07-26",
+      "id": "154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-in-rotated-sorted-array-ii/"
+    },
+    {
+      "date": "2020-07-27",
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-digits/"
+    },
+    {
+      "date": "2020-07-28",
+      "id": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+    },
+    {
+      "date": "2020-07-29",
+      "id": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/task-scheduler/"
+    },
+    {
+      "date": "2020-07-30",
+      "id": "309",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    },
+    {
+      "date": "2020-07-31",
+      "id": "140",
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-break-ii/"
+    }
+  ],
+  "weeklyChallenges": []
+}

@@ -1,0 +1,323 @@
+{
+  "year": 2026,
+  "month": 9,
+  "challenges": [
+    {
+      "date": "2026-09-01",
+      "id": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-moves-to-clean-the-classroom/"
+    },
+    {
+      "date": "2026-09-02",
+      "id": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/construct-uniform-parity-array-i/"
+    },
+    {
+      "date": "2026-09-03",
+      "id": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-uniform-parity-array-ii/"
+    },
+    {
+      "date": "2026-09-04",
+      "id": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-stable-index-i/"
+    },
+    {
+      "date": "2026-09-05",
+      "id": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-stable-index-ii/"
+    },
+    {
+      "date": "2026-09-06",
+      "id": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/distinct-subsequences/"
+    },
+    {
+      "date": "2026-09-07",
+      "id": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/distinct-subsequences-ii/"
+    },
+    {
+      "date": "2026-09-08",
+      "id": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-commas-in-range/"
+    },
+    {
+      "date": "2026-09-09",
+      "id": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-commas-in-range-ii/"
+    },
+    {
+      "date": "2026-09-10",
+      "id": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-nodes-equal-to-average-of-subtree/"
+    },
+    {
+      "date": "2026-09-11",
+      "id": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-3-digit-even-numbers/"
+    },
+    {
+      "date": "2026-09-12",
+      "id": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-of-non-overlapping-intervals/"
+    },
+    {
+      "date": "2026-09-13",
+      "id": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/image-overlap/"
+    },
+    {
+      "date": "2026-09-14",
+      "id": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/rectangle-overlap/"
+    },
+    {
+      "date": "2026-09-15",
+      "id": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+    },
+    {
+      "date": "2026-09-16",
+      "id": "1621",
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-sets-of-k-non-overlapping-line-segments/"
+    },
+    {
+      "date": "2026-09-17",
+      "id": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/"
+    },
+    {
+      "date": "2026-09-18",
+      "id": "1520",
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "slug": "maximum-number-of-non-overlapping-substrings",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-non-overlapping-substrings/"
+    },
+    {
+      "date": "2026-09-19",
+      "id": "1401",
+      "title": "Circle and Rectangle Overlapping",
+      "slug": "circle-and-rectangle-overlapping",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/circle-and-rectangle-overlapping/"
+    },
+    {
+      "date": "2026-09-20",
+      "id": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-degree-of-a-string/"
+    },
+    {
+      "date": "2026-09-21",
+      "id": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-x-value-of-array-i/"
+    },
+    {
+      "date": "2026-09-22",
+      "id": "3525",
+      "title": "Find X Value of Array II",
+      "slug": "find-x-value-of-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-x-value-of-array-ii/"
+    },
+    {
+      "date": "2026-09-23",
+      "id": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-reduce-x-to-zero/"
+    },
+    {
+      "date": "2026-09-24",
+      "id": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-index-with-digit-sum-equal-to-index/"
+    },
+    {
+      "date": "2026-09-25",
+      "id": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/brace-expansion-ii/"
+    },
+    {
+      "date": "2026-09-26",
+      "id": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-the-bracket-pairs-of-a-string/"
+    },
+    {
+      "date": "2026-09-27",
+      "id": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-substrings-between-each-pair-of-parentheses/"
+    },
+    {
+      "date": "2026-09-28",
+      "id": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-nesting-depth-of-the-parentheses/"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-there-is-a-valid-parentheses-string-path/"
+    },
+    {
+      "date": "2026-09-30",
+      "id": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-09-01",
+      "id": "2355",
+      "title": "Maximum Number of Books You Can Take",
+      "slug": "maximum-number-of-books-you-can-take",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-number-of-books-you-can-take/"
+    },
+    {
+      "date": "2026-09-08",
+      "id": "1086",
+      "title": "High Five",
+      "slug": "high-five",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/high-five/"
+    },
+    {
+      "date": "2026-09-15",
+      "id": "1762",
+      "title": "Buildings With an Ocean View",
+      "slug": "buildings-with-an-ocean-view",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/buildings-with-an-ocean-view/"
+    },
+    {
+      "date": "2026-09-22",
+      "id": "751",
+      "title": "IP to CIDR",
+      "slug": "ip-to-cidr",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/ip-to-cidr/"
+    },
+    {
+      "date": "2026-09-29",
+      "id": "1236",
+      "title": "Web Crawler",
+      "slug": "web-crawler",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/web-crawler/"
+    }
+  ]
+}

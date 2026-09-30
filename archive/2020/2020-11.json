@@ -1,0 +1,323 @@
+{
+  "year": 2020,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2020-11-01",
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/convert-binary-number-in-a-linked-list-to-integer/"
+    },
+    {
+      "date": "2020-11-02",
+      "id": "147",
+      "title": "Insertion Sort List",
+      "slug": "insertion-sort-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insertion-sort-list/"
+    },
+    {
+      "date": "2020-11-03",
+      "id": "1446",
+      "title": "Consecutive Characters",
+      "slug": "consecutive-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/consecutive-characters/"
+    },
+    {
+      "date": "2020-11-04",
+      "id": "310",
+      "title": "Minimum Height Trees",
+      "slug": "minimum-height-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-height-trees/"
+    },
+    {
+      "date": "2020-11-05",
+      "id": "1217",
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-move-chips-to-the-same-position/"
+    },
+    {
+      "date": "2020-11-06",
+      "id": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-smallest-divisor-given-a-threshold/"
+    },
+    {
+      "date": "2020-11-07",
+      "id": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-two-numbers-ii/"
+    },
+    {
+      "date": "2020-11-08",
+      "id": "563",
+      "title": "Binary Tree Tilt",
+      "slug": "binary-tree-tilt",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-tilt/"
+    },
+    {
+      "date": "2020-11-09",
+      "id": "1026",
+      "title": "Maximum Difference Between Node and Ancestor",
+      "slug": "maximum-difference-between-node-and-ancestor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-node-and-ancestor/"
+    },
+    {
+      "date": "2020-11-10",
+      "id": "832",
+      "title": "Flipping an Image",
+      "slug": "flipping-an-image",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/flipping-an-image/"
+    },
+    {
+      "date": "2020-11-11",
+      "id": "593",
+      "title": "Valid Square",
+      "slug": "valid-square",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-square/"
+    },
+    {
+      "date": "2020-11-12",
+      "id": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutations-ii/"
+    },
+    {
+      "date": "2020-11-13",
+      "id": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/populating-next-right-pointers-in-each-node/"
+    },
+    {
+      "date": "2020-11-14",
+      "id": "458",
+      "title": "Poor Pigs",
+      "slug": "poor-pigs",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/poor-pigs/"
+    },
+    {
+      "date": "2020-11-15",
+      "id": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/range-sum-of-bst/"
+    },
+    {
+      "date": "2020-11-16",
+      "id": "845",
+      "title": "Longest Mountain in Array",
+      "slug": "longest-mountain-in-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-mountain-in-array/"
+    },
+    {
+      "date": "2020-11-17",
+      "id": "858",
+      "title": "Mirror Reflection",
+      "slug": "mirror-reflection",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/mirror-reflection/"
+    },
+    {
+      "date": "2020-11-18",
+      "id": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/merge-intervals/"
+    },
+    {
+      "date": "2020-11-19",
+      "id": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decode-string/"
+    },
+    {
+      "date": "2020-11-20",
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-rotated-sorted-array-ii/"
+    },
+    {
+      "date": "2020-11-21",
+      "id": "902",
+      "title": "Numbers At Most N Given Digit Set",
+      "slug": "numbers-at-most-n-given-digit-set",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/numbers-at-most-n-given-digit-set/"
+    },
+    {
+      "date": "2020-11-22",
+      "id": "804",
+      "title": "Unique Morse Code Words",
+      "slug": "unique-morse-code-words",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-morse-code-words/"
+    },
+    {
+      "date": "2020-11-23",
+      "id": "337",
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/house-robber-iii/"
+    },
+    {
+      "date": "2020-11-24",
+      "id": "227",
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/basic-calculator-ii/"
+    },
+    {
+      "date": "2020-11-25",
+      "id": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "slug": "smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-integer-divisible-by-k/"
+    },
+    {
+      "date": "2020-11-26",
+      "id": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-substring-with-at-least-k-repeating-characters/"
+    },
+    {
+      "date": "2020-11-27",
+      "id": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-equal-subset-sum/"
+    },
+    {
+      "date": "2020-11-28",
+      "id": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sliding-window-maximum/"
+    },
+    {
+      "date": "2020-11-29",
+      "id": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iii/"
+    },
+    {
+      "date": "2020-11-30",
+      "id": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/the-skyline-problem/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2020-11-01",
+      "id": "252",
+      "title": "Meeting Rooms",
+      "slug": "meeting-rooms",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/meeting-rooms/"
+    },
+    {
+      "date": "2020-11-08",
+      "id": "1099",
+      "title": "Two Sum Less Than K",
+      "slug": "two-sum-less-than-k",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-less-than-k/"
+    },
+    {
+      "date": "2020-11-15",
+      "id": "1272",
+      "title": "Remove Interval",
+      "slug": "remove-interval",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/remove-interval/"
+    },
+    {
+      "date": "2020-11-22",
+      "id": "159",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "slug": "longest-substring-with-at-most-two-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-two-distinct-characters/"
+    },
+    {
+      "date": "2020-11-29",
+      "id": "644",
+      "title": "Maximum Average Subarray II",
+      "slug": "maximum-average-subarray-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-average-subarray-ii/"
+    }
+  ]
+}

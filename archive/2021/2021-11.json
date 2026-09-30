@@ -1,0 +1,323 @@
+{
+  "year": 2021,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2021-11-01",
+      "id": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/surrounded-regions/"
+    },
+    {
+      "date": "2021-11-02",
+      "id": "980",
+      "title": "Unique Paths III",
+      "slug": "unique-paths-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths-iii/"
+    },
+    {
+      "date": "2021-11-03",
+      "id": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      "date": "2021-11-04",
+      "id": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-left-leaves/"
+    },
+    {
+      "date": "2021-11-05",
+      "id": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/arranging-coins/"
+    },
+    {
+      "date": "2021-11-06",
+      "id": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-number-iii/"
+    },
+    {
+      "date": "2021-11-07",
+      "id": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/multiply-strings/"
+    },
+    {
+      "date": "2021-11-08",
+      "id": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-binary-search-trees/"
+    },
+    {
+      "date": "2021-11-09",
+      "id": "1178",
+      "title": "Number of Valid Words for Each Puzzle",
+      "slug": "number-of-valid-words-for-each-puzzle",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-valid-words-for-each-puzzle/"
+    },
+    {
+      "date": "2021-11-10",
+      "id": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+      "date": "2021-11-11",
+      "id": "1413",
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "slug": "minimum-value-to-get-positive-step-by-step-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-value-to-get-positive-step-by-step-sum/"
+    },
+    {
+      "date": "2021-11-12",
+      "id": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/remove-linked-list-elements/"
+    },
+    {
+      "date": "2021-11-13",
+      "id": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/daily-temperatures/"
+    },
+    {
+      "date": "2021-11-14",
+      "id": "1286",
+      "title": "Iterator for Combination",
+      "slug": "iterator-for-combination",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/iterator-for-combination/"
+    },
+    {
+      "date": "2021-11-15",
+      "id": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-divisible-subset/"
+    },
+    {
+      "date": "2021-11-16",
+      "id": "668",
+      "title": "Kth Smallest Number in Multiplication Table",
+      "slug": "kth-smallest-number-in-multiplication-table",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/kth-smallest-number-in-multiplication-table/"
+    },
+    {
+      "date": "2021-11-17",
+      "id": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths/"
+    },
+    {
+      "date": "2021-11-18",
+      "id": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-numbers-disappeared-in-an-array/"
+    },
+    {
+      "date": "2021-11-19",
+      "id": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/hamming-distance/"
+    },
+    {
+      "date": "2021-11-20",
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-element-in-a-sorted-array/"
+    },
+    {
+      "date": "2021-11-21",
+      "id": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+    },
+    {
+      "date": "2021-11-22",
+      "id": "450",
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-node-in-a-bst/"
+    },
+    {
+      "date": "2021-11-23",
+      "id": "952",
+      "title": "Largest Component Size by Common Factor",
+      "slug": "largest-component-size-by-common-factor",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-component-size-by-common-factor/"
+    },
+    {
+      "date": "2021-11-24",
+      "id": "986",
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/interval-list-intersections/"
+    },
+    {
+      "date": "2021-11-25",
+      "id": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-subarray/"
+    },
+    {
+      "date": "2021-11-26",
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/search-insert-position/"
+    },
+    {
+      "date": "2021-11-27",
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/product-of-array-except-self/"
+    },
+    {
+      "date": "2021-11-28",
+      "id": "797",
+      "title": "All Paths From Source to Target",
+      "slug": "all-paths-from-source-to-target",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-paths-from-source-to-target/"
+    },
+    {
+      "date": "2021-11-29",
+      "id": "721",
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/accounts-merge/"
+    },
+    {
+      "date": "2021-11-30",
+      "id": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-rectangle/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-11-01",
+      "id": "1231",
+      "title": "Divide Chocolate",
+      "slug": "divide-chocolate",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/divide-chocolate/"
+    },
+    {
+      "date": "2021-11-08",
+      "id": "425",
+      "title": "Word Squares",
+      "slug": "word-squares",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/word-squares/"
+    },
+    {
+      "date": "2021-11-15",
+      "id": "1522",
+      "title": "Diameter of N-Ary Tree",
+      "slug": "diameter-of-n-ary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/diameter-of-n-ary-tree/"
+    },
+    {
+      "date": "2021-11-22",
+      "id": "1429",
+      "title": "First Unique Number",
+      "slug": "first-unique-number",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/first-unique-number/"
+    },
+    {
+      "date": "2021-11-29",
+      "id": "333",
+      "title": "Largest BST Subtree",
+      "slug": "largest-bst-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/largest-bst-subtree/"
+    }
+  ]
+}

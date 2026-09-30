@@ -1,0 +1,332 @@
+{
+  "year": 2023,
+  "month": 12,
+  "challenges": [
+    {
+      "date": "2023-12-01",
+      "id": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-two-string-arrays-are-equivalent/"
+    },
+    {
+      "date": "2023-12-02",
+      "id": "1160",
+      "title": "Find Words That Can Be Formed by Characters",
+      "slug": "find-words-that-can-be-formed-by-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-words-that-can-be-formed-by-characters/"
+    },
+    {
+      "date": "2023-12-03",
+      "id": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-visiting-all-points/"
+    },
+    {
+      "date": "2023-12-04",
+      "id": "2264",
+      "title": "Largest 3-Same-Digit Number in String",
+      "slug": "largest-3-same-digit-number-in-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-3-same-digit-number-in-string/"
+    },
+    {
+      "date": "2023-12-05",
+      "id": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-of-matches-in-tournament/"
+    },
+    {
+      "date": "2023-12-06",
+      "id": "1716",
+      "title": "Calculate Money in Leetcode Bank",
+      "slug": "calculate-money-in-leetcode-bank",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/calculate-money-in-leetcode-bank/"
+    },
+    {
+      "date": "2023-12-07",
+      "id": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-odd-number-in-string/"
+    },
+    {
+      "date": "2023-12-08",
+      "id": "606",
+      "title": "Construct String from Binary Tree",
+      "slug": "construct-string-from-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-string-from-binary-tree/"
+    },
+    {
+      "date": "2023-12-09",
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-inorder-traversal/"
+    },
+    {
+      "date": "2023-12-10",
+      "id": "867",
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/transpose-matrix/"
+    },
+    {
+      "date": "2023-12-11",
+      "id": "1287",
+      "title": "Element Appearing More Than 25% In Sorted Array",
+      "slug": "element-appearing-more-than-25-in-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/element-appearing-more-than-25-in-sorted-array/"
+    },
+    {
+      "date": "2023-12-12",
+      "id": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-of-two-elements-in-an-array/"
+    },
+    {
+      "date": "2023-12-13",
+      "id": "1582",
+      "title": "Special Positions in a Binary Matrix",
+      "slug": "special-positions-in-a-binary-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/special-positions-in-a-binary-matrix/"
+    },
+    {
+      "date": "2023-12-14",
+      "id": "2482",
+      "title": "Difference Between Ones and Zeros in Row and Column",
+      "slug": "difference-between-ones-and-zeros-in-row-and-column",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/difference-between-ones-and-zeros-in-row-and-column/"
+    },
+    {
+      "date": "2023-12-15",
+      "id": "1436",
+      "title": "Destination City",
+      "slug": "destination-city",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/destination-city/"
+    },
+    {
+      "date": "2023-12-16",
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-anagram/"
+    },
+    {
+      "date": "2023-12-17",
+      "id": "2353",
+      "title": "Design a Food Rating System",
+      "slug": "design-a-food-rating-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-a-food-rating-system/"
+    },
+    {
+      "date": "2023-12-18",
+      "id": "1913",
+      "title": "Maximum Product Difference Between Two Pairs",
+      "slug": "maximum-product-difference-between-two-pairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-difference-between-two-pairs/"
+    },
+    {
+      "date": "2023-12-19",
+      "id": "661",
+      "title": "Image Smoother",
+      "slug": "image-smoother",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/image-smoother/"
+    },
+    {
+      "date": "2023-12-20",
+      "id": "2706",
+      "title": "Buy Two Chocolates",
+      "slug": "buy-two-chocolates",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/buy-two-chocolates/"
+    },
+    {
+      "date": "2023-12-21",
+      "id": "1637",
+      "title": "Widest Vertical Area Between Two Points Containing No Points",
+      "slug": "widest-vertical-area-between-two-points-containing-no-points",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/widest-vertical-area-between-two-points-containing-no-points/"
+    },
+    {
+      "date": "2023-12-22",
+      "id": "1422",
+      "title": "Maximum Score After Splitting a String",
+      "slug": "maximum-score-after-splitting-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-after-splitting-a-string/"
+    },
+    {
+      "date": "2023-12-23",
+      "id": "1496",
+      "title": "Path Crossing",
+      "slug": "path-crossing",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/path-crossing/"
+    },
+    {
+      "date": "2023-12-24",
+      "id": "1758",
+      "title": "Minimum Changes To Make Alternating Binary String",
+      "slug": "minimum-changes-to-make-alternating-binary-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-changes-to-make-alternating-binary-string/"
+    },
+    {
+      "date": "2023-12-25",
+      "id": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decode-ways/"
+    },
+    {
+      "date": "2023-12-26",
+      "id": "1155",
+      "title": "Number of Dice Rolls With Target Sum",
+      "slug": "number-of-dice-rolls-with-target-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-dice-rolls-with-target-sum/"
+    },
+    {
+      "date": "2023-12-27",
+      "id": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-make-rope-colorful/"
+    },
+    {
+      "date": "2023-12-28",
+      "id": "1531",
+      "title": "String Compression II",
+      "slug": "string-compression-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/string-compression-ii/"
+    },
+    {
+      "date": "2023-12-29",
+      "id": "1335",
+      "title": "Minimum Difficulty of a Job Schedule",
+      "slug": "minimum-difficulty-of-a-job-schedule",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-difficulty-of-a-job-schedule/"
+    },
+    {
+      "date": "2023-12-30",
+      "id": "1897",
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "slug": "redistribute-characters-to-make-all-strings-equal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/redistribute-characters-to-make-all-strings-equal/"
+    },
+    {
+      "date": "2023-12-31",
+      "id": "1624",
+      "title": "Largest Substring Between Two Equal Characters",
+      "slug": "largest-substring-between-two-equal-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-substring-between-two-equal-characters/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-12-01",
+      "id": "1099",
+      "title": "Two Sum Less Than K",
+      "slug": "two-sum-less-than-k",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-less-than-k/"
+    },
+    {
+      "date": "2023-12-08",
+      "id": "1120",
+      "title": "Maximum Average Subtree",
+      "slug": "maximum-average-subtree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/maximum-average-subtree/"
+    },
+    {
+      "date": "2023-12-15",
+      "id": "296",
+      "title": "Best Meeting Point",
+      "slug": "best-meeting-point",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/best-meeting-point/"
+    },
+    {
+      "date": "2023-12-22",
+      "id": "159",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "slug": "longest-substring-with-at-most-two-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-two-distinct-characters/"
+    },
+    {
+      "date": "2023-12-29",
+      "id": "1216",
+      "title": "Valid Palindrome III",
+      "slug": "valid-palindrome-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/valid-palindrome-iii/"
+    }
+  ]
+}

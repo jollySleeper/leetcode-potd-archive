@@ -1,0 +1,323 @@
+{
+  "year": 2022,
+  "month": 9,
+  "challenges": [
+    {
+      "date": "2022-09-01",
+      "id": "1448",
+      "title": "Count Good Nodes in Binary Tree",
+      "slug": "count-good-nodes-in-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-good-nodes-in-binary-tree/"
+    },
+    {
+      "date": "2022-09-02",
+      "id": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/average-of-levels-in-binary-tree/"
+    },
+    {
+      "date": "2022-09-03",
+      "id": "967",
+      "title": "Numbers With Same Consecutive Differences",
+      "slug": "numbers-with-same-consecutive-differences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/numbers-with-same-consecutive-differences/"
+    },
+    {
+      "date": "2022-09-04",
+      "id": "987",
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "slug": "vertical-order-traversal-of-a-binary-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/vertical-order-traversal-of-a-binary-tree/"
+    },
+    {
+      "date": "2022-09-05",
+      "id": "429",
+      "title": "N-ary Tree Level Order Traversal",
+      "slug": "n-ary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/n-ary-tree-level-order-traversal/"
+    },
+    {
+      "date": "2022-09-06",
+      "id": "814",
+      "title": "Binary Tree Pruning",
+      "slug": "binary-tree-pruning",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-pruning/"
+    },
+    {
+      "date": "2022-09-07",
+      "id": "606",
+      "title": "Construct String from Binary Tree",
+      "slug": "construct-string-from-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-string-from-binary-tree/"
+    },
+    {
+      "date": "2022-09-08",
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-inorder-traversal/"
+    },
+    {
+      "date": "2022-09-09",
+      "id": "1996",
+      "title": "The Number of Weak Characters in the Game",
+      "slug": "the-number-of-weak-characters-in-the-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-number-of-weak-characters-in-the-game/"
+    },
+    {
+      "date": "2022-09-10",
+      "id": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-iv/"
+    },
+    {
+      "date": "2022-09-11",
+      "id": "1383",
+      "title": "Maximum Performance of a Team",
+      "slug": "maximum-performance-of-a-team",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-performance-of-a-team/"
+    },
+    {
+      "date": "2022-09-12",
+      "id": "948",
+      "title": "Bag of Tokens",
+      "slug": "bag-of-tokens",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bag-of-tokens/"
+    },
+    {
+      "date": "2022-09-13",
+      "id": "393",
+      "title": "UTF-8 Validation",
+      "slug": "utf-8-validation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/utf-8-validation/"
+    },
+    {
+      "date": "2022-09-14",
+      "id": "1457",
+      "title": "Pseudo-Palindromic Paths in a Binary Tree",
+      "slug": "pseudo-palindromic-paths-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pseudo-palindromic-paths-in-a-binary-tree/"
+    },
+    {
+      "date": "2022-09-15",
+      "id": "2007",
+      "title": "Find Original Array From Doubled Array",
+      "slug": "find-original-array-from-doubled-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-original-array-from-doubled-array/"
+    },
+    {
+      "date": "2022-09-16",
+      "id": "1770",
+      "title": "Maximum Score from Performing Multiplication Operations",
+      "slug": "maximum-score-from-performing-multiplication-operations",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-from-performing-multiplication-operations/"
+    },
+    {
+      "date": "2022-09-17",
+      "id": "336",
+      "title": "Palindrome Pairs",
+      "slug": "palindrome-pairs",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-pairs/"
+    },
+    {
+      "date": "2022-09-18",
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/trapping-rain-water/"
+    },
+    {
+      "date": "2022-09-19",
+      "id": "609",
+      "title": "Find Duplicate File in System",
+      "slug": "find-duplicate-file-in-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-duplicate-file-in-system/"
+    },
+    {
+      "date": "2022-09-20",
+      "id": "718",
+      "title": "Maximum Length of Repeated Subarray",
+      "slug": "maximum-length-of-repeated-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-length-of-repeated-subarray/"
+    },
+    {
+      "date": "2022-09-21",
+      "id": "985",
+      "title": "Sum of Even Numbers After Queries",
+      "slug": "sum-of-even-numbers-after-queries",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-even-numbers-after-queries/"
+    },
+    {
+      "date": "2022-09-22",
+      "id": "557",
+      "title": "Reverse Words in a String III",
+      "slug": "reverse-words-in-a-string-iii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-words-in-a-string-iii/"
+    },
+    {
+      "date": "2022-09-23",
+      "id": "1680",
+      "title": "Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/concatenation-of-consecutive-binary-numbers/"
+    },
+    {
+      "date": "2022-09-24",
+      "id": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-sum-ii/"
+    },
+    {
+      "date": "2022-09-25",
+      "id": "622",
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-circular-queue/"
+    },
+    {
+      "date": "2022-09-26",
+      "id": "990",
+      "title": "Satisfiability of Equality Equations",
+      "slug": "satisfiability-of-equality-equations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/satisfiability-of-equality-equations/"
+    },
+    {
+      "date": "2022-09-27",
+      "id": "838",
+      "title": "Push Dominoes",
+      "slug": "push-dominoes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/push-dominoes/"
+    },
+    {
+      "date": "2022-09-28",
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+      "date": "2022-09-29",
+      "id": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-k-closest-elements/"
+    },
+    {
+      "date": "2022-09-30",
+      "id": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/the-skyline-problem/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-09-01",
+      "id": "298",
+      "title": "Binary Tree Longest Consecutive Sequence",
+      "slug": "binary-tree-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/binary-tree-longest-consecutive-sequence/"
+    },
+    {
+      "date": "2022-09-08",
+      "id": "362",
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-hit-counter/"
+    },
+    {
+      "date": "2022-09-15",
+      "id": "159",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "slug": "longest-substring-with-at-most-two-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-two-distinct-characters/"
+    },
+    {
+      "date": "2022-09-22",
+      "id": "1272",
+      "title": "Remove Interval",
+      "slug": "remove-interval",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/remove-interval/"
+    },
+    {
+      "date": "2022-09-29",
+      "id": "582",
+      "title": "Kill Process",
+      "slug": "kill-process",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/kill-process/"
+    }
+  ]
+}

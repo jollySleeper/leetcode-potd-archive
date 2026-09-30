@@ -1,0 +1,332 @@
+{
+  "year": 2023,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2023-01-01",
+      "id": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/word-pattern/"
+    },
+    {
+      "date": "2023-01-02",
+      "id": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/detect-capital/"
+    },
+    {
+      "date": "2023-01-03",
+      "id": "944",
+      "title": "Delete Columns to Make Sorted",
+      "slug": "delete-columns-to-make-sorted",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/delete-columns-to-make-sorted/"
+    },
+    {
+      "date": "2023-01-04",
+      "id": "2244",
+      "title": "Minimum Rounds to Complete All Tasks",
+      "slug": "minimum-rounds-to-complete-all-tasks",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-rounds-to-complete-all-tasks/"
+    },
+    {
+      "date": "2023-01-05",
+      "id": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-arrows-to-burst-balloons/"
+    },
+    {
+      "date": "2023-01-06",
+      "id": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-ice-cream-bars/"
+    },
+    {
+      "date": "2023-01-07",
+      "id": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/gas-station/"
+    },
+    {
+      "date": "2023-01-08",
+      "id": "149",
+      "title": "Max Points on a Line",
+      "slug": "max-points-on-a-line",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/max-points-on-a-line/"
+    },
+    {
+      "date": "2023-01-09",
+      "id": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-preorder-traversal/"
+    },
+    {
+      "date": "2023-01-10",
+      "id": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/same-tree/"
+    },
+    {
+      "date": "2023-01-11",
+      "id": "1443",
+      "title": "Minimum Time to Collect All Apples in a Tree",
+      "slug": "minimum-time-to-collect-all-apples-in-a-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-collect-all-apples-in-a-tree/"
+    },
+    {
+      "date": "2023-01-12",
+      "id": "1519",
+      "title": "Number of Nodes in the Sub-Tree With the Same Label",
+      "slug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/"
+    },
+    {
+      "date": "2023-01-13",
+      "id": "2246",
+      "title": "Longest Path With Different Adjacent Characters",
+      "slug": "longest-path-with-different-adjacent-characters",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-path-with-different-adjacent-characters/"
+    },
+    {
+      "date": "2023-01-14",
+      "id": "1061",
+      "title": "Lexicographically Smallest Equivalent String",
+      "slug": "lexicographically-smallest-equivalent-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographically-smallest-equivalent-string/"
+    },
+    {
+      "date": "2023-01-15",
+      "id": "2421",
+      "title": "Number of Good Paths",
+      "slug": "number-of-good-paths",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-good-paths/"
+    },
+    {
+      "date": "2023-01-16",
+      "id": "57",
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-interval/"
+    },
+    {
+      "date": "2023-01-17",
+      "id": "926",
+      "title": "Flip String to Monotone Increasing",
+      "slug": "flip-string-to-monotone-increasing",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flip-string-to-monotone-increasing/"
+    },
+    {
+      "date": "2023-01-18",
+      "id": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-sum-circular-subarray/"
+    },
+    {
+      "date": "2023-01-19",
+      "id": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subarray-sums-divisible-by-k/"
+    },
+    {
+      "date": "2023-01-20",
+      "id": "491",
+      "title": "Non-decreasing Subsequences",
+      "slug": "non-decreasing-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/non-decreasing-subsequences/"
+    },
+    {
+      "date": "2023-01-21",
+      "id": "93",
+      "title": "Restore IP Addresses",
+      "slug": "restore-ip-addresses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/restore-ip-addresses/"
+    },
+    {
+      "date": "2023-01-22",
+      "id": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-partitioning/"
+    },
+    {
+      "date": "2023-01-23",
+      "id": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-town-judge/"
+    },
+    {
+      "date": "2023-01-24",
+      "id": "909",
+      "title": "Snakes and Ladders",
+      "slug": "snakes-and-ladders",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/snakes-and-ladders/"
+    },
+    {
+      "date": "2023-01-25",
+      "id": "2359",
+      "title": "Find Closest Node to Given Two Nodes",
+      "slug": "find-closest-node-to-given-two-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-closest-node-to-given-two-nodes/"
+    },
+    {
+      "date": "2023-01-26",
+      "id": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+      "date": "2023-01-27",
+      "id": "472",
+      "title": "Concatenated Words",
+      "slug": "concatenated-words",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/concatenated-words/"
+    },
+    {
+      "date": "2023-01-28",
+      "id": "352",
+      "title": "Data Stream as Disjoint Intervals",
+      "slug": "data-stream-as-disjoint-intervals",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/data-stream-as-disjoint-intervals/"
+    },
+    {
+      "date": "2023-01-29",
+      "id": "460",
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/lfu-cache/"
+    },
+    {
+      "date": "2023-01-30",
+      "id": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/n-th-tribonacci-number/"
+    },
+    {
+      "date": "2023-01-31",
+      "id": "1626",
+      "title": "Best Team With No Conflicts",
+      "slug": "best-team-with-no-conflicts",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-team-with-no-conflicts/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-01-01",
+      "id": "1056",
+      "title": "Confusing Number",
+      "slug": "confusing-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/confusing-number/"
+    },
+    {
+      "date": "2023-01-08",
+      "id": "2214",
+      "title": "Minimum Health to Beat Game",
+      "slug": "minimum-health-to-beat-game",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-health-to-beat-game/"
+    },
+    {
+      "date": "2023-01-15",
+      "id": "1533",
+      "title": "Find the Index of the Large Integer",
+      "slug": "find-the-index-of-the-large-integer",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-the-index-of-the-large-integer/"
+    },
+    {
+      "date": "2023-01-22",
+      "id": "1088",
+      "title": "Confusing Number II",
+      "slug": "confusing-number-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/confusing-number-ii/"
+    },
+    {
+      "date": "2023-01-29",
+      "id": "1908",
+      "title": "Game of Nim",
+      "slug": "game-of-nim",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/game-of-nim/"
+    }
+  ]
+}

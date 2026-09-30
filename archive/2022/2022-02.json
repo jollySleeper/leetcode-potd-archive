@@ -1,0 +1,296 @@
+{
+  "year": 2022,
+  "month": 2,
+  "challenges": [
+    {
+      "date": "2022-02-01",
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "date": "2022-02-02",
+      "id": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+      "date": "2022-02-03",
+      "id": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/4sum-ii/"
+    },
+    {
+      "date": "2022-02-04",
+      "id": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/contiguous-array/"
+    },
+    {
+      "date": "2022-02-05",
+      "id": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/merge-k-sorted-lists/"
+    },
+    {
+      "date": "2022-02-06",
+      "id": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-duplicates-from-sorted-array-ii/"
+    },
+    {
+      "date": "2022-02-07",
+      "id": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-difference/"
+    },
+    {
+      "date": "2022-02-08",
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-digits/"
+    },
+    {
+      "date": "2022-02-09",
+      "id": "532",
+      "title": "K-diff Pairs in an Array",
+      "slug": "k-diff-pairs-in-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-diff-pairs-in-an-array/"
+    },
+    {
+      "date": "2022-02-10",
+      "id": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subarray-sum-equals-k/"
+    },
+    {
+      "date": "2022-02-11",
+      "id": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutation-in-string/"
+    },
+    {
+      "date": "2022-02-12",
+      "id": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-ladder/"
+    },
+    {
+      "date": "2022-02-13",
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subsets/"
+    },
+    {
+      "date": "2022-02-14",
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "date": "2022-02-15",
+      "id": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/single-number/"
+    },
+    {
+      "date": "2022-02-16",
+      "id": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/swap-nodes-in-pairs/"
+    },
+    {
+      "date": "2022-02-17",
+      "id": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum/"
+    },
+    {
+      "date": "2022-02-18",
+      "id": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-k-digits/"
+    },
+    {
+      "date": "2022-02-19",
+      "id": "1675",
+      "title": "Minimize Deviation in Array",
+      "slug": "minimize-deviation-in-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-deviation-in-array/"
+    },
+    {
+      "date": "2022-02-20",
+      "id": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-covered-intervals/"
+    },
+    {
+      "date": "2022-02-21",
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/majority-element/"
+    },
+    {
+      "date": "2022-02-22",
+      "id": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/excel-sheet-column-number/"
+    },
+    {
+      "date": "2022-02-23",
+      "id": "133",
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/clone-graph/"
+    },
+    {
+      "date": "2022-02-24",
+      "id": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-list/"
+    },
+    {
+      "date": "2022-02-25",
+      "id": "165",
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/compare-version-numbers/"
+    },
+    {
+      "date": "2022-02-26",
+      "id": "847",
+      "title": "Shortest Path Visiting All Nodes",
+      "slug": "shortest-path-visiting-all-nodes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-visiting-all-nodes/"
+    },
+    {
+      "date": "2022-02-27",
+      "id": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-width-of-binary-tree/"
+    },
+    {
+      "date": "2022-02-28",
+      "id": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/summary-ranges/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-02-01",
+      "id": "1101",
+      "title": "The Earliest Moment When Everyone Become Friends",
+      "slug": "the-earliest-moment-when-everyone-become-friends",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-earliest-moment-when-everyone-become-friends/"
+    },
+    {
+      "date": "2022-02-08",
+      "id": "1274",
+      "title": "Number of Ships in a Rectangle",
+      "slug": "number-of-ships-in-a-rectangle",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-ships-in-a-rectangle/"
+    },
+    {
+      "date": "2022-02-15",
+      "id": "1100",
+      "title": "Find K-Length Substrings With No Repeated Characters",
+      "slug": "find-k-length-substrings-with-no-repeated-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-k-length-substrings-with-no-repeated-characters/"
+    },
+    {
+      "date": "2022-02-22",
+      "id": "1064",
+      "title": "Fixed Point",
+      "slug": "fixed-point",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/fixed-point/"
+    }
+  ]
+}

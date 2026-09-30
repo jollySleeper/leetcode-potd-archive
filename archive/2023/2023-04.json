@@ -1,0 +1,323 @@
+{
+  "year": 2023,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2023-04-01",
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search/"
+    },
+    {
+      "date": "2023-04-02",
+      "id": "2300",
+      "title": "Successful Pairs of Spells and Potions",
+      "slug": "successful-pairs-of-spells-and-potions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/successful-pairs-of-spells-and-potions/"
+    },
+    {
+      "date": "2023-04-03",
+      "id": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/boats-to-save-people/"
+    },
+    {
+      "date": "2023-04-04",
+      "id": "2405",
+      "title": "Optimal Partition of String",
+      "slug": "optimal-partition-of-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/optimal-partition-of-string/"
+    },
+    {
+      "date": "2023-04-05",
+      "id": "2439",
+      "title": "Minimize Maximum of Array",
+      "slug": "minimize-maximum-of-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-maximum-of-array/"
+    },
+    {
+      "date": "2023-04-06",
+      "id": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-closed-islands/"
+    },
+    {
+      "date": "2023-04-07",
+      "id": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-enclaves/"
+    },
+    {
+      "date": "2023-04-08",
+      "id": "133",
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/clone-graph/"
+    },
+    {
+      "date": "2023-04-09",
+      "id": "1857",
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-color-value-in-a-directed-graph/"
+    },
+    {
+      "date": "2023-04-10",
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-parentheses/"
+    },
+    {
+      "date": "2023-04-11",
+      "id": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/removing-stars-from-a-string/"
+    },
+    {
+      "date": "2023-04-12",
+      "id": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/simplify-path/"
+    },
+    {
+      "date": "2023-04-13",
+      "id": "946",
+      "title": "Validate Stack Sequences",
+      "slug": "validate-stack-sequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-stack-sequences/"
+    },
+    {
+      "date": "2023-04-14",
+      "id": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindromic-subsequence/"
+    },
+    {
+      "date": "2023-04-15",
+      "id": "2218",
+      "title": "Maximum Value of K Coins From Piles",
+      "slug": "maximum-value-of-k-coins-from-piles",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-value-of-k-coins-from-piles/"
+    },
+    {
+      "date": "2023-04-16",
+      "id": "1639",
+      "title": "Number of Ways to Form a Target String Given a Dictionary",
+      "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/"
+    },
+    {
+      "date": "2023-04-17",
+      "id": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/kids-with-the-greatest-number-of-candies/"
+    },
+    {
+      "date": "2023-04-18",
+      "id": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/merge-strings-alternately/"
+    },
+    {
+      "date": "2023-04-19",
+      "id": "1372",
+      "title": "Longest ZigZag Path in a Binary Tree",
+      "slug": "longest-zigzag-path-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-zigzag-path-in-a-binary-tree/"
+    },
+    {
+      "date": "2023-04-20",
+      "id": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-width-of-binary-tree/"
+    },
+    {
+      "date": "2023-04-21",
+      "id": "879",
+      "title": "Profitable Schemes",
+      "slug": "profitable-schemes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/profitable-schemes/"
+    },
+    {
+      "date": "2023-04-22",
+      "id": "1312",
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+    },
+    {
+      "date": "2023-04-23",
+      "id": "1416",
+      "title": "Restore The Array",
+      "slug": "restore-the-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/restore-the-array/"
+    },
+    {
+      "date": "2023-04-24",
+      "id": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/last-stone-weight/"
+    },
+    {
+      "date": "2023-04-25",
+      "id": "2336",
+      "title": "Smallest Number in Infinite Set",
+      "slug": "smallest-number-in-infinite-set",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-number-in-infinite-set/"
+    },
+    {
+      "date": "2023-04-26",
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-digits/"
+    },
+    {
+      "date": "2023-04-27",
+      "id": "319",
+      "title": "Bulb Switcher",
+      "slug": "bulb-switcher",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bulb-switcher/"
+    },
+    {
+      "date": "2023-04-28",
+      "id": "839",
+      "title": "Similar String Groups",
+      "slug": "similar-string-groups",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/similar-string-groups/"
+    },
+    {
+      "date": "2023-04-29",
+      "id": "1697",
+      "title": "Checking Existence of Edge Length Limited Paths",
+      "slug": "checking-existence-of-edge-length-limited-paths",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/checking-existence-of-edge-length-limited-paths/"
+    },
+    {
+      "date": "2023-04-30",
+      "id": "1579",
+      "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+      "slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-04-01",
+      "id": "245",
+      "title": "Shortest Word Distance III",
+      "slug": "shortest-word-distance-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-word-distance-iii/"
+    },
+    {
+      "date": "2023-04-08",
+      "id": "760",
+      "title": "Find Anagram Mappings",
+      "slug": "find-anagram-mappings",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/find-anagram-mappings/"
+    },
+    {
+      "date": "2023-04-15",
+      "id": "1548",
+      "title": "The Most Similar Path in a Graph",
+      "slug": "the-most-similar-path-in-a-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/the-most-similar-path-in-a-graph/"
+    },
+    {
+      "date": "2023-04-22",
+      "id": "727",
+      "title": "Minimum Window Subsequence",
+      "slug": "minimum-window-subsequence",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-window-subsequence/"
+    },
+    {
+      "date": "2023-04-29",
+      "id": "1538",
+      "title": "Guess the Majority in a Hidden Array",
+      "slug": "guess-the-majority-in-a-hidden-array",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/guess-the-majority-in-a-hidden-array/"
+    }
+  ]
+}

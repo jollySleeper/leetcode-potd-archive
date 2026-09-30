@@ -1,0 +1,323 @@
+{
+  "year": 2021,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2021-06-01",
+      "id": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-area-of-island/"
+    },
+    {
+      "date": "2021-06-02",
+      "id": "97",
+      "title": "Interleaving String",
+      "slug": "interleaving-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/interleaving-string/"
+    },
+    {
+      "date": "2021-06-03",
+      "id": "1465",
+      "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+      "slug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/"
+    },
+    {
+      "date": "2021-06-04",
+      "id": "752",
+      "title": "Open the Lock",
+      "slug": "open-the-lock",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/open-the-lock/"
+    },
+    {
+      "date": "2021-06-05",
+      "id": "1383",
+      "title": "Maximum Performance of a Team",
+      "slug": "maximum-performance-of-a-team",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-performance-of-a-team/"
+    },
+    {
+      "date": "2021-06-06",
+      "id": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-consecutive-sequence/"
+    },
+    {
+      "date": "2021-06-07",
+      "id": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/min-cost-climbing-stairs/"
+    },
+    {
+      "date": "2021-06-08",
+      "id": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+      "date": "2021-06-09",
+      "id": "1696",
+      "title": "Jump Game VI",
+      "slug": "jump-game-vi",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-vi/"
+    },
+    {
+      "date": "2021-06-10",
+      "id": "729",
+      "title": "My Calendar I",
+      "slug": "my-calendar-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/my-calendar-i/"
+    },
+    {
+      "date": "2021-06-11",
+      "id": "1690",
+      "title": "Stone Game VII",
+      "slug": "stone-game-vii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/stone-game-vii/"
+    },
+    {
+      "date": "2021-06-12",
+      "id": "871",
+      "title": "Minimum Number of Refueling Stops",
+      "slug": "minimum-number-of-refueling-stops",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-refueling-stops/"
+    },
+    {
+      "date": "2021-06-13",
+      "id": "336",
+      "title": "Palindrome Pairs",
+      "slug": "palindrome-pairs",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-pairs/"
+    },
+    {
+      "date": "2021-06-14",
+      "id": "1710",
+      "title": "Maximum Units on a Truck",
+      "slug": "maximum-units-on-a-truck",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-units-on-a-truck/"
+    },
+    {
+      "date": "2021-06-15",
+      "id": "473",
+      "title": "Matchsticks to Square",
+      "slug": "matchsticks-to-square",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/matchsticks-to-square/"
+    },
+    {
+      "date": "2021-06-16",
+      "id": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/generate-parentheses/"
+    },
+    {
+      "date": "2021-06-17",
+      "id": "795",
+      "title": "Number of Subarrays with Bounded Maximum",
+      "slug": "number-of-subarrays-with-bounded-maximum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-subarrays-with-bounded-maximum/"
+    },
+    {
+      "date": "2021-06-18",
+      "id": "307",
+      "title": "Range Sum Query - Mutable",
+      "slug": "range-sum-query-mutable",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/range-sum-query-mutable/"
+    },
+    {
+      "date": "2021-06-19",
+      "id": "629",
+      "title": "K Inverse Pairs Array",
+      "slug": "k-inverse-pairs-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/k-inverse-pairs-array/"
+    },
+    {
+      "date": "2021-06-20",
+      "id": "778",
+      "title": "Swim in Rising Water",
+      "slug": "swim-in-rising-water",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/swim-in-rising-water/"
+    },
+    {
+      "date": "2021-06-21",
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/pascals-triangle/"
+    },
+    {
+      "date": "2021-06-22",
+      "id": "792",
+      "title": "Number of Matching Subsequences",
+      "slug": "number-of-matching-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-matching-subsequences/"
+    },
+    {
+      "date": "2021-06-23",
+      "id": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-linked-list-ii/"
+    },
+    {
+      "date": "2021-06-24",
+      "id": "576",
+      "title": "Out of Boundary Paths",
+      "slug": "out-of-boundary-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/out-of-boundary-paths/"
+    },
+    {
+      "date": "2021-06-25",
+      "id": "684",
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/redundant-connection/"
+    },
+    {
+      "date": "2021-06-26",
+      "id": "315",
+      "title": "Count of Smaller Numbers After Self",
+      "slug": "count-of-smaller-numbers-after-self",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-of-smaller-numbers-after-self/"
+    },
+    {
+      "date": "2021-06-27",
+      "id": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/candy/"
+    },
+    {
+      "date": "2021-06-28",
+      "id": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/remove-all-adjacent-duplicates-in-string/"
+    },
+    {
+      "date": "2021-06-29",
+      "id": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-consecutive-ones-iii/"
+    },
+    {
+      "date": "2021-06-30",
+      "id": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lowest-common-ancestor-of-a-binary-tree/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-06-01",
+      "id": "256",
+      "title": "Paint House",
+      "slug": "paint-house",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/paint-house/"
+    },
+    {
+      "date": "2021-06-08",
+      "id": "505",
+      "title": "The Maze II",
+      "slug": "the-maze-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze-ii/"
+    },
+    {
+      "date": "2021-06-15",
+      "id": "1182",
+      "title": "Shortest Distance to Target Color",
+      "slug": "shortest-distance-to-target-color",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-distance-to-target-color/"
+    },
+    {
+      "date": "2021-06-22",
+      "id": "1059",
+      "title": "All Paths from Source Lead to Destination",
+      "slug": "all-paths-from-source-lead-to-destination",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/all-paths-from-source-lead-to-destination/"
+    },
+    {
+      "date": "2021-06-29",
+      "id": "1134",
+      "title": "Armstrong Number",
+      "slug": "armstrong-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/armstrong-number/"
+    }
+  ]
+}

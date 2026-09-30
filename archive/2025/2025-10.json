@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 10,
+  "challenges": [
+    {
+      "date": "2025-10-01",
+      "id": "1518",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/water-bottles/"
+    },
+    {
+      "date": "2025-10-02",
+      "id": "3100",
+      "title": "Water Bottles II",
+      "slug": "water-bottles-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/water-bottles-ii/"
+    },
+    {
+      "date": "2025-10-03",
+      "id": "407",
+      "title": "Trapping Rain Water II",
+      "slug": "trapping-rain-water-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/trapping-rain-water-ii/"
+    },
+    {
+      "date": "2025-10-04",
+      "id": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/container-with-most-water/"
+    },
+    {
+      "date": "2025-10-05",
+      "id": "417",
+      "title": "Pacific Atlantic Water Flow",
+      "slug": "pacific-atlantic-water-flow",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pacific-atlantic-water-flow/"
+    },
+    {
+      "date": "2025-10-06",
+      "id": "778",
+      "title": "Swim in Rising Water",
+      "slug": "swim-in-rising-water",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/swim-in-rising-water/"
+    },
+    {
+      "date": "2025-10-07",
+      "id": "1488",
+      "title": "Avoid Flood in The City",
+      "slug": "avoid-flood-in-the-city",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/avoid-flood-in-the-city/"
+    },
+    {
+      "date": "2025-10-08",
+      "id": "2300",
+      "title": "Successful Pairs of Spells and Potions",
+      "slug": "successful-pairs-of-spells-and-potions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/successful-pairs-of-spells-and-potions/"
+    },
+    {
+      "date": "2025-10-09",
+      "id": "3494",
+      "title": "Find the Minimum Amount of Time to Brew Potions",
+      "slug": "find-the-minimum-amount-of-time-to-brew-potions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-minimum-amount-of-time-to-brew-potions/"
+    },
+    {
+      "date": "2025-10-10",
+      "id": "3147",
+      "title": "Taking Maximum Energy From the Mystic Dungeon",
+      "slug": "taking-maximum-energy-from-the-mystic-dungeon",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/taking-maximum-energy-from-the-mystic-dungeon/"
+    },
+    {
+      "date": "2025-10-11",
+      "id": "3186",
+      "title": "Maximum Total Damage With Spell Casting",
+      "slug": "maximum-total-damage-with-spell-casting",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-total-damage-with-spell-casting/"
+    },
+    {
+      "date": "2025-10-12",
+      "id": "3539",
+      "title": "Find Sum of Array Product of Magical Sequences",
+      "slug": "find-sum-of-array-product-of-magical-sequences",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-sum-of-array-product-of-magical-sequences/"
+    },
+    {
+      "date": "2025-10-13",
+      "id": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-resultant-array-after-removing-anagrams/"
+    },
+    {
+      "date": "2025-10-14",
+      "id": "3349",
+      "title": "Adjacent Increasing Subarrays Detection I",
+      "slug": "adjacent-increasing-subarrays-detection-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/adjacent-increasing-subarrays-detection-i/"
+    },
+    {
+      "date": "2025-10-15",
+      "id": "3350",
+      "title": "Adjacent Increasing Subarrays Detection II",
+      "slug": "adjacent-increasing-subarrays-detection-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/adjacent-increasing-subarrays-detection-ii/"
+    },
+    {
+      "date": "2025-10-16",
+      "id": "2598",
+      "title": "Smallest Missing Non-negative Integer After Operations",
+      "slug": "smallest-missing-non-negative-integer-after-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-missing-non-negative-integer-after-operations/"
+    },
+    {
+      "date": "2025-10-17",
+      "id": "3003",
+      "title": "Maximize the Number of Partitions After Operations",
+      "slug": "maximize-the-number-of-partitions-after-operations",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-the-number-of-partitions-after-operations/"
+    },
+    {
+      "date": "2025-10-18",
+      "id": "3397",
+      "title": "Maximum Number of Distinct Elements After Operations",
+      "slug": "maximum-number-of-distinct-elements-after-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-distinct-elements-after-operations/"
+    },
+    {
+      "date": "2025-10-19",
+      "id": "1625",
+      "title": "Lexicographically Smallest String After Applying Operations",
+      "slug": "lexicographically-smallest-string-after-applying-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lexicographically-smallest-string-after-applying-operations/"
+    },
+    {
+      "date": "2025-10-20",
+      "id": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/final-value-of-variable-after-performing-operations/"
+    },
+    {
+      "date": "2025-10-21",
+      "id": "3346",
+      "title": "Maximum Frequency of an Element After Performing Operations I",
+      "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-i/"
+    },
+    {
+      "date": "2025-10-22",
+      "id": "3347",
+      "title": "Maximum Frequency of an Element After Performing Operations II",
+      "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-frequency-of-an-element-after-performing-operations-ii/"
+    },
+    {
+      "date": "2025-10-23",
+      "id": "3461",
+      "title": "Check If Digits Are Equal in String After Operations I",
+      "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-digits-are-equal-in-string-after-operations-i/"
+    },
+    {
+      "date": "2025-10-24",
+      "id": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/next-greater-numerically-balanced-number/"
+    },
+    {
+      "date": "2025-10-25",
+      "id": "1716",
+      "title": "Calculate Money in Leetcode Bank",
+      "slug": "calculate-money-in-leetcode-bank",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/calculate-money-in-leetcode-bank/"
+    },
+    {
+      "date": "2025-10-26",
+      "id": "2043",
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/simple-bank-system/"
+    },
+    {
+      "date": "2025-10-27",
+      "id": "2125",
+      "title": "Number of Laser Beams in a Bank",
+      "slug": "number-of-laser-beams-in-a-bank",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-laser-beams-in-a-bank/"
+    },
+    {
+      "date": "2025-10-28",
+      "id": "3354",
+      "title": "Make Array Elements Equal to Zero",
+      "slug": "make-array-elements-equal-to-zero",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/make-array-elements-equal-to-zero/"
+    },
+    {
+      "date": "2025-10-29",
+      "id": "3370",
+      "title": "Smallest Number With All Set Bits",
+      "slug": "smallest-number-with-all-set-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-number-with-all-set-bits/"
+    },
+    {
+      "date": "2025-10-30",
+      "id": "1526",
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/"
+    },
+    {
+      "date": "2025-10-31",
+      "id": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/the-two-sneaky-numbers-of-digitville/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-10-01",
+      "id": "1135",
+      "title": "Connecting Cities With Minimum Cost",
+      "slug": "connecting-cities-with-minimum-cost",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/connecting-cities-with-minimum-cost/"
+    },
+    {
+      "date": "2025-10-08",
+      "id": "774",
+      "title": "Minimize Max Distance to Gas Station",
+      "slug": "minimize-max-distance-to-gas-station",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/minimize-max-distance-to-gas-station/"
+    },
+    {
+      "date": "2025-10-15",
+      "id": "656",
+      "title": "Coin Path",
+      "slug": "coin-path",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/coin-path/"
+    },
+    {
+      "date": "2025-10-22",
+      "id": "1570",
+      "title": "Dot Product of Two Sparse Vectors",
+      "slug": "dot-product-of-two-sparse-vectors",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/dot-product-of-two-sparse-vectors/"
+    },
+    {
+      "date": "2025-10-29",
+      "id": "2464",
+      "title": "Minimum Subarrays in a Valid Split",
+      "slug": "minimum-subarrays-in-a-valid-split",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-subarrays-in-a-valid-split/"
+    }
+  ]
+}

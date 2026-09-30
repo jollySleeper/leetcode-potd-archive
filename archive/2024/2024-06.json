@@ -1,0 +1,323 @@
+{
+  "year": 2024,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2024-06-01",
+      "id": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/score-of-a-string/"
+    },
+    {
+      "date": "2024-06-02",
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-string/"
+    },
+    {
+      "date": "2024-06-03",
+      "id": "2486",
+      "title": "Append Characters to String to Make Subsequence",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/append-characters-to-string-to-make-subsequence/"
+    },
+    {
+      "date": "2024-06-04",
+      "id": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindrome/"
+    },
+    {
+      "date": "2024-06-05",
+      "id": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-common-characters/"
+    },
+    {
+      "date": "2024-06-06",
+      "id": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/hand-of-straights/"
+    },
+    {
+      "date": "2024-06-07",
+      "id": "648",
+      "title": "Replace Words",
+      "slug": "replace-words",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/replace-words/"
+    },
+    {
+      "date": "2024-06-08",
+      "id": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/continuous-subarray-sum/"
+    },
+    {
+      "date": "2024-06-09",
+      "id": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subarray-sums-divisible-by-k/"
+    },
+    {
+      "date": "2024-06-10",
+      "id": "1051",
+      "title": "Height Checker",
+      "slug": "height-checker",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/height-checker/"
+    },
+    {
+      "date": "2024-06-11",
+      "id": "1122",
+      "title": "Relative Sort Array",
+      "slug": "relative-sort-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/relative-sort-array/"
+    },
+    {
+      "date": "2024-06-12",
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-colors/"
+    },
+    {
+      "date": "2024-06-13",
+      "id": "2037",
+      "title": "Minimum Number of Moves to Seat Everyone",
+      "slug": "minimum-number-of-moves-to-seat-everyone",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-moves-to-seat-everyone/"
+    },
+    {
+      "date": "2024-06-14",
+      "id": "945",
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-increment-to-make-array-unique/"
+    },
+    {
+      "date": "2024-06-15",
+      "id": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/ipo/"
+    },
+    {
+      "date": "2024-06-16",
+      "id": "330",
+      "title": "Patching Array",
+      "slug": "patching-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/patching-array/"
+    },
+    {
+      "date": "2024-06-17",
+      "id": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-square-numbers/"
+    },
+    {
+      "date": "2024-06-18",
+      "id": "826",
+      "title": "Most Profit Assigning Work",
+      "slug": "most-profit-assigning-work",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/most-profit-assigning-work/"
+    },
+    {
+      "date": "2024-06-19",
+      "id": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-days-to-make-m-bouquets/"
+    },
+    {
+      "date": "2024-06-20",
+      "id": "1552",
+      "title": "Magnetic Force Between Two Balls",
+      "slug": "magnetic-force-between-two-balls",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/magnetic-force-between-two-balls/"
+    },
+    {
+      "date": "2024-06-21",
+      "id": "1052",
+      "title": "Grumpy Bookstore Owner",
+      "slug": "grumpy-bookstore-owner",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/grumpy-bookstore-owner/"
+    },
+    {
+      "date": "2024-06-22",
+      "id": "1248",
+      "title": "Count Number of Nice Subarrays",
+      "slug": "count-number-of-nice-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-nice-subarrays/"
+    },
+    {
+      "date": "2024-06-23",
+      "id": "1438",
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/"
+    },
+    {
+      "date": "2024-06-24",
+      "id": "995",
+      "title": "Minimum Number of K Consecutive Bit Flips",
+      "slug": "minimum-number-of-k-consecutive-bit-flips",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-k-consecutive-bit-flips/"
+    },
+    {
+      "date": "2024-06-25",
+      "id": "1038",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "slug": "binary-search-tree-to-greater-sum-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search-tree-to-greater-sum-tree/"
+    },
+    {
+      "date": "2024-06-26",
+      "id": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/balance-a-binary-search-tree/"
+    },
+    {
+      "date": "2024-06-27",
+      "id": "1791",
+      "title": "Find Center of Star Graph",
+      "slug": "find-center-of-star-graph",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-center-of-star-graph/"
+    },
+    {
+      "date": "2024-06-28",
+      "id": "2285",
+      "title": "Maximum Total Importance of Roads",
+      "slug": "maximum-total-importance-of-roads",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-total-importance-of-roads/"
+    },
+    {
+      "date": "2024-06-29",
+      "id": "2192",
+      "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+      "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/"
+    },
+    {
+      "date": "2024-06-30",
+      "id": "1579",
+      "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+      "slug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-06-01",
+      "id": "1940",
+      "title": "Longest Common Subsequence Between Sorted Arrays",
+      "slug": "longest-common-subsequence-between-sorted-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-common-subsequence-between-sorted-arrays/"
+    },
+    {
+      "date": "2024-06-08",
+      "id": "2083",
+      "title": "Substrings That Begin and End With the Same Letter",
+      "slug": "substrings-that-begin-and-end-with-the-same-letter",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/substrings-that-begin-and-end-with-the-same-letter/"
+    },
+    {
+      "date": "2024-06-15",
+      "id": "1580",
+      "title": "Put Boxes Into the Warehouse II",
+      "slug": "put-boxes-into-the-warehouse-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/put-boxes-into-the-warehouse-ii/"
+    },
+    {
+      "date": "2024-06-22",
+      "id": "2743",
+      "title": "Count Substrings Without Repeating Character",
+      "slug": "count-substrings-without-repeating-character",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/count-substrings-without-repeating-character/"
+    },
+    {
+      "date": "2024-06-29",
+      "id": "776",
+      "title": "Split BST",
+      "slug": "split-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/split-bst/"
+    }
+  ]
+}

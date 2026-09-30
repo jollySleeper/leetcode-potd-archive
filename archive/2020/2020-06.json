@@ -1,0 +1,277 @@
+{
+  "year": 2020,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2020-06-01",
+      "id": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/invert-binary-tree/"
+    },
+    {
+      "date": "2020-06-02",
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-node-in-a-linked-list/"
+    },
+    {
+      "date": "2020-06-03",
+      "id": "1029",
+      "title": "Two City Scheduling",
+      "slug": "two-city-scheduling",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/two-city-scheduling/"
+    },
+    {
+      "date": "2020-06-04",
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-string/"
+    },
+    {
+      "date": "2020-06-05",
+      "id": "528",
+      "title": "Random Pick with Weight",
+      "slug": "random-pick-with-weight",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/random-pick-with-weight/"
+    },
+    {
+      "date": "2020-06-06",
+      "id": "406",
+      "title": "Queue Reconstruction by Height",
+      "slug": "queue-reconstruction-by-height",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/queue-reconstruction-by-height/"
+    },
+    {
+      "date": "2020-06-07",
+      "id": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/coin-change-ii/"
+    },
+    {
+      "date": "2020-06-08",
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-two/"
+    },
+    {
+      "date": "2020-06-09",
+      "id": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/is-subsequence/"
+    },
+    {
+      "date": "2020-06-10",
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/search-insert-position/"
+    },
+    {
+      "date": "2020-06-11",
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-colors/"
+    },
+    {
+      "date": "2020-06-12",
+      "id": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-delete-getrandom-o1/"
+    },
+    {
+      "date": "2020-06-13",
+      "id": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-divisible-subset/"
+    },
+    {
+      "date": "2020-06-14",
+      "id": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+      "date": "2020-06-15",
+      "id": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-a-binary-search-tree/"
+    },
+    {
+      "date": "2020-06-16",
+      "id": "468",
+      "title": "Validate IP Address",
+      "slug": "validate-ip-address",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-ip-address/"
+    },
+    {
+      "date": "2020-06-17",
+      "id": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/surrounded-regions/"
+    },
+    {
+      "date": "2020-06-18",
+      "id": "275",
+      "title": "H-Index II",
+      "slug": "h-index-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/h-index-ii/"
+    },
+    {
+      "date": "2020-06-19",
+      "id": "1044",
+      "title": "Longest Duplicate Substring",
+      "slug": "longest-duplicate-substring",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-duplicate-substring/"
+    },
+    {
+      "date": "2020-06-20",
+      "id": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/permutation-sequence/"
+    },
+    {
+      "date": "2020-06-21",
+      "id": "174",
+      "title": "Dungeon Game",
+      "slug": "dungeon-game",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/dungeon-game/"
+    },
+    {
+      "date": "2020-06-22",
+      "id": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-number-ii/"
+    },
+    {
+      "date": "2020-06-23",
+      "id": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-complete-tree-nodes/"
+    },
+    {
+      "date": "2020-06-24",
+      "id": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-binary-search-trees/"
+    },
+    {
+      "date": "2020-06-25",
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-duplicate-number/"
+    },
+    {
+      "date": "2020-06-26",
+      "id": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      "date": "2020-06-27",
+      "id": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/perfect-squares/"
+    },
+    {
+      "date": "2020-06-28",
+      "id": "332",
+      "title": "Reconstruct Itinerary",
+      "slug": "reconstruct-itinerary",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/reconstruct-itinerary/"
+    },
+    {
+      "date": "2020-06-29",
+      "id": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths/"
+    },
+    {
+      "date": "2020-06-30",
+      "id": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-search-ii/"
+    }
+  ],
+  "weeklyChallenges": []
+}

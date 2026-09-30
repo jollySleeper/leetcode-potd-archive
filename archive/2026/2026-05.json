@@ -1,0 +1,341 @@
+{
+  "year": 2026,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2026-05-01",
+      "id": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-function/"
+    },
+    {
+      "date": "2026-05-02",
+      "id": "788",
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotated-digits/"
+    },
+    {
+      "date": "2026-05-03",
+      "id": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-string/"
+    },
+    {
+      "date": "2026-05-04",
+      "id": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-image/"
+    },
+    {
+      "date": "2026-05-05",
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-list/"
+    },
+    {
+      "date": "2026-05-06",
+      "id": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotating-the-box/"
+    },
+    {
+      "date": "2026-05-07",
+      "id": "3660",
+      "title": "Jump Game IX",
+      "slug": "jump-game-ix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-ix/"
+    },
+    {
+      "date": "2026-05-08",
+      "id": "3629",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-jumps-to-reach-end-via-prime-teleportation/"
+    },
+    {
+      "date": "2026-05-09",
+      "id": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/cyclically-rotating-a-grid/"
+    },
+    {
+      "date": "2026-05-10",
+      "id": "2770",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-jumps-to-reach-the-last-index/"
+    },
+    {
+      "date": "2026-05-11",
+      "id": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/separate-the-digits-in-an-array/"
+    },
+    {
+      "date": "2026-05-12",
+      "id": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-initial-energy-to-finish-tasks/"
+    },
+    {
+      "date": "2026-05-13",
+      "id": "1674",
+      "title": "Minimum Moves to Make Array Complementary",
+      "slug": "minimum-moves-to-make-array-complementary",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-moves-to-make-array-complementary/"
+    },
+    {
+      "date": "2026-05-14",
+      "id": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-array-is-good/"
+    },
+    {
+      "date": "2026-05-15",
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+      "date": "2026-05-16",
+      "id": "154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-in-rotated-sorted-array-ii/"
+    },
+    {
+      "date": "2026-05-17",
+      "id": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iii/"
+    },
+    {
+      "date": "2026-05-18",
+      "id": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iv/"
+    },
+    {
+      "date": "2026-05-19",
+      "id": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-common-value/"
+    },
+    {
+      "date": "2026-05-20",
+      "id": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-prefix-common-array-of-two-arrays/"
+    },
+    {
+      "date": "2026-05-21",
+      "id": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-length-of-the-longest-common-prefix/"
+    },
+    {
+      "date": "2026-05-22",
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-rotated-sorted-array/"
+    },
+    {
+      "date": "2026-05-23",
+      "id": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-array-is-sorted-and-rotated/"
+    },
+    {
+      "date": "2026-05-24",
+      "id": "1340",
+      "title": "Jump Game V",
+      "slug": "jump-game-v",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-v/"
+    },
+    {
+      "date": "2026-05-25",
+      "id": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-vii/"
+    },
+    {
+      "date": "2026-05-26",
+      "id": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-special-characters-i/"
+    },
+    {
+      "date": "2026-05-27",
+      "id": "3121",
+      "title": "Count the Number of Special Characters II",
+      "slug": "count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-special-characters-ii/"
+    },
+    {
+      "date": "2026-05-28",
+      "id": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-common-suffix-queries/"
+    },
+    {
+      "date": "2026-05-29",
+      "id": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-element-after-replacement-with-digit-sum/"
+    },
+    {
+      "date": "2026-05-30",
+      "id": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/block-placement-queries/"
+    },
+    {
+      "date": "2026-05-31",
+      "id": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/destroying-asteroids/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-05-01",
+      "id": "759",
+      "title": "Employee Free Time",
+      "slug": "employee-free-time",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/employee-free-time/"
+    },
+    {
+      "date": "2026-05-08",
+      "id": "489",
+      "title": "Robot Room Cleaner",
+      "slug": "robot-room-cleaner",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/robot-room-cleaner/"
+    },
+    {
+      "date": "2026-05-15",
+      "id": "2061",
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "slug": "number-of-spaces-cleaning-robot-cleaned",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-spaces-cleaning-robot-cleaned/"
+    },
+    {
+      "date": "2026-05-22",
+      "id": "1064",
+      "title": "Fixed Point",
+      "slug": "fixed-point",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/fixed-point/"
+    },
+    {
+      "date": "2026-05-29",
+      "id": "1056",
+      "title": "Confusing Number",
+      "slug": "confusing-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/confusing-number/"
+    },
+    {
+      "date": "2026-06-05",
+      "id": "1088",
+      "title": "Confusing Number II",
+      "slug": "confusing-number-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/confusing-number-ii/"
+    }
+  ]
+}

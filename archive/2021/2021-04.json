@@ -1,0 +1,323 @@
+{
+  "year": 2021,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2021-04-01",
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-linked-list/"
+    },
+    {
+      "date": "2021-04-02",
+      "id": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ones-and-zeroes/"
+    },
+    {
+      "date": "2021-04-03",
+      "id": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-valid-parentheses/"
+    },
+    {
+      "date": "2021-04-04",
+      "id": "622",
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-circular-queue/"
+    },
+    {
+      "date": "2021-04-05",
+      "id": "775",
+      "title": "Global and Local Inversions",
+      "slug": "global-and-local-inversions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/global-and-local-inversions/"
+    },
+    {
+      "date": "2021-04-06",
+      "id": "1551",
+      "title": "Minimum Operations to Make Array Equal",
+      "slug": "minimum-operations-to-make-array-equal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-make-array-equal/"
+    },
+    {
+      "date": "2021-04-07",
+      "id": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/determine-if-string-halves-are-alike/"
+    },
+    {
+      "date": "2021-04-08",
+      "id": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+      "date": "2021-04-09",
+      "id": "953",
+      "title": "Verifying an Alien Dictionary",
+      "slug": "verifying-an-alien-dictionary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/verifying-an-alien-dictionary/"
+    },
+    {
+      "date": "2021-04-10",
+      "id": "329",
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-increasing-path-in-a-matrix/"
+    },
+    {
+      "date": "2021-04-11",
+      "id": "1302",
+      "title": "Deepest Leaves Sum",
+      "slug": "deepest-leaves-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/deepest-leaves-sum/"
+    },
+    {
+      "date": "2021-04-12",
+      "id": "667",
+      "title": "Beautiful Arrangement II",
+      "slug": "beautiful-arrangement-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/beautiful-arrangement-ii/"
+    },
+    {
+      "date": "2021-04-13",
+      "id": "341",
+      "title": "Flatten Nested List Iterator",
+      "slug": "flatten-nested-list-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flatten-nested-list-iterator/"
+    },
+    {
+      "date": "2021-04-14",
+      "id": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/partition-list/"
+    },
+    {
+      "date": "2021-04-15",
+      "id": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/fibonacci-number/"
+    },
+    {
+      "date": "2021-04-16",
+      "id": "1209",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-all-adjacent-duplicates-in-string-ii/"
+    },
+    {
+      "date": "2021-04-17",
+      "id": "1074",
+      "title": "Number of Submatrices That Sum to Target",
+      "slug": "number-of-submatrices-that-sum-to-target",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-submatrices-that-sum-to-target/"
+    },
+    {
+      "date": "2021-04-18",
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+      "date": "2021-04-19",
+      "id": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum-iv/"
+    },
+    {
+      "date": "2021-04-20",
+      "id": "589",
+      "title": "N-ary Tree Preorder Traversal",
+      "slug": "n-ary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/n-ary-tree-preorder-traversal/"
+    },
+    {
+      "date": "2021-04-21",
+      "id": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/triangle/"
+    },
+    {
+      "date": "2021-04-22",
+      "id": "554",
+      "title": "Brick Wall",
+      "slug": "brick-wall",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/brick-wall/"
+    },
+    {
+      "date": "2021-04-23",
+      "id": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-binary-substrings/"
+    },
+    {
+      "date": "2021-04-24",
+      "id": "1192",
+      "title": "Critical Connections in a Network",
+      "slug": "critical-connections-in-a-network",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/critical-connections-in-a-network/"
+    },
+    {
+      "date": "2021-04-25",
+      "id": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-image/"
+    },
+    {
+      "date": "2021-04-26",
+      "id": "1642",
+      "title": "Furthest Building You Can Reach",
+      "slug": "furthest-building-you-can-reach",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/furthest-building-you-can-reach/"
+    },
+    {
+      "date": "2021-04-27",
+      "id": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-three/"
+    },
+    {
+      "date": "2021-04-28",
+      "id": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths-ii/"
+    },
+    {
+      "date": "2021-04-29",
+      "id": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-first-and-last-position-of-element-in-sorted-array/"
+    },
+    {
+      "date": "2021-04-30",
+      "id": "970",
+      "title": "Powerful Integers",
+      "slug": "powerful-integers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/powerful-integers/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2021-04-01",
+      "id": "1133",
+      "title": "Largest Unique Number",
+      "slug": "largest-unique-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/largest-unique-number/"
+    },
+    {
+      "date": "2021-04-08",
+      "id": "285",
+      "title": "Inorder Successor in BST",
+      "slug": "inorder-successor-in-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/inorder-successor-in-bst/"
+    },
+    {
+      "date": "2021-04-15",
+      "id": "1151",
+      "title": "Minimum Swaps to Group All 1's Together",
+      "slug": "minimum-swaps-to-group-all-1s-together",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-swaps-to-group-all-1s-together/"
+    },
+    {
+      "date": "2021-04-22",
+      "id": "1228",
+      "title": "Missing Number In Arithmetic Progression",
+      "slug": "missing-number-in-arithmetic-progression",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/missing-number-in-arithmetic-progression/"
+    },
+    {
+      "date": "2021-04-29",
+      "id": "1229",
+      "title": "Meeting Scheduler",
+      "slug": "meeting-scheduler",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/meeting-scheduler/"
+    }
+  ]
+}

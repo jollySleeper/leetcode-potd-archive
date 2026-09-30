@@ -1,0 +1,332 @@
+{
+  "year": 2024,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2024-01-01",
+      "id": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/assign-cookies/"
+    },
+    {
+      "date": "2024-01-02",
+      "id": "2610",
+      "title": "Convert an Array Into a 2D Array With Conditions",
+      "slug": "convert-an-array-into-a-2d-array-with-conditions",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/convert-an-array-into-a-2d-array-with-conditions/"
+    },
+    {
+      "date": "2024-01-03",
+      "id": "2125",
+      "title": "Number of Laser Beams in a Bank",
+      "slug": "number-of-laser-beams-in-a-bank",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-laser-beams-in-a-bank/"
+    },
+    {
+      "date": "2024-01-04",
+      "id": "2870",
+      "title": "Minimum Number of Operations to Make Array Empty",
+      "slug": "minimum-number-of-operations-to-make-array-empty",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-make-array-empty/"
+    },
+    {
+      "date": "2024-01-05",
+      "id": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-increasing-subsequence/"
+    },
+    {
+      "date": "2024-01-06",
+      "id": "1235",
+      "title": "Maximum Profit in Job Scheduling",
+      "slug": "maximum-profit-in-job-scheduling",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-profit-in-job-scheduling/"
+    },
+    {
+      "date": "2024-01-07",
+      "id": "446",
+      "title": "Arithmetic Slices II - Subsequence",
+      "slug": "arithmetic-slices-ii-subsequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/arithmetic-slices-ii-subsequence/"
+    },
+    {
+      "date": "2024-01-08",
+      "id": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/range-sum-of-bst/"
+    },
+    {
+      "date": "2024-01-09",
+      "id": "872",
+      "title": "Leaf-Similar Trees",
+      "slug": "leaf-similar-trees",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/leaf-similar-trees/"
+    },
+    {
+      "date": "2024-01-10",
+      "id": "2385",
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "slug": "amount-of-time-for-binary-tree-to-be-infected",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/amount-of-time-for-binary-tree-to-be-infected/"
+    },
+    {
+      "date": "2024-01-11",
+      "id": "1026",
+      "title": "Maximum Difference Between Node and Ancestor",
+      "slug": "maximum-difference-between-node-and-ancestor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-difference-between-node-and-ancestor/"
+    },
+    {
+      "date": "2024-01-12",
+      "id": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/determine-if-string-halves-are-alike/"
+    },
+    {
+      "date": "2024-01-13",
+      "id": "1347",
+      "title": "Minimum Number of Steps to Make Two Strings Anagram",
+      "slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-steps-to-make-two-strings-anagram/"
+    },
+    {
+      "date": "2024-01-14",
+      "id": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/determine-if-two-strings-are-close/"
+    },
+    {
+      "date": "2024-01-15",
+      "id": "2225",
+      "title": "Find Players With Zero or One Losses",
+      "slug": "find-players-with-zero-or-one-losses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-players-with-zero-or-one-losses/"
+    },
+    {
+      "date": "2024-01-16",
+      "id": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/insert-delete-getrandom-o1/"
+    },
+    {
+      "date": "2024-01-17",
+      "id": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-number-of-occurrences/"
+    },
+    {
+      "date": "2024-01-18",
+      "id": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/climbing-stairs/"
+    },
+    {
+      "date": "2024-01-19",
+      "id": "931",
+      "title": "Minimum Falling Path Sum",
+      "slug": "minimum-falling-path-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-falling-path-sum/"
+    },
+    {
+      "date": "2024-01-20",
+      "id": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-subarray-minimums/"
+    },
+    {
+      "date": "2024-01-21",
+      "id": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/house-robber/"
+    },
+    {
+      "date": "2024-01-22",
+      "id": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/set-mismatch/"
+    },
+    {
+      "date": "2024-01-23",
+      "id": "1239",
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
+    },
+    {
+      "date": "2024-01-24",
+      "id": "1457",
+      "title": "Pseudo-Palindromic Paths in a Binary Tree",
+      "slug": "pseudo-palindromic-paths-in-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pseudo-palindromic-paths-in-a-binary-tree/"
+    },
+    {
+      "date": "2024-01-25",
+      "id": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-common-subsequence/"
+    },
+    {
+      "date": "2024-01-26",
+      "id": "576",
+      "title": "Out of Boundary Paths",
+      "slug": "out-of-boundary-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/out-of-boundary-paths/"
+    },
+    {
+      "date": "2024-01-27",
+      "id": "629",
+      "title": "K Inverse Pairs Array",
+      "slug": "k-inverse-pairs-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/k-inverse-pairs-array/"
+    },
+    {
+      "date": "2024-01-28",
+      "id": "1074",
+      "title": "Number of Submatrices That Sum to Target",
+      "slug": "number-of-submatrices-that-sum-to-target",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-submatrices-that-sum-to-target/"
+    },
+    {
+      "date": "2024-01-29",
+      "id": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/implement-queue-using-stacks/"
+    },
+    {
+      "date": "2024-01-30",
+      "id": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      "date": "2024-01-31",
+      "id": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/daily-temperatures/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-01-01",
+      "id": "1066",
+      "title": "Campus Bikes II",
+      "slug": "campus-bikes-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/campus-bikes-ii/"
+    },
+    {
+      "date": "2024-01-08",
+      "id": "1428",
+      "title": "Leftmost Column with at Least a One",
+      "slug": "leftmost-column-with-at-least-a-one",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/leftmost-column-with-at-least-a-one/"
+    },
+    {
+      "date": "2024-01-15",
+      "id": "1165",
+      "title": "Single-Row Keyboard",
+      "slug": "single-row-keyboard",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/single-row-keyboard/"
+    },
+    {
+      "date": "2024-01-22",
+      "id": "1167",
+      "title": "Minimum Cost to Connect Sticks",
+      "slug": "minimum-cost-to-connect-sticks",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-cost-to-connect-sticks/"
+    },
+    {
+      "date": "2024-01-29",
+      "id": "256",
+      "title": "Paint House",
+      "slug": "paint-house",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/paint-house/"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "year": 2024,
+  "month": 11,
+  "challenges": [
+    {
+      "date": "2024-11-01",
+      "id": "1957",
+      "title": "Delete Characters to Make Fancy String",
+      "slug": "delete-characters-to-make-fancy-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/delete-characters-to-make-fancy-string/"
+    },
+    {
+      "date": "2024-11-02",
+      "id": "2490",
+      "title": "Circular Sentence",
+      "slug": "circular-sentence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/circular-sentence/"
+    },
+    {
+      "date": "2024-11-03",
+      "id": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-string/"
+    },
+    {
+      "date": "2024-11-04",
+      "id": "3163",
+      "title": "String Compression III",
+      "slug": "string-compression-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/string-compression-iii/"
+    },
+    {
+      "date": "2024-11-05",
+      "id": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-changes-to-make-binary-string-beautiful/"
+    },
+    {
+      "date": "2024-11-06",
+      "id": "3011",
+      "title": "Find if Array Can Be Sorted",
+      "slug": "find-if-array-can-be-sorted",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-if-array-can-be-sorted/"
+    },
+    {
+      "date": "2024-11-07",
+      "id": "2275",
+      "title": "Largest Combination With Bitwise AND Greater Than Zero",
+      "slug": "largest-combination-with-bitwise-and-greater-than-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/largest-combination-with-bitwise-and-greater-than-zero/"
+    },
+    {
+      "date": "2024-11-08",
+      "id": "1829",
+      "title": "Maximum XOR for Each Query",
+      "slug": "maximum-xor-for-each-query",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-xor-for-each-query/"
+    },
+    {
+      "date": "2024-11-09",
+      "id": "3133",
+      "title": "Minimum Array End",
+      "slug": "minimum-array-end",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-array-end/"
+    },
+    {
+      "date": "2024-11-10",
+      "id": "3097",
+      "title": "Shortest Subarray With OR at Least K II",
+      "slug": "shortest-subarray-with-or-at-least-k-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-subarray-with-or-at-least-k-ii/"
+    },
+    {
+      "date": "2024-11-11",
+      "id": "2601",
+      "title": "Prime Subtraction Operation",
+      "slug": "prime-subtraction-operation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/prime-subtraction-operation/"
+    },
+    {
+      "date": "2024-11-12",
+      "id": "2070",
+      "title": "Most Beautiful Item for Each Query",
+      "slug": "most-beautiful-item-for-each-query",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/most-beautiful-item-for-each-query/"
+    },
+    {
+      "date": "2024-11-13",
+      "id": "2563",
+      "title": "Count the Number of Fair Pairs",
+      "slug": "count-the-number-of-fair-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-the-number-of-fair-pairs/"
+    },
+    {
+      "date": "2024-11-14",
+      "id": "2064",
+      "title": "Minimized Maximum of Products Distributed to Any Store",
+      "slug": "minimized-maximum-of-products-distributed-to-any-store",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimized-maximum-of-products-distributed-to-any-store/"
+    },
+    {
+      "date": "2024-11-15",
+      "id": "1574",
+      "title": "Shortest Subarray to be Removed to Make Array Sorted",
+      "slug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-subarray-to-be-removed-to-make-array-sorted/"
+    },
+    {
+      "date": "2024-11-16",
+      "id": "3254",
+      "title": "Find the Power of K-Size Subarrays I",
+      "slug": "find-the-power-of-k-size-subarrays-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-power-of-k-size-subarrays-i/"
+    },
+    {
+      "date": "2024-11-17",
+      "id": "862",
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-subarray-with-sum-at-least-k/"
+    },
+    {
+      "date": "2024-11-18",
+      "id": "1652",
+      "title": "Defuse the Bomb",
+      "slug": "defuse-the-bomb",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/defuse-the-bomb/"
+    },
+    {
+      "date": "2024-11-19",
+      "id": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-sum-of-distinct-subarrays-with-length-k/"
+    },
+    {
+      "date": "2024-11-20",
+      "id": "2516",
+      "title": "Take K of Each Character From Left and Right",
+      "slug": "take-k-of-each-character-from-left-and-right",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/take-k-of-each-character-from-left-and-right/"
+    },
+    {
+      "date": "2024-11-21",
+      "id": "2257",
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-unguarded-cells-in-the-grid/"
+    },
+    {
+      "date": "2024-11-22",
+      "id": "1072",
+      "title": "Flip Columns For Maximum Number of Equal Rows",
+      "slug": "flip-columns-for-maximum-number-of-equal-rows",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flip-columns-for-maximum-number-of-equal-rows/"
+    },
+    {
+      "date": "2024-11-23",
+      "id": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotating-the-box/"
+    },
+    {
+      "date": "2024-11-24",
+      "id": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-matrix-sum/"
+    },
+    {
+      "date": "2024-11-25",
+      "id": "773",
+      "title": "Sliding Puzzle",
+      "slug": "sliding-puzzle",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sliding-puzzle/"
+    },
+    {
+      "date": "2024-11-26",
+      "id": "2924",
+      "title": "Find Champion II",
+      "slug": "find-champion-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-champion-ii/"
+    },
+    {
+      "date": "2024-11-27",
+      "id": "3243",
+      "title": "Shortest Distance After Road Addition Queries I",
+      "slug": "shortest-distance-after-road-addition-queries-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-distance-after-road-addition-queries-i/"
+    },
+    {
+      "date": "2024-11-28",
+      "id": "2290",
+      "title": "Minimum Obstacle Removal to Reach Corner",
+      "slug": "minimum-obstacle-removal-to-reach-corner",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-obstacle-removal-to-reach-corner/"
+    },
+    {
+      "date": "2024-11-29",
+      "id": "2577",
+      "title": "Minimum Time to Visit a Cell In a Grid",
+      "slug": "minimum-time-to-visit-a-cell-in-a-grid",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-visit-a-cell-in-a-grid/"
+    },
+    {
+      "date": "2024-11-30",
+      "id": "2097",
+      "title": "Valid Arrangement of Pairs",
+      "slug": "valid-arrangement-of-pairs",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/valid-arrangement-of-pairs/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-11-01",
+      "id": "2955",
+      "title": "Number of Same-End Substrings",
+      "slug": "number-of-same-end-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-same-end-substrings/"
+    },
+    {
+      "date": "2024-11-08",
+      "id": "1213",
+      "title": "Intersection of Three Sorted Arrays",
+      "slug": "intersection-of-three-sorted-arrays",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/intersection-of-three-sorted-arrays/"
+    },
+    {
+      "date": "2024-11-15",
+      "id": "2107",
+      "title": "Number of Unique Flavors After Sharing K Candies",
+      "slug": "number-of-unique-flavors-after-sharing-k-candies",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-unique-flavors-after-sharing-k-candies/"
+    },
+    {
+      "date": "2024-11-22",
+      "id": "2371",
+      "title": "Minimize Maximum Value in a Grid",
+      "slug": "minimize-maximum-value-in-a-grid",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/minimize-maximum-value-in-a-grid/"
+    },
+    {
+      "date": "2024-11-29",
+      "id": "2204",
+      "title": "Distance to a Cycle in Undirected Graph",
+      "slug": "distance-to-a-cycle-in-undirected-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/distance-to-a-cycle-in-undirected-graph/"
+    }
+  ]
+}

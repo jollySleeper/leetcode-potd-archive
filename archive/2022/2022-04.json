@@ -1,0 +1,323 @@
+{
+  "year": 2022,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2022-04-01",
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-string/"
+    },
+    {
+      "date": "2022-04-02",
+      "id": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-palindrome-ii/"
+    },
+    {
+      "date": "2022-04-03",
+      "id": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/next-permutation/"
+    },
+    {
+      "date": "2022-04-04",
+      "id": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "slug": "swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/swapping-nodes-in-a-linked-list/"
+    },
+    {
+      "date": "2022-04-05",
+      "id": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/container-with-most-water/"
+    },
+    {
+      "date": "2022-04-06",
+      "id": "923",
+      "title": "3Sum With Multiplicity",
+      "slug": "3sum-with-multiplicity",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/3sum-with-multiplicity/"
+    },
+    {
+      "date": "2022-04-07",
+      "id": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/last-stone-weight/"
+    },
+    {
+      "date": "2022-04-08",
+      "id": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/kth-largest-element-in-a-stream/"
+    },
+    {
+      "date": "2022-04-09",
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/top-k-frequent-elements/"
+    },
+    {
+      "date": "2022-04-10",
+      "id": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/baseball-game/"
+    },
+    {
+      "date": "2022-04-11",
+      "id": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/shift-2d-grid/"
+    },
+    {
+      "date": "2022-04-12",
+      "id": "289",
+      "title": "Game of Life",
+      "slug": "game-of-life",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/game-of-life/"
+    },
+    {
+      "date": "2022-04-13",
+      "id": "59",
+      "title": "Spiral Matrix II",
+      "slug": "spiral-matrix-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/spiral-matrix-ii/"
+    },
+    {
+      "date": "2022-04-14",
+      "id": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/search-in-a-binary-search-tree/"
+    },
+    {
+      "date": "2022-04-15",
+      "id": "669",
+      "title": "Trim a Binary Search Tree",
+      "slug": "trim-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/trim-a-binary-search-tree/"
+    },
+    {
+      "date": "2022-04-16",
+      "id": "538",
+      "title": "Convert BST to Greater Tree",
+      "slug": "convert-bst-to-greater-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/convert-bst-to-greater-tree/"
+    },
+    {
+      "date": "2022-04-17",
+      "id": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/increasing-order-search-tree/"
+    },
+    {
+      "date": "2022-04-18",
+      "id": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+      "date": "2022-04-19",
+      "id": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/recover-binary-search-tree/"
+    },
+    {
+      "date": "2022-04-20",
+      "id": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-search-tree-iterator/"
+    },
+    {
+      "date": "2022-04-21",
+      "id": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/design-hashset/"
+    },
+    {
+      "date": "2022-04-22",
+      "id": "706",
+      "title": "Design HashMap",
+      "slug": "design-hashmap",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/design-hashmap/"
+    },
+    {
+      "date": "2022-04-23",
+      "id": "535",
+      "title": "Encode and Decode TinyURL",
+      "slug": "encode-and-decode-tinyurl",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/encode-and-decode-tinyurl/"
+    },
+    {
+      "date": "2022-04-24",
+      "id": "1396",
+      "title": "Design Underground System",
+      "slug": "design-underground-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-underground-system/"
+    },
+    {
+      "date": "2022-04-25",
+      "id": "284",
+      "title": "Peeking Iterator",
+      "slug": "peeking-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/peeking-iterator/"
+    },
+    {
+      "date": "2022-04-26",
+      "id": "1584",
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/min-cost-to-connect-all-points/"
+    },
+    {
+      "date": "2022-04-27",
+      "id": "1202",
+      "title": "Smallest String With Swaps",
+      "slug": "smallest-string-with-swaps",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-string-with-swaps/"
+    },
+    {
+      "date": "2022-04-28",
+      "id": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-with-minimum-effort/"
+    },
+    {
+      "date": "2022-04-29",
+      "id": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/is-graph-bipartite/"
+    },
+    {
+      "date": "2022-04-30",
+      "id": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-division/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-04-01",
+      "id": "1087",
+      "title": "Brace Expansion",
+      "slug": "brace-expansion",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/brace-expansion/"
+    },
+    {
+      "date": "2022-04-08",
+      "id": "1874",
+      "title": "Minimize Product Sum of Two Arrays",
+      "slug": "minimize-product-sum-of-two-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimize-product-sum-of-two-arrays/"
+    },
+    {
+      "date": "2022-04-15",
+      "id": "1586",
+      "title": "Binary Search Tree Iterator II",
+      "slug": "binary-search-tree-iterator-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/binary-search-tree-iterator-ii/"
+    },
+    {
+      "date": "2022-04-22",
+      "id": "1166",
+      "title": "Design File System",
+      "slug": "design-file-system",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-file-system/"
+    },
+    {
+      "date": "2022-04-29",
+      "id": "431",
+      "title": "Encode N-ary Tree to Binary Tree",
+      "slug": "encode-n-ary-tree-to-binary-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/encode-n-ary-tree-to-binary-tree/"
+    }
+  ]
+}

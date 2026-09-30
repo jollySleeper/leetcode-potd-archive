@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 1,
+  "challenges": [
+    {
+      "date": "2025-01-01",
+      "id": "1422",
+      "title": "Maximum Score After Splitting a String",
+      "slug": "maximum-score-after-splitting-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-after-splitting-a-string/"
+    },
+    {
+      "date": "2025-01-02",
+      "id": "2559",
+      "title": "Count Vowel Strings in Ranges",
+      "slug": "count-vowel-strings-in-ranges",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-vowel-strings-in-ranges/"
+    },
+    {
+      "date": "2025-01-03",
+      "id": "2270",
+      "title": "Number of Ways to Split Array",
+      "slug": "number-of-ways-to-split-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-split-array/"
+    },
+    {
+      "date": "2025-01-04",
+      "id": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-length-3-palindromic-subsequences/"
+    },
+    {
+      "date": "2025-01-05",
+      "id": "2381",
+      "title": "Shifting Letters II",
+      "slug": "shifting-letters-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shifting-letters-ii/"
+    },
+    {
+      "date": "2025-01-06",
+      "id": "1769",
+      "title": "Minimum Number of Operations to Move All Balls to Each Box",
+      "slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/"
+    },
+    {
+      "date": "2025-01-07",
+      "id": "1408",
+      "title": "String Matching in an Array",
+      "slug": "string-matching-in-an-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/string-matching-in-an-array/"
+    },
+    {
+      "date": "2025-01-08",
+      "id": "3042",
+      "title": "Count Prefix and Suffix Pairs I",
+      "slug": "count-prefix-and-suffix-pairs-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-prefix-and-suffix-pairs-i/"
+    },
+    {
+      "date": "2025-01-09",
+      "id": "2185",
+      "title": "Counting Words With a Given Prefix",
+      "slug": "counting-words-with-a-given-prefix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/counting-words-with-a-given-prefix/"
+    },
+    {
+      "date": "2025-01-10",
+      "id": "916",
+      "title": "Word Subsets",
+      "slug": "word-subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/word-subsets/"
+    },
+    {
+      "date": "2025-01-11",
+      "id": "1400",
+      "title": "Construct K Palindrome Strings",
+      "slug": "construct-k-palindrome-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-k-palindrome-strings/"
+    },
+    {
+      "date": "2025-01-12",
+      "id": "2116",
+      "title": "Check if a Parentheses String Can Be Valid",
+      "slug": "check-if-a-parentheses-string-can-be-valid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-a-parentheses-string-can-be-valid/"
+    },
+    {
+      "date": "2025-01-13",
+      "id": "3223",
+      "title": "Minimum Length of String After Operations",
+      "slug": "minimum-length-of-string-after-operations",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-length-of-string-after-operations/"
+    },
+    {
+      "date": "2025-01-14",
+      "id": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-prefix-common-array-of-two-arrays/"
+    },
+    {
+      "date": "2025-01-15",
+      "id": "2429",
+      "title": "Minimize XOR",
+      "slug": "minimize-xor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-xor/"
+    },
+    {
+      "date": "2025-01-16",
+      "id": "2425",
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/bitwise-xor-of-all-pairings/"
+    },
+    {
+      "date": "2025-01-17",
+      "id": "2683",
+      "title": "Neighboring Bitwise XOR",
+      "slug": "neighboring-bitwise-xor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/neighboring-bitwise-xor/"
+    },
+    {
+      "date": "2025-01-18",
+      "id": "1368",
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
+    },
+    {
+      "date": "2025-01-19",
+      "id": "407",
+      "title": "Trapping Rain Water II",
+      "slug": "trapping-rain-water-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/trapping-rain-water-ii/"
+    },
+    {
+      "date": "2025-01-20",
+      "id": "2661",
+      "title": "First Completely Painted Row or Column",
+      "slug": "first-completely-painted-row-or-column",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/first-completely-painted-row-or-column/"
+    },
+    {
+      "date": "2025-01-21",
+      "id": "2017",
+      "title": "Grid Game",
+      "slug": "grid-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/grid-game/"
+    },
+    {
+      "date": "2025-01-22",
+      "id": "1765",
+      "title": "Map of Highest Peak",
+      "slug": "map-of-highest-peak",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/map-of-highest-peak/"
+    },
+    {
+      "date": "2025-01-23",
+      "id": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-servers-that-communicate/"
+    },
+    {
+      "date": "2025-01-24",
+      "id": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-eventual-safe-states/"
+    },
+    {
+      "date": "2025-01-25",
+      "id": "2948",
+      "title": "Make Lexicographically Smallest Array by Swapping Elements",
+      "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/make-lexicographically-smallest-array-by-swapping-elements/"
+    },
+    {
+      "date": "2025-01-26",
+      "id": "2127",
+      "title": "Maximum Employees to Be Invited to a Meeting",
+      "slug": "maximum-employees-to-be-invited-to-a-meeting",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-employees-to-be-invited-to-a-meeting/"
+    },
+    {
+      "date": "2025-01-27",
+      "id": "1462",
+      "title": "Course Schedule IV",
+      "slug": "course-schedule-iv",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule-iv/"
+    },
+    {
+      "date": "2025-01-28",
+      "id": "2658",
+      "title": "Maximum Number of Fish in a Grid",
+      "slug": "maximum-number-of-fish-in-a-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-fish-in-a-grid/"
+    },
+    {
+      "date": "2025-01-29",
+      "id": "684",
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/redundant-connection/"
+    },
+    {
+      "date": "2025-01-30",
+      "id": "2493",
+      "title": "Divide Nodes Into the Maximum Number of Groups",
+      "slug": "divide-nodes-into-the-maximum-number-of-groups",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/divide-nodes-into-the-maximum-number-of-groups/"
+    },
+    {
+      "date": "2025-01-31",
+      "id": "827",
+      "title": "Making A Large Island",
+      "slug": "making-a-large-island",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/making-a-large-island/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-01-01",
+      "id": "1427",
+      "title": "Perform String Shifts",
+      "slug": "perform-string-shifts",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/perform-string-shifts/"
+    },
+    {
+      "date": "2025-01-08",
+      "id": "2168",
+      "title": "Unique Substrings With Equal Digit Frequency",
+      "slug": "unique-substrings-with-equal-digit-frequency",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/unique-substrings-with-equal-digit-frequency/"
+    },
+    {
+      "date": "2025-01-15",
+      "id": "1730",
+      "title": "Shortest Path to Get Food",
+      "slug": "shortest-path-to-get-food",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-path-to-get-food/"
+    },
+    {
+      "date": "2025-01-22",
+      "id": "2852",
+      "title": "Sum of Remoteness of All Cells",
+      "slug": "sum-of-remoteness-of-all-cells",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/sum-of-remoteness-of-all-cells/"
+    },
+    {
+      "date": "2025-01-29",
+      "id": "261",
+      "title": "Graph Valid Tree",
+      "slug": "graph-valid-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/graph-valid-tree/"
+    }
+  ]
+}

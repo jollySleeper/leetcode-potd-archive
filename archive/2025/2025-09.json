@@ -1,0 +1,323 @@
+{
+  "year": 2025,
+  "month": 9,
+  "challenges": [
+    {
+      "date": "2025-09-01",
+      "id": "1792",
+      "title": "Maximum Average Pass Ratio",
+      "slug": "maximum-average-pass-ratio",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-average-pass-ratio/"
+    },
+    {
+      "date": "2025-09-02",
+      "id": "3025",
+      "title": "Find the Number of Ways to Place People I",
+      "slug": "find-the-number-of-ways-to-place-people-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-number-of-ways-to-place-people-i/"
+    },
+    {
+      "date": "2025-09-03",
+      "id": "3027",
+      "title": "Find the Number of Ways to Place People II",
+      "slug": "find-the-number-of-ways-to-place-people-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-number-of-ways-to-place-people-ii/"
+    },
+    {
+      "date": "2025-09-04",
+      "id": "3516",
+      "title": "Find Closest Person",
+      "slug": "find-closest-person",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-closest-person/"
+    },
+    {
+      "date": "2025-09-05",
+      "id": "2749",
+      "title": "Minimum Operations to Make the Integer Zero",
+      "slug": "minimum-operations-to-make-the-integer-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-make-the-integer-zero/"
+    },
+    {
+      "date": "2025-09-06",
+      "id": "3495",
+      "title": "Minimum Operations to Make Array Elements Zero",
+      "slug": "minimum-operations-to-make-array-elements-zero",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-make-array-elements-zero/"
+    },
+    {
+      "date": "2025-09-07",
+      "id": "1304",
+      "title": "Find N Unique Integers Sum up to Zero",
+      "slug": "find-n-unique-integers-sum-up-to-zero",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-n-unique-integers-sum-up-to-zero/"
+    },
+    {
+      "date": "2025-09-08",
+      "id": "1317",
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/convert-integer-to-the-sum-of-two-no-zero-integers/"
+    },
+    {
+      "date": "2025-09-09",
+      "id": "2327",
+      "title": "Number of People Aware of a Secret",
+      "slug": "number-of-people-aware-of-a-secret",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-people-aware-of-a-secret/"
+    },
+    {
+      "date": "2025-09-10",
+      "id": "1733",
+      "title": "Minimum Number of People to Teach",
+      "slug": "minimum-number-of-people-to-teach",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-people-to-teach/"
+    },
+    {
+      "date": "2025-09-11",
+      "id": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-vowels-in-a-string/"
+    },
+    {
+      "date": "2025-09-12",
+      "id": "3227",
+      "title": "Vowels Game in a String",
+      "slug": "vowels-game-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/vowels-game-in-a-string/"
+    },
+    {
+      "date": "2025-09-13",
+      "id": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-most-frequent-vowel-and-consonant/"
+    },
+    {
+      "date": "2025-09-14",
+      "id": "966",
+      "title": "Vowel Spellchecker",
+      "slug": "vowel-spellchecker",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/vowel-spellchecker/"
+    },
+    {
+      "date": "2025-09-15",
+      "id": "1935",
+      "title": "Maximum Number of Words You Can Type",
+      "slug": "maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-words-you-can-type/"
+    },
+    {
+      "date": "2025-09-16",
+      "id": "2197",
+      "title": "Replace Non-Coprime Numbers in Array",
+      "slug": "replace-non-coprime-numbers-in-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/replace-non-coprime-numbers-in-array/"
+    },
+    {
+      "date": "2025-09-17",
+      "id": "2353",
+      "title": "Design a Food Rating System",
+      "slug": "design-a-food-rating-system",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-a-food-rating-system/"
+    },
+    {
+      "date": "2025-09-18",
+      "id": "3408",
+      "title": "Design Task Manager",
+      "slug": "design-task-manager",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-task-manager/"
+    },
+    {
+      "date": "2025-09-19",
+      "id": "3484",
+      "title": "Design Spreadsheet",
+      "slug": "design-spreadsheet",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-spreadsheet/"
+    },
+    {
+      "date": "2025-09-20",
+      "id": "3508",
+      "title": "Implement Router",
+      "slug": "implement-router",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/implement-router/"
+    },
+    {
+      "date": "2025-09-21",
+      "id": "1912",
+      "title": "Design Movie Rental System",
+      "slug": "design-movie-rental-system",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/design-movie-rental-system/"
+    },
+    {
+      "date": "2025-09-22",
+      "id": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-elements-with-maximum-frequency/"
+    },
+    {
+      "date": "2025-09-23",
+      "id": "165",
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/compare-version-numbers/"
+    },
+    {
+      "date": "2025-09-24",
+      "id": "166",
+      "title": "Fraction to Recurring Decimal",
+      "slug": "fraction-to-recurring-decimal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/fraction-to-recurring-decimal/"
+    },
+    {
+      "date": "2025-09-25",
+      "id": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/triangle/"
+    },
+    {
+      "date": "2025-09-26",
+      "id": "611",
+      "title": "Valid Triangle Number",
+      "slug": "valid-triangle-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-triangle-number/"
+    },
+    {
+      "date": "2025-09-27",
+      "id": "812",
+      "title": "Largest Triangle Area",
+      "slug": "largest-triangle-area",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-triangle-area/"
+    },
+    {
+      "date": "2025-09-28",
+      "id": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-perimeter-triangle/"
+    },
+    {
+      "date": "2025-09-29",
+      "id": "1039",
+      "title": "Minimum Score Triangulation of Polygon",
+      "slug": "minimum-score-triangulation-of-polygon",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-score-triangulation-of-polygon/"
+    },
+    {
+      "date": "2025-09-30",
+      "id": "2221",
+      "title": "Find Triangular Sum of an Array",
+      "slug": "find-triangular-sum-of-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-triangular-sum-of-an-array/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-09-01",
+      "id": "1066",
+      "title": "Campus Bikes II",
+      "slug": "campus-bikes-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/campus-bikes-ii/"
+    },
+    {
+      "date": "2025-09-08",
+      "id": "1133",
+      "title": "Largest Unique Number",
+      "slug": "largest-unique-number",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/largest-unique-number/"
+    },
+    {
+      "date": "2025-09-15",
+      "id": "1150",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "slug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/"
+    },
+    {
+      "date": "2025-09-22",
+      "id": "1152",
+      "title": "Analyze User Website Visit Pattern",
+      "slug": "analyze-user-website-visit-pattern",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/analyze-user-website-visit-pattern/"
+    },
+    {
+      "date": "2025-09-29",
+      "id": "1121",
+      "title": "Divide Array Into Increasing Sequences",
+      "slug": "divide-array-into-increasing-sequences",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/divide-array-into-increasing-sequences/"
+    }
+  ]
+}

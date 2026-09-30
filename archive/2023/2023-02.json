@@ -1,0 +1,296 @@
+{
+  "year": 2023,
+  "month": 2,
+  "challenges": [
+    {
+      "date": "2023-02-01",
+      "id": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/greatest-common-divisor-of-strings/"
+    },
+    {
+      "date": "2023-02-02",
+      "id": "953",
+      "title": "Verifying an Alien Dictionary",
+      "slug": "verifying-an-alien-dictionary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/verifying-an-alien-dictionary/"
+    },
+    {
+      "date": "2023-02-03",
+      "id": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/zigzag-conversion/"
+    },
+    {
+      "date": "2023-02-04",
+      "id": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutation-in-string/"
+    },
+    {
+      "date": "2023-02-05",
+      "id": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+      "date": "2023-02-06",
+      "id": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/shuffle-the-array/"
+    },
+    {
+      "date": "2023-02-07",
+      "id": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/fruit-into-baskets/"
+    },
+    {
+      "date": "2023-02-08",
+      "id": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-ii/"
+    },
+    {
+      "date": "2023-02-09",
+      "id": "2306",
+      "title": "Naming a Company",
+      "slug": "naming-a-company",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/naming-a-company/"
+    },
+    {
+      "date": "2023-02-10",
+      "id": "1162",
+      "title": "As Far from Land as Possible",
+      "slug": "as-far-from-land-as-possible",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/as-far-from-land-as-possible/"
+    },
+    {
+      "date": "2023-02-11",
+      "id": "1129",
+      "title": "Shortest Path with Alternating Colors",
+      "slug": "shortest-path-with-alternating-colors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-with-alternating-colors/"
+    },
+    {
+      "date": "2023-02-12",
+      "id": "2477",
+      "title": "Minimum Fuel Cost to Report to the Capital",
+      "slug": "minimum-fuel-cost-to-report-to-the-capital",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-fuel-cost-to-report-to-the-capital/"
+    },
+    {
+      "date": "2023-02-13",
+      "id": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-odd-numbers-in-an-interval-range/"
+    },
+    {
+      "date": "2023-02-14",
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-binary/"
+    },
+    {
+      "date": "2023-02-15",
+      "id": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-to-array-form-of-integer/"
+    },
+    {
+      "date": "2023-02-16",
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "date": "2023-02-17",
+      "id": "783",
+      "title": "Minimum Distance Between BST Nodes",
+      "slug": "minimum-distance-between-bst-nodes",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-distance-between-bst-nodes/"
+    },
+    {
+      "date": "2023-02-18",
+      "id": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/invert-binary-tree/"
+    },
+    {
+      "date": "2023-02-19",
+      "id": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-tree-zigzag-level-order-traversal/"
+    },
+    {
+      "date": "2023-02-20",
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/search-insert-position/"
+    },
+    {
+      "date": "2023-02-21",
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-element-in-a-sorted-array/"
+    },
+    {
+      "date": "2023-02-22",
+      "id": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/capacity-to-ship-packages-within-d-days/"
+    },
+    {
+      "date": "2023-02-23",
+      "id": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/ipo/"
+    },
+    {
+      "date": "2023-02-24",
+      "id": "1675",
+      "title": "Minimize Deviation in Array",
+      "slug": "minimize-deviation-in-array",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimize-deviation-in-array/"
+    },
+    {
+      "date": "2023-02-25",
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "date": "2023-02-26",
+      "id": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/edit-distance/"
+    },
+    {
+      "date": "2023-02-27",
+      "id": "427",
+      "title": "Construct Quad Tree",
+      "slug": "construct-quad-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-quad-tree/"
+    },
+    {
+      "date": "2023-02-28",
+      "id": "652",
+      "title": "Find Duplicate Subtrees",
+      "slug": "find-duplicate-subtrees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-duplicate-subtrees/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-02-01",
+      "id": "734",
+      "title": "Sentence Similarity",
+      "slug": "sentence-similarity",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/sentence-similarity/"
+    },
+    {
+      "date": "2023-02-08",
+      "id": "280",
+      "title": "Wiggle Sort",
+      "slug": "wiggle-sort",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/wiggle-sort/"
+    },
+    {
+      "date": "2023-02-15",
+      "id": "305",
+      "title": "Number of Islands II",
+      "slug": "number-of-islands-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-islands-ii/"
+    },
+    {
+      "date": "2023-02-22",
+      "id": "1259",
+      "title": "Handshakes That Don't Cross",
+      "slug": "handshakes-that-dont-cross",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/handshakes-that-dont-cross/"
+    }
+  ]
+}

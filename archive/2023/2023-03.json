@@ -1,0 +1,332 @@
+{
+  "year": 2023,
+  "month": 3,
+  "challenges": [
+    {
+      "date": "2023-03-01",
+      "id": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-an-array/"
+    },
+    {
+      "date": "2023-03-02",
+      "id": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/string-compression/"
+    },
+    {
+      "date": "2023-03-03",
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+    },
+    {
+      "date": "2023-03-04",
+      "id": "2444",
+      "title": "Count Subarrays With Fixed Bounds",
+      "slug": "count-subarrays-with-fixed-bounds",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-subarrays-with-fixed-bounds/"
+    },
+    {
+      "date": "2023-03-05",
+      "id": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/jump-game-iv/"
+    },
+    {
+      "date": "2023-03-06",
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/kth-missing-positive-number/"
+    },
+    {
+      "date": "2023-03-07",
+      "id": "2187",
+      "title": "Minimum Time to Complete Trips",
+      "slug": "minimum-time-to-complete-trips",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-complete-trips/"
+    },
+    {
+      "date": "2023-03-08",
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/koko-eating-bananas/"
+    },
+    {
+      "date": "2023-03-09",
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-cycle-ii/"
+    },
+    {
+      "date": "2023-03-10",
+      "id": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/linked-list-random-node/"
+    },
+    {
+      "date": "2023-03-11",
+      "id": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/convert-sorted-list-to-binary-search-tree/"
+    },
+    {
+      "date": "2023-03-12",
+      "id": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/merge-k-sorted-lists/"
+    },
+    {
+      "date": "2023-03-13",
+      "id": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/symmetric-tree/"
+    },
+    {
+      "date": "2023-03-14",
+      "id": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      "date": "2023-03-15",
+      "id": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-completeness-of-a-binary-tree/"
+    },
+    {
+      "date": "2023-03-16",
+      "id": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+    },
+    {
+      "date": "2023-03-17",
+      "id": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/implement-trie-prefix-tree/"
+    },
+    {
+      "date": "2023-03-18",
+      "id": "1472",
+      "title": "Design Browser History",
+      "slug": "design-browser-history",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-browser-history/"
+    },
+    {
+      "date": "2023-03-19",
+      "id": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+      "date": "2023-03-20",
+      "id": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/can-place-flowers/"
+    },
+    {
+      "date": "2023-03-21",
+      "id": "2348",
+      "title": "Number of Zero-Filled Subarrays",
+      "slug": "number-of-zero-filled-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-zero-filled-subarrays/"
+    },
+    {
+      "date": "2023-03-22",
+      "id": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-score-of-a-path-between-two-cities/"
+    },
+    {
+      "date": "2023-03-23",
+      "id": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-operations-to-make-network-connected/"
+    },
+    {
+      "date": "2023-03-24",
+      "id": "1466",
+      "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/"
+    },
+    {
+      "date": "2023-03-25",
+      "id": "2316",
+      "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/"
+    },
+    {
+      "date": "2023-03-26",
+      "id": "2360",
+      "title": "Longest Cycle in a Graph",
+      "slug": "longest-cycle-in-a-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-cycle-in-a-graph/"
+    },
+    {
+      "date": "2023-03-27",
+      "id": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-path-sum/"
+    },
+    {
+      "date": "2023-03-28",
+      "id": "983",
+      "title": "Minimum Cost For Tickets",
+      "slug": "minimum-cost-for-tickets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-for-tickets/"
+    },
+    {
+      "date": "2023-03-29",
+      "id": "1402",
+      "title": "Reducing Dishes",
+      "slug": "reducing-dishes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/reducing-dishes/"
+    },
+    {
+      "date": "2023-03-30",
+      "id": "87",
+      "title": "Scramble String",
+      "slug": "scramble-string",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/scramble-string/"
+    },
+    {
+      "date": "2023-03-31",
+      "id": "1444",
+      "title": "Number of Ways of Cutting a Pizza",
+      "slug": "number-of-ways-of-cutting-a-pizza",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-of-cutting-a-pizza/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-03-01",
+      "id": "422",
+      "title": "Valid Word Square",
+      "slug": "valid-word-square",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/valid-word-square/"
+    },
+    {
+      "date": "2023-03-08",
+      "id": "1055",
+      "title": "Shortest Way to Form String",
+      "slug": "shortest-way-to-form-string",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-way-to-form-string/"
+    },
+    {
+      "date": "2023-03-15",
+      "id": "1485",
+      "title": "Clone Binary Tree With Random Pointer",
+      "slug": "clone-binary-tree-with-random-pointer",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/clone-binary-tree-with-random-pointer/"
+    },
+    {
+      "date": "2023-03-22",
+      "id": "1236",
+      "title": "Web Crawler",
+      "slug": "web-crawler",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/web-crawler/"
+    },
+    {
+      "date": "2023-03-29",
+      "id": "651",
+      "title": "4 Keys Keyboard",
+      "slug": "4-keys-keyboard",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/4-keys-keyboard/"
+    }
+  ]
+}

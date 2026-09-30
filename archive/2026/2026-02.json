@@ -1,0 +1,296 @@
+{
+  "year": 2026,
+  "month": 2,
+  "challenges": [
+    {
+      "date": "2026-02-01",
+      "id": "3010",
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-i/"
+    },
+    {
+      "date": "2026-02-02",
+      "id": "3013",
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/"
+    },
+    {
+      "date": "2026-02-03",
+      "id": "3637",
+      "title": "Trionic Array I",
+      "slug": "trionic-array-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/trionic-array-i/"
+    },
+    {
+      "date": "2026-02-04",
+      "id": "3640",
+      "title": "Trionic Array II",
+      "slug": "trionic-array-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/trionic-array-ii/"
+    },
+    {
+      "date": "2026-02-05",
+      "id": "3379",
+      "title": "Transformed Array",
+      "slug": "transformed-array",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/transformed-array/"
+    },
+    {
+      "date": "2026-02-06",
+      "id": "3634",
+      "title": "Minimum Removals to Balance Array",
+      "slug": "minimum-removals-to-balance-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-removals-to-balance-array/"
+    },
+    {
+      "date": "2026-02-07",
+      "id": "1653",
+      "title": "Minimum Deletions to Make String Balanced",
+      "slug": "minimum-deletions-to-make-string-balanced",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-deletions-to-make-string-balanced/"
+    },
+    {
+      "date": "2026-02-08",
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/balanced-binary-tree/"
+    },
+    {
+      "date": "2026-02-09",
+      "id": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/balance-a-binary-search-tree/"
+    },
+    {
+      "date": "2026-02-10",
+      "id": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-balanced-subarray-i/"
+    },
+    {
+      "date": "2026-02-11",
+      "id": "3721",
+      "title": "Longest Balanced Subarray II",
+      "slug": "longest-balanced-subarray-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-balanced-subarray-ii/"
+    },
+    {
+      "date": "2026-02-12",
+      "id": "3713",
+      "title": "Longest Balanced Substring I",
+      "slug": "longest-balanced-substring-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-balanced-substring-i/"
+    },
+    {
+      "date": "2026-02-13",
+      "id": "3714",
+      "title": "Longest Balanced Substring II",
+      "slug": "longest-balanced-substring-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-balanced-substring-ii/"
+    },
+    {
+      "date": "2026-02-14",
+      "id": "799",
+      "title": "Champagne Tower",
+      "slug": "champagne-tower",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/champagne-tower/"
+    },
+    {
+      "date": "2026-02-15",
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/add-binary/"
+    },
+    {
+      "date": "2026-02-16",
+      "id": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-bits/"
+    },
+    {
+      "date": "2026-02-17",
+      "id": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-watch/"
+    },
+    {
+      "date": "2026-02-18",
+      "id": "693",
+      "title": "Binary Number with Alternating Bits",
+      "slug": "binary-number-with-alternating-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-number-with-alternating-bits/"
+    },
+    {
+      "date": "2026-02-19",
+      "id": "696",
+      "title": "Count Binary Substrings",
+      "slug": "count-binary-substrings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-binary-substrings/"
+    },
+    {
+      "date": "2026-02-20",
+      "id": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/special-binary-string/"
+    },
+    {
+      "date": "2026-02-21",
+      "id": "762",
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "slug": "prime-number-of-set-bits-in-binary-representation",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/prime-number-of-set-bits-in-binary-representation/"
+    },
+    {
+      "date": "2026-02-22",
+      "id": "868",
+      "title": "Binary Gap",
+      "slug": "binary-gap",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/binary-gap/"
+    },
+    {
+      "date": "2026-02-23",
+      "id": "1461",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/"
+    },
+    {
+      "date": "2026-02-24",
+      "id": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-root-to-leaf-binary-numbers/"
+    },
+    {
+      "date": "2026-02-25",
+      "id": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-integers-by-the-number-of-1-bits/"
+    },
+    {
+      "date": "2026-02-26",
+      "id": "1404",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
+    },
+    {
+      "date": "2026-02-27",
+      "id": "3666",
+      "title": "Minimum Operations to Equalize Binary String",
+      "slug": "minimum-operations-to-equalize-binary-string",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-operations-to-equalize-binary-string/"
+    },
+    {
+      "date": "2026-02-28",
+      "id": "1680",
+      "title": "Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/concatenation-of-consecutive-binary-numbers/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2026-02-01",
+      "id": "362",
+      "title": "Design Hit Counter",
+      "slug": "design-hit-counter",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-hit-counter/"
+    },
+    {
+      "date": "2026-02-08",
+      "id": "651",
+      "title": "4 Keys Keyboard",
+      "slug": "4-keys-keyboard",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/4-keys-keyboard/"
+    },
+    {
+      "date": "2026-02-15",
+      "id": "422",
+      "title": "Valid Word Square",
+      "slug": "valid-word-square",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/valid-word-square/"
+    },
+    {
+      "date": "2026-02-22",
+      "id": "358",
+      "title": "Rearrange String k Distance Apart",
+      "slug": "rearrange-string-k-distance-apart",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/rearrange-string-k-distance-apart/"
+    }
+  ]
+}

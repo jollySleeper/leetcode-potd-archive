@@ -1,0 +1,323 @@
+{
+  "year": 2023,
+  "month": 6,
+  "challenges": [
+    {
+      "date": "2023-06-01",
+      "id": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-in-binary-matrix/"
+    },
+    {
+      "date": "2023-06-02",
+      "id": "2101",
+      "title": "Detonate the Maximum Bombs",
+      "slug": "detonate-the-maximum-bombs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/detonate-the-maximum-bombs/"
+    },
+    {
+      "date": "2023-06-03",
+      "id": "1376",
+      "title": "Time Needed to Inform All Employees",
+      "slug": "time-needed-to-inform-all-employees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/time-needed-to-inform-all-employees/"
+    },
+    {
+      "date": "2023-06-04",
+      "id": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-provinces/"
+    },
+    {
+      "date": "2023-06-05",
+      "id": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-it-is-a-straight-line/"
+    },
+    {
+      "date": "2023-06-06",
+      "id": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "slug": "can-make-arithmetic-progression-from-sequence",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/can-make-arithmetic-progression-from-sequence/"
+    },
+    {
+      "date": "2023-06-07",
+      "id": "1318",
+      "title": "Minimum Flips to Make a OR b Equal to c",
+      "slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-flips-to-make-a-or-b-equal-to-c/"
+    },
+    {
+      "date": "2023-06-08",
+      "id": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/count-negative-numbers-in-a-sorted-matrix/"
+    },
+    {
+      "date": "2023-06-09",
+      "id": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-smallest-letter-greater-than-target/"
+    },
+    {
+      "date": "2023-06-10",
+      "id": "1802",
+      "title": "Maximum Value at a Given Index in a Bounded Array",
+      "slug": "maximum-value-at-a-given-index-in-a-bounded-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-value-at-a-given-index-in-a-bounded-array/"
+    },
+    {
+      "date": "2023-06-11",
+      "id": "1146",
+      "title": "Snapshot Array",
+      "slug": "snapshot-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/snapshot-array/"
+    },
+    {
+      "date": "2023-06-12",
+      "id": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/summary-ranges/"
+    },
+    {
+      "date": "2023-06-13",
+      "id": "2352",
+      "title": "Equal Row and Column Pairs",
+      "slug": "equal-row-and-column-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/equal-row-and-column-pairs/"
+    },
+    {
+      "date": "2023-06-14",
+      "id": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-absolute-difference-in-bst/"
+    },
+    {
+      "date": "2023-06-15",
+      "id": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "slug": "maximum-level-sum-of-a-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-level-sum-of-a-binary-tree/"
+    },
+    {
+      "date": "2023-06-16",
+      "id": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-ways-to-reorder-array-to-get-same-bst/"
+    },
+    {
+      "date": "2023-06-17",
+      "id": "1187",
+      "title": "Make Array Strictly Increasing",
+      "slug": "make-array-strictly-increasing",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/make-array-strictly-increasing/"
+    },
+    {
+      "date": "2023-06-18",
+      "id": "2328",
+      "title": "Number of Increasing Paths in a Grid",
+      "slug": "number-of-increasing-paths-in-a-grid",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-increasing-paths-in-a-grid/"
+    },
+    {
+      "date": "2023-06-19",
+      "id": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-highest-altitude/"
+    },
+    {
+      "date": "2023-06-20",
+      "id": "2090",
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-radius-subarray-averages/"
+    },
+    {
+      "date": "2023-06-21",
+      "id": "2448",
+      "title": "Minimum Cost to Make Array Equal",
+      "slug": "minimum-cost-to-make-array-equal",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-make-array-equal/"
+    },
+    {
+      "date": "2023-06-22",
+      "id": "714",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/"
+    },
+    {
+      "date": "2023-06-23",
+      "id": "1027",
+      "title": "Longest Arithmetic Subsequence",
+      "slug": "longest-arithmetic-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-arithmetic-subsequence/"
+    },
+    {
+      "date": "2023-06-24",
+      "id": "956",
+      "title": "Tallest Billboard",
+      "slug": "tallest-billboard",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/tallest-billboard/"
+    },
+    {
+      "date": "2023-06-25",
+      "id": "1575",
+      "title": "Count All Possible Routes",
+      "slug": "count-all-possible-routes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-all-possible-routes/"
+    },
+    {
+      "date": "2023-06-26",
+      "id": "2462",
+      "title": "Total Cost to Hire K Workers",
+      "slug": "total-cost-to-hire-k-workers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/total-cost-to-hire-k-workers/"
+    },
+    {
+      "date": "2023-06-27",
+      "id": "373",
+      "title": "Find K Pairs with Smallest Sums",
+      "slug": "find-k-pairs-with-smallest-sums",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-k-pairs-with-smallest-sums/"
+    },
+    {
+      "date": "2023-06-28",
+      "id": "1514",
+      "title": "Path with Maximum Probability",
+      "slug": "path-with-maximum-probability",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-with-maximum-probability/"
+    },
+    {
+      "date": "2023-06-29",
+      "id": "864",
+      "title": "Shortest Path to Get All Keys",
+      "slug": "shortest-path-to-get-all-keys",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-to-get-all-keys/"
+    },
+    {
+      "date": "2023-06-30",
+      "id": "1970",
+      "title": "Last Day Where You Can Still Cross",
+      "slug": "last-day-where-you-can-still-cross",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/last-day-where-you-can-still-cross/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-06-01",
+      "id": "1230",
+      "title": "Toss Strange Coins",
+      "slug": "toss-strange-coins",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/toss-strange-coins/"
+    },
+    {
+      "date": "2023-06-08",
+      "id": "1150",
+      "title": "Check If a Number Is Majority Element in a Sorted Array",
+      "slug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/check-if-a-number-is-majority-element-in-a-sorted-array/"
+    },
+    {
+      "date": "2023-06-15",
+      "id": "163",
+      "title": "Missing Ranges",
+      "slug": "missing-ranges",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/missing-ranges/"
+    },
+    {
+      "date": "2023-06-22",
+      "id": "1214",
+      "title": "Two Sum BSTs",
+      "slug": "two-sum-bsts",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/two-sum-bsts/"
+    },
+    {
+      "date": "2023-06-29",
+      "id": "250",
+      "title": "Count Univalue Subtrees",
+      "slug": "count-univalue-subtrees",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/count-univalue-subtrees/"
+    }
+  ]
+}

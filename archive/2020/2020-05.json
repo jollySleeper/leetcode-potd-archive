@@ -1,0 +1,286 @@
+{
+  "year": 2020,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2020-05-01",
+      "id": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/first-bad-version/"
+    },
+    {
+      "date": "2020-05-02",
+      "id": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/jewels-and-stones/"
+    },
+    {
+      "date": "2020-05-03",
+      "id": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/ransom-note/"
+    },
+    {
+      "date": "2020-05-04",
+      "id": "476",
+      "title": "Number Complement",
+      "slug": "number-complement",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-complement/"
+    },
+    {
+      "date": "2020-05-05",
+      "id": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/first-unique-character-in-a-string/"
+    },
+    {
+      "date": "2020-05-06",
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/majority-element/"
+    },
+    {
+      "date": "2020-05-07",
+      "id": "993",
+      "title": "Cousins in Binary Tree",
+      "slug": "cousins-in-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/cousins-in-binary-tree/"
+    },
+    {
+      "date": "2020-05-08",
+      "id": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-it-is-a-straight-line/"
+    },
+    {
+      "date": "2020-05-09",
+      "id": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/valid-perfect-square/"
+    },
+    {
+      "date": "2020-05-10",
+      "id": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-town-judge/"
+    },
+    {
+      "date": "2020-05-11",
+      "id": "733",
+      "title": "Flood Fill",
+      "slug": "flood-fill",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/flood-fill/"
+    },
+    {
+      "date": "2020-05-12",
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-element-in-a-sorted-array/"
+    },
+    {
+      "date": "2020-05-13",
+      "id": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-k-digits/"
+    },
+    {
+      "date": "2020-05-14",
+      "id": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/implement-trie-prefix-tree/"
+    },
+    {
+      "date": "2020-05-15",
+      "id": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-sum-circular-subarray/"
+    },
+    {
+      "date": "2020-05-16",
+      "id": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/odd-even-linked-list/"
+    },
+    {
+      "date": "2020-05-17",
+      "id": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-anagrams-in-a-string/"
+    },
+    {
+      "date": "2020-05-18",
+      "id": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutation-in-string/"
+    },
+    {
+      "date": "2020-05-19",
+      "id": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/online-stock-span/"
+    },
+    {
+      "date": "2020-05-20",
+      "id": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+      "date": "2020-05-21",
+      "id": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-square-submatrices-with-all-ones/"
+    },
+    {
+      "date": "2020-05-22",
+      "id": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-characters-by-frequency/"
+    },
+    {
+      "date": "2020-05-23",
+      "id": "986",
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/interval-list-intersections/"
+    },
+    {
+      "date": "2020-05-24",
+      "id": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/construct-binary-search-tree-from-preorder-traversal/"
+    },
+    {
+      "date": "2020-05-25",
+      "id": "1035",
+      "title": "Uncrossed Lines",
+      "slug": "uncrossed-lines",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/uncrossed-lines/"
+    },
+    {
+      "date": "2020-05-26",
+      "id": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/contiguous-array/"
+    },
+    {
+      "date": "2020-05-27",
+      "id": "886",
+      "title": "Possible Bipartition",
+      "slug": "possible-bipartition",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/possible-bipartition/"
+    },
+    {
+      "date": "2020-05-28",
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/counting-bits/"
+    },
+    {
+      "date": "2020-05-29",
+      "id": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule/"
+    },
+    {
+      "date": "2020-05-30",
+      "id": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-closest-points-to-origin/"
+    },
+    {
+      "date": "2020-05-31",
+      "id": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/edit-distance/"
+    }
+  ],
+  "weeklyChallenges": []
+}

@@ -1,0 +1,332 @@
+{
+  "year": 2023,
+  "month": 7,
+  "challenges": [
+    {
+      "date": "2023-07-01",
+      "id": "2305",
+      "title": "Fair Distribution of Cookies",
+      "slug": "fair-distribution-of-cookies",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/fair-distribution-of-cookies/"
+    },
+    {
+      "date": "2023-07-02",
+      "id": "1601",
+      "title": "Maximum Number of Achievable Transfer Requests",
+      "slug": "maximum-number-of-achievable-transfer-requests",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-achievable-transfer-requests/"
+    },
+    {
+      "date": "2023-07-03",
+      "id": "859",
+      "title": "Buddy Strings",
+      "slug": "buddy-strings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/buddy-strings/"
+    },
+    {
+      "date": "2023-07-04",
+      "id": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-number-ii/"
+    },
+    {
+      "date": "2023-07-05",
+      "id": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/"
+    },
+    {
+      "date": "2023-07-06",
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-size-subarray-sum/"
+    },
+    {
+      "date": "2023-07-07",
+      "id": "2024",
+      "title": "Maximize the Confusion of an Exam",
+      "slug": "maximize-the-confusion-of-an-exam",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-the-confusion-of-an-exam/"
+    },
+    {
+      "date": "2023-07-08",
+      "id": "2551",
+      "title": "Put Marbles in Bags",
+      "slug": "put-marbles-in-bags",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/put-marbles-in-bags/"
+    },
+    {
+      "date": "2023-07-09",
+      "id": "2272",
+      "title": "Substring With Largest Variance",
+      "slug": "substring-with-largest-variance",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/substring-with-largest-variance/"
+    },
+    {
+      "date": "2023-07-10",
+      "id": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-depth-of-binary-tree/"
+    },
+    {
+      "date": "2023-07-11",
+      "id": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-nodes-distance-k-in-binary-tree/"
+    },
+    {
+      "date": "2023-07-12",
+      "id": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-eventual-safe-states/"
+    },
+    {
+      "date": "2023-07-13",
+      "id": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/course-schedule/"
+    },
+    {
+      "date": "2023-07-14",
+      "id": "1218",
+      "title": "Longest Arithmetic Subsequence of Given Difference",
+      "slug": "longest-arithmetic-subsequence-of-given-difference",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-arithmetic-subsequence-of-given-difference/"
+    },
+    {
+      "date": "2023-07-15",
+      "id": "1751",
+      "title": "Maximum Number of Events That Can Be Attended II",
+      "slug": "maximum-number-of-events-that-can-be-attended-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-events-that-can-be-attended-ii/"
+    },
+    {
+      "date": "2023-07-16",
+      "id": "1125",
+      "title": "Smallest Sufficient Team",
+      "slug": "smallest-sufficient-team",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-sufficient-team/"
+    },
+    {
+      "date": "2023-07-17",
+      "id": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-two-numbers-ii/"
+    },
+    {
+      "date": "2023-07-18",
+      "id": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lru-cache/"
+    },
+    {
+      "date": "2023-07-19",
+      "id": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/non-overlapping-intervals/"
+    },
+    {
+      "date": "2023-07-20",
+      "id": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/asteroid-collision/"
+    },
+    {
+      "date": "2023-07-21",
+      "id": "673",
+      "title": "Number of Longest Increasing Subsequence",
+      "slug": "number-of-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-longest-increasing-subsequence/"
+    },
+    {
+      "date": "2023-07-22",
+      "id": "688",
+      "title": "Knight Probability in Chessboard",
+      "slug": "knight-probability-in-chessboard",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/knight-probability-in-chessboard/"
+    },
+    {
+      "date": "2023-07-23",
+      "id": "894",
+      "title": "All Possible Full Binary Trees",
+      "slug": "all-possible-full-binary-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/all-possible-full-binary-trees/"
+    },
+    {
+      "date": "2023-07-24",
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/powx-n/"
+    },
+    {
+      "date": "2023-07-25",
+      "id": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/peak-index-in-a-mountain-array/"
+    },
+    {
+      "date": "2023-07-26",
+      "id": "1870",
+      "title": "Minimum Speed to Arrive on Time",
+      "slug": "minimum-speed-to-arrive-on-time",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-speed-to-arrive-on-time/"
+    },
+    {
+      "date": "2023-07-27",
+      "id": "2141",
+      "title": "Maximum Running Time of N Computers",
+      "slug": "maximum-running-time-of-n-computers",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-running-time-of-n-computers/"
+    },
+    {
+      "date": "2023-07-28",
+      "id": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/predict-the-winner/"
+    },
+    {
+      "date": "2023-07-29",
+      "id": "808",
+      "title": "Soup Servings",
+      "slug": "soup-servings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/soup-servings/"
+    },
+    {
+      "date": "2023-07-30",
+      "id": "664",
+      "title": "Strange Printer",
+      "slug": "strange-printer",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/strange-printer/"
+    },
+    {
+      "date": "2023-07-31",
+      "id": "712",
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "slug": "minimum-ascii-delete-sum-for-two-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-ascii-delete-sum-for-two-strings/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2023-07-01",
+      "id": "465",
+      "title": "Optimal Account Balancing",
+      "slug": "optimal-account-balancing",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/optimal-account-balancing/"
+    },
+    {
+      "date": "2023-07-08",
+      "id": "340",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "slug": "longest-substring-with-at-most-k-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-k-distinct-characters/"
+    },
+    {
+      "date": "2023-07-15",
+      "id": "1644",
+      "title": "Lowest Common Ancestor of a Binary Tree II",
+      "slug": "lowest-common-ancestor-of-a-binary-tree-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/lowest-common-ancestor-of-a-binary-tree-ii/"
+    },
+    {
+      "date": "2023-07-22",
+      "id": "439",
+      "title": "Ternary Expression Parser",
+      "slug": "ternary-expression-parser",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/ternary-expression-parser/"
+    },
+    {
+      "date": "2023-07-29",
+      "id": "1060",
+      "title": "Missing Element in Sorted Array",
+      "slug": "missing-element-in-sorted-array",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/missing-element-in-sorted-array/"
+    }
+  ]
+}

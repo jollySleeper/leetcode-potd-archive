@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 8,
+  "challenges": [
+    {
+      "date": "2025-08-01",
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/pascals-triangle/"
+    },
+    {
+      "date": "2025-08-02",
+      "id": "2561",
+      "title": "Rearranging Fruits",
+      "slug": "rearranging-fruits",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/rearranging-fruits/"
+    },
+    {
+      "date": "2025-08-03",
+      "id": "2106",
+      "title": "Maximum Fruits Harvested After at Most K Steps",
+      "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-fruits-harvested-after-at-most-k-steps/"
+    },
+    {
+      "date": "2025-08-04",
+      "id": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/fruit-into-baskets/"
+    },
+    {
+      "date": "2025-08-05",
+      "id": "3477",
+      "title": "Fruits Into Baskets II",
+      "slug": "fruits-into-baskets-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/fruits-into-baskets-ii/"
+    },
+    {
+      "date": "2025-08-06",
+      "id": "3479",
+      "title": "Fruits Into Baskets III",
+      "slug": "fruits-into-baskets-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/fruits-into-baskets-iii/"
+    },
+    {
+      "date": "2025-08-07",
+      "id": "3363",
+      "title": "Find the Maximum Number of Fruits Collected",
+      "slug": "find-the-maximum-number-of-fruits-collected",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-number-of-fruits-collected/"
+    },
+    {
+      "date": "2025-08-08",
+      "id": "808",
+      "title": "Soup Servings",
+      "slug": "soup-servings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/soup-servings/"
+    },
+    {
+      "date": "2025-08-09",
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-two/"
+    },
+    {
+      "date": "2025-08-10",
+      "id": "869",
+      "title": "Reordered Power of 2",
+      "slug": "reordered-power-of-2",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reordered-power-of-2/"
+    },
+    {
+      "date": "2025-08-11",
+      "id": "2438",
+      "title": "Range Product Queries of Powers",
+      "slug": "range-product-queries-of-powers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/range-product-queries-of-powers/"
+    },
+    {
+      "date": "2025-08-12",
+      "id": "2787",
+      "title": "Ways to Express an Integer as Sum of Powers",
+      "slug": "ways-to-express-an-integer-as-sum-of-powers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ways-to-express-an-integer-as-sum-of-powers/"
+    },
+    {
+      "date": "2025-08-13",
+      "id": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-three/"
+    },
+    {
+      "date": "2025-08-14",
+      "id": "2264",
+      "title": "Largest 3-Same-Digit Number in String",
+      "slug": "largest-3-same-digit-number-in-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-3-same-digit-number-in-string/"
+    },
+    {
+      "date": "2025-08-15",
+      "id": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-four/"
+    },
+    {
+      "date": "2025-08-16",
+      "id": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-69-number/"
+    },
+    {
+      "date": "2025-08-17",
+      "id": "837",
+      "title": "New 21 Game",
+      "slug": "new-21-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/new-21-game/"
+    },
+    {
+      "date": "2025-08-18",
+      "id": "679",
+      "title": "24 Game",
+      "slug": "24-game",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/24-game/"
+    },
+    {
+      "date": "2025-08-19",
+      "id": "2348",
+      "title": "Number of Zero-Filled Subarrays",
+      "slug": "number-of-zero-filled-subarrays",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-zero-filled-subarrays/"
+    },
+    {
+      "date": "2025-08-20",
+      "id": "1277",
+      "title": "Count Square Submatrices with All Ones",
+      "slug": "count-square-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-square-submatrices-with-all-ones/"
+    },
+    {
+      "date": "2025-08-21",
+      "id": "1504",
+      "title": "Count Submatrices With All Ones",
+      "slug": "count-submatrices-with-all-ones",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-submatrices-with-all-ones/"
+    },
+    {
+      "date": "2025-08-22",
+      "id": "3195",
+      "title": "Find the Minimum Area to Cover All Ones I",
+      "slug": "find-the-minimum-area-to-cover-all-ones-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-minimum-area-to-cover-all-ones-i/"
+    },
+    {
+      "date": "2025-08-23",
+      "id": "3197",
+      "title": "Find the Minimum Area to Cover All Ones II",
+      "slug": "find-the-minimum-area-to-cover-all-ones-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-minimum-area-to-cover-all-ones-ii/"
+    },
+    {
+      "date": "2025-08-24",
+      "id": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-subarray-of-1s-after-deleting-one-element/"
+    },
+    {
+      "date": "2025-08-25",
+      "id": "498",
+      "title": "Diagonal Traverse",
+      "slug": "diagonal-traverse",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/diagonal-traverse/"
+    },
+    {
+      "date": "2025-08-26",
+      "id": "3000",
+      "title": "Maximum Area of Longest Diagonal Rectangle",
+      "slug": "maximum-area-of-longest-diagonal-rectangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-area-of-longest-diagonal-rectangle/"
+    },
+    {
+      "date": "2025-08-27",
+      "id": "3459",
+      "title": "Length of Longest V-Shaped Diagonal Segment",
+      "slug": "length-of-longest-v-shaped-diagonal-segment",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/length-of-longest-v-shaped-diagonal-segment/"
+    },
+    {
+      "date": "2025-08-28",
+      "id": "3446",
+      "title": "Sort Matrix by Diagonals",
+      "slug": "sort-matrix-by-diagonals",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-matrix-by-diagonals/"
+    },
+    {
+      "date": "2025-08-29",
+      "id": "3021",
+      "title": "Alice and Bob Playing Flower Game",
+      "slug": "alice-and-bob-playing-flower-game",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/alice-and-bob-playing-flower-game/"
+    },
+    {
+      "date": "2025-08-30",
+      "id": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-sudoku/"
+    },
+    {
+      "date": "2025-08-31",
+      "id": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sudoku-solver/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-08-01",
+      "id": "314",
+      "title": "Binary Tree Vertical Order Traversal",
+      "slug": "binary-tree-vertical-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/binary-tree-vertical-order-traversal/"
+    },
+    {
+      "date": "2025-08-08",
+      "id": "1198",
+      "title": "Find Smallest Common Element in All Rows",
+      "slug": "find-smallest-common-element-in-all-rows",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-smallest-common-element-in-all-rows/"
+    },
+    {
+      "date": "2025-08-15",
+      "id": "1166",
+      "title": "Design File System",
+      "slug": "design-file-system",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-file-system/"
+    },
+    {
+      "date": "2025-08-22",
+      "id": "1181",
+      "title": "Before and After Puzzle",
+      "slug": "before-and-after-puzzle",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/before-and-after-puzzle/"
+    },
+    {
+      "date": "2025-08-29",
+      "id": "1182",
+      "title": "Shortest Distance to Target Color",
+      "slug": "shortest-distance-to-target-color",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/shortest-distance-to-target-color/"
+    }
+  ]
+}

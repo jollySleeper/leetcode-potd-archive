@@ -1,0 +1,332 @@
+{
+  "year": 2022,
+  "month": 10,
+  "challenges": [
+    {
+      "date": "2022-10-01",
+      "id": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/decode-ways/"
+    },
+    {
+      "date": "2022-10-02",
+      "id": "1155",
+      "title": "Number of Dice Rolls With Target Sum",
+      "slug": "number-of-dice-rolls-with-target-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-dice-rolls-with-target-sum/"
+    },
+    {
+      "date": "2022-10-03",
+      "id": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-time-to-make-rope-colorful/"
+    },
+    {
+      "date": "2022-10-04",
+      "id": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/path-sum/"
+    },
+    {
+      "date": "2022-10-05",
+      "id": "623",
+      "title": "Add One Row to Tree",
+      "slug": "add-one-row-to-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-one-row-to-tree/"
+    },
+    {
+      "date": "2022-10-06",
+      "id": "981",
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/time-based-key-value-store/"
+    },
+    {
+      "date": "2022-10-07",
+      "id": "732",
+      "title": "My Calendar III",
+      "slug": "my-calendar-iii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/my-calendar-iii/"
+    },
+    {
+      "date": "2022-10-08",
+      "id": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/3sum-closest/"
+    },
+    {
+      "date": "2022-10-09",
+      "id": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/two-sum-iv-input-is-a-bst/"
+    },
+    {
+      "date": "2022-10-10",
+      "id": "1328",
+      "title": "Break a Palindrome",
+      "slug": "break-a-palindrome",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/break-a-palindrome/"
+    },
+    {
+      "date": "2022-10-11",
+      "id": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/increasing-triplet-subsequence/"
+    },
+    {
+      "date": "2022-10-12",
+      "id": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-perimeter-triangle/"
+    },
+    {
+      "date": "2022-10-13",
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-node-in-a-linked-list/"
+    },
+    {
+      "date": "2022-10-14",
+      "id": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-the-middle-node-of-a-linked-list/"
+    },
+    {
+      "date": "2022-10-15",
+      "id": "1531",
+      "title": "String Compression II",
+      "slug": "string-compression-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/string-compression-ii/"
+    },
+    {
+      "date": "2022-10-16",
+      "id": "1335",
+      "title": "Minimum Difficulty of a Job Schedule",
+      "slug": "minimum-difficulty-of-a-job-schedule",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-difficulty-of-a-job-schedule/"
+    },
+    {
+      "date": "2022-10-17",
+      "id": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-the-sentence-is-pangram/"
+    },
+    {
+      "date": "2022-10-18",
+      "id": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-and-say/"
+    },
+    {
+      "date": "2022-10-19",
+      "id": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/top-k-frequent-words/"
+    },
+    {
+      "date": "2022-10-20",
+      "id": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/integer-to-roman/"
+    },
+    {
+      "date": "2022-10-21",
+      "id": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/contains-duplicate-ii/"
+    },
+    {
+      "date": "2022-10-22",
+      "id": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-window-substring/"
+    },
+    {
+      "date": "2022-10-23",
+      "id": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/set-mismatch/"
+    },
+    {
+      "date": "2022-10-24",
+      "id": "1239",
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-length-of-a-concatenated-string-with-unique-characters/"
+    },
+    {
+      "date": "2022-10-25",
+      "id": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-two-string-arrays-are-equivalent/"
+    },
+    {
+      "date": "2022-10-26",
+      "id": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/continuous-subarray-sum/"
+    },
+    {
+      "date": "2022-10-27",
+      "id": "835",
+      "title": "Image Overlap",
+      "slug": "image-overlap",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/image-overlap/"
+    },
+    {
+      "date": "2022-10-28",
+      "id": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/group-anagrams/"
+    },
+    {
+      "date": "2022-10-29",
+      "id": "2136",
+      "title": "Earliest Possible Day of Full Bloom",
+      "slug": "earliest-possible-day-of-full-bloom",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/earliest-possible-day-of-full-bloom/"
+    },
+    {
+      "date": "2022-10-30",
+      "id": "1293",
+      "title": "Shortest Path in a Grid with Obstacles Elimination",
+      "slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-in-a-grid-with-obstacles-elimination/"
+    },
+    {
+      "date": "2022-10-31",
+      "id": "766",
+      "title": "Toeplitz Matrix",
+      "slug": "toeplitz-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/toeplitz-matrix/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-10-01",
+      "id": "531",
+      "title": "Lonely Pixel I",
+      "slug": "lonely-pixel-i",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/lonely-pixel-i/"
+    },
+    {
+      "date": "2022-10-08",
+      "id": "716",
+      "title": "Max Stack",
+      "slug": "max-stack",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/max-stack/"
+    },
+    {
+      "date": "2022-10-15",
+      "id": "800",
+      "title": "Similar RGB Color",
+      "slug": "similar-rgb-color",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/similar-rgb-color/"
+    },
+    {
+      "date": "2022-10-22",
+      "id": "296",
+      "title": "Best Meeting Point",
+      "slug": "best-meeting-point",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/best-meeting-point/"
+    },
+    {
+      "date": "2022-10-29",
+      "id": "487",
+      "title": "Max Consecutive Ones II",
+      "slug": "max-consecutive-ones-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/max-consecutive-ones-ii/"
+    }
+  ]
+}

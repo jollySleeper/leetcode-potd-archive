@@ -1,0 +1,332 @@
+{
+  "year": 2024,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2024-05-01",
+      "id": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/reverse-prefix-of-word/"
+    },
+    {
+      "date": "2024-05-02",
+      "id": "2441",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "slug": "largest-positive-integer-that-exists-with-its-negative",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-positive-integer-that-exists-with-its-negative/"
+    },
+    {
+      "date": "2024-05-03",
+      "id": "165",
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/compare-version-numbers/"
+    },
+    {
+      "date": "2024-05-04",
+      "id": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/boats-to-save-people/"
+    },
+    {
+      "date": "2024-05-05",
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-node-in-a-linked-list/"
+    },
+    {
+      "date": "2024-05-06",
+      "id": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-nodes-from-linked-list/"
+    },
+    {
+      "date": "2024-05-07",
+      "id": "2816",
+      "title": "Double a Number Represented as a Linked List",
+      "slug": "double-a-number-represented-as-a-linked-list",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/double-a-number-represented-as-a-linked-list/"
+    },
+    {
+      "date": "2024-05-08",
+      "id": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/relative-ranks/"
+    },
+    {
+      "date": "2024-05-09",
+      "id": "3075",
+      "title": "Maximize Happiness of Selected Children",
+      "slug": "maximize-happiness-of-selected-children",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-happiness-of-selected-children/"
+    },
+    {
+      "date": "2024-05-10",
+      "id": "786",
+      "title": "K-th Smallest Prime Fraction",
+      "slug": "k-th-smallest-prime-fraction",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/k-th-smallest-prime-fraction/"
+    },
+    {
+      "date": "2024-05-11",
+      "id": "857",
+      "title": "Minimum Cost to Hire K Workers",
+      "slug": "minimum-cost-to-hire-k-workers",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-cost-to-hire-k-workers/"
+    },
+    {
+      "date": "2024-05-12",
+      "id": "2373",
+      "title": "Largest Local Values in a Matrix",
+      "slug": "largest-local-values-in-a-matrix",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/largest-local-values-in-a-matrix/"
+    },
+    {
+      "date": "2024-05-13",
+      "id": "861",
+      "title": "Score After Flipping Matrix",
+      "slug": "score-after-flipping-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/score-after-flipping-matrix/"
+    },
+    {
+      "date": "2024-05-14",
+      "id": "1219",
+      "title": "Path with Maximum Gold",
+      "slug": "path-with-maximum-gold",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/path-with-maximum-gold/"
+    },
+    {
+      "date": "2024-05-15",
+      "id": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-safest-path-in-a-grid/"
+    },
+    {
+      "date": "2024-05-16",
+      "id": "2331",
+      "title": "Evaluate Boolean Binary Tree",
+      "slug": "evaluate-boolean-binary-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/evaluate-boolean-binary-tree/"
+    },
+    {
+      "date": "2024-05-17",
+      "id": "1325",
+      "title": "Delete Leaves With a Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/delete-leaves-with-a-given-value/"
+    },
+    {
+      "date": "2024-05-18",
+      "id": "979",
+      "title": "Distribute Coins in Binary Tree",
+      "slug": "distribute-coins-in-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/distribute-coins-in-binary-tree/"
+    },
+    {
+      "date": "2024-05-19",
+      "id": "3068",
+      "title": "Find the Maximum Sum of Node Values",
+      "slug": "find-the-maximum-sum-of-node-values",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-sum-of-node-values/"
+    },
+    {
+      "date": "2024-05-20",
+      "id": "1863",
+      "title": "Sum of All Subset XOR Totals",
+      "slug": "sum-of-all-subset-xor-totals",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-all-subset-xor-totals/"
+    },
+    {
+      "date": "2024-05-21",
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/subsets/"
+    },
+    {
+      "date": "2024-05-22",
+      "id": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-partitioning/"
+    },
+    {
+      "date": "2024-05-23",
+      "id": "2597",
+      "title": "The Number of Beautiful Subsets",
+      "slug": "the-number-of-beautiful-subsets",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/the-number-of-beautiful-subsets/"
+    },
+    {
+      "date": "2024-05-24",
+      "id": "1255",
+      "title": "Maximum Score Words Formed by Letters",
+      "slug": "maximum-score-words-formed-by-letters",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-score-words-formed-by-letters/"
+    },
+    {
+      "date": "2024-05-25",
+      "id": "140",
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-break-ii/"
+    },
+    {
+      "date": "2024-05-26",
+      "id": "552",
+      "title": "Student Attendance Record II",
+      "slug": "student-attendance-record-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/student-attendance-record-ii/"
+    },
+    {
+      "date": "2024-05-27",
+      "id": "1608",
+      "title": "Special Array With X Elements Greater Than or Equal X",
+      "slug": "special-array-with-x-elements-greater-than-or-equal-x",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/special-array-with-x-elements-greater-than-or-equal-x/"
+    },
+    {
+      "date": "2024-05-28",
+      "id": "1208",
+      "title": "Get Equal Substrings Within Budget",
+      "slug": "get-equal-substrings-within-budget",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/get-equal-substrings-within-budget/"
+    },
+    {
+      "date": "2024-05-29",
+      "id": "1404",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
+    },
+    {
+      "date": "2024-05-30",
+      "id": "1442",
+      "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+      "slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/"
+    },
+    {
+      "date": "2024-05-31",
+      "id": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/single-number-iii/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-05-01",
+      "id": "1885",
+      "title": "Count Pairs in Two Arrays",
+      "slug": "count-pairs-in-two-arrays",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/count-pairs-in-two-arrays/"
+    },
+    {
+      "date": "2024-05-08",
+      "id": "2473",
+      "title": "Minimum Cost to Buy Apples",
+      "slug": "minimum-cost-to-buy-apples",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/minimum-cost-to-buy-apples/"
+    },
+    {
+      "date": "2024-05-15",
+      "id": "2061",
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "slug": "number-of-spaces-cleaning-robot-cleaned",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-spaces-cleaning-robot-cleaned/"
+    },
+    {
+      "date": "2024-05-22",
+      "id": "291",
+      "title": "Word Pattern II",
+      "slug": "word-pattern-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/word-pattern-ii/"
+    },
+    {
+      "date": "2024-05-29",
+      "id": "2802",
+      "title": "Find The K-th Lucky Number",
+      "slug": "find-the-k-th-lucky-number",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-the-k-th-lucky-number/"
+    }
+  ]
+}

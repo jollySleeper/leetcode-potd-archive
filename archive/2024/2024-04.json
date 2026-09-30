@@ -1,0 +1,323 @@
+{
+  "year": 2024,
+  "month": 4,
+  "challenges": [
+    {
+      "date": "2024-04-01",
+      "id": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/length-of-last-word/"
+    },
+    {
+      "date": "2024-04-02",
+      "id": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/isomorphic-strings/"
+    },
+    {
+      "date": "2024-04-03",
+      "id": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/word-search/"
+    },
+    {
+      "date": "2024-04-04",
+      "id": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-nesting-depth-of-the-parentheses/"
+    },
+    {
+      "date": "2024-04-05",
+      "id": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/make-the-string-great/"
+    },
+    {
+      "date": "2024-04-06",
+      "id": "1249",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "slug": "minimum-remove-to-make-valid-parentheses",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-remove-to-make-valid-parentheses/"
+    },
+    {
+      "date": "2024-04-07",
+      "id": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/valid-parenthesis-string/"
+    },
+    {
+      "date": "2024-04-08",
+      "id": "1700",
+      "title": "Number of Students Unable to Eat Lunch",
+      "slug": "number-of-students-unable-to-eat-lunch",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-students-unable-to-eat-lunch/"
+    },
+    {
+      "date": "2024-04-09",
+      "id": "2073",
+      "title": "Time Needed to Buy Tickets",
+      "slug": "time-needed-to-buy-tickets",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/time-needed-to-buy-tickets/"
+    },
+    {
+      "date": "2024-04-10",
+      "id": "950",
+      "title": "Reveal Cards In Increasing Order",
+      "slug": "reveal-cards-in-increasing-order",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reveal-cards-in-increasing-order/"
+    },
+    {
+      "date": "2024-04-11",
+      "id": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-k-digits/"
+    },
+    {
+      "date": "2024-04-12",
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/trapping-rain-water/"
+    },
+    {
+      "date": "2024-04-13",
+      "id": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximal-rectangle/"
+    },
+    {
+      "date": "2024-04-14",
+      "id": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-left-leaves/"
+    },
+    {
+      "date": "2024-04-15",
+      "id": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      "date": "2024-04-16",
+      "id": "623",
+      "title": "Add One Row to Tree",
+      "slug": "add-one-row-to-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/add-one-row-to-tree/"
+    },
+    {
+      "date": "2024-04-17",
+      "id": "988",
+      "title": "Smallest String Starting From Leaf",
+      "slug": "smallest-string-starting-from-leaf",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/smallest-string-starting-from-leaf/"
+    },
+    {
+      "date": "2024-04-18",
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/island-perimeter/"
+    },
+    {
+      "date": "2024-04-19",
+      "id": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-islands/"
+    },
+    {
+      "date": "2024-04-20",
+      "id": "1992",
+      "title": "Find All Groups of Farmland",
+      "slug": "find-all-groups-of-farmland",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-all-groups-of-farmland/"
+    },
+    {
+      "date": "2024-04-21",
+      "id": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-if-path-exists-in-graph/"
+    },
+    {
+      "date": "2024-04-22",
+      "id": "752",
+      "title": "Open the Lock",
+      "slug": "open-the-lock",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/open-the-lock/"
+    },
+    {
+      "date": "2024-04-23",
+      "id": "310",
+      "title": "Minimum Height Trees",
+      "slug": "minimum-height-trees",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-height-trees/"
+    },
+    {
+      "date": "2024-04-24",
+      "id": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/n-th-tribonacci-number/"
+    },
+    {
+      "date": "2024-04-25",
+      "id": "2370",
+      "title": "Longest Ideal Subsequence",
+      "slug": "longest-ideal-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-ideal-subsequence/"
+    },
+    {
+      "date": "2024-04-26",
+      "id": "1289",
+      "title": "Minimum Falling Path Sum II",
+      "slug": "minimum-falling-path-sum-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-falling-path-sum-ii/"
+    },
+    {
+      "date": "2024-04-27",
+      "id": "514",
+      "title": "Freedom Trail",
+      "slug": "freedom-trail",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/freedom-trail/"
+    },
+    {
+      "date": "2024-04-28",
+      "id": "834",
+      "title": "Sum of Distances in Tree",
+      "slug": "sum-of-distances-in-tree",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/sum-of-distances-in-tree/"
+    },
+    {
+      "date": "2024-04-29",
+      "id": "2997",
+      "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+      "slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/"
+    },
+    {
+      "date": "2024-04-30",
+      "id": "1915",
+      "title": "Number of Wonderful Substrings",
+      "slug": "number-of-wonderful-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-wonderful-substrings/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2024-04-01",
+      "id": "159",
+      "title": "Longest Substring with At Most Two Distinct Characters",
+      "slug": "longest-substring-with-at-most-two-distinct-characters",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/longest-substring-with-at-most-two-distinct-characters/"
+    },
+    {
+      "date": "2024-04-08",
+      "id": "255",
+      "title": "Verify Preorder Sequence in Binary Search Tree",
+      "slug": "verify-preorder-sequence-in-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/verify-preorder-sequence-in-binary-search-tree/"
+    },
+    {
+      "date": "2024-04-15",
+      "id": "1469",
+      "title": "Find All The Lonely Nodes",
+      "slug": "find-all-the-lonely-nodes",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/find-all-the-lonely-nodes/"
+    },
+    {
+      "date": "2024-04-22",
+      "id": "305",
+      "title": "Number of Islands II",
+      "slug": "number-of-islands-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-islands-ii/"
+    },
+    {
+      "date": "2024-04-29",
+      "id": "2505",
+      "title": "Bitwise OR of All Subsequence Sums",
+      "slug": "bitwise-or-of-all-subsequence-sums",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/bitwise-or-of-all-subsequence-sums/"
+    }
+  ]
+}

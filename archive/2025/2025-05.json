@@ -1,0 +1,332 @@
+{
+  "year": 2025,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2025-05-01",
+      "id": "2071",
+      "title": "Maximum Number of Tasks You Can Assign",
+      "slug": "maximum-number-of-tasks-you-can-assign",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-number-of-tasks-you-can-assign/"
+    },
+    {
+      "date": "2025-05-02",
+      "id": "838",
+      "title": "Push Dominoes",
+      "slug": "push-dominoes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/push-dominoes/"
+    },
+    {
+      "date": "2025-05-03",
+      "id": "1007",
+      "title": "Minimum Domino Rotations For Equal Row",
+      "slug": "minimum-domino-rotations-for-equal-row",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-domino-rotations-for-equal-row/"
+    },
+    {
+      "date": "2025-05-04",
+      "id": "1128",
+      "title": "Number of Equivalent Domino Pairs",
+      "slug": "number-of-equivalent-domino-pairs",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-equivalent-domino-pairs/"
+    },
+    {
+      "date": "2025-05-05",
+      "id": "790",
+      "title": "Domino and Tromino Tiling",
+      "slug": "domino-and-tromino-tiling",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/domino-and-tromino-tiling/"
+    },
+    {
+      "date": "2025-05-06",
+      "id": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/build-array-from-permutation/"
+    },
+    {
+      "date": "2025-05-07",
+      "id": "3341",
+      "title": "Find Minimum Time to Reach Last Room I",
+      "slug": "find-minimum-time-to-reach-last-room-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-time-to-reach-last-room-i/"
+    },
+    {
+      "date": "2025-05-08",
+      "id": "3342",
+      "title": "Find Minimum Time to Reach Last Room II",
+      "slug": "find-minimum-time-to-reach-last-room-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-minimum-time-to-reach-last-room-ii/"
+    },
+    {
+      "date": "2025-05-09",
+      "id": "3343",
+      "title": "Count Number of Balanced Permutations",
+      "slug": "count-number-of-balanced-permutations",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-number-of-balanced-permutations/"
+    },
+    {
+      "date": "2025-05-10",
+      "id": "2918",
+      "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+      "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/"
+    },
+    {
+      "date": "2025-05-11",
+      "id": "1550",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/three-consecutive-odds/"
+    },
+    {
+      "date": "2025-05-12",
+      "id": "2094",
+      "title": "Finding 3-Digit Even Numbers",
+      "slug": "finding-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/finding-3-digit-even-numbers/"
+    },
+    {
+      "date": "2025-05-13",
+      "id": "3335",
+      "title": "Total Characters in String After Transformations I",
+      "slug": "total-characters-in-string-after-transformations-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/total-characters-in-string-after-transformations-i/"
+    },
+    {
+      "date": "2025-05-14",
+      "id": "3337",
+      "title": "Total Characters in String After Transformations II",
+      "slug": "total-characters-in-string-after-transformations-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/total-characters-in-string-after-transformations-ii/"
+    },
+    {
+      "date": "2025-05-15",
+      "id": "2900",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/longest-unequal-adjacent-groups-subsequence-i/"
+    },
+    {
+      "date": "2025-05-16",
+      "id": "2901",
+      "title": "Longest Unequal Adjacent Groups Subsequence II",
+      "slug": "longest-unequal-adjacent-groups-subsequence-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-unequal-adjacent-groups-subsequence-ii/"
+    },
+    {
+      "date": "2025-05-17",
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-colors/"
+    },
+    {
+      "date": "2025-05-18",
+      "id": "1931",
+      "title": "Painting a Grid With Three Different Colors",
+      "slug": "painting-a-grid-with-three-different-colors",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/painting-a-grid-with-three-different-colors/"
+    },
+    {
+      "date": "2025-05-19",
+      "id": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/type-of-triangle/"
+    },
+    {
+      "date": "2025-05-20",
+      "id": "3355",
+      "title": "Zero Array Transformation I",
+      "slug": "zero-array-transformation-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/zero-array-transformation-i/"
+    },
+    {
+      "date": "2025-05-21",
+      "id": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/set-matrix-zeroes/"
+    },
+    {
+      "date": "2025-05-22",
+      "id": "3362",
+      "title": "Zero Array Transformation III",
+      "slug": "zero-array-transformation-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/zero-array-transformation-iii/"
+    },
+    {
+      "date": "2025-05-23",
+      "id": "3068",
+      "title": "Find the Maximum Sum of Node Values",
+      "slug": "find-the-maximum-sum-of-node-values",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/find-the-maximum-sum-of-node-values/"
+    },
+    {
+      "date": "2025-05-24",
+      "id": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-words-containing-character/"
+    },
+    {
+      "date": "2025-05-25",
+      "id": "2131",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-palindrome-by-concatenating-two-letter-words/"
+    },
+    {
+      "date": "2025-05-26",
+      "id": "1857",
+      "title": "Largest Color Value in a Directed Graph",
+      "slug": "largest-color-value-in-a-directed-graph",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/largest-color-value-in-a-directed-graph/"
+    },
+    {
+      "date": "2025-05-27",
+      "id": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/divisible-and-non-divisible-sums-difference/"
+    },
+    {
+      "date": "2025-05-28",
+      "id": "3372",
+      "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+      "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/"
+    },
+    {
+      "date": "2025-05-29",
+      "id": "3373",
+      "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+      "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/"
+    },
+    {
+      "date": "2025-05-30",
+      "id": "2359",
+      "title": "Find Closest Node to Given Two Nodes",
+      "slug": "find-closest-node-to-given-two-nodes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/find-closest-node-to-given-two-nodes/"
+    },
+    {
+      "date": "2025-05-31",
+      "id": "909",
+      "title": "Snakes and Ladders",
+      "slug": "snakes-and-ladders",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/snakes-and-ladders/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2025-05-01",
+      "id": "353",
+      "title": "Design Snake Game",
+      "slug": "design-snake-game",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/design-snake-game/"
+    },
+    {
+      "date": "2025-05-08",
+      "id": "359",
+      "title": "Logger Rate Limiter",
+      "slug": "logger-rate-limiter",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/logger-rate-limiter/"
+    },
+    {
+      "date": "2025-05-15",
+      "id": "361",
+      "title": "Bomb Enemy",
+      "slug": "bomb-enemy",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/bomb-enemy/"
+    },
+    {
+      "date": "2025-05-22",
+      "id": "1429",
+      "title": "First Unique Number",
+      "slug": "first-unique-number",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/first-unique-number/"
+    },
+    {
+      "date": "2025-05-29",
+      "id": "1474",
+      "title": "Delete N Nodes After M Nodes of a Linked List",
+      "slug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": true,
+      "link": "/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/"
+    }
+  ]
+}

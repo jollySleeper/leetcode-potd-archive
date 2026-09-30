@@ -1,0 +1,332 @@
+{
+  "year": 2022,
+  "month": 8,
+  "challenges": [
+    {
+      "date": "2022-08-01",
+      "id": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths/"
+    },
+    {
+      "date": "2022-08-02",
+      "id": "378",
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "slug": "kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/kth-smallest-element-in-a-sorted-matrix/"
+    },
+    {
+      "date": "2022-08-03",
+      "id": "729",
+      "title": "My Calendar I",
+      "slug": "my-calendar-i",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/my-calendar-i/"
+    },
+    {
+      "date": "2022-08-04",
+      "id": "858",
+      "title": "Mirror Reflection",
+      "slug": "mirror-reflection",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/mirror-reflection/"
+    },
+    {
+      "date": "2022-08-05",
+      "id": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum-iv/"
+    },
+    {
+      "date": "2022-08-06",
+      "id": "458",
+      "title": "Poor Pigs",
+      "slug": "poor-pigs",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/poor-pigs/"
+    },
+    {
+      "date": "2022-08-07",
+      "id": "1220",
+      "title": "Count Vowels Permutation",
+      "slug": "count-vowels-permutation",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/count-vowels-permutation/"
+    },
+    {
+      "date": "2022-08-08",
+      "id": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/longest-increasing-subsequence/"
+    },
+    {
+      "date": "2022-08-09",
+      "id": "823",
+      "title": "Binary Trees With Factors",
+      "slug": "binary-trees-with-factors",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/binary-trees-with-factors/"
+    },
+    {
+      "date": "2022-08-10",
+      "id": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/convert-sorted-array-to-binary-search-tree/"
+    },
+    {
+      "date": "2022-08-11",
+      "id": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/validate-binary-search-tree/"
+    },
+    {
+      "date": "2022-08-12",
+      "id": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+      "date": "2022-08-13",
+      "id": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+      "date": "2022-08-14",
+      "id": "126",
+      "title": "Word Ladder II",
+      "slug": "word-ladder-ii",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/word-ladder-ii/"
+    },
+    {
+      "date": "2022-08-15",
+      "id": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/roman-to-integer/"
+    },
+    {
+      "date": "2022-08-16",
+      "id": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/first-unique-character-in-a-string/"
+    },
+    {
+      "date": "2022-08-17",
+      "id": "804",
+      "title": "Unique Morse Code Words",
+      "slug": "unique-morse-code-words",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/unique-morse-code-words/"
+    },
+    {
+      "date": "2022-08-18",
+      "id": "1338",
+      "title": "Reduce Array Size to The Half",
+      "slug": "reduce-array-size-to-the-half",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reduce-array-size-to-the-half/"
+    },
+    {
+      "date": "2022-08-19",
+      "id": "659",
+      "title": "Split Array into Consecutive Subsequences",
+      "slug": "split-array-into-consecutive-subsequences",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/split-array-into-consecutive-subsequences/"
+    },
+    {
+      "date": "2022-08-20",
+      "id": "871",
+      "title": "Minimum Number of Refueling Stops",
+      "slug": "minimum-number-of-refueling-stops",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/minimum-number-of-refueling-stops/"
+    },
+    {
+      "date": "2022-08-21",
+      "id": "936",
+      "title": "Stamping The Sequence",
+      "slug": "stamping-the-sequence",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/stamping-the-sequence/"
+    },
+    {
+      "date": "2022-08-22",
+      "id": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-four/"
+    },
+    {
+      "date": "2022-08-23",
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/palindrome-linked-list/"
+    },
+    {
+      "date": "2022-08-24",
+      "id": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/power-of-three/"
+    },
+    {
+      "date": "2022-08-25",
+      "id": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/ransom-note/"
+    },
+    {
+      "date": "2022-08-26",
+      "id": "869",
+      "title": "Reordered Power of 2",
+      "slug": "reordered-power-of-2",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/reordered-power-of-2/"
+    },
+    {
+      "date": "2022-08-27",
+      "id": "363",
+      "title": "Max Sum of Rectangle No Larger Than K",
+      "slug": "max-sum-of-rectangle-no-larger-than-k",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/max-sum-of-rectangle-no-larger-than-k/"
+    },
+    {
+      "date": "2022-08-28",
+      "id": "1329",
+      "title": "Sort the Matrix Diagonally",
+      "slug": "sort-the-matrix-diagonally",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/sort-the-matrix-diagonally/"
+    },
+    {
+      "date": "2022-08-29",
+      "id": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-islands/"
+    },
+    {
+      "date": "2022-08-30",
+      "id": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/rotate-image/"
+    },
+    {
+      "date": "2022-08-31",
+      "id": "417",
+      "title": "Pacific Atlantic Water Flow",
+      "slug": "pacific-atlantic-water-flow",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/pacific-atlantic-water-flow/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-08-01",
+      "id": "366",
+      "title": "Find Leaves of Binary Tree",
+      "slug": "find-leaves-of-binary-tree",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-leaves-of-binary-tree/"
+    },
+    {
+      "date": "2022-08-08",
+      "id": "314",
+      "title": "Binary Tree Vertical Order Traversal",
+      "slug": "binary-tree-vertical-order-traversal",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/binary-tree-vertical-order-traversal/"
+    },
+    {
+      "date": "2022-08-15",
+      "id": "1570",
+      "title": "Dot Product of Two Sparse Vectors",
+      "slug": "dot-product-of-two-sparse-vectors",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/dot-product-of-two-sparse-vectors/"
+    },
+    {
+      "date": "2022-08-22",
+      "id": "549",
+      "title": "Binary Tree Longest Consecutive Sequence II",
+      "slug": "binary-tree-longest-consecutive-sequence-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/binary-tree-longest-consecutive-sequence-ii/"
+    },
+    {
+      "date": "2022-08-29",
+      "id": "505",
+      "title": "The Maze II",
+      "slug": "the-maze-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/the-maze-ii/"
+    }
+  ]
+}

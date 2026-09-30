@@ -1,0 +1,332 @@
+{
+  "year": 2022,
+  "month": 5,
+  "challenges": [
+    {
+      "date": "2022-05-01",
+      "id": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/backspace-string-compare/"
+    },
+    {
+      "date": "2022-05-02",
+      "id": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/sort-array-by-parity/"
+    },
+    {
+      "date": "2022-05-03",
+      "id": "581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "slug": "shortest-unsorted-continuous-subarray",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-unsorted-continuous-subarray/"
+    },
+    {
+      "date": "2022-05-04",
+      "id": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/max-number-of-k-sum-pairs/"
+    },
+    {
+      "date": "2022-05-05",
+      "id": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/implement-stack-using-queues/"
+    },
+    {
+      "date": "2022-05-06",
+      "id": "1209",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "slug": "remove-all-adjacent-duplicates-in-string-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/remove-all-adjacent-duplicates-in-string-ii/"
+    },
+    {
+      "date": "2022-05-07",
+      "id": "456",
+      "title": "132 Pattern",
+      "slug": "132-pattern",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/132-pattern/"
+    },
+    {
+      "date": "2022-05-08",
+      "id": "341",
+      "title": "Flatten Nested List Iterator",
+      "slug": "flatten-nested-list-iterator",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/flatten-nested-list-iterator/"
+    },
+    {
+      "date": "2022-05-09",
+      "id": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+      "date": "2022-05-10",
+      "id": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/combination-sum-iii/"
+    },
+    {
+      "date": "2022-05-11",
+      "id": "1641",
+      "title": "Count Sorted Vowel Strings",
+      "slug": "count-sorted-vowel-strings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/count-sorted-vowel-strings/"
+    },
+    {
+      "date": "2022-05-12",
+      "id": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/permutations-ii/"
+    },
+    {
+      "date": "2022-05-13",
+      "id": "117",
+      "title": "Populating Next Right Pointers in Each Node II",
+      "slug": "populating-next-right-pointers-in-each-node-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/populating-next-right-pointers-in-each-node-ii/"
+    },
+    {
+      "date": "2022-05-14",
+      "id": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/network-delay-time/"
+    },
+    {
+      "date": "2022-05-15",
+      "id": "1302",
+      "title": "Deepest Leaves Sum",
+      "slug": "deepest-leaves-sum",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/deepest-leaves-sum/"
+    },
+    {
+      "date": "2022-05-16",
+      "id": "1091",
+      "title": "Shortest Path in Binary Matrix",
+      "slug": "shortest-path-in-binary-matrix",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/shortest-path-in-binary-matrix/"
+    },
+    {
+      "date": "2022-05-17",
+      "id": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/"
+    },
+    {
+      "date": "2022-05-18",
+      "id": "1192",
+      "title": "Critical Connections in a Network",
+      "slug": "critical-connections-in-a-network",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/critical-connections-in-a-network/"
+    },
+    {
+      "date": "2022-05-19",
+      "id": "329",
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-increasing-path-in-a-matrix/"
+    },
+    {
+      "date": "2022-05-20",
+      "id": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/unique-paths-ii/"
+    },
+    {
+      "date": "2022-05-21",
+      "id": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/coin-change/"
+    },
+    {
+      "date": "2022-05-22",
+      "id": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/palindromic-substrings/"
+    },
+    {
+      "date": "2022-05-23",
+      "id": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/ones-and-zeroes/"
+    },
+    {
+      "date": "2022-05-24",
+      "id": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/longest-valid-parentheses/"
+    },
+    {
+      "date": "2022-05-25",
+      "id": "354",
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "difficulty": "Hard",
+      "isPaidOnly": false,
+      "link": "/problems/russian-doll-envelopes/"
+    },
+    {
+      "date": "2022-05-26",
+      "id": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-1-bits/"
+    },
+    {
+      "date": "2022-05-27",
+      "id": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/number-of-steps-to-reduce-a-number-to-zero/"
+    },
+    {
+      "date": "2022-05-28",
+      "id": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "isPaidOnly": false,
+      "link": "/problems/missing-number/"
+    },
+    {
+      "date": "2022-05-29",
+      "id": "318",
+      "title": "Maximum Product of Word Lengths",
+      "slug": "maximum-product-of-word-lengths",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/maximum-product-of-word-lengths/"
+    },
+    {
+      "date": "2022-05-30",
+      "id": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/divide-two-integers/"
+    },
+    {
+      "date": "2022-05-31",
+      "id": "1461",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+      "difficulty": "Medium",
+      "isPaidOnly": false,
+      "link": "/problems/check-if-a-string-contains-all-binary-codes-of-size-k/"
+    }
+  ],
+  "weeklyChallenges": [
+    {
+      "date": "2022-05-01",
+      "id": "484",
+      "title": "Find Permutation",
+      "slug": "find-permutation",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-permutation/"
+    },
+    {
+      "date": "2022-05-08",
+      "id": "489",
+      "title": "Robot Room Cleaner",
+      "slug": "robot-room-cleaner",
+      "difficulty": "Hard",
+      "isPaidOnly": true,
+      "link": "/problems/robot-room-cleaner/"
+    },
+    {
+      "date": "2022-05-15",
+      "id": "694",
+      "title": "Number of Distinct Islands",
+      "slug": "number-of-distinct-islands",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/number-of-distinct-islands/"
+    },
+    {
+      "date": "2022-05-22",
+      "id": "277",
+      "title": "Find the Celebrity",
+      "slug": "find-the-celebrity",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/find-the-celebrity/"
+    },
+    {
+      "date": "2022-05-29",
+      "id": "1136",
+      "title": "Parallel Courses",
+      "slug": "parallel-courses",
+      "difficulty": "Medium",
+      "isPaidOnly": true,
+      "link": "/problems/parallel-courses/"
+    }
+  ]
+}
