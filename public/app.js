@@ -12,11 +12,15 @@
   const URL_PREFIX = "https://leetcode.com/problems/";
   const EMPTY_MESSAGE = "No challenges match the current filters.";
   const COLUMN_COUNT = 8;
+  // A bare URL opens on the latest month, so the unfiltered view needs a query string of its own.
+  // readQuery ignores "all" like any other unknown year, which leaves Year at "All years".
+  const SHOW_ALL_QUERY = "year=all";
   const numbers = new Intl.NumberFormat("en-US");
 
   const els = {
     range: document.getElementById("range"),
     counts: document.getElementById("counts"),
+    hint: document.getElementById("hint"),
     error: document.getElementById("error"),
     rows: document.getElementById("rows"),
     form: document.getElementById("filters"),
@@ -37,6 +41,7 @@
   let years = [];
   let months = [];
   let topics = [];
+  let latestMonth = "";
   const rowCache = new Map();
 
   // Split the ISO string instead of using Date, which would shift the day west of UTC.
@@ -199,7 +204,23 @@
     return els.search.value === "" && selects.every((select) => select.value === "");
   }
 
+  function isLatestMonthView() {
+    return els.search.value === "" && els.year.value === latestMonth.slice(0, 4)
+      && els.month.value === latestMonth
+      && [els.type, els.difficulty, els.topic].every((select) => select.value === "");
+  }
+
+  function showLatestMonth() {
+    els.year.value = latestMonth.slice(0, 4);
+    populateMonths();
+    els.month.value = latestMonth;
+  }
+
   function readQuery() {
+    if (!window.location.search) {
+      showLatestMonth();
+      return;
+    }
     const params = new URLSearchParams(window.location.search);
     const q = params.get("q");
     if (q !== null) els.search.value = q;
@@ -223,8 +244,8 @@
     for (const [name, select] of Object.entries(selectsByParam)) {
       if (select.value) params.set(name, select.value);
     }
-    const query = params.toString();
-    const url = `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash}`;
+    const query = params.toString() || SHOW_ALL_QUERY;
+    const url = `${window.location.pathname}?${query}${window.location.hash}`;
     if (url !== `${window.location.pathname}${window.location.search}${window.location.hash}`) {
       history.replaceState(null, "", url);
     }
@@ -232,6 +253,9 @@
 
   function update() {
     els.reset.hidden = isDefault();
+    els.hint.hidden = !isLatestMonthView();
+    els.hint.textContent = `Showing ${formatMonth(latestMonth)}, the latest month. `
+      + `Press Reset to see all ${numbers.format(challenges.length)} challenges.`;
     render(filtered());
   }
 
@@ -244,8 +268,7 @@
     els.search.value = "";
     for (const select of selects) select.value = "";
     populateMonths();
-    update();
-    history.replaceState(null, "", `${window.location.pathname}${window.location.hash}`);
+    change();
   }
 
   function bindControls() {
@@ -271,6 +294,7 @@
     months = [...new Set(challenges.map((c) => c.date.slice(0, 7)))].sort().reverse();
     years = [...new Set(months.map((key) => key.slice(0, 4)))];
     topics = [...new Set(challenges.flatMap((c) => c.topics))].sort();
+    [latestMonth] = months;
     els.range.textContent = `${formatDate(data.from)} – ${formatDate(data.to)}`;
     fillSelect(els.year, "All years", years.map((year) => [year, year]));
     fillSelect(els.topic, "All topics", topics.map((topic) => [topic, topic]));
