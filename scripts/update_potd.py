@@ -86,6 +86,9 @@ COMPLETE = "complete"
 INVALID = "invalid"
 
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}", re.ASCII)
+ID_RE = re.compile(r"\d+", re.ASCII)
+SLUG_RE = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
+DIFFICULTIES = ("Easy", "Medium", "Hard")
 
 
 class ArchiveError(Exception):
@@ -258,7 +261,47 @@ def classify_items(dailies: list, weeklies: list, year: int, month: int) -> tupl
         return INVALID, f"daily dates in {label} are not days 1..N"
     if len(days) < days_in_month(year, month):
         return PARTIAL, f"{label} has {len(days)} of {days_in_month(year, month)} dailies"
+    problems = field_errors(dailies, weeklies, year, month)
+    if problems:
+        return INVALID, f"{label}: " + "; ".join(problems)
     return COMPLETE, f"{label} has all {len(days)} dailies"
+
+
+def field_errors(dailies: list, weeklies: list, year: int, month: int) -> list[str]:
+    """Apply field rules 1-8 to every daily and weekly item."""
+    nearby = {month_before((year, month)), (year, month), month_after((year, month))}
+    problems = []
+    for kind, items in (("daily", dailies), ("weekly", weeklies)):
+        for index, item in enumerate(items, start=1):
+            where = f"{kind} #{index}"
+            if not isinstance(item, dict):
+                problems.append(f"{where}: not an object")
+                continue
+            missing = [
+                name
+                for name in ("date", "id", "title", "slug", "difficulty")
+                if not isinstance(item.get(name), str) or item.get(name) == ""
+            ]
+            if missing:
+                problems.append(f"{where}: missing or empty {', '.join(missing)}")
+                continue
+            parsed = parse_date(item["date"])
+            if parsed is None:
+                problems.append(f"{where}: date {item['date']!r} is not a real YYYY-MM-DD date")
+            elif kind == "weekly" and (parsed.year, parsed.month) not in nearby:
+                problems.append(f"{where}: weekly date {item['date']} is too far from {month_key(year, month)}")
+            if not ID_RE.fullmatch(item["id"]):
+                problems.append(f"{where}: id {item['id']!r} is not digits")
+            if item["difficulty"] not in DIFFICULTIES:
+                problems.append(f"{where}: difficulty {item['difficulty']!r} is not Easy, Medium, or Hard")
+            if not SLUG_RE.fullmatch(item["slug"]):
+                problems.append(f"{where}: slug {item['slug']!r} is not a valid slug")
+            if not isinstance(item.get("isPaidOnly"), bool):
+                problems.append(f"{where}: isPaidOnly is not a boolean")
+            link = item.get("link")
+            if not isinstance(link, str) or not link.startswith(f"/problems/{item['slug']}/"):
+                problems.append(f"{where}: link {link!r} does not start with /problems/{item['slug']}/")
+    return problems
 
 
 def classify_response(payload: object, year: int, month: int) -> tuple[str, str]:

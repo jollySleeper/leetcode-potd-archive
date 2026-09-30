@@ -126,6 +126,67 @@ class ClassificationTests(unittest.TestCase):
         self.assertEqual(self.kind(payload, 2026, 1), up.INVALID)
 
 
+class FieldRuleTests(unittest.TestCase):
+    def setUp(self):
+        weeklies = [
+            api_item("2026-01-01", "1426", slug="counting-elements", paid=True),
+            api_item("2026-01-29", "1088", slug="confusing-number-ii", difficulty="Hard", paid=True),
+        ]
+        self.payload = api_payload(2026, 1, weeklies=weeklies)
+        record = self.payload["data"]["dailyCodingChallengeV2"]
+        self.daily = record["challenges"][4]
+        self.weekly = record["weeklyChallenges"][1]
+
+    def assertInvalid(self):
+        kind, detail = up.classify_response(self.payload, 2026, 1)
+        self.assertEqual(kind, up.INVALID, detail)
+
+    def test_baseline_is_complete(self):
+        self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
+    def test_rule_1_missing_title(self):
+        del self.daily["question"]["title"]
+        self.assertInvalid()
+
+    def test_rule_2_bad_weekly_date(self):
+        self.weekly["date"] = "2026-02-30"
+        self.assertInvalid()
+
+    def test_rule_3_non_digit_id(self):
+        self.daily["question"]["questionFrontendId"] = "LCP 01"
+        self.assertInvalid()
+
+    def test_rule_4_unknown_difficulty(self):
+        self.weekly["question"]["difficulty"] = "Unknown"
+        self.assertInvalid()
+
+    def test_rule_5_uppercase_slug(self):
+        self.daily["question"]["titleSlug"] = "Two-sum"
+        self.daily["link"] = "/problems/Two-sum/"
+        self.assertInvalid()
+
+    def test_rule_6_is_paid_only_missing_on_daily(self):
+        del self.daily["question"]["isPaidOnly"]
+        self.assertInvalid()
+
+    def test_rule_7_link_for_different_slug(self):
+        self.daily["link"] = "/problems/some-other-problem/"
+        self.assertInvalid()
+
+    def test_rule_7_allows_query_string(self):
+        self.daily["link"] = self.daily["link"] + "?envType=daily-question"
+        self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
+    def test_rule_8_weekly_two_months_away(self):
+        self.weekly["date"] = "2026-03-01"
+        self.assertInvalid()
+
+    def test_rule_8_allows_adjacent_months(self):
+        self.weekly["date"] = "2026-02-05"
+        self.payload["data"]["dailyCodingChallengeV2"]["weeklyChallenges"][0]["date"] = "2025-12-29"
+        self.assertEqual(up.classify_response(self.payload, 2026, 1)[0], up.COMPLETE)
+
+
 class FakeTransport:
     """Returns queued (status, body) pairs or raises queued exceptions."""
 
