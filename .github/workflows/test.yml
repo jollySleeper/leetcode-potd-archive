@@ -26,4 +26,6 @@ jobs:
       - name: Generated files are up to date
         run: |
           python3 scripts/update_potd.py build
+          git status --short
           git diff --exit-code
+          test -z "$(git status --porcelain)"
