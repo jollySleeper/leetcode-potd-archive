@@ -92,6 +92,7 @@ DIFFICULTIES = ("Easy", "Medium", "Hard")
 
 SNAPSHOT_FIELDS = ("date", "id", "title", "slug", "difficulty", "isPaidOnly", "link")
 SNAPSHOT_NAME_RE = re.compile(r"(\d{4})-(\d{2})\.json", re.ASCII)
+SITE_SOURCE = "https://leetcode.com/graphql/ dailyCodingChallengeV2"
 
 
 class ArchiveError(Exception):
@@ -540,3 +541,46 @@ def merge_snapshots(snapshots: dict[tuple[int, int], tuple[str, dict]]) -> list[
 
     rows.sort(key=row_sort_key)
     return rows
+
+
+# ---------------------------------------------------------------------------
+# Site JSON
+# ---------------------------------------------------------------------------
+
+
+def site_document(rows: list[dict]) -> dict:
+    daily_dates = [row["date"] for row in rows if row["type"] == "daily"]
+    first, last = min(daily_dates), max(daily_dates)
+    outside = [row["date"] for row in rows if not first <= row["date"] <= last]
+    if outside:
+        raise ArchiveError(f"challenge dated {outside[0]} is outside {first}..{last}")
+    return {
+        "source": SITE_SOURCE,
+        "from": first,
+        "to": last,
+        "dailyCount": len(daily_dates),
+        "weeklyCount": len(rows) - len(daily_dates),
+        "challenges": rows,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------------------
+
+
+def build(root: Path) -> dict[str, list[str]]:
+    """Regenerate every derived file from the snapshots. No network.
+
+    Returns the relative paths that were written and removed.
+    """
+    snapshots = load_snapshots(root)
+    rows = merge_snapshots(snapshots)
+    written = []
+
+    def emit(path: Path, data: bytes) -> None:
+        if write_if_changed(root / path, data):
+            written.append(path.as_posix())
+
+    emit(SITE_JSON_PATH, render_json(site_document(rows)))
+    return {"written": written, "removed": []}

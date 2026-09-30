@@ -360,6 +360,21 @@ class SpilloverTests(ArchiveTestCase):
         self.assertEqual(len(weekly_rows(rows, "2026-05")), 5)
         self.assertEqual([r["date"] for r in june][:2], ["2026-06-01", "2026-06-05"])
 
+    def test_site_json_holds_spilled_weekly_once(self):
+        up.build(self.root)
+        site = read_json(self.root / "docs" / "challenges.json")
+        matches = [r for r in site["challenges"] if r["slug"] == "confusing-number-ii"]
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0]["date"], "2026-06-05")
+        self.assertEqual(matches[0]["type"], "weekly")
+
+    def test_build_leaves_snapshots_byte_identical(self):
+        before = {p: p.read_bytes() for p in (self.snap(2026, 5), self.snap(2026, 6))}
+        up.build(self.root)
+        up.build(self.root)
+        for path, data in before.items():
+            self.assertEqual(path.read_bytes(), data)
+
 
 class HoldBackTests(ArchiveTestCase):
     def setUp(self):
@@ -375,12 +390,74 @@ class HoldBackTests(ArchiveTestCase):
         self.assertEqual(weekly_rows(rows, "2026-09"), [])
         self.assertTrue(all(r["date"] <= "2026-08-31" for r in rows))
 
+    def test_site_json_excludes_held_back_weekly(self):
+        up.build(self.root)
+        site = read_json(self.root / "docs" / "challenges.json")
+        self.assertEqual(site["to"], "2026-08-31")
+        self.assertNotIn("counting-elements", [r["slug"] for r in site["challenges"]])
+        self.assertNotIn("2026-09-05", [r["date"] for r in site["challenges"]])
+        self.assertTrue(all(site["from"] <= r["date"] <= site["to"] for r in site["challenges"]))
+        self.assertIn("counting-elements", self.snap(2026, 8).read_text(encoding="utf-8"))
+
     def test_held_back_weekly_appears_once_september_is_saved(self):
         write_archive(self.root, (2026, 9), weeklies=self.weeklies, start=(2026, 9))
         rows = up.merge_snapshots(up.load_snapshots(self.root))
         september = weekly_rows(rows, "2026-09")
         self.assertEqual(len(september), 6)
         self.assertEqual([r["date"] for r in september].count("2026-09-05"), 1)
+        up.build(self.root)
+        site = read_json(self.root / "docs" / "challenges.json")
+        self.assertEqual([r["date"] for r in weekly_rows(site["challenges"])].count("2026-09-05"), 1)
+
+
+class SiteJsonTests(ArchiveTestCase):
+    def setUp(self):
+        super().setUp()
+        april = api_payload(2020, 4)
+        record = april["data"]["dailyCodingChallengeV2"]
+        record["challenges"][0] = api_item("2020-04-01", "1000", title="N × 3", slug="n-times-3")
+        record["challenges"][1] = api_item("2020-04-02", "999", slug="nine-nine-nine", paid=True)
+        up.save_snapshot(self.root, up.normalize_response(april, 2020, 4))
+        write_archive(self.root, (2020, 8), start=(2020, 5), weeklies={
+            (2020, 8): [api_item("2020-08-01", "5", slug="weekly-five", paid=True),
+                        api_item("2020-08-08", "10", slug="weekly-ten", paid=False)],
+        })
+        self.site_path = self.root / "docs" / "challenges.json"
+
+    def test_shape_and_counts(self):
+        up.build(self.root)
+        site = read_json(self.site_path)
+        self.assertEqual(list(site), ["source", "from", "to", "dailyCount", "weeklyCount", "challenges"])
+        self.assertEqual(site["source"], "https://leetcode.com/graphql/ dailyCodingChallengeV2")
+        self.assertEqual(site["from"], "2020-04-01")
+        self.assertEqual(site["to"], "2020-08-31")
+        self.assertEqual(site["dailyCount"], 30 + 31 + 30 + 31 + 31)
+        self.assertEqual(site["weeklyCount"], 2)
+        self.assertEqual(len(site["challenges"]), site["dailyCount"] + site["weeklyCount"])
+        first = site["challenges"][0]
+        self.assertEqual(list(first), ["date", "type", "id", "title", "slug", "difficulty", "isPaidOnly", "url"])
+        self.assertEqual(first["title"], "N × 3")
+        self.assertEqual(first["url"], "https://leetcode.com/problems/n-times-3/")
+        self.assertIs(site["challenges"][1]["isPaidOnly"], True)
+        self.assertIn("N × 3", self.site_path.read_text(encoding="utf-8"))
+
+    def test_sorted_by_date_then_daily_first_then_numeric_id(self):
+        up.build(self.root)
+        rows = read_json(self.site_path)["challenges"]
+        self.assertEqual(rows, sorted(rows, key=lambda r: (r["date"], r["type"] != "daily", int(r["id"]))))
+        on_first = [(r["type"], r["id"]) for r in rows if r["date"] == "2020-08-01"]
+        self.assertEqual(on_first, [("daily", "20200801"), ("weekly", "5")])
+
+    def test_site_json_is_byte_stable(self):
+        first = up.build(self.root)
+        self.assertIn("docs/challenges.json", first["written"])
+        data = self.site_path.read_bytes()
+        mtime = self.site_path.stat().st_mtime_ns
+        second = up.build(self.root)
+        self.assertEqual(second["written"], [])
+        self.assertEqual(self.site_path.read_bytes(), data)
+        self.assertEqual(self.site_path.stat().st_mtime_ns, mtime)
+        self.assertTrue(data.endswith(b"}\n") and not data.endswith(b"\n\n"))
 
 
 class ConflictTests(ArchiveTestCase):
