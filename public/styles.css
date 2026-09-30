@@ -7,6 +7,10 @@
   --stripe: #f6f8fa;
   --head: #eaeef2;
   --accent: #0969da;
+  --easy: #1a7f37;
+  --medium: #9a6700;
+  --hard: #cf222e;
+  --premium: #9a6700;
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.45;
 }
@@ -20,6 +24,10 @@
     --stripe: #151b23;
     --head: #212830;
     --accent: #4493f8;
+    --easy: #3fb950;
+    --medium: #d29922;
+    --hard: #f85149;
+    --premium: #e3b341;
   }
 }
 
@@ -171,6 +179,27 @@ td.topics {
   white-space: normal;
   color: var(--muted);
   font-size: 0.85rem;
+}
+
+td.easy {
+  color: var(--easy);
+}
+
+td.medium {
+  color: var(--medium);
+}
+
+td.hard {
+  color: var(--hard);
+}
+
+td.premium {
+  color: var(--premium);
+  font-weight: 600;
+}
+
+td.free {
+  color: var(--muted);
 }
 
 td.empty {

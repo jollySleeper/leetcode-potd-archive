@@ -109,8 +109,8 @@
       cell(TYPE_LABELS[challenge.type]),
       cell(challenge.id, "num"),
       title,
-      cell(challenge.difficulty),
-      cell(challenge.isPaidOnly ? "Premium" : "Free"),
+      cell(challenge.difficulty, challenge.difficulty.toLowerCase()),
+      cell(challenge.isPaidOnly ? "Premium" : "Free", challenge.isPaidOnly ? "premium" : "free"),
       cell(challenge.topics.join(", "), "topics"),
     );
     return tr;
