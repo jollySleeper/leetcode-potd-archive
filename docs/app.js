@@ -27,7 +27,8 @@
     difficulty: document.getElementById("difficulty"),
     reset: document.getElementById("reset"),
   };
-  const selects = [els.year, els.month, els.type, els.difficulty];
+  const selectsByParam = { year: els.year, month: els.month, type: els.type, difficulty: els.difficulty };
+  const selects = Object.values(selectsByParam);
 
   let challenges = [];
   let years = [];
@@ -190,9 +191,43 @@
     return els.search.value === "" && selects.every((select) => select.value === "");
   }
 
+  function readQuery() {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get("q");
+    if (q !== null) els.search.value = q;
+    const year = params.get("year");
+    if (years.includes(year)) els.year.value = year;
+    populateMonths();
+    const month = params.get("month");
+    if (monthsForYear(els.year.value).includes(month)) els.month.value = month;
+    const type = params.get("type");
+    if (type === "daily" || type === "weekly") els.type.value = type;
+    const difficulty = params.get("difficulty");
+    if (["easy", "medium", "hard"].includes(difficulty)) els.difficulty.value = difficulty;
+  }
+
+  function writeQuery() {
+    const params = new URLSearchParams();
+    const q = els.search.value.trim();
+    if (q) params.set("q", q);
+    for (const [name, select] of Object.entries(selectsByParam)) {
+      if (select.value) params.set(name, select.value);
+    }
+    const query = params.toString();
+    const url = `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash}`;
+    if (url !== `${window.location.pathname}${window.location.search}${window.location.hash}`) {
+      history.replaceState(null, "", url);
+    }
+  }
+
   function update() {
     els.reset.hidden = isDefault();
     render(filtered());
+  }
+
+  function change() {
+    update();
+    writeQuery();
   }
 
   function reset() {
@@ -200,16 +235,17 @@
     for (const select of selects) select.value = "";
     populateMonths();
     update();
+    history.replaceState(null, "", `${window.location.pathname}${window.location.hash}`);
   }
 
   function bindControls() {
     els.form.addEventListener("submit", (event) => event.preventDefault());
-    els.search.addEventListener("input", update);
+    els.search.addEventListener("input", change);
     els.year.addEventListener("change", () => {
       populateMonths();
-      update();
+      change();
     });
-    for (const select of [els.month, els.type, els.difficulty]) select.addEventListener("change", update);
+    for (const select of [els.month, els.type, els.difficulty]) select.addEventListener("change", change);
     els.reset.addEventListener("click", reset);
   }
 
@@ -226,7 +262,7 @@
     years = [...new Set(months.map((key) => key.slice(0, 4)))];
     els.range.textContent = `${formatDate(data.from)} – ${formatDate(data.to)}`;
     fillSelect(els.year, "All years", years.map((year) => [year, year]));
-    populateMonths();
+    readQuery();
     bindControls();
     update();
   }
