@@ -16,7 +16,8 @@ Each month page lists that month’s daily challenges and any weekly challenges 
 | [June 2026](2026/2026-06.md) | 30 | 6 |
 | [July 2026](2026/2026-07.md) | 31 | 5 |
 | [August 2026](2026/2026-08.md) | 31 | 5 |
-| [September 2026](2026/2026-09.md) | 30 | 6 |
+| [September 2026](2026/2026-09.md) | 30 | 7 |
+| [October 2026](2026/2026-10.md) | 31 | 4 |
 
 ## 2025
 
